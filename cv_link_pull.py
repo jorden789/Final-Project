@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 
 from bs4 import BeautifulSoup
-#from urllib import urlopen, request
+import urllib.request
 import re
 import spacy
 import sys
 from bs4.element import Comment
 if sys.version_info[0] == 3:
- from urllib.request import urlopen, request
+ from urllib.request import urlopen
 else:
  from urllib import urlopen
 
@@ -15,7 +15,7 @@ else:
 nlp = spacy.load('en')
 
 # Set search link for LiveCareer Website (currently for Software Engineering CVs)
-html_page = urlopen("https://resumes.livecareer.com/search?jt=software%20engineering&p=1")
+html_page = urllib.request.urlopen("https://resumes.livecareer.com/search?jt=software%20engineering&p=1")
 soup = BeautifulSoup(html_page, "html5lib")
 
 # Find all list items in returned search results page
@@ -26,14 +26,14 @@ for page_text in pagination_soup:
     doc1 = nlp((page_text.text).strip())
     for token in doc1:
         if token.pos_ == "NUM":
-            num_results = str.replace(str(token.text), ',', '')
+            num_results = str.replace(token.text, ',', '')
             print("Total Number of Records: " + str(num_results))
 
 # For the page range 1 to 5, of the previously mentioned search, we specify specific pages in result set of search
 for i in range(5):
     url = "https://resumes.livecareer.com/search?jt=software%20engineering&pg=" + str(i + 1)
 # Open specified page and process with specified html5 parser
-    html_page = urlopen(url)
+    html_page = urllib.request.urlopen(url)
     soup = BeautifulSoup(html_page, "html5lib")
 
 # Set variable n = 0 which will be used as distinguishing metric for CV file name when stored as text 
@@ -73,12 +73,9 @@ for i in range(5):
                     with open(path, 'w') as f:
                         article = cv_info_line_item.get_text()
                         f.write(article.translate(''.join( [chr(i) for i in range(128)] + [' '] * 128 )))
-
         except:
             continue
 
-
-#        os.system('python /home/jallcock/environments/Final-Project/cv_process.py ' + path)
 # Create file ready for storing contents of CV URL page
 #        path = "/home/jallcock/environments/python_output/CV-" + str((i * 10) + n) + ".txt"	
 #        with open(path, 'w') as f:
