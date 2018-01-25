@@ -13,10 +13,7 @@ import plac
 import random
 from pathlib import Path
 import spacy
-
-
-
-
+import sys, os
 
 ####################################################################################################
 # Custom Training Data to highlight key phrases based on Resource Request
@@ -26,7 +23,12 @@ import spacy
 LABEL = 'SKILL'
 
 TRAIN_DATA = [
-    (" PL/SQL ", {'entities': [(1, 7, 'SKILL')]}), (" No records available", {'entities': []})
+   # (" PL/SQL ", {'entities': [(1, 7, 'SKILL')]}), (" No records available", {'entities': []}),
+    #("SQL ", {'entities': [(0, 3, 'SKILL')]}), 
+    (" No records available", {'entities': []}), 
+    ("Originally based upon relational algebra and tuple relational calculus, SQL consists of many types of statements", {'entities': [(72, 75, 'SKILL')]}), 
+    ("SQL is a domain-specific language used in programming", {'entities': [(0, 3, 'SKILL')]}), 
+    ("SQL", {'entities': [(0, 3, 'SKILL')]})
 ]
 
 
@@ -34,8 +36,11 @@ TRAIN_DATA = [
     model=("Model name. Defaults to blank 'en' model.", "option", "m", str),
     new_model_name=("New model name for model meta.", "option", "nm", str),
     output_dir=("Optional output directory", "option", "o", Path),
-    n_iter=("Number of training iterations", "option", "n", int))
-def main(model=None, new_model_name='animal', output_dir=None, n_iter=20):
+    n_iter=("Number of training iterations", "option", "n", int),
+    cv_input=("File Location of specific CV", "option", "cv", str))
+
+
+def main(model=None, new_model_name='animal', output_dir=None, n_iter=20, cv_input=''):
     """Set up the pipeline and entity recognizer, and train the new entity."""
     if model is not None:
         nlp = spacy.load(model)  # load existing spaCy model
@@ -66,21 +71,33 @@ def main(model=None, new_model_name='animal', output_dir=None, n_iter=20):
                 nlp.update([text], [annotations], sgd=optimizer, drop=0.35, losses=losses)
 #            print(losses)
 
+
+####################################################################################################
+# Pull of CV Text
+####################################################################################################
+
+        print('Specified CV: ' + cv_input)
+        #cv_to_process = open(os.path.join(cv_input), 'r')
+        cv_to_process=open(cv_input, 'r')
+        cv_text = cv_to_process.read()
+        cv_to_process.close()
+
 ####################################################################################################
 # Analysis of CV Information using specified filters for keywords
 ####################################################################################################
 
-        test_text = 'Do you like PL/SQL'
-        doc = nlp(test_text)
-        print("Entities in '%s'" % test_text)
+        #test_text = 'Do you like PL/SQL'
+        doc = nlp(cv_text.decode('utf-8'))
+        #print("Entities in '%s'" % test_text)
         for ent in doc.ents:
-            print(ent.label_, ent.text)
+            #print('Skill Keyword: ' + ent.label_, ent.text)
+            print('Skill Keyword: ' + ent.text)
 
 ####################################################################################################
 # Analysis of CV information selecting Nouns
 ####################################################################################################
 
-
+                
 
 ####################################################################################################
 # Output of CV's with highlighted key words
