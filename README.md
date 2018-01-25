@@ -13,7 +13,7 @@ Flow of Operation:
 	| 2. skill_db_extract.py		| Pulls information from DB in regards to the associated skills for the identified role 
 	| 3. cv_link_pull.py			| Pulls information from specified live career resume search url  
 	| 4. cv_process.py			| Formats the extracted CV information into a Human Readable format
-	| 5. nlp_keyword_extract.py		| Inspects CV's and selects those that match with specified keywords are those related to the key words.
+	| 5. cv_resource_process.py		| Inspects CV's and selects those that match with specified keywords.
 	|					| CV's are selected ready for further analysis
 	| 6. 
 
