@@ -34,6 +34,12 @@ print('Bus. Required Skills: ' + bus_skills_required.value)
 print('Additional Information: ' + additional_info.value)
 
 ######################################################################
+# NLP Processing of Resource Information
+######################################################################
+
+
+
+######################################################################
 # Rough Keyword Extract from CV
 ######################################################################
 
@@ -45,7 +51,7 @@ print('######################################################################')
 
 print(' ')
 
-with open('/home/jallcock/environments/python_output/CV-34.txt', 'r') as myfile:
+with open('/home/jallcock/environments/python_output/CV-10.txt', 'r') as myfile:
     #data=myfile.read().replace('\n', '')
     data=myfile.read()
     doc1 = nlp(data.decode('utf8'))
@@ -58,8 +64,17 @@ with open('/home/jallcock/environments/python_output/CV-34.txt', 'r') as myfile:
             print label, entities
 
 
+######################################################################
+# Keyword Matching of Tokens between Resource Request and CV Info
+######################################################################
+
+
+
 
 ######################################################################
-#  
+# Near Neighbour Comparisons of Tokens between Resource Request and 
+# CV Information
 ######################################################################
+
+
 
