@@ -5,7 +5,12 @@ Repository for Third Year Final Project
 
 Installation Instructions:
 
-
+1. CentOS 7 Install
+2. MySql Install
+3. Python Install
+4. Python Packages Install
+5. Git Install
+6. Code Pull from Git
 
 Flow of Operation:
 
