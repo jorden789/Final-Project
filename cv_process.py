@@ -29,7 +29,7 @@ def main(p_directory):
         cv_information = cv_to_process.read()
         cv_to_process.close()
 
-#        print 'File has been read successfully'
+        print('File ' + file + ' has been read successfully')
 
 ###################################################################################
 # Formatting operations to occur are:
@@ -38,9 +38,12 @@ def main(p_directory):
 ###################################################################################
 
         for x in range(0, 10):
+            cv_information = cv_information.decode('utf-8', 'ignore').encode('utf-8')
             cv_information = cv_information.replace('  ', ' ')
             cv_information = cv_information.replace(' \r', ' ')
             cv_information = cv_information.replace(' \n', ' ')
+            cv_information = cv_information.replace('\u2022', ' ')
+            cv_information = cv_information.replace('\uff0d', ' ')
 
 
 
