@@ -96,18 +96,34 @@ with open('/home/jallcock/environments/python_output/CV-10.txt', 'r') as myfile:
 # Keyword Matching of Tokens between Resource Request and CV Info
 ######################################################################
 
+            tech_skills_match = []
+            business_skills_match = []
+            additional_info_match = []
+
             for entity in entities:
                 entity_now = entity.decode('utf-8').replace('\n ', ' ').strip()
 		if tech_skills_required.find(entity_now) > 0:
-                    print 'Found [' + entity_now + ']'                
+                    #tech_skills_match[entity_now] =  tech_skills_match.get(entity_now, 0) + 1
+                    tech_skills_match.append(entity_now)
+                    #print 'Found [' + entity_now + ']'                
 
                 if bus_skills_required.find(entity_now) > 0:
-                    print 'Found [' + entity_now + ']'
+                   #business_skills_match[entity_now] = business_skills_match.get(entity_now, 0) + 1 
+                   business_skills_match.append(entity_now)
+                   #print 'Found [' + entity_now + ']'
 
                 if additional_info.find(entity_now) > 0:
-                    print 'Found [' + entity_now  + ']' 
+                    #additional_info_match[entity_now] = additional_info_match.get(entity_now, 0) + 1
+                    additional_info_match.append(entity_now)
+                    #print 'Found [' + entity_now  + ']' 
 
+######################################################################
+# Output of Matched Information
+######################################################################
 
+    print('Tech Skills: ' + str(tech_skills_match))
+    print('Business Skills: ' + str(business_skills_match))
+    print('Additional Information: ' + str(additional_info_match))
 
 ######################################################################
 # Near Neighbour Comparisons of Tokens between Resource Request and 
