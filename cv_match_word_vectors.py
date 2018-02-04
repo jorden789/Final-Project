@@ -92,6 +92,7 @@ cv_tokens = nlp(all_items_doc.text)
 
 for token1 in resource_request_tokens:
     for token2 in cv_tokens:
+	# Removes keywords not of focus, and removes non-similar and identical matches
         if ((token1.pos_ == 'NOUN' or token1.pos_ == 'PROPN') and token1.similarity(token2) > 0.4 and token1.similarity(token2) < 0.98):
             print(token1.text + '|' + token2.text + ' -> ' + str(token1.similarity(token2)))
 
