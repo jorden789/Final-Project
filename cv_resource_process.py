@@ -103,7 +103,7 @@ for file in os.listdir('/home/jallcock/environments/python_output'):
             #additional_info_match = []
 
             if label in ['ORG', 'PERSON', 'PRODUCT']:
-                #print label, entities
+               #print label, entities
 
 ######################################################################
 # Keyword Matching of Tokens between Resource Request and CV Info
