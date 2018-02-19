@@ -31,6 +31,10 @@ if sys.version_info[0] == 3:
 else:
  from urllib import urlopen
 
+###################################################################################
+# Re-used Functions
+###################################################################################
+
 def tag_visible(element):
     if element.parent.name in ['style', 'script', 'head', 'title', 'meta', '[document]']:
         return False
@@ -44,6 +48,9 @@ def text_from_html(body):
     visible_texts = filter(tag_visible, texts)
     return u" ".join(t.strip() for t in visible_texts)
 
+###################################################################################
+# Main Processing
+###################################################################################
 
 def main(p_cv_search_string):
 
