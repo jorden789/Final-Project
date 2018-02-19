@@ -32,15 +32,14 @@
 from __future__ import unicode_literals
 import spacy
 import random
+import xlrd
+import os
 
 nlp = spacy.load("en")
 similarity_bound = 0.7
 
 #nlp = spacy.load("en_core_web_lg")
-#similarity_bound = 0.5
 
-import xlrd
-import os
 
 ######################################################################
 # Re-used Functions
