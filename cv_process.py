@@ -38,7 +38,7 @@ def main(p_directory):
 ###################################################################################
 
         for x in range(0, 10):
-            cv_information = cv_information.decode('utf-8', 'ignore').encode('utf-8')
+            cv_information = cv_information.decode('utf-8', 'ignore').lower().encode('utf-8')
             cv_information = cv_information.replace('  ', ' ')
             cv_information = cv_information.replace(' \r', ' ')
             cv_information = cv_information.replace(' \n', ' ')
