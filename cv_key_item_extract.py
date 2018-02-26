@@ -1,19 +1,19 @@
 #! /usr/bin/env python
 
 ####################################################################################################
-# Name: CV Resource Ranking Routine
+# Name: CV Key Item Routine
 # Author: Jorden Allcock
 #
-# Description: Script will receive as input the suitability matrix of all CV's per job(s) and return
-#		the best candidate per job.
+# Description: File is not essential to core processing, however is designed to assist in formatt-
+# ing CV's into an easier to read format.
 #
 # Parameters:
 #
-#	p_cost_matrix - Cost Matrix of specified job(s)
+#	p_cv_locatoin - Location of file to be processed to be passed as an absolute value
 #
 # Output:
 #
-#		- Matrix location of best candidate per job(s) specified
+#		- Parsed Key Information consisting of
 ####################################################################################################
 
 ###################################################################################
@@ -21,38 +21,34 @@
 ###################################################################################
 
 import os, sys
-from munkres import Munkres, print_matrix, make_cost_matrix
+from munkres import Munkres, print_matrix
 
 ###################################################################################
 # Pull CV Information
 ###################################################################################
 
 
-def main(p_cost_matrix):
-    l_cost_matrix = []
+def main(p_directory):
 
-    for x, score in p_cost_matrix.iteritems():
-        l_cost_matrix.append(score)
-
-    #print(l_cost_matrix)
-    
-    cost_matrix = Munkres.make_cost_matrix([l_cost_matrix], lambda cost: 800 - cost)
+    matrix = [[5, 9, 1],[10, 3, 2],[8, 7, 4]]
+    cost_matrix = []
+    for row in matrix:
+        cost_row = []
+        for col in row:
+            cost_row += [sys.maxsize - col]
+        cost_matrix += [cost_row]
 
     m = Munkres()  
     indexes = m.compute(cost_matrix)
-    print_matrix(cost_matrix, msg='Highest profit through this matrix:')
+    print_matrix(matrix, msg='Highest profit through this matrix:')
     total = 0
-    position = []
     for row, column in indexes:
-        value = cost_matrix[row][column]
+        value = matrix[row][column]
         total += value
-        position.append(row)
-        position.append(column)
         print '(%d, %d) -> %d' % (row, column, value)
 
     print 'total profit=%d' % total
-    
-    return(position)
+
 
 if __name__ == "__main__":
      main(sys.argv[1])

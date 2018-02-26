@@ -37,6 +37,8 @@ import os				# To enable file browsing of local directory
 import collections			# To enable dictionary addition/updating
 import operator				# To enable sorting of dictionary elements
 
+import cv_resource_rank			# Custom script written to return the best candidate per job
+
 nlp = spacy.load("en")
 similarity_bound = 0.6
 
@@ -159,6 +161,18 @@ for file in os.listdir('/home/jallcock/environments/python_output'):
 print('\nCV Scores Matrix')
 sorted_scores_matrix = sorted(cv_scores_matrix.items(), key=operator.itemgetter(1), reverse=True)
 print(sorted_scores_matrix)
+
+###################################################################################
+# Build up the Ranked List of Candidates using Hungarian Algorithm
+###################################################################################
+
+cv_scores_matrix_pop = cv_scores_matrix
+
+for x in range (0, 5):
+    ranked_value = (cv_resource_rank.main(cv_scores_matrix_pop))[1]
+    value_to_remove = list(cv_scores_matrix_pop.keys())[ranked_value]
+    print value_to_remove
+    del cv_scores_matrix_pop[value_to_remove]
 
 ###################################################################################
 # Word2Vec Analysis
