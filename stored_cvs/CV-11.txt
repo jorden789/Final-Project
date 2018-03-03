@@ -1,0 +1,45 @@
+
+ senior software engineer
+ summary
+ senior software engineer with a strong scientific background and over 16 years of professional experience. skilled in test-driven development with a passion for producing high-quality clean code. highly adept at application design and development, testing and optimization. excels at java application development, including coordinating ground-up planning, programming and implementation for core modules.
+ experience
+ senior software engineer
+ december 2016 to current
+ somalogic inc － boulder, co
+ ported key infrastructure to amazon web services (aws) for deployment to chinamigrated components of existing monolith to containerized microservicesevaluated angular and react as a replacement for existing front-endpresented team tech talks on new technologies (docker, kibana, kubernetes)evaluated single sign on (sso) solutionactive participant in group learning (machine learning, evolutionary architectures)completed architecting on aws training course
+ senior software engineer
+ november 2005 to november 2016
+ las cumbres observatory － santa barbara, ca
+ designed and developed core control software for network of worldwide telescopes
+ prototyped satellite tracking algorithm software
+ championed a team scrum/agile methodology, including introducing unit testing and continuous integration team-wide
+ software lead on mission-critical instrument design
+ created a junit test infrastructure for full-system validation pre-shipping
+ refactoring legacy code systems to make them testable and easier to maintain
+ mentored junior software engineers and scientists in good coding practices
+ interfaced with operations team and customers to determine root cause problems and define new requirements
+ instrumental in creating metric-based dashboards for system-wide monitoring
+
+ senior software engineer
+ january 2004 to november 2005
+ diamond light source ltd － oxfordshire, uk
+ designed and developed control software for world-class facility capable of researching cutting-edge disciplinesworked closely with customer to define software and hardware requirementsevaluated motion control systems for use in laboratoriescontract management of outsourced turn-key components
+ software engineer
+ january 2002 to january 2004
+ telescope technologies ltd. － liverpool, uk
+ key member of a small team which developed highly robust code for the world's first fully robotic telescopedeveloped autoguider software and algorithms used for closed-loop telescope trackingdeveloped mirror support software for maintaining consistent optical collimationembedded software development, configuration and programmingresponsible for integrating hardware and software systems before handover to customer   
+
+ education
+ ph.d.
+ : astrophysics
+ the universitory of manchester
+ － manchester, uk
+ thesis title: observations and mass models of class
+gravitational lenses
+ master of science
+ : physics with astrophysics
+ the university of birmingham
+ － birmingham, uk
+ skills
+ languages: java, python, c. novice at go, groovymethodologies: agile, pair programming, continuous integration, test-driven developmentquality: junit, mockito, dbunit, checkstyle, pmd, findbugs, clover, cobertura, sonartools: intellij, eclipse, git, svn, jvisualvm, maven, docker, wireshark, kibana, graphiteframeworks: guice, spring, google guava, gwt, dropwizard, django, celery, numpy, scipy, rabbitmqinfrastructure: aws, kubernetes, spring cloud, netflix oss
+ 

@@ -1,0 +1,41 @@
+
+ technical support engineer
+ summary
+ results-oriented technical professional with proven success applying analytical methods to deliver outstanding work results. knowledge of software development life cycle (sdlc) from analysis and design through development, implementation, testing, documentation and user training. exceptional communication skills employed to collaborate effectively with peer engineers and customers. comfortable working both independently and in team environments.
+code development | software development life cycle | libraries and frameworks
+integrated development environments | version control (mercurial, git) | debugging
+ experience
+ technical support engineer, 01/2015 － 01/2017
+ alcatel-lucent usa inc － naperville, il
+ site assessment and design proposal for wireless installation at virtual site: as part of team effort, chose group of 5 students; recommended hardware and software to meet company's needs; helped to identify access points placement; provided drawing of bridging between facility and isp; provided graphical presentation; presented group proposal to class.802.11ac standard: described wpa2 advantages and concerns.php project: developed html web pages that allowed user to add / update / display data from mysql database.network security assessment: as part of team effort, chose group of 6 students; read specification of company's resources; researched solutions to company's concerns; recommended hardware and software to meet company's needs; provided graphical presentation of proposed changes; presented group proposal to class.java editor: developed java-based simple file editor.python project: improved web program for product ordering.open-source project: provided workaround for apache jmeter bug #54784, created / contributed gui uml diagram.facility management system design project: created uml diagram, database schema and postgres database tables from scratch; wrote java classes; built project utilizing eclipse ide; elaborated java project to use spring and hibernate frameworks.
+ student intern, 01/2013 － 01/2014
+ cme group inc － chicago, il
+ supported software development team.installed, configured, tested and deployed apache derby database on remote linux server.modified, tested and deployed groovy scripts to take directory arguments and load data (.csv) into apache derby database.educated and shared valuable, time-saving information with other developers by updating and validating developer training manual.updated confluence pages, helping internal users to see, track and reference changes associated with each software release.utilized sikuli ide to test gui functionality, identifying and reporting defects in drop-down menu, which led to subsequent resolution.leveraged simplejmx package to collect data from remote linux server, resulting in development of elaborated java class based on simplejmx package.monitored local and remote processes through jconsole gui, ensuring applications were running smoothly and minimizing downtime.followed team activity and created, tracked and supported issues through jira issues tracker tool.improved code quality by utilizing crucible review tool to create post-commit code reviews.
+ student intern, 01/2013
+ loyola university chicago uiso － chicago, il
+ performed system administration and development in university information security office.supported uiso lab servers, security applications and processes.conducted mobile device policy research and created mobile security presentation.completed security operation center (soc) physical setup.supported email migration survey project and information security awareness program.ensured proper adherence to dmca university policies by utilizing netflow, bradford networks to investigate dmca notifications.kept track of key metrics by updating incidents report tracking document.created weekly heat metrics and status reports (incidence response tracking, dmca, vpn), providing data to team manager prior to weekly team meetings.monitored tippingpoint security management system (sms), maintaining awareness of number and type of incidents reported.addressed user-related issues by creating helpdesk tickets (heat) as needed.performed security research (including vpn solutions), delivering report to management for decision-making purposes.completed research of video platform for businesses and universities for decision-making purposes, resulting in selection and implementation of platform that is still being utilized by university today.
+ teaching assistant, 01/2013
+ loyola university chicago － chicago, il
+ graded course assignments and provided tutoring help.substituted for professor and delivered lectures when needed.served as free coaching resource for students, leading to further understanding of subject matter and increasing readiness for exams.
+ education and training
+ may 2018 illinois institute of technology (iit
+ advanced certificate in cyber security technology
+ loyola university chicago
+ master of science
+ software engineering
+ software engineering 3.564
+ ukrainian state agroecology academy － ukraine
+ master of science (ms)
+ ecology and environmental protection
+ ecology and environmental protection 3.2
+ may 2018 illinois institute of technology (iit － wheaton, il, usa
+ cyber security technologies
+ relevant coursework and projects: monitoring, modeling and forecasting, scientific research methodology, information science and systematization
+*additional areas of study: theory of economics, ecological certification of areas and enterprises, environmental engineering, environmental economics, municipal economics
+ skills
+ ant, apache, cisco, coaching, com, hardware, addressing customer issues, database, database programming, decision-making, eclipse, economics, editor, email, engineer, environmental engineering, xml, facility management, forecasting, ftp, drawing, gui, html, html editor, php, ide, information security, isp, java, linux, mac, meetings, access, c#, office, win, 95/98, windows nt, migration, modeling, mysql, network management, nfs, network security, network, networking, networks, object-oriented design, object-oriented programming, operating systems, oracle, developer, policies, postgres, postgresql, processes, product improvement, product management, proposal, python, quality, read, reporting, research, scientific, ssh, servers, scripts, sms, software development, specification, sql, system administration, system design, tables, tcp/ip, technical support, technical documentation, toad, tomcat, troubleshooting, tutoring, type, uml, upgrade, video, vpn, vista, microsoft visual studio, web pages, articles
+ skills
+ c#, python, java, php, sql
+software:	integrated development environments (ide): eclipse, android studio, xamarin studio, intellijidea, jcreator, bluej, microsoft visual studio, monodevelop, codeblocks (10.05); html editor: kompozer; xml; squirrelsql, spring sts; sikuli; hibernate; wamp; mysql, oracle, postgresql, apache derby, toad; tomcat; rapidminer; tortoisehg, tortoisegit; snort; wireshark; siem, bradford networks, netflow, opennms, nmap/zenmap; atlassian jira, fisheye, confluence, crucible; astah; bmc remedy action request system; vmware player; github; bitbucket; maven, ant, groovy; uml;tcp/ip, ssh, ftp/sftp, tcpdump; nfs; cloudband; webex, cisco jabber
+operating systems:	windows nt/95/98/vista/7/10 (win 32 and 64), linux, mac
+ 

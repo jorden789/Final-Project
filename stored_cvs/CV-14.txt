@@ -1,0 +1,35 @@
+
+ engineering manager, quality assurance
+ summary
+ results-oriented qa engineering manager experienced with all stages of the development cycle and focused on quality testing of various internet-based applications.
+ java, selenium, agile, jira, zephyr, quality center, strong decision, maker, excellent communicator, microsoft excel, eclipse & intellij ide, moba xterm, microsoft teams, confluence wiki, oracle, complex problem solver, excellent multitasking 
+ experience
+ engineering manager, quality assurance
+ aug 2016 to current
+ american well － boston, ma
+ oversee 10 direct reports across 6 teams to ensure project test plans are executed properly, happy path automation is complete and product releases happen by or before deadlines. implemented and enforce qa engineer process for entire department when moving from waterfall methodologies to agile methodologies.implemented and enforce qa training guide for entire department new hires.monitor and report on automation progress each sprint.schedule and oversee sprint capacity and test case reviews each sprint.
+ quality assurance engineer
+ dec 2010 to aug 2016
+ american well － boston, ma
+ design test cycles and test cases, based off wireframes and visual design elements and work with visd, product management and developers to ensure the software is working as designedmanually test the software in ui, ios applications, android applications, database, as well as test integration of other software into our product.automate happy path test scripts in java using selenium
+ biopsychology research assistant
+ jan 2009 to dec 2009
+ harvard medical school and va boston healthcare system － brockton, ma
+ analyzed eegs, emgs, and eogs. implanted cannulas for administration of solutions, and performed perfusions. conducted psychomotor vigilance tasks and activity wheel tasks. performed brain slicing, staining and slide preparation.
+ education and training
+ bachelor of science, neuroscience
+ may 2010
+ stonehill college － easton, ma
+ neuroscience, biology, chemistry and physics courses
+ 2015
+ treehouse online training courses
+ java programming courses 2017
+ tulip management － boston, ma, 02109
+ performance management development programfeedback & accountability development program​
+ publications
+ christie, micheal,
+robert mccarley, and robert strecker. "twenty-four hours, or five days, of
+continuous sleep deprivation or experimental sleep fragmentation do not alter
+thirst or motivation for water reward in rats." behavioral brain research.
+print.
+ 

@@ -1,0 +1,34 @@
+
+ software engineer
+ summary
+ motivated software engineer seeking employment as part of a dynamic software development team. focused and detail-oriented offering exceptional troubleshooting skills and a talent for developing innovative solutions to unusual and difficult problems. experienced in object-oriented programming, developing, testing and debugging code. quickly able to learn and master new technologies with proven success working in both a team and self-directed setting. 
+ highlights
+ proficient in javaquick learneragile development methodologiesinterface design and implementation
+ analyticalself-starterteam playercustomer-oriented
+ relevant professional experience
+ software engineer
+ jul 2015 to current
+ general dynamics mission systems － taunton, ma
+ updated, modified and expanded existing software programs. resolved customer issues by establishing workarounds and solutions and by debugging and creating defect fixes.drove continual improvement to system architecture by refactoring old legacy code.implemented and tested enhancement feature requests to enhance product functionality.analyzed requirements and used systematic approaches to implement and document the tasks.
+ software developer
+ jan 2015 to jul 2015
+ cyber care llc － providence, ri
+ worked independently and in a team environment to write java and html code. implemented a play framework web application that utilized oauth to allow users to sign in via google and qbo credentials. once logged in a user may retrieve and add customer, employee and vendor data as well as an upload a file feature.utilized bitbucket for our team's git code management system.experience with commit, pull, push, merge commands.collaborated with product and engineering team members to define and develop new product concepts.
+ software assurance
+ jun 2002 to jan 2004
+ putnam investments － franklin, ma
+ analyzed scenarios and conducted functionality and stability testing on an internet based financial investment program.communicated professionally, precisely and effectively with software developers to resolve discovered issues.utilized excel to log test case specifics and results to maintain accurate records.
+ additional experience
+ displayed proven self-motivation and personal development: promoted from assistant manager to store manager. responsible for individual and staff performance: leadership, training and coaching skills used successfully. delegate and prioritize workloads with appropriate deadlines to manage accountability.critical thinking skills used to analyze, strategically plan, and conduct inventory management counts quarterly.worked effectively in a team environment to achieve and exceed goals set forth to our store.researched new and innovative ways to increase foot traffic and sales in a lower volume location.upheld excellent customer service by utilizing listening, verbal communication, decision making and problem solving skills.managed a $5 million guess factory store with 45-50 staff: ranked #7 in company.
+ education
+ bachelor of science, computer science
+ 2014
+ bridgewater state university － bridgewater, ma, usa
+ worked full-time while attending school full-timecoursework: java i, java ii, object-oriented software engineering, linux/unix administration, artificial intelligence, data structures & algorithms, analysis of algorithms, computer networks, database concepts, simulation programming, operating systems, computer graphics, mobile devices
+ associate of science, business technology
+ 2004
+ dean college － franklin, ma, usa
+ peer tutor in the computers and mathematics fields of studycoursework: c++, visual basic, web content development
+ skills
+ java, c++, sql, html, eclipse, clearcase, wireshark, ms office suite, frontpage, oracle, linux, cmd, debugging, critical thinking, leadership, decision making, coaching, problem solving, troubleshooting, simulation, hardware, networking, management, agile development, sales, customer service, verbal/written communication
+ 

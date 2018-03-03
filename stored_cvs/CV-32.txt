@@ -1,0 +1,36 @@
+
+ manufacturing engineer
+ summary
+ team-oriented computer engineer with over four years on aerospace production environment with an extensive background in software design and development.
+ highlights
+ my sql, sql server databases administration.c, c++, c# and php languages. aerospace production.knowledge in itc mk denial, xclass and gts systems and processes.
+ manufacturing products support.good oral and written fluency in english and spanish. knowledge in sap and solumina manufacturing softwaresknowledge in configuring manufacturing products.
+ accomplishments
+ itc gts system softwarethis application is used for itc (international trade compliance) team to
+capture any discrepancy that delayed or blocked the embark process with gts.issue tracking system software (its)this application is used for all members of the manufacturing process in which they can submit any concern related to manufacturing process that prevent proper flow of the process or delays. manufacturing product improvementproduct defects reduction through recommendations of machine adjustments and tooling design.
+ experience
+ manufacturing engineer
+ nov 2012 to current
+ utc aerospace systems － santa isabel, pr
+ provide support to manufacturing products such as stators for commercials and military customers.analyze and troubleshoot manufacturing products that need improvement in order to ensure product quality.configure and program existing manufacturing equipment for new and existing products.develop and optimize applications for manufacturing and administration purposes.
+ technology professor
+ aug 2012 to may 2013
+ school of sciences, math, technology and languages － carolina, pr
+ professor for the courses: computers fundamentals, computer programming and introduction of robotics.coach of the robotics team that participate in puerto rico institute of robotics (prior) vexrobotics competition advanced category.
+ computer and network technician
+ jun 2011 to nov 2012
+ netstep technologies － bayamon, pr
+ computer and network maintenance, troubleshooting and repair for different government agencies.
+ education
+ master, engineering management
+ 2017
+ polytechnic university of puerto rico － san juan, pr
+ bachelor of science, computer engineer
+ 2012
+ polytechnic university of puerto rico － san juan, pr
+ computer and network technician
+ 2008
+ instituto de banca y comercio － caguas, pr
+ skills
+ proficient c, c++, c# and ms visual studio.web based languages: html, php, javascript, jquery, asp.net and css.knowledge in windows and linux os, ms word, excel and powerpoint.knowledge in oracle sql, mysql, ms sql server.computer repair and troubleshooting.    ability to work on teams and with minimal or no supervision.knowledge on manufacturing production supervision.
+ 

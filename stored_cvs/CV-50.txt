@@ -1,0 +1,42 @@
+
+ teaching assistant
+ summary
+ i'm a computer science student with a focus on machine learning and computer vision. i am leaving the phd program and actively seeking promising software engineering opportunities in the industry. starting date dec 2016.
+ skill highlights
+ machine learning and computer visionfamiliar with sql/nosql, spark etc.occasional kaggler using scikit-learn, caffe etc.
+ proficient in c++, python and matlabwindows, linux, cmake, git, jira etc.occasional contributions to pcl, pystruct etc.
+ experience
+ teaching assistant
+ 08/2014 to 12/2016
+ university of southern california
+ los angeles, ca
+ involved in the design of a popular advanced course in machine learning (ee660).​led discussion sessions with deep insights and extensive materials, received great feedback.
+ software engineer
+ 08/2014 to 12/2015
+ department of pediatrics, usc keck school of medicine
+ los angeles, ca
+ designed and managed vets4d, a full-fledged echocardiogram training systems for medical training.achieved real time sensor tracking and 3d dicom volume slicing using vtk in c++.implemented an interactive system to measure medical statistics from echo videos in c#.the system has been released to keck school for teaching purposes.
+ r&d 3d software engineer intern
+ 05/2014 to 08/2014
+ align technology
+ san jose, ca
+ designed and implemented a 3d mesh cutting and stitching algorithm in c++ that lowered cutting failure rate of invisalign clear braces from 5% to virtually zero.developed a design tool as a solidworks plugin that allows automatic placement and merging of components, which reduced time cost of a 3d model design routine from hours to under a minute.
+ research assistant
+ 08/2012 to 12/2016
+ university of southern california
+ los angeles, ca
+ conducted original machine learning based research in computer vision.publication(s) using probabilistic graphical model to detect shadows on rgb-d images.
+ selected coursework
+ database systems | machine learning |  pattern recognition | estimation theory | digital image processing | analysis of algorithms | convex optimization | computer graphics | multimedia data compression
+ education
+ m.s.: computer science (2016) / electrical engineering (2012)
+ 2016
+ university of southern california
+ los angeles, ca
+ b.s.: electrical engineering
+ 2010
+ dalian university of technology
+ dalian, china
+ publications
+ shuyang sheng and b. keith jenkins, "shadow detection on 3d point cloud", electronic imaging 2016.shuyang sheng and b. keith jenkins, "cast shadow detection using illumination-direction inference in 3d" (in preparation).
+ 

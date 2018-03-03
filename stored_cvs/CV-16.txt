@@ -1,0 +1,46 @@
+
+ technical engineer
+ summary
+ produced technical benchmarks vs veritas competitors to enhance product positioning.
+*built competitive intelligence documents that were presented at company sales conferences.
+*presented competitive intelligence data at monthly sales calls and tech talks.
+*collaborated with vendors to produce marketing white papers utilizing benchmark results.
+*established the competitive intelligence testing lab at veritas that allowed the competitive intelligence team to perform benchmarks faster and more cost effective.
+ skills
+ solaris, linux, windows os, amazon aws, and microsoft azurelanguages:perl, and power shell scriptingapplications:veritas netbackup, veeam software, commvault, emc avamar, oracle, vmware esx servers, microsoft hyper-v servers, and zerto
+ experience
+ 01/2016
+ to current
+ technical engineer
+ veritas technologies llc － roseville, minnesota
+ working in the strategy and planning group at veritas.primarily responsible for testing competitive products for veritas in the areas of cloud, software-defined storage and disaster recovery.work closely with product and sales team performing technical product benchmarks which support product differentiation.deliver technical results to executive staff which are utilized to identify market opportunities.collaborate with vendors to produce white papers that are published for marketing and sales use.support sales engineers with sales opportunities against veritas competitors.
+ 01/2010
+ to 01/2016
+ principal performance engineer
+ veritas technologies llc － roseville, minnesota
+ work in an agile development environment, collaborating with the team to deliver quality software iteratively.configure and monitor complex performance test environments that simulate enterprise level customer environments running backup, duplication, and database applications.correlate and interpret performance statistics.design and implement automated tools & scripts to assist with testing, monitoring, and reporting performance/scalability results.author detailed reports from testing results that are consumed by many different groups within veritas.collaborate within and across groups in scoping performance requirements and developing performance measurement plans.
+ 01/2000
+ to 01/2010
+ principal backline support engineer
+ veritas/symantec software － roseville, minnesota
+ work with symantec customers assuring business continuity by providing disaster recovery solutions.resolve very complex or previously unknown problems requiring high level technical expertise.stay current on industry developments and market trends incorporating those technologies into customer solutions.
+ 01/1996
+ to 01/2000
+ technical consultant
+ uptime computer services － minneapolis, minnesota
+ able to take extremely complex problems to manageable solutions.worked with customers scheduling and implementing solutions.provided pre-sales assistance for sales group with technical customer solutions.
+ education and training
+ 1993
+ bachelor of science: accounting computer science
+ bemidji state university
+ － bemidji, minnesota
+ accounting computer science
+ 2016
+ oracle 12c performance management and tuning
+ 2017
+ oracle 12c rman
+ 2017
+ hp 3par administration course
+ skills
+ agile, backup, c, competitive, database applications, disaster recovery, hp, linux, market trends, market, marketing and sales, windows os, enterprise, oracle, performance management, perl, quality, reporting, sales, scheduling, servers, scripts, shell scripting, solaris, statistics, strategy and planning, symantec, white papers, veritas, veritas netbackup, author
+ 

@@ -1,0 +1,68 @@
+
+ senior software engineer
+ summary
+ senior software engineer with 13 years experience in a wide range of technologies and project types. expert in java-based development and web service design and development. 
+ highlights
+ enterprise and web developmentfull-stack developer
+ ​fluent in oo/javaapi development
+ experience
+ booz allen hamilton (sparc agile hub)
+ november 2014 to current
+ senior software engineer
+ charleston, sc
+ helped design and implement multiple soap and rest-based web services and apishelped design and implement multiple spring-based web applicationsimplemented oauth2 token-based authorization for client web applications and rest servicesimplemented and maintained integrated hsm (hardware security module) solution for ultra-secure data transmission and storage for web services and applicationswork with customer to define requirements of the web services and applications that are requestedmentor software developers and qa engineers
+ sparc
+ march 2012 to november 2014
+ team technical lead/senior software engineer
+ charleston, sc
+ led agile development team in the full development lifecycle for document-based (soap) web service design, development, and maintenancedefined, documented, and supported apis and api documentation for external service consumers
+		
+	
+	
+		
+			
+				
+					utilized jpa
+(hibernate), spring (mvc, core, integration, and batch), jquery, jax-ws ri, apache cxf, and
+other frameworks for production code and jmockit, junit, and soapui for developing tests designed, implemented, and managed xacml-based policies within java enterprise applications​mentored fellow team members
+ icf international
+ december 2003 to march 2012
+ software engineer
+ charleston, sc
+ 		
+	
+	
+		
+			
+				
+					
+						designed and developed custom java-based content management system with magnolia cms
+and ckeditor to manage item descriptions and media
+
+					
+				
+			
+		 designed and implemented aws-based system which automated the transcoding of the uploaded videos to a format
+compatible with flash-based video streaming within an external web site. maintained iphone application code for an international annual arts festival, providing fixes and enhancementshelped design, develop and maintain several java enterprise applications for a major us dod procurement website
+ skills
+ languages:   java (1.4-1.8), c, javascript, objective-c, visual basicoperating systems: mac os x, windows, linux​java standards:   ejb, jsp/jstl, jpa, jax-ws, jax-rs, java content repository apijava frameworks:   spring (core, boot, mvc, integration, batch, security), thymeleaf, hibernate, jax-ws ri, apache cxf, apache jackrabbit, liquibasetesting frameworks: ​junit, jmockit, selenium, spring testbuild/dependency management: 
+		
+	
+	
+		
+			
+				
+					
+						maven, ant, ivyui: html, css, javascript/ajax, jqueryapplication servers:   oracle weblogic server, apache tomcatdatabases:   oracle database (10g-12c), microsoft sql serverweb services:   rest, oauth 2.0, soap, wsdl, mtom, xacml, ws-security third-party services:   amazon (s3, ec2, hsm, sqs)miscellanous: docker, asc (ansi) x12 standards
+ education
+ college of charleston
+ 2003
+ bachelor of science: computer science
+ charleston, sc, usa
+ co-authored published computer science paper on applying the zipf-mandelbrot law to music
+ college of charleston
+ 1995
+ bachelor of arts: music composition/theory
+ charleston, sc, usa
+ won 1995 lowcountry music award for an orchestral composition
+ 

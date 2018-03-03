@@ -1,0 +1,37 @@
+
+ senior engineer
+ heading
+ seasoned full stack developer with 10+ years of experience developing enterprise web apps. well-versed in the design and development of mission critical enterprise apps using java and oracle technologies. sun certified java developer and oracle certified professional.
+ skills
+ languages:java/j2ee/python/groovyj2ee technologies:struts/spring/grails/mvc/jsf/ajax/hibernate/jpa/jmsweb servies/soa/xml/rest​esb:mule,oracle service busdb:oracle,sql server,mongodb/no sql,apache solrsoftware process:agile/scrum,tdd,ci,maven,jiraui :knockout js,ajax,jquery,bootstraptools:eclipsesdk,python idle,weblogic,websphere,subversion,git,tomcat
+ education
+ master of science: computer science
+ 2000
+ mumbai university , india
+ full stack web developer nanodegree
+ 2017
+ udacity
+ projects
+ neighborhood map :developed a single-page web application, built using the knockout & bootstrap framework, that displays a google map of an area and various restaurants nearby.integrated lookup of additional restaurant information via foursquare. linux server configuration :installed and configured all required software to turn a baseline ubuntu amazon web services server into a fully functional web application server, including apache web server and postgresql database server.added security using ssh.
+ experience
+ senior engineer
+ 10/2013 to 04/2015
+ multiplan inc
+ naperville, il
+ involved in the design/development of etl module to extract and load claims and provider data from the database into apache solr.provided much faster claim and provider searches from web portals.
+ engineer - payment solutions division
+ 03/2011 to 09/2012
+ intuit
+ los angeles, california
+ worked with product management teams to deliver critical payment processing attach initiative for various intuit products like quick books online, quick books desktop, go mobile payment etc.directly involved in product release cycles for intuit and delivered under strict timelines.
+ consultant-business tech integration
+ 04/2007 to 05/2010
+ bank of america
+ los angeles, california
+ participated in the development of servicer accounting web application module for the mortgage servicing business division.involved in servicer accounting system migration from countrywide systems to bank of america.
+ knowledge engineer
+ 03/2004 to 04/2007
+ mindbox
+ los angeles, california
+ developed a web enabled loan origination system(los) using java/j2ee framework for one of the clients.improved pre-approval time within sla for the business client.
+ 

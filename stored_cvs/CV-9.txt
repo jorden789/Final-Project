@@ -1,0 +1,34 @@
+
+ system engineer
+ summary
+ to obtain a challenging (it) position with a dynamic organization where i could fully utilize my potential; develop strong interpersonal skills, demonstrate successful teamwork abilities, and become a more proficient engineer.
+ skills
+ lan \ wan microsoft server microsoft active directory microsoft exchange microsoft sql servermicrosoft trend corporate edition windows 7 8 10 ms dos cisco vpn dame ware citrix linux osadaptec raid controllers vmware player vmware workstation acronis true image watchguard fireboxtcp/ip citrix ica netbios smtp http wireshark server software installationbuilding raid 1 array and raid 5 array hdd sas and satainstall windows server \ install mssql server full or expressinstall audiolog recording softwareconfigure recording software according to customer's equipment (avaya, cisco, nortel, mitel, inter-tel etc.) (voip, analog, digital, radio, etc.)computer/server hardware testerintersol groveport, ohio 2008-2009completed testing on refurbished motherboards; configured and reimaged dell hard driveshardware:dell computer motherboard repair/testingdell server board repair/testingdell hard drive testingsoftware:microsoft windows 2000/xp (configuration)norton ghost (re-imaging hard drives)microsoft outlook (configuration)microsoft office (installation) installed\manage microsoft exchangeactive directory managementadministrate/ manage watch guard fireboxadministrate / manage micro trend corporate editionany wireless router installation or troubleshootingnetworking protocols
+ experience
+ 01/2009
+ to current
+ system engineer
+ sound communications, inc － grove city, ohio
+ build and prepare new audiolog custom server/systems for client installation; provide troubleshooting and technical support to clients with existing systems via phone support, dial-in/remote access (audiolog is an advanced, digital multimedia recording, retrieval, and quality assurance solution system)
+server hardware installation/replacement.motherboards - super micro, tyan.raid cards - promise 2200, 2300, adaptec 3405, 3805, 4805, 5405, 5445.power supply ai logix ngx smart cards blu-ray\dvd ram drives/cable nic cards/ video cards.server and rack set up.
+ 01/2006
+ to 01/2007
+ field engineer
+ columbus public schools insight enterprises － columbus, ohio
+ troubleshoot and on site replacement of any server, printer, and computer hardware within 109 columbus city schools
+hardware installation: computers/laptop/notebook.hard drive nic.power supply motherboard.processor memory replacement.video cards lcd replacement.fan heat sink.bluetooth module.modem board, infrared board, etc.hardware installation: printers.jet direct cards printer maintance kits.fuser carousel drive assembly.pickup roller feed roller.transfer roller transfer belt.paper stopper cleaning sensors.engine boards, etc.
+ 01/2003
+ to 01/2006
+ lan administrator
+ columbus neighborhood health centers, inc － columbus, ohio
+ hands on experience in setup, maintenance, and administrating wans and lans area networks; responsible for eight different facilities; 5 health centers, 2 administrative offices and dental department.supported, monitored, tested, and troubleshoot hardware and software problems pertaining to the lan cabling, t1 setup, router set up, hub and switch installation and hardware.server maintenance (hp proliant 350 ml).installed and maintained 3 citrix servers.
+ education and training
+ 2002
+ b.a: business administration information technology
+ devry university
+ － columbus, ohio
+ business administration information technology
+ pursuing ccna (cisco certified network administrator)
+ skills
+ active directory, administrative, ai, avaya, cable, cabling, ccna, cisco, cisco certified, citrix, hardware, computer hardware, hardware installation, client, clients, dell, lcd, dvd, hard drives, hard drive, phone support, hp, http, hub, image, imaging, lans, lan, linux os, memory, access, microsoft exchange, microsoft office, microsoft outlook, windows 7, microsoft windows 2000, modem, motherboards, motherboard, ms dos, multimedia, netbios, network administrator, networking, networks, nic, nic cards, nortel, norton ghost, power supply, printer, printers, proliant, protocols, quality assurance, express, radio, raid, raid 1, raid 5, ram, recording, router, sas, servers, smart cards, smtp, software installation, testing software, mssql, microsoft sql server, switch, t1, tcp/ip, technical support, trend, troubleshoot, troubleshooting, video cards, vpn, voip, wan, wans, windows server
+ 

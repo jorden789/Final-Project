@@ -1,0 +1,34 @@
+
+ senior software engineer / lead design engineer
+ summary
+ software professional with 30+ year proven record of achievement and advancement in various industries including power system controls, gis, and networking subsystems. able to move effortlessly through and adapt readily to ever changing technologies. expertise encompasses software development, database design, object-oriented analysis and design, user training and support, and system troubleshooting.
+ skills
+ c#, c, c++, fortrannet core and frameworkasp.net coredata distribution service (dds)zeromq (zmq)xml, xsltwix installer toolsetswagger, openapi, jsonsql servervisual studio 2010 - 2017bash, powershellwindows, linuxteamcity, continuous integrationsubversion (svn)ndepend
+ experience
+ senior software engineer / lead design engineer
+ august 2011 to november 2017
+ spirae llc － fort collins, co
+ senior member of small development team delivering advanced distributed power system control software for distributed energy resource management systems (derms) and microgrids, with high penetrations of renewable energy and storage:.architected adapter infrastructure that enabled full upper level decoupling and easy replacement of key system infrastructure components, including communication and database middleware, and energy asset controllers.initial communications layer implemented using zeromq.    migration to rti connext dds required zero application level changes proving successful decoupling.designed and implemented distributed request/response subsystem with automatic registration of command handlers with type-checked parameter and response data marshalling.created methodology and data-driven processes for reducing time and expense by up to 90% for taking a power system model to operation against simulated and real power assets, with model to simulation time in as little as 30 minutes.build and source control manager for continuous integration of multiple simultaneous product release lines.mentor for 5 new software engineers and interns.
+ software engineer
+ january 2004 to april 2011
+ cartopac international － fort collins, co
+ joined small spatial data technologies startup that grew to become cartopac international, an industry leader in gis field data collection and field asset management:.solely designed and developed first of its kind fully relational spatial sql database for the windows mobile platform.designed and implemented dynamic cartographic projection and geodetic datum conversion architecture utilizing proj4, nadcon, and htdp.
+ training consultant
+ september 2001 to december 2003
+ ridgeview enterprises inc － windsor, co
+ owned and operated product training consulting firm with clients throughout the us:.development and delivery of world-wide training for fortune 500 computer products.scripting and production of training videos for computer hardware support.
+ software engineer / engineer scientist / project manager / it manager
+ january 1987 to august 2001
+ hewlett-packard company － cupertino fort collins mountain view, co ca
+ education and training
+ m.s
+ : computer science, 1987
+ kansas state university
+ computer science
+ b.s
+ : computer science, 1985
+ kansas state university
+ computer science
+ skills
+ .net, asp.net, asset management, bash, c, c++, computer hardware, consulting, conversion, clients, data collection, dds, database, delivery, xml, fortran, gis, json, linux, mentor, c#, windows, middleware, migration, processes, scripting, simulation, sql, sql server, type, visual studio, xslt
+ 

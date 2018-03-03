@@ -1,0 +1,33 @@
+
+ senior applications developer
+ summary
+ senior application developer with 7+ years in analysis, design, development, testing and implementation of various internet-based applications.
+ languages
+ c#.net, javascript, html5, css3
+ technologies
+ asp.net, mvc, wcf, webapi, linq, jquery, ajax, ms sql 2008/2012, entity framework
+ concepts
+ service oriented architecture, restful apis, single page applications, object oriented javascript
+ experience
+ senior applications developer
+ oct 2015 to current
+ d2 creative － somerset, nj
+ develop new features and perform maintenance on an existing web application targeted for pharmaceutical sales representatives. routinely mentor junior developers.create data visualization and dashboard reports as well as the restful apis that supply the data. collaborated with designers to create clean interfaces and simple, intuitive interactions and experiences.develop new public facing content driven websites using the umbraco content management system. 
+ web developer
+ may 2015 to oct 2015
+ brother international corporation － bridgewater, nj
+ handle maintenance ticket requests for bugs/changes from twelve divisions of the business to over ten different websites.work on medium sized projects (40-160 hours).design and develop microsites for different areas of the business.convert static pages into responsive design.train and document responsive design best practices to other developers.
+ applications developer
+ nov 2013 to apr 2015
+ o'sullivan communications － west caldwell, nj
+ develop new features for existing web applications using c#, javascript, jquery, html collaborate with other developers in design sessions to problem solve converted existing wcf services to webapibuilt, modified and added webservices in both wcf and webapitrain internal and external users on use of new applications support and troubleshoot user problems with applications responsibility in every part of the sdlc process for new applications and projects.developed new features for, and maintained a custom built content management system for airline menu data.converted webforms to a single page application.developed a weighted search system for the content management system using t-sql stored procedures and a wcf web service.helped design and develop a new resource management system for internal/external translators.this is utilized to increase efficiency in streamlining the customer cost estimates as well as managing external translators.
+ senior applications developer
+ jun 2009 to nov 2013
+ new york life insurance co － clinton, nj
+ subject matter expert in new york life's testing process, including unit testing, integration testing, baseline testing, model office testing, customer acceptance testing.collaborating and communicating directly with business partners and other programmers throughout the organization.personally managing the implementation process of moving code from release testing to the production environment.mentoring and assisting junior programmers in coding and testingdesigned and implemented web automated correspondence system for customer acceptance testing. this project eliminated human errors on our correspondence emails.designed and implemented a web based issue tracking system for the qa testing team.designed and implemented a web based task management system for the qa testing team.developed a web interface for creating test cases and scrubbing input data for customer acceptance testing. previously this process used ms access. implemented a new model office testing environment from scratch. 
+ education
+ computer science- information systems
+ 2009
+ college of staten island-cuny － staten island, new york
+ dean's list 2008- 2009
+ 

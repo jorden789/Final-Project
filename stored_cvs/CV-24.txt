@@ -1,0 +1,26 @@
+
+ front end software engineer
+ summary
+ dedicated frontend software engineer experienced with all facets of the software development lifecycle including
+ requirements analysis, design, development, verification, deployment and support.
+ skills
+ javascript, typescript, html, csslibraries/frameworks: angularjs, angular, ionic, react, rxjs, jquery, bootstrap, sassunit testing: mocha, chai, sinon, jasmineversion control: git, github, bitbucketdependency management: node, bowerbuild automation: gulpbackend: firebaseapis: google maps, stripe, twilioplatforms: google cloud platform, heroku, xcode
+ experience
+ penta technologies, inc
+ brookfield, wi
+ front end software engineer
+ 02/2016 to current
+ implement design and logic to turn multiple legacy systems into modern web and mobile applications.work with product managers, engineers and qa to see projects through, from conception to completion.build reusable components and libraries for future use.perform peer code reviews.
+ udacity
+ mountain view, ca
+ front end team guide
+ 09/2015 to 12/2015
+ lead weekly meetings with students, developing positive group dynamics and weekly expectations.built cohesive teams, leveraging group collaboration and independent research.encouraged organizational skills, task assessment and requirement evaluations.
+ ssi technical
+ dallas, tx
+ technical recruiter
+ 05/2014 to 10/2014
+ recruit candidates for fortune 500 companies in the engineering / medical / financial sectors.analyze and evaluate top candidates through background review and consultative interviews.maintain a portfolio of candidates and requisitions, in all stages of the pipeline.
+ skills
+ automation, css, version control, financial, html, javascript, jquery, logic, meetings, organizational skills, programming, qa, requirement, research, chai
+ 

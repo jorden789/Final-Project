@@ -1,0 +1,394 @@
+
+ iot full stack developer
+ professional summary
+ software developer with over 6 years of extensive experience
+in java/j2ee development technologies and with 2 years of  experience of iot end to end solution. hand on experience with android application development. solid
+knowledge of microcontroller, big data and cloud technology. detail
+oriented, dedicated and dependable team player who has strong analytical,
+organizational, problem solving, presentation, communication and project
+management skills, with ability to manage multiple
+tasks and work in a fast paced
+and aggressive schedule.   
+ specific expertise
+ 
+
+
+
+
+
+
+overall 6 years of extensive experience in java/j2ee development
+technologies, with solid experience of object oriented analysis(ooa),
+design(ood) and programming(oop).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+strong hands on experience in programming with j2ee and associated
+technologies including servlets, jsp, jdbc, struts, jms, spring, hibernate and
+soap web services.strong experience in all phases of software development life cycle(sdlc).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 years experiences of end to end solutions for internet of
+things(iot) including software and hardware.strong experience with implementing web services both soap and restful in web applications using restful api.good experience with j2ee environment extensively in model view controller (mvc) architecture for development using struts and spring.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+good understanding in designing front end using html5, css3,
+node js, javascript, jsp, j query.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+strong experience in sql to write stored
+procedures, functions, triggers, views and strong experience in rdbms using sql
+server and my-sql.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hands on experiences in mobile development with
+android/java, using android studio and eclipse ide.good experience with configuring and using mqtt broker to send commands and receive events from devices. hands on experiences in computer vision, object detection and recognition using opencv. good experience in real time rendering using opengl.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+strong experience in software development with python using
+pycharm.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+solid knowledge in microcontroller and rtos such as arduino,
+openwrt and rtlinux.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+good knowledge on bid data ecosystem of hadoop and mapreduce.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+good experience on nosql database such as mongodb.good analytical, problem solving, debugging, documentation and communication skills. 
+ technical expertise
+ 
+
+
+
+
+
+
+
+ programming
+ language:java, python, c++, html, javascript, css
+ java
+ related: j2ee, servlet,
+ jsp,jdbc,jms
+ web service
+ related: spring, hibernate, soap, tomcat
+ mobile
+ related: android, android studio
+ rdbms:  mysql, sql
+ server, orable databaseos:  windows,
+ linux, mac ide: eclipse,
+ netbeans, android studio, x-code, pycharmndbms: nosql mangodb
+ wireless
+ protocol: zigbee,
+ mqtt, bluetooth
+ networking: tcp/ip, udp
+ big data
+ related
+ hadoop,
+ mapreduce
+ testing tools: readyapi
+ professional experience
+ iot full stack developer
+ 09/2014 to 06/2016
+ epri
+ palo alto, ca
+ project description: the movement to create a smarter and
+more efficient home increases daily, accelerated by
+the smartphones and tablets interacting with the myriad of connected home appliance.
+this project offers client end to end solution including hardware and software.
+
+
+
+
+
+
+
+
+
+
+
+
+
+responsibilities:    hardware design( microcontroller,
+sensors, circuit, gateway) for the need of client.test the individual i/o devices
+in smart home system. use openwrt, mqtt and gsm to
+transfer the data with appliance and gateway. build rdbms database system
+with sql and mysql.build ndbms database system
+with nosql and mongodb.  develop website smart home applicant
+system with html, javascript, css.
+
+l develop android application of
+the system which allow users control the system from a remote place. based on client feedback,
+maintenance the hardware and software system.  technologies : embedded c, arduino , gsm modem: sim900 -
+quad-band and uart, html,javascript, css , java, sql, mysql and mongodb,
+mqtt, openwrt, eclipse ide, android studio, arduino ide.​
+ android developer
+ 08/2013 to 08/2014
+ nationwide
+ columbus, oh
+ project description: nationwide insurance
+android application helps you pay your bill on time and get your insurance card
+information. users can also start a claim and find contact info for agent with the app. 
+
+
+
+
+
+
+
+
+
+
+
+
+responsibilities:     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+implement complex custom
+layout design for the application. 
+
+implement friendly user
+interface for different function of the application.
+implement application to handle orientations and support different screen
+sizes. 
+handle web services consumption for fetching content from the weblogic server. 
+integrated google map-kit for showing the office locations. 
+
+test logic function of
+the buttons for application.
+
+performed debugging
+with android debug bridge (adb)
+and logcat for fixing bugs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+technologies: java, jdbc, sql, oracle database, xml, android studio, adb, logcat, eclipse
+ide, android studio.​
+ software developer
+ 06/2012 to 05/2013
+ cvg
+ columbus, oh
+ project description: it will be safer and easier if vehicle
+can detect the object and warn the driver. this project focus on vehicle and
+object detectionand recover real time images. responsibilities:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+collect data and
+categorization for efficient training of classifier system.
+
+implement object detection and recognition
+using cascade classifiers and feature detectors.test system with
+noise and other image of similar shape as trained object. design algorithms and
+developed programs to do multiple objects tracking.
+
+analysis the matching rate
+and modify the algorithm.
+
+create 3d demo of object
+and environment using opengl and recover the real time image.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+technologies: opencv, opengl, c++, image processing, xml,
+glsl, ply model, x-code.
+ ​​​
+ java developer
+ 09/2010 to 05/2012
+ abercrombie & fitch
+ columbus, oh
+ project description:working
+on range of projects at incite that included developing, testing and
+maintaining front end and back end functionalities of web sites for various
+purpose.responsibilities:developed robust and high availability web applications.built the home page,
+registration form, contact page for the website.involved in development work in core java and
+jsp/servlets.used jquery and javascript to build dynamic web pages.responsible for deploying web applications in production.created the database layer using jdbc to connect to mysql database.technologies:
+java/j2ee, jdbc, servlet, html, css,
+javascript, jsp, jquery, mysql, mysql workbench, eclipse.
+ 

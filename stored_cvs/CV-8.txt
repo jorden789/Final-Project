@@ -1,0 +1,73 @@
+
+ software engineering analyst
+ summary
+ trained in customer service. high energy and outgoing with a dedication to positive guest relations. i am working as software engineer now and want to obtain a part time job 
+ experience
+ software engineering analyst
+ 12/2017 to current
+ doubleverify inc
+ new york, ny
+ 
+
+
+
+
+
+
+·  contributed
+to the development of an online payment website with several thousands customers
+
+
+·  focused on
+back-end development using java springmvc framework ·  used hibernate
+to interact with mysql database ensuring the consistence of transaction data
+and implement crud operations on backend database. 
+
+
+ assistant librarian
+ 08/2016 to 08/2017
+ cornell university loin library
+ ithaca, ny
+ 
+
+
+
+
+
+
+·  worked as a part
+time student receptionist ·  assisted with technical,
+directional and information problems related with library servcies 
+
+
+ graduate research assistant
+ 08/2016 to 08/2017
+ cornell univerity
+ ithaca, ny
+ 
+
+
+
+
+
+
+·  built inception-resnet,
+resnet, and vggnet models on tensorflow, training and fine-tuning from scratch
+to classify pollutes images, achieved 80% top-5 accuracy on dataset with 200
+classes ·  collected,
+analyzed and visualized the daily research data set using numpy, pandas and matplotlib
+in python
+
+
+ education and training
+ master of science: civil engineering
+ 2017
+ cornell univerisity
+ ithaca, ny
+ bachelor of science: environment engineering
+ 2015
+ nankai university
+ tianjin, china
+ skills
+ languages: english, mandarincomputer skills : java, python, microsoft office
+ 
