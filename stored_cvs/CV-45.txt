@@ -1,32 +1,463 @@
 
- software engineer of iot cloud
- professional experience
- 06/2014
- to current
- software engineer of iot cloud
- salesforce － san franiciso, ca
- i work on the salesforce iot cloud, a massively scalable event processing engine for realtime engagement and analytics. my main focus is that design and implement clusters provision and management for iot cloud. 1. provision and manage aws and heroku resource, heavily involving cloudformation, ec2, auto-scaling and elb, etc.2. deploy micro-services, manage versioning, upgrading iot platform properly, scale up and scale down micro-services when necessary. micro-services that we support use kafka, storm, spark, cassandra, kubernetes and so on. 3. find the best practice to store sensitive and critical information, for example, auth token, client secret. 4. customize platform when business needs dynamically, involving database migration, kafka migration, cloudformation infrastructure update. we are now co-hosting workloads across 10k customers, batch transforming ~100mm rows of user data daily and real-time ingests 7 tb of events daily, ~80 mb/s sustained.
- 03/2014
- to 06/2014
- software engineer
- locket － san francisco, ca
- locket is lock screen app that will display image, content based your interests. it was selected by google as one of "best apps of 2014".i was mainly focusing on backend development, including intelligent content generation and display. 
- 06/2013
- to 09/2013
- machine learning developer (intern)
- british broadcasting corporation (bbc) － london, uk
- 1. developed a face detection and recognition program in java, implementing machine learning algorithms,e.g., eigenfaces (pca) and fisherfaces (lda);2. applied text mining techniques to subtitles to assist the facial identification of actors in tv programs;3. achieved up to 98% accuracy rate on standard face databases, e.g., orl.
- education
- 2013
- master of science: computational statistics & machine learning
- university college london
- － london
- uk
- jun 2010
- bachelor of science: electronic commerce computing
- university of liverpool
- － liverpool
- uk
- technical skills
- programming: java, python, javascriptbuilding tool: gradle, mavenops related: puppet, ansible, saltstack, docker, kubernetes, jenkins, bashothers: aws, hibernate, postgres
- 
+      
+        
+        
+           PROGRAM MANAGER
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Program Manager adept at managing full life-cycle of large-scale modern production software projects with a
+focus on reliability and quality. Expert in coordinating multi-functional teams and resources to complete
+objectives. Specialize in planning, monitoring, appraising and reviewing contributions and making any change
+necessary to increase contributions.
+      
+      
+      
+        
+        Skills
+      
+        
+        Product Management, Program Management, SDLC - Agile/Waterfall, Cloud (AWS), Release/ Change/ Incident Management, Data Center Migration, AI/ ML/ NLP/Robotics - Business Strategy, Decision making, People Management, Leadership, Resource planning,  Strategic Planning
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Program Manager
+            
+              10/2014 to 
+              Current
+            
+          
+          
+            Cognizant
+            
+              Rancho Cordova, 
+              CA
+            
+          
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Accepted ownership for ServiceNow product
+transition: Tackled re-implementation of unified ServiceNow
+module for Centene
+affecting 1500 active users
+Evangelized product vision by endorsing an accurate and achievable
+roadmap; reducing people side
+resistance by over 20%Established goals,
+milestones and metrics – surpassed leadership expectations for Change module
+KPI's Unauthorized (<1%); unsuccessful=""><2%); problematic=""><5%); and="" urgent=""><>Introduced check on compliance of Maintenance Schedules for Application
+Services (Technology
+Services) – approximately 180 Centene services
+Listened to end user and drove issues from escalation to resolution
+with a 50% reduction in 2 months.Leveraged knowledge in ITIL and coordinated among client teams in US and over 20 offshore technical staff to achieve operational objectives; boosted end user satisfactionReporting monthly team performance metrics against established SLA's to
+leadership 
+Accelerated issue resolution by prioritizing
+feature/bug fix releases for ServiceNow modules : 10-15 releases per month
+          
+        
+      
+        
+        
+          
+            Product Operations Lead - Connected Car Technology (Drivewise)
+            
+              03/2011 to 
+              10/2014
+            
+          
+          
+            Syntel
+            
+              Northbrook, 
+              IL
+            
+          
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product
+Summary: Drivewise - usage-based Insurance IoT product. Customer plug a
+thumb-sized telematics
+device into car's diagnostic port. Wireless device transmits
+information on driver's driving habits: mileage, speed,
+time of day and hard braking. 
+
+Oversaw Connected Car technology (CCT) day-to-day operational support (45 servers),
+product releases
+(1
+release every week) and application release (2 release per week)
+Managed
+and escalated risks and issues; collaborated with cross functional teams bringing issue log down by 50% in first 2 monthsAnalyzed trends for Drivewise server usage and automated early warning system; minimized service interruption from everyday to once a week  
+Partnered
+with client, architects and vendors to deliver DR strategy; reduced DR switchover time by 50%Recommended
+program changes for performance impacting factors and operational improvements
+and
+gained
+a promotion  
+Built and sustained relationship with people
+throughout project, both in (Allstate organization) and outside
+(vendors) 
+Trained 5 new hires on deployment process and procedures; developed and ensured standard operating
+procedures for Infrastructure services gets documented for
+faster training 
+          
+        
+      
+        
+        
+          
+            Solution Engineer and Service Lead - Data Center Migration
+            
+              01/2010 to 
+              03/2011
+            
+          
+          
+            Syntel
+            
+              Northbrook, 
+              IL
+            
+          
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Performed requirement analysis
+(network/application performance, DR, capacity planning) with client for a
+highly available
+Datacenter topology involving 7 environments and 50 servers (UNIX and windows)
+Formulated implementation plans for Datacenter Migration for all
+environments after risk identification and
+project planning
+Supervised weekly meetings with offshore teams ensuring clear
+priorities and delivered services in a timely
+manner
+Point of contact in all technical negotiations with other teams - Led
+Go-Live activities including execution of
+deployment Plans and
+checklists
+Conducted live migration drills every 3 months to test effectiveness of Business
+Continuity/DR 
+Chaired daily development
+meetings understanding scope of upcoming migration schedules, identifying
+timeline for
+post-development release and tracking risks.
+Provided preventive maintenance tasks, documented procedures and authored run
+books for daily operations
+
+
+          
+        
+      
+        
+        
+          
+            IS Configuration and Deployment Lead
+            
+              08/2006 to 
+              01/2010
+            
+          
+          
+            Syntel
+            
+              Northbrook, 
+              IL
+            
+          
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lead team for deployment and operational
+support of multiple Allstate applications (Interlink, Encompass,
+Duckcreek, EnS, Alliance)
+supporting more than 100 servers (Linux/Unix/windows). 
+Aided Incident Management SWAT calls for time-critical User service/
+Infrastructure restoration within
+complex IT system hosted
+on UNIX and Windows servers 
+Developed, maintained, and enforced release management
+standards as a common core
+across all applications; improving code delivery time by 25%Delivered high quality releases for Allstate IT systems - facilitated
+communications and coordination
+between several staff and
+executive stakeholders across organization minimizing impact of issues and
+risks.
+Led high performing teams of 20 members under tough deadlines, meeting
+expectations of leadership:
+handled team in a 24*7
+modelScripted in Perl and PowerShell automating daily jobs,
+increasing team productivity
+by 200% 
+Monitored and reported on website traffic and performance to improve
+systems.
+Demonstrated application of ITIL framework
+(Incident/Change/Problem/Release management) supporting
+execution of releases
+across applications
+Mentored team of 15 in best practices for planning and execution increasing productivity
+Created and maintained
+guidebook for all activities carried out by team
+
+
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+            Executive Certificate: Business Strategy - AI, ML, NLP, Robotics: 
+            Management and Leadership
+            
+              2018
+            
+          
+          
+            MIT-SLOAN
+            
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          
+            Pragmatic Marketing Certification - Level VI: 
+            Product Management
+            
+              2017
+            
+          
+          
+            Pragmatic Marketing
+            
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          
+            Certificate: Cloud Essentials
+            
+            
+              2017
+            
+          
+          
+            CompTIA
+            
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          
+            Certificate: AWS CSA
+            
+            
+              2017
+            
+          
+          
+            Linux Academy
+            
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          
+            Bachelor of Engineering: 
+            Electronics and Telecommunications
+            
+              2002
+            
+          
+          
+            RGPV University
+            
+              Bhopal, 
+              Madhya Pradesh, 
+            India
+            
+          
+          
+          
+            Electronics and Telecommunications
+          
+        
+      
+      
+      
+        
+        Accomplishments
+      
+        
+        Awards
+Syntel Value Award - SMART (Creative-Proactive-Inventive ideas): June 2013
+Syntel Value Award - SPEED (Responsiveness and act faster with flexibility, keeping quality and cost in
+mind): Dec 2012
+Syntel Value Award - SYNERGY (Solve issues as a whole, not in isolation): Oct 2011.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Syntel Long Time Service Award
+      
+      
+      
+        
+            Websites, Portfolios, Profiles
+        
+        
+            
+                
+                    www.linkedin.com/in/shinevarghese
+                    
+                    
+                
+            
+        
+      
+      
+        
+        Personal Information
+      
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date of Birth: 20
+March, 1984
+Sex: Male
+Hobbies: Enjoy playing
+Chess and started club for friends to play against each other; watching and
+playing
+Cricket and Table Tennis;
+running every day and inspired many friends to join
+
+
+      
+      
+    

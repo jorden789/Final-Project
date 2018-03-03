@@ -1,34 +1,154 @@
 
- senior software engineer / lead design engineer
- summary
- software professional with 30+ year proven record of achievement and advancement in various industries including power system controls, gis, and networking subsystems. able to move effortlessly through and adapt readily to ever changing technologies. expertise encompasses software development, database design, object-oriented analysis and design, user training and support, and system troubleshooting.
- skills
- c#, c, c++, fortrannet core and frameworkasp.net coredata distribution service (dds)zeromq (zmq)xml, xsltwix installer toolsetswagger, openapi, jsonsql servervisual studio 2010 - 2017bash, powershellwindows, linuxteamcity, continuous integrationsubversion (svn)ndepend
- experience
- senior software engineer / lead design engineer
- august 2011 to november 2017
- spirae llc － fort collins, co
- senior member of small development team delivering advanced distributed power system control software for distributed energy resource management systems (derms) and microgrids, with high penetrations of renewable energy and storage:.architected adapter infrastructure that enabled full upper level decoupling and easy replacement of key system infrastructure components, including communication and database middleware, and energy asset controllers.initial communications layer implemented using zeromq.    migration to rti connext dds required zero application level changes proving successful decoupling.designed and implemented distributed request/response subsystem with automatic registration of command handlers with type-checked parameter and response data marshalling.created methodology and data-driven processes for reducing time and expense by up to 90% for taking a power system model to operation against simulated and real power assets, with model to simulation time in as little as 30 minutes.build and source control manager for continuous integration of multiple simultaneous product release lines.mentor for 5 new software engineers and interns.
- software engineer
- january 2004 to april 2011
- cartopac international － fort collins, co
- joined small spatial data technologies startup that grew to become cartopac international, an industry leader in gis field data collection and field asset management:.solely designed and developed first of its kind fully relational spatial sql database for the windows mobile platform.designed and implemented dynamic cartographic projection and geodetic datum conversion architecture utilizing proj4, nadcon, and htdp.
- training consultant
- september 2001 to december 2003
- ridgeview enterprises inc － windsor, co
- owned and operated product training consulting firm with clients throughout the us:.development and delivery of world-wide training for fortune 500 computer products.scripting and production of training videos for computer hardware support.
- software engineer / engineer scientist / project manager / it manager
- january 1987 to august 2001
- hewlett-packard company － cupertino fort collins mountain view, co ca
- education and training
- m.s
- : computer science, 1987
- kansas state university
- computer science
- b.s
- : computer science, 1985
- kansas state university
- computer science
- skills
- .net, asp.net, asset management, bash, c, c++, computer hardware, consulting, conversion, clients, data collection, dds, database, delivery, xml, fortran, gis, json, linux, mentor, c#, windows, middleware, migration, processes, scripting, simulation, sql, sql server, type, visual studio, xslt
- 
+      
+        
+        
+           CUSTOMER SERVICE REPRESENTATIVE
+        
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Qualified and tenacious professional armed with broad-based background and skills in the areas of customer service, technical support, computer hardware & software, troubleshooting and strategy implementation. Displays outstanding ability to plan, coordinate, and implement practices and procedures to bring significant improvements in customer service and technical support processes towards the successful attainment of goals. Determined to implement earned skills and knowledge for rapid growth and development. EXPERTISE AND QUALIFICATIONS Proven customer support experience. Customer orientation and ability to adapt/respond to different types of characters. Identifying and assessing customers' needs to achieve satisfaction. Building sustainable relationships and trust with customer accounts through open and interactive communication. Researching and identifying solutions to software and hardware issues. Diagnosing and troubleshooting technical issues, including account setup and network configuration. Asking customers targeted questions to quickly understand the root of the problem. Tracking computer system issues through to resolution, within agreed time limits Talking clients through a series of actions, either via phone, email or chat, until they've solved a technical issue. Providing accurate, valid and complete information by using the right methods/tools. Meeting personal/customer service team targets. Handling customer complaints, providing appropriate solutions and alternatives within the time limits; following up to ensure resolution. Keeping records of customer interactions, processing customer accounts and filing documents. Following communication procedures, guidelines and policies. Taking the extra mile to engage customers. 
+      
+      
+      
+        
+        Skills
+      
+        
+        
+          
+            
+              Microsoft Office Suite (PowerPoint, Excel, Word, and One noteProcess ImprovementCustomer ServiceQuality AssuranceConflict ResolutionTechnical SupportTeam BuildingLeadership SkillsProblem SolvingCommunication SkillsClient RelationshipTeam ManagementInformation Gathering    
+              
+            
+          
+        
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Social Security Administration
+          
+          
+            Auburn, 
+            WA
+          
+          
+            Customer Service Representative
+            
+              01/2010 to 
+              01/2017
+            
+          
+          
+            Interview beneficiaries and inquirers over the telephone to determine nature of their concern and provide technical provisions and advise of appeal rights when applicable.Investigate case situations and reconcile discrepancies which cause interruption of benefits.Answer Medicare billing inquiries by verifying monthly premiums and quarterly calculations.Identify over payments and prepare letters to explain over payment, repayment options, and appeal/waiver rights.Process over payment waiver requests by determining cause and beneficiary's ability to repay.Assisted caller with account set up, log in, and  password issues on My SSA website.
+          
+        
+      
+        
+        
+          
+            Applied Materials
+          
+          
+            Sunnyvale, 
+            CA
+          
+          
+            Technical Support Engineer
+            
+              01/2006 to 
+              01/2009
+            
+          
+          
+            Hardware expert for plasma etch semiconductor equipment at various field sites national and international.Resolved complex issues by investigating, testing, and documenting solutions to provide timely technical resolution to customer and account team.Prepared and presented financial analysis on retrofits, warranty costs, and parts lifetime to internal business management and external customer.Coordinated parts failure analysis investigation with supplier in order to find root cause of failure.
+          
+        
+      
+        
+        
+          
+            HDP CVD
+          
+          
+            Santa Clara, 
+            CA
+          
+          
+            Technical Support Engineer
+            
+              01/2000 to 
+              01/2005
+            
+          
+          
+            Responsible for installation and troubleshooting HDP CVD semiconductor production equipment and improving performance through permanent corrective action implementation.Trained local account teams throughout the United States and Asia in the utilization of spare parts tracking programs.Developed and reported financial analysis on retrofits, contract costs, and parts lifetime.Reduced overall Semiconductor equipment installation times by 30%.
+          
+        
+      
+        
+        
+          
+            Intel
+          
+          
+            Santa Clara, 
+            CA
+          
+          
+            Manufacturing Technician
+            
+          
+          
+            Performed quality testing of AMAT 200 mm PVD equipment related to process, and production of memory chips and logic gates.Responsible for improvement processes, troubleshooting nonstandard events in the production line, and reviewing technological health and stability.Collected and evaluated operating data to conduct on-line equipment adjustment and communicated process optimization to engineering team.
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+            Bachelor of Science:
+            Technical Management Operations Management
+            
+              June 2010
+            
+          
+          
+            DeVry University, 
+            Fremont, 
+            CA
+            
+          
+          
+          
+            Technical Management Operations Management
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        business management, equipment installation, failure analysis, financial analysis, Process Improvement, Staff Development, Technical Support
+      
+      
+    

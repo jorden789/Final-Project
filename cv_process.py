@@ -55,7 +55,5 @@ def main(p_directory):
         cv_info_to_send.write(cv_information)
         cv_info_to_send.close()
 
-#        print('Contents written to file')
-
 if __name__ == "__main__":
      main(sys.argv[1])

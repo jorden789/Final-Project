@@ -1,64 +1,136 @@
 
- principal engineer
- summary
- software engineer with extensive experience
-in all phases of software development; concept through maintenance. software/firmware developed for medical imaging/communications,
-enterprise storage and telecommunications. firmware/software development under
-regulatory constraints (fda). widely varied experience and a
-demonstrated ability to learn new technologies quickly. real-time data
-acquisition systems for enterprise data as well as image acquisition and processing (2d/3d).  systems architect as
-well as individual contributor. front end gui development. solaris and linux
-kernel, driver and application development. scripting (bash/perl/etc.). multi-threaded / multi-tasking applications. highly
-available applications (oracle cluster). distributed and
-grid computing.
- skills
- extensive linux / solaris / unix experiencesolaris and linux kernel and device driver developmentembedded systemsmulti-threaded / multi-tasking applicationshigh availability, multi-node clustered systems (oracle/sun ha cluster)distributed data and grid computing (oracle coherence)strong c(c ), comfortable with java as well as several scripting languages (bash, perl, shell).source code control with svn, clearcase, cvsagile development (rally)real-time data acquisition, dsp, device drivers, embedded systemsgui (flash/html/direct graphics/vga/open gl)image acquisition and reconstruction (2d/3d)
- experience
- oracle / sun / storagetek
- louisville, co
- principal engineer
- 07/2005 to 01/2017
- system software
-architect for oracle open attach virtual tape library system, a high speed,
-multi-threaded "embedded" disk
-cache for tape clients. in
-addition to the core system, a vm (virtual machine / solaris ldom) was
-implemented to
-host a third party
-applicationrefactor,
-troubleshoot and port a set of linux kernel modules/drivers from linux to
-solarisimplemented buffer/memory
-management kernel modules to allocate and manage kernel dma buffers for
-multiple
-user space processes
-allowing fora zero copy data pathdesigned
-and implemented a multi-node grid computing environment using oracle coherencetechnical lead for a team of
-5-15 engineers. lead role includes defining designs, assisting
-management with hiring, scheduling and task allocation as well as monitoring
-and mentoring individual engineers developed modules for fiber channel device driver and command/data routing, dma
-buffer allocation and
-management, tape drive emulation, and backend storagemember
-of cross functional architecture team tasked with design and concept and proposal of future products
- hei, inc. / colorado medtech, inc
- boulder, co
- principal software engineer
- 06/2000 to 06/2005
- lead development of an embedded net+arm/uclinux product which operates within a self-forming grid acting as an acquisition application and gateway between medical devices and hospital information systemsdesign included customization of the linux kernel and all associated device driverslead development of a linux-based mri biopsy device (real-time fluoroscopic imaging, needle tracking, target verification) built using gtk/gtk gui libraries and idl for image analysisguided a team of six software engineers to redesign the control software for a hitachi 1.5t mri system  developed software for pulse generation hardware, mri pulse sequence control module, front-end control systems, image reconstruction, and data capture and display (qt/opengl/idl)extensive direct customer contact including planning, design, reviews, and project updatesinitial design and proof of concept of mri guided real-time biopsy and tissue harvesting systemport of uclinux os to a net arm architecture, including drivers and protocol stacks
- direct radiography corp sterling diagnostic imaging
- newark, de
- senior software engineer
- 06/1997 to 06/2000
- developed embedded image acquisition and processing system allowing oem customers to interface to the directray line of productssoftware consists of an api, image-processing library, and proprietary device interface (scsi driver)initial target platform was linux, but required cross-platform compatibility between linux/nt/solariscompleted several applications designed to acquire, display and transmit(dicom) medical images produced by a direct digital x-ray detector (linux, solaris, windows nt)
- fischer imaging corporation
- denver, co
- senior software engineer
- 02/1991 to 06/1997
- lead software development of the senoscan digital mammography diagnostic imaging system (solaris)image acquisition and display gui (sun sparcworks builderxcessory)embedded 4-axis motion control sub-system (proprietary 680x0 real-time kernel)complete design, implementation and release of a digital stereotactic breast biopsy system (mammovision)ported os-9 rtos to a cardiac fluoroscopic imaging system, including drivers (parallel/serial ports, video, etc.)
- accomplishments
- us patentsdata deduplication method using file system constructsscsi device emulation in user space facilitating storage virtualizationfour time mentor in sun microsystem's seed (sun excellence in engineering development) program.
- education
- computer science
- metropolitan state college, denver, co, usa
- applications programming
- computer sharing services institute, denver, co, usa
- 
+      
+        
+        
+           CUSTOMER SERVICE
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        I am a responsible person with a desire to work, to learn and willing to work as a team. To put into
+practice all the knowledge acquired during my university training and to be part of a team that allows me
+to grow personally and professionally.
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Customer Service
+            
+              01/2015 to 
+              Current
+            
+          
+          
+            BEL USA
+            
+              Miami, 
+              Florida
+            
+          
+          
+            BEL USA LLC, doing business as DiscountMugs.com, is engaged in the online retail of promotional and personalized products.My
+ responsibility in the service department is to interact with the 
+clients of the company to provide them with information and answer the 
+questions related to the products and services. Also, try to help resolve their complaints.
+          
+        
+      
+        
+        
+          
+            Printing Press Operator
+            
+              01/2014 to 
+              02/2015
+            
+          
+          
+            Bullet Line
+            
+              Miami, 
+              Florida
+            
+          
+          
+            Bullet is a leading supplier of low-price promotional products, includes everything.In bullet my.responsibility was to print the design of each order in the promotion bags and check that each of them.came out with the required quality.    
+          
+        
+      
+        
+        
+          
+            Implementor the software 
+            
+              09/2009 to 
+              10/2013
+            
+          
+          
+            DESOFT
+            
+              La Habana, 
+              La Habana
+            
+          
+          
+            In 
+this job I learned how work in team, my co-workers and I were very 
+enthusiastic and communicative.I was responsible for 
+developing, verifying the software and testing components assigned to 
+it, in accordance with the standards established in the project for 
+integration into larger subsystems.Develop training materials and prepare the project closing.After the software was installed in the company we gave the training to the users.
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+            
+            Information Technology Engineer
+            
+              2002 / 2008
+            
+          
+          
+            Higher Polytechnic Institute "Jose Antonio Echeverria
+            
+          
+          
+          
+            Information Technology Engineer
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        I have a good knowledge of Microsoft Operating System. I like to learn new things, I am proactive, responsible, intelligent and very analytical.I have facility for teamwork, and quick adaptation to the work environment.I am one of the people who can give their 100% under pressure; And I'm sure I can exceed yourexpectations.
+      
+      
+      
+        
+        Certifications
+      
+        
+        Computer machine architecture.​Microcomputer operator.Postgraduate Course: Development of applications on the Java Standard Edition platform.Postgraduate Course: Introduction to Web technology.
+      
+      
+    

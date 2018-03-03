@@ -1,38 +1,107 @@
 
- solution architect
- summary
- results-oriented solution architect comfortable switching between architecture, design and implementation disciplines. comfortable talking high level concepts as well as the minute details of solution implementation.
- highlights
- solves the core problemtranslates business needsanalyzes the core questionsconceptualizes the solutionclearly communicates
- models the solutionformalize a plancommunicates clearlycreates solutions that workfacilitate professional growth
- accomplishments
- nominated for tom mcdonald award for outstanding innovation.led effort to design and implement multi-factor authentication at dst.responsible for architectural direction for applications that generate $50 million annually. 
- experience
- solution architect
- 05/2008 to current
- dst
- kansas city, missouri
- lead architect for application suite that generates $50 million annually. solution architect assigned to high visibility security project.led issue resolution discussions with 3rd party vendors.communicates frequently with client and project stakeholders.engages with development lead and application analyst progress.develops proof of concept examples for development teams.engages with application teams for feedback on the lessons learned.implemented first blue / green production environment to improve deployment / testing time. led organizational effort to modernize code migration strategy.led effort to replace "in house" batch system with spring batch solution.
- software engineer ii
- 02/2005 to 05/2008
- embarq
- overland park, kansas
- lead engineer and supervisor of development team.interacted with senior management about objectives and goals.responsible for grooming business requirement into functional requirements.defined test cases to evaluate business functionality.collaborated with quality team to build testing scenarios.provided professional development feedback to team members.
- it architect/specialist
- 06/2003 to 02/2005
- ibm
- lenexa, kansas
- developed new application enhancement requests.communicated with client about upcoming projects.oversaw construction of new business functionality.reviewed and prioritized enhancement requests.designed and implemented enhancements to the application.constructed business product documentation.
- software engineer
- 01/1998 to 06/2003
- sprint
- overland park, kansas
- interacted with application stakeholders to define business requirements. responsible for designing, constructing and testing application updates.engaged with lead engineer on status of current tasks.developed project documentation.
- education
- computer management systems
- northwest missouri state university
- maryville, mo
- computer management systems
- skills
- languages: java, c/c, perl, awk/korn shell, cobol and phptools: spring tool suite, maven, git, enterprise architect, and visiodatabase: oracle and db2
- 
+      
+        
+        
+          
+          BACK-END DEVELOPER, DEVOPS
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        To secure a position in IT where extensive technical experience and commitment contribute toward actively supporting a progressive organization in achieving its IT goals.
+      
+      
+      
+        
+        Skills
+      
+        
+        
+          
+            
+              PHP, PHP UnitLaravelJavaScript, jQuery HTML, CSS AWS RDS, S3, EC2 SQL, Stored ProceduresWindows, Linux (Ubuntu)Jenkins, Git, JiraApache 2.4, Nginx OOP, PRS-2, TDD
+              
+            
+          
+        
+      
+      
+      
+        
+        Languages
+      
+        
+        English (native)
+Spanish (fluent)
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Back-End Developer, DevOps
+            
+              Jan 2017 to 
+              Current
+            
+          
+          
+            4Patriots, LLC. － 
+            Nashville, 
+            TN
+          
+          Developed and supported queue based API that handles sales, conversion tracking, analytics and fulfillment using Laravel Framework.Setup cloud-based lamp servers for front-end sales funnel websites.Assisted in migration to AWS from Rackspace for web servers and database servers.Added Paypal checkout support using Paypal REST SDK for front-end sales sites.Setup Jenkins Code Pipeline deployment for a 3 tier environment.Developed using OOP, PSR-2, Composer, Git, Jira, PHP Unit (Integration and Unit Tests)
+        
+      
+        
+        
+          
+            PHP Developer
+            
+              Sep 2015 to 
+              Jan 2017
+            
+          
+          
+            Dart PHP, MySQL, JS, XML － 
+            Nashville, 
+            TN
+          
+          Upgraded Music Distribution Platform by using asynchronous Iron.IO workers to FTP large WAV files and create XML files for Ingestion by DSP's such as Apple Music, Google Play,.Created SOA Web Services to be used internally and externally for automated music distribution and data collection.Helped create an asynchronous metadata cleanup platform, aimed at correcting mistakes and missing information in Metadata for Books, Music and other forms of Media.
+        
+      
+        
+        
+          
+            Asst. Director of Software Development PHP
+            
+              Apr 2013 to 
+              Aug 2015
+            
+          
+          
+            Applied Health － 
+            Nashville, 
+            TN
+          
+          Expanded Benefactor IQ suite with an interface to allow for uploading Biometric Data in both CSV and Excel formats with the ability to auto identify columns and perform data cleanup before being placed into our staging table.Optimized and added paging ability to a piece of the software that lists members of a population group increasing page loading speeds in excess of 800%.Facilitated the integration of HL7 data using Mirth 2.0, created dynamically generated Lab Report in PDF format from that data, created a windows application that served as a fax server converting the PDF to TIFF and updating the database with the status result code of the fax attempt.Expanded member portal to allow single sign on using SAML(Secure Assertion Markup Language).
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        Application Development, Automation, Data Collection, Database Administration, ECommerce, Office Equipment, HTML, PHP, JavaScript, Networking, Web Development, Photoshop.
+      
+      
+    

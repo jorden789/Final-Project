@@ -1,33 +1,141 @@
 
- senior applications developer
- summary
- senior application developer with 7+ years in analysis, design, development, testing and implementation of various internet-based applications.
- languages
- c#.net, javascript, html5, css3
- technologies
- asp.net, mvc, wcf, webapi, linq, jquery, ajax, ms sql 2008/2012, entity framework
- concepts
- service oriented architecture, restful apis, single page applications, object oriented javascript
- experience
- senior applications developer
- oct 2015 to current
- d2 creative － somerset, nj
- develop new features and perform maintenance on an existing web application targeted for pharmaceutical sales representatives. routinely mentor junior developers.create data visualization and dashboard reports as well as the restful apis that supply the data. collaborated with designers to create clean interfaces and simple, intuitive interactions and experiences.develop new public facing content driven websites using the umbraco content management system. 
- web developer
- may 2015 to oct 2015
- brother international corporation － bridgewater, nj
- handle maintenance ticket requests for bugs/changes from twelve divisions of the business to over ten different websites.work on medium sized projects (40-160 hours).design and develop microsites for different areas of the business.convert static pages into responsive design.train and document responsive design best practices to other developers.
- applications developer
- nov 2013 to apr 2015
- o'sullivan communications － west caldwell, nj
- develop new features for existing web applications using c#, javascript, jquery, html collaborate with other developers in design sessions to problem solve converted existing wcf services to webapibuilt, modified and added webservices in both wcf and webapitrain internal and external users on use of new applications support and troubleshoot user problems with applications responsibility in every part of the sdlc process for new applications and projects.developed new features for, and maintained a custom built content management system for airline menu data.converted webforms to a single page application.developed a weighted search system for the content management system using t-sql stored procedures and a wcf web service.helped design and develop a new resource management system for internal/external translators.this is utilized to increase efficiency in streamlining the customer cost estimates as well as managing external translators.
- senior applications developer
- jun 2009 to nov 2013
- new york life insurance co － clinton, nj
- subject matter expert in new york life's testing process, including unit testing, integration testing, baseline testing, model office testing, customer acceptance testing.collaborating and communicating directly with business partners and other programmers throughout the organization.personally managing the implementation process of moving code from release testing to the production environment.mentoring and assisting junior programmers in coding and testingdesigned and implemented web automated correspondence system for customer acceptance testing. this project eliminated human errors on our correspondence emails.designed and implemented a web based issue tracking system for the qa testing team.designed and implemented a web based task management system for the qa testing team.developed a web interface for creating test cases and scrubbing input data for customer acceptance testing. previously this process used ms access. implemented a new model office testing environment from scratch. 
- education
- computer science- information systems
- 2009
- college of staten island-cuny － staten island, new york
- dean's list 2008- 2009
- 
+      
+        
+        
+           SOFTWARE ENGINEER
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Software engineer with a focus on writing highly maintainable, robust, object oriented code. Diverse experience of languages with majority C++ background. 
+      
+      
+      
+        
+        Skills
+      
+        
+        Languages: C++, C#, Java, PHP (Zend), Javascript, perl, SQL Operating Systems (developed on): Linux, Unix, WindowsConcepts: OO, IPC (threads, locking mechanisms, shared memory, message queues), databases, OSI Model, TCP, UML, XML, serialization, COM, STL
+      
+      
+      
+        
+        Certifications
+      
+        
+        Secret Clearance Security+ Certification, 10/12  
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          August 2004
+           to 
+          Current
+        
+        
+          
+            Lockheed Martin - THAAD - Systems Integration Lab
+            
+              Sunnyvale, 
+              CA
+            
+          
+          
+            Software Engineer
+          
+          
+            Designed and developed the majority of the software used to visualize the THAAD missile interception system in real time for the purposes of analysis and demonstration to interested customers, including U.S. and foreign government dignitaries. Wrote 7 applications for Linux and Windows platforms to collect real time THAAD message data over IP, parse it, and turn it into a visual and interactive experienceIn addition to being used for demonstrations, served as an analysis tool for engineers performing testing of the THAAD systemNotable applications (as main developer):MsgForwarder (C++, Linux): Responsible for capturing and parsing all of the THAAD IP data. Capable of parsing over 1,000 TCP/IP packets per second according to TCP, IP, and application level protocols. Re-forms them into their original messages, which can be sent to interested parties. DVRTFileWriter (C++, Linux): Multi-threaded application receives messages from MsgForwarder and other data sources, parses them, and puts them into shared memory database.  EventNotify (C++, Linux): Reads messages from shared memory database and uses them to extract relevant data and form human readable strings of important events, which get sent to interested parties.LMAnimator (C#, Windows): Receives real time data on UDP and TCP sockets to create an interactive display of the THAAD weapons system using a Satellite ToolKit ActiveX Object embedded into a Windows Form. Can display hundreds of STK objects in real time, and is user interactive, thus making thread synchronization critical.Skills used: C++, STL, C#, Java, Perl, XML, UML, IPC (threads, locking mechanisms, shared memory, message queues), databases, OSI Model, TCP,  serialization, COM, Unit Testing 
+          
+        
+      
+        
+        
+          April 2002
+           to 
+          August 2004
+        
+        
+          
+            Lockheed Martin - THAAD - System Test and Evaluation
+            
+              Sunnyvale, 
+              CA
+            
+          
+          
+            Software Engineer
+          
+          
+            Worked on a small team to develop the Launch and Test Support Software (Visual C++, Windows), which is used to test communication between the 4 tactical components of the THAAD system: Launcher, Missile, Radar, and Battle Manager. This software served as a "launcher simulator" for multiple flight tests, performing the software used to launch the THAAD missile. Designed, coded, unit tested, and wrote documentation for the software products.Skills: Visual C++, UML, Unit testing, software process, use of APIs to interact with hardware, IPC 
+          
+        
+      
+        
+        
+          July 2001
+           to 
+          March 2002
+        
+        
+          
+            Lockheed Martin - NPOESS
+            
+              Sunnyvale, 
+              CA
+            
+          
+          
+            Software Engineer
+          
+          
+            Developed various analysis scripts and applications for a Weather Satellite proposal. 
+          
+        
+      
+      
+      
+        
+        Education
+      
+        
+        
+          2001
+        
+        
+          
+            University of Virginia
+            
+              Charlottesville, 
+              VA
+            
+            
+          
+          
+            Bachelor of Science: 
+            Computer Science
+          
+          
+          
+            GPA: 3.562, Class Rank: 140/744 
+          
+        
+      
+      
+      
+        
+        Personal Projects
+      
+        
+        Web mash-up of Google Maps, wikipedia, Google ImagesWeb survey application: Zend PHPWeb application to organize household objects
+      
+      
+    

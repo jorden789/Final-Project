@@ -1,40 +1,157 @@
 
- senior software engineer
- summary
- senior software engineer with over three years' success in designing, developing, implementing, and testing software solutions and applications for mobile and real-time embedded systems and high-performance large-scale distributed systems. expertise in all facets of software development lifecycle with a solid background in system architecture planning, software performance analysis, scripting, and automation. proven leadership with achievements in designing key software optimizations.
- highlights
- software performance optimizationobject-oriented design device driver developmentcapacity planning, performance tuning and load testing
- agile development methodology architecture modeling and simulation real-time software stability analysis
- accomplishments
- promoted to manage processor and bus performance benchmarking/regression for all high-tier 4g modem chipsets after one year of employment at qualcomm.developed comprehensive toolset, characterizing and profiling the dynamic multithreading performance of real-time software for hexagon dsps used in qualcomm snapdragon chipsets.earned qualstar awards to conceptualizing, developing, and initiating key software optimizations, improving modem and audio performance.
- experience
- bloomberg lp
- december 2016 to current
- senior software engineer
- new york city, new york
- responsible for the system design and development of high-performance distributed systems with an agile development methodology and test-driven developmentresponsible for the full software lifecycle including participation in requirements analysis, system architecture planning and software testing/debugging and performance/scalability analysisutilize an object-oriented design approach to designing and implementing the middleware services and backend infrastructure and implement some client-facing ui features in javascriptevaluate and identify new open-source technologies and techniques for implementation and their integrationutilize the cutting edge big data technologies like redis, cassandra, apache spark, storm
- qualcomm technologies inc.
- february 2013 to december 2016
- senior software engineer, qct modem architecture / performance team
- san diego, ca
- designed and implemented end-to-end platform, including software driver and tools development, for hardware acceleration of legacy diagnostic message and logging framework.introduced optimized inter-process message router framework for high volume messages exchanged per ms between software and firmware threads during lte calls.developed and tested lightweight performance monitoring algorithm for qos scheduling and dynamic clock-voltage scaling in real-time multitasking system.drove major architecture modeling/simulations including cache/tcm sizing experiments and worked on clock plan budgeting for future soc designs.extensive experience with debugging software stability problems including timeline-miss crashes and investigating latency/throughput issues
- university of minnesota
- august 2012 to december 2012
- graduate research assistant, aerospace engineering and mechanics lab
- minneapolis, mn
- contributed to development of miniature rotorcraft simulator at interactive guidance and control lab, umnfocused on vehicle dynamics simulation and response to joystick input in real-time.used openscenegraph library (c++) for rendering and ros modules relating to message passing interface.
- education
- university of minnesota
- 2013
- master of science: computer science minneapolis, mn, usa
- college of engineering guindy, anna university
- 2011
- electronics and communications engineering
- chennai, india
- key academic projects
- used openstack to experiment with dynamic resource management for private cloud-based platform.implemented complete unix v7 file system simulator in c++developed android application prototype “open or closed” with user-centric design approach.
- coursework
- advanced algorithms and data structures, operating systems, cloud computing and big data, computer networking, user interface design principles, distributed systems, digital signal and image processing, wireless and mobile communication
- technical skills
- programming langugages: c++, c, python, javascriptplatforms: linux, unix, windows, openstack cloud, robot operating systemnetworking: tcp/ip, socket programming, multithreadingtools: eclipse, perforce, git, gdb, trace-32/jtag, etm, wireshark, rhapsody, totalview
- 
+      
+        
+        
+           SERVICE AND COMMISSIONING MANAGER
+        
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Seeking a position in a results-oriented company that seeks an ambitious and career-conscious person, where acquired skills and education will be utilized toward continued growth and advancement. I have been involved in several areas of business from being on the front line working on the final product with the customer to insure that it meets their needs, to working in management roles to insure that both the product and the support team behind the product will meet and exceed the customers' expectations.
+      
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Horiba Automotive Test Systems
+          
+          
+            Troy, 
+            MI
+          
+          
+            Service and Commissioning Manager
+            
+              11/2011 to 
+              Current
+            
+          
+          
+            Effective management, technical, and supervisory skills.Commended for dedicated work ethic and rewarded by steady promotions and training in all aspects of work.As first point of contact for the project, met weekly with vendors, conducted site visits and communicated daily with technicians facilitating the change.Successfully managed client accounts and support, ensuring proper and effective handling of requests, as well as problem resolution and customer service issues.Interviewed and evaluated personnel Managed all activities of the service and commissioning department, with responsibility for developing the service and commissioning strategy Participated on a sales team providing support and consultation in the area of service and commissioning as well as over all system performance and capabilities Managed a group of mechanical and electrical engineers that were responsible for starting up and troubleshooting new equipment and diagnosing problems with old equipment Communicated with the company president, information technology manager, human resource manager, and quality assurance manager to explain department performance and needs Responsible for creating department budget and forecasting future needs including capital equipment purchases.
+          
+        
+      
+        
+        
+          
+            Horiba Automotive Test Systems
+          
+          
+            Troy, 
+            MI
+          
+          
+            Project Manager
+            
+              07/2011 to 
+              11/2011
+            
+          
+          
+            Closely coordinated job schedules and needs with all departments to ensure smooth operation Tracked and reported on financial aspects of program Reviewed status reports submitted by project personnel Proven experience as an effective negotiator and problem solver Projected and forecasted labor requirements and resources Managed product teams ensuring project deadlines and budgets were met or exceeded Closely managed project scope and financials to make sure project was delivered on time and within budget.
+          
+        
+      
+        
+        
+          
+            Horiba Automotive Test Systems
+          
+          
+            Troy, 
+            MI
+          
+          
+            Commissioning Engineer
+            
+              11/2007 to 
+              07/2011
+            
+          
+          
+            Responsible for start-up and commissioning of dynamometer test systems.Including Engine, Chassis, E-motor, and driveline test systems.Experience with the use and implementation of PID controllers Extensive experience with variable frequency drives Siemens PLC experience Experience with complex control and automation systems that involved the integration and coordination of multiple systems Experience with hybrid test stands including interlocking of controls and safety systems Was considered a go to person in the commissioning department and was routinely given the most difficult projects.
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+            Bachelor of Science:
+            Mechanical Engineering
+            
+              MAY 2007
+            
+          
+          
+            Saginaw Valley State University, 
+            Saginaw, 
+            MI
+            
+          
+          
+          
+            Mechanical Engineering
+          
+        
+      
+        
+        
+          
+            Master of Business Administration
+            
+            
+              MAY 2014
+            
+          
+          
+            Oakland University, 
+            Rochester, 
+            MI
+            
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          
+            M.B.A:
+            Finance
+            
+          
+          
+          
+          
+            Finance
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        forecasting, human resource manager, sales, Siemens
+      
+      
+    

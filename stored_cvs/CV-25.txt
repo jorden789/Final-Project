@@ -1,44 +1,248 @@
 
- web and report developer (.net c#, ssrs)
- summary
- i am looking to work on challenging projects in a company with room for growth and excellent compensation. strong professional and educational background in designing and implementing object-oriented database-driven applications
-*exceptional ability to learn and apply new skills successfully
-*proven capacity to work creatively and effectively singly and in a team environment
-*skills in point of sales, accounting, retail, medical, and inventory control, mortgage, return authorization industry
-*experienced with sql replication
-*experienced with web application using delphi and webhub
-*strong knowledge of front end and back end development
-*good team player
-*experienced with agile scrum methodologies
-*strong experience with ssrs
-senior software engineer with 10+ years in analysis, design, development, testing and implementation of various internet-based applications. skills
- c#, mvc, .net, delphi 2-2010, vb.net,sql server 2000/2016, xml, html, java script, pascal html/dhtml, css, javascript, xml, jquery, bootstrap, microsoft .net.graphic tools: adobe photoshopreporting tools: crystal report 5 through 9, report builder, microsoft reporting services ssrsdatabase: access, mysql,sql server 2000-2016, ado, ado.net, oracleoperating systems: windows 95/98/nt/me/xp/2000/7 server, windows 2003, solaris, unixproject roles: data architect, dba designer, programmer, project manager, team leader, testing    version control: vss, tfsbug tracking tool: salesforce, jirasql fluent in c, c++, c#mysqlvisual sourcesafe
- excellent communicatorcomplex problem solver
- experience
- 08/2013
- to current
- web and report developer (.net c#, ssrs)
- the retail equation － irvine, ca
- collaborated with designers to create clean interfaces and simple, intuitive interactions and experiences. full stack web developer.responsible for the design and maintain the existing software which is a service for point of sales to track return authorization using .net, mvc, c# technology.responsible for design report using ssrs.implemented ssrs subsubscription manager like the existing ms product to do custom jobs of incorporating delivery methods to fit company needs.designed and developed complex functions and stored procedures using mssql.troubleshot and resolved production problems.worked on client side of the product using jquery, javascript, razor, bootstrap, ajax.
- 10/2010
- to 07/2013
- senior lead software developer (.net and delphi)
- resnet － lake forest, ca
- lead of delphi team.responsible for the design and implementation of a mortgage system using delphi/web hub, vs 2010, c#, asp.net, mvc, and mysql/mssql 2008.worked with business users and analysts on gathering business requirements and design specifications.designed and developed functions and stored procedures using mysql/mssql.    troubleshot and resolved production problems.developed portals for agents to connect to homeowners, buyers, asset managers, short sale servicers.worked on client side of the product using jquery, javascript, razor.
- 07/1996
- to 09/2010
- senior lead software developer (.net and delphi)
- comcash － irvine, ca
- project manager of a development team and supervised delivery and integration cycles.analyzed and developed pos system using delphi 2010 and sql server.developed a client server system that provided end user a way to do unlimited real time inventory control; manage customer data, bar coding, sales ringing up, credit card processing.developed a touch screen system with unlimited drill-down menu for convenient stores and restaurants.developed the back end system that consisted of data access, and data maintenance tools for end user to control their inventory at ease.developed an online shopping cart using .net technology so that customers can take advantage of the same database on point of sales side and sell products on the web.participated in the production, expansion, and maintenance of the sql server database that stored all the end of day data.participated in test cycles and debug applications.developed datasync, a middle tier to update and poll data from web and windows application using delphi, asp.net, c#, and soap.built an enterprise solution to bring data from other locations to central via sql replication technology and delphi programming.developed comcash qbi, the first automated xml interface to quickbooks, generating massive market exposure and expanding target market using delphi.
- education and training
- b.s: information and computer science
- university of california
- － irvine, ca
- information and computer science
- activities and honors
- microsoft .net certification from university of california, irvine (uci) in 2003
- skills
- .net, microsoft .net, vb.net, asp.net, ado, adobe photoshop, ajax, architect, client server, credit, crystal report 5, css, client, version control, dba, database, delivery, delphi, delphi 2, dhtml, xml, graphic, html, hub, inventory, inventory control, javascript, java script, jquery, team leader, market, access, c#, sql server 2000, windows, 2000, windows 95, 98, nt, mvc, mysql, enterprise, operating systems, oracle, pascal, pos, coding, programmer, programming, quickbooks, real time, reporting, sales, soap, solaris, mssql, sql, sql server, unix, web developer
- additional information
- computers (programming, building, using), handheld technology, music, theology, webpage design, charity work, marathons
- 
+      
+        
+        
+           SOFTWARE/QA ENGINEER - CISCO SPARK CALL
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        To obtain a Full Time position in your esteemed organization to enhance my skill set and make a significant contribution towards the growth of the organization.
+      
+      
+      
+        
+        Keywords
+      
+        
+        Python, Test Automation, System Testing, Regression and Functional Testing, Selenium Webdriver with Java, SoapUI, DevOps, ELK, Docker, Cisco Collaboration Products, Agile Methodologies, Scrum Master, Jenkins, VOIP, CCNA, CCNA-Voice, SDLC, SaaS
+      
+      
+      
+        
+        Skills
+      
+        
+        PYTHON, PERL, TCL, JAVASelenium IDE, Selenium WebdriverUnix, Linux, Microsoft WindowsVI Editor, Git, Rally, Jira, Docker, Jenkins​Agile, ScrumSQA Testing & MethodologiesSoftware Test AutomationRegression, Functional and Unit Testing.UI & Compatibility Testing, SOAP/REST Webservice Testing.Cisco products such as CUCM, HCS, Contact Centre, Spark Call, IOS switches and routersPSQLSoapUI, PostmanLogstash, Elastic Search, Kibana
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          07/2014
+           to 
+          Current
+        
+        
+          
+            Software/QA Engineer - Cisco Spark Call
+          
+          
+            Cisco Systems － 
+            Richardson, 
+            TX
+          
+          
+            Development and maintenance of Python based automation infrastructure of Cisco Spark Call project, which also included automating complex end to end VOIP scenarios.Design, document and automate test plans for various features of the product.Full system development lifecycle experience, including designing, developing and implementing regression and functional test plans, test cases and test processes.Spark Call being a cloud based product, got hands on experience working in a continuous integration environment which included almost daily deployments.Troubleshoot test failures before the code could be deployed to Production environment.    Provide guidance and mentorship to other team members on automation tests and infrastructure.
+          
+        
+      
+        
+        
+          12/2011
+           to 
+          07/2014
+        
+        
+          
+            Lead UI QA Automation Engineer - Cisco Hosted Collaboration Solutions
+          
+          
+            Cisco Systems － 
+            Richardson, 
+            TX
+          
+          
+            Design test plans, write and execute complex test automation scripts using Selenium Webdriver and Java. REST AND SOAP tests using SoapUI.Troubleshoot problems encountered during testing, write defects and provide support to the development teams.Provide guidance and mentorship to other team members on automation tests and infrastructure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Got an opportunity to be a Scrum Master for
+multiple scrum teams, for 6 months.
+          
+        
+      
+        
+        
+          01/2009
+           to 
+          12/2011
+        
+        
+          
+            Software Engineer
+          
+          
+            Cisco Systems － 
+            Richardson, 
+            TX
+          
+          
+            Write
+and execute complex test automation scripts using TCL (Tool Command Language)
+and PERL with the purpose of automating the integration testing of different
+features of Cisco Unified Communications
+Manager. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Troubleshoot problems encountered during
+testing, write defects and provide support to the development teams.Maintained the test lab which included installing and configuring Cisco Unified Communications Manager and other Cisco collaboration products.
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          December 2008
+        
+        
+          
+            MS: 
+            Software Engineering
+          
+          
+            The University of Texas at Dallas (UTD)
+             － 
+            Richardson, 
+            Texas
+            
+          
+          
+          
+            Software Engineering
+          
+        
+      
+        
+        
+          June 2006
+        
+        
+          
+            B.Tech: 
+            Computer Engineering (Information Technology)
+          
+          
+            Punjab Technical University
+            
+            
+            
+            India
+          
+          
+          
+            Computer Engineering (Information Technology)
+          
+        
+      
+        
+        
+          October 2005
+        
+        
+          
+            M.C.S.E          Microsoft Certified System Engineer
+            
+          
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          October 2009
+        
+        
+          
+            C.C.N.A          Cisco Certified Network Associate.
+            
+          
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          March 2010
+        
+        
+          
+            C.C.N.A Voice          Cisco Certified Voice Associate
+            
+          
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          April 2011
+        
+        
+          
+            CSM							 Certified Scrum Master
+            
+          
+          
+          
+          
+            
+          
+        
+      
+      
+    

@@ -1,34 +1,141 @@
 
- software engineer
- summary
- motivated software engineer seeking employment as part of a dynamic software development team. focused and detail-oriented offering exceptional troubleshooting skills and a talent for developing innovative solutions to unusual and difficult problems. experienced in object-oriented programming, developing, testing and debugging code. quickly able to learn and master new technologies with proven success working in both a team and self-directed setting. 
- highlights
- proficient in javaquick learneragile development methodologiesinterface design and implementation
- analyticalself-starterteam playercustomer-oriented
- relevant professional experience
- software engineer
- jul 2015 to current
- general dynamics mission systems － taunton, ma
- updated, modified and expanded existing software programs. resolved customer issues by establishing workarounds and solutions and by debugging and creating defect fixes.drove continual improvement to system architecture by refactoring old legacy code.implemented and tested enhancement feature requests to enhance product functionality.analyzed requirements and used systematic approaches to implement and document the tasks.
- software developer
- jan 2015 to jul 2015
- cyber care llc － providence, ri
- worked independently and in a team environment to write java and html code. implemented a play framework web application that utilized oauth to allow users to sign in via google and qbo credentials. once logged in a user may retrieve and add customer, employee and vendor data as well as an upload a file feature.utilized bitbucket for our team's git code management system.experience with commit, pull, push, merge commands.collaborated with product and engineering team members to define and develop new product concepts.
- software assurance
- jun 2002 to jan 2004
- putnam investments － franklin, ma
- analyzed scenarios and conducted functionality and stability testing on an internet based financial investment program.communicated professionally, precisely and effectively with software developers to resolve discovered issues.utilized excel to log test case specifics and results to maintain accurate records.
- additional experience
- displayed proven self-motivation and personal development: promoted from assistant manager to store manager. responsible for individual and staff performance: leadership, training and coaching skills used successfully. delegate and prioritize workloads with appropriate deadlines to manage accountability.critical thinking skills used to analyze, strategically plan, and conduct inventory management counts quarterly.worked effectively in a team environment to achieve and exceed goals set forth to our store.researched new and innovative ways to increase foot traffic and sales in a lower volume location.upheld excellent customer service by utilizing listening, verbal communication, decision making and problem solving skills.managed a $5 million guess factory store with 45-50 staff: ranked #7 in company.
- education
- bachelor of science, computer science
- 2014
- bridgewater state university － bridgewater, ma, usa
- worked full-time while attending school full-timecoursework: java i, java ii, object-oriented software engineering, linux/unix administration, artificial intelligence, data structures & algorithms, analysis of algorithms, computer networks, database concepts, simulation programming, operating systems, computer graphics, mobile devices
- associate of science, business technology
- 2004
- dean college － franklin, ma, usa
- peer tutor in the computers and mathematics fields of studycoursework: c++, visual basic, web content development
- skills
- java, c++, sql, html, eclipse, clearcase, wireshark, ms office suite, frontpage, oracle, linux, cmd, debugging, critical thinking, leadership, decision making, coaching, problem solving, troubleshooting, simulation, hardware, networking, management, agile development, sales, customer service, verbal/written communication
- 
+      
+        
+        
+           MATERIALS ENGINEER
+        
+      
+      
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          06/2014
+           to 
+          10/2017
+        
+        
+          
+            Materials Engineer
+          
+          
+            Swagelok Company － 
+            Solon, 
+            OH
+          
+          
+            Assisted with design of new Electro-polishing fixtures, wrote CEPM & Justification for new EP fixtures, improved cleanliness of EP bay via introduction of additional rinse station and by replacing paper tags with metal tags.Support EP process, correcting targets and set-up sheets, organizing inventory, adjusting EP parameters per order.Support Passivation, Central Acid Processes, HPG Bellows Valves through process monitoring via chemical titrations and dissolve metals spectroscopy.Safety projects (i.e. workstation shields, automation of nitric acid drainage, updating preventative maintenance to ensure longevity of safety measures.)Planned and executed discipline problem solving events, concerning electro-finishing and electro-polishing components.  From initial test design to establishing pass/fail criteria.Engineering requests: performed requests from groups across the company which involved use of ICP-OES, ion chromatography, salt spray chamber/salt soak process, potentio-stat, DOCC, SEM with EDS, and FT-IR.Technology development projects such as Nickel Pulse Plating, measuring dissolved metals through XRF, aided in creation of a process to measure chemical components of chemical based accessories.CEPM to purchase replacement EDS detector, a new PC, with additional software licenses.
+          
+        
+      
+        
+        
+          06/2012
+           to 
+          05/2014
+        
+        
+          
+            Internship
+          
+          
+            Swagelok Company － 
+            Solon, 
+            OH
+          
+          
+            Trained and proficient on JenoptikAnalyzed quality plans to create measurement protocols.Time Studies for Auxiliary machine & updated Standard work.Improved WC efficiency by installing additional
+monitor in every WC in HSC to maximize use of STD work.Set crimping specifications for a hose product line via design of experiment and peer review.Lean work center by adding additional monitors to workstations in HSC with training to maximize the effectiveness of standard work documents.
+          
+        
+      
+        
+        
+          01/2012
+           to 
+          06/2012
+        
+        
+          
+            Internship
+          
+          
+            RoviSys Building Technologies － 
+            Aurora, 
+            OH
+          
+          
+            Coding
+in Visual Basic, updated HMIs.
+          
+        
+      
+        
+        
+          03/2011
+           to 
+          01/2012
+        
+        
+          
+            Assistant Manager
+          
+          
+            Ocean Blue Jewelers － 
+            Richmond Heights, 
+            Ohio
+          
+          
+            Maintain stock and inventory of men's and women's jewelry and watchesSetting products on displayFacilitate customer purchases and resolve customer complaintsNegotiating transactions and closing salesManage cash registerRepair and adjustments
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          May 2014
+        
+        
+          
+            Bachelor of Science: 
+            Chemical Engineering
+          
+          
+            Cleveland State University
+             － 
+            Cleveland, 
+            Ohio
+            
+          
+          
+          
+            
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        Software: Minitab, Matlab, Excel/Excel VBA, Outlook, PowerPoint, Word, Windows, C++, AspenCreative Problem SolvingCustomer ServiceConflict ResolutionProject ManagementMentoringEquipment Proficiency (ICP-OES, IC, DOCC, Jenoptik, etc.)
+      
+      
+      
+        
+        Activities and Honors
+      
+        
+        Cleveland Host Committee (6/20/2016)Swagelok Campus Recruiter (10/9/2015)
+      
+      
+    

@@ -1,68 +1,328 @@
 
- senior software engineer
- summary
- senior software engineer with 13 years experience in a wide range of technologies and project types. expert in java-based development and web service design and development. 
- highlights
- enterprise and web developmentfull-stack developer
- ​fluent in oo/javaapi development
- experience
- booz allen hamilton (sparc agile hub)
- november 2014 to current
- senior software engineer
- charleston, sc
- helped design and implement multiple soap and rest-based web services and apishelped design and implement multiple spring-based web applicationsimplemented oauth2 token-based authorization for client web applications and rest servicesimplemented and maintained integrated hsm (hardware security module) solution for ultra-secure data transmission and storage for web services and applicationswork with customer to define requirements of the web services and applications that are requestedmentor software developers and qa engineers
- sparc
- march 2012 to november 2014
- team technical lead/senior software engineer
- charleston, sc
- led agile development team in the full development lifecycle for document-based (soap) web service design, development, and maintenancedefined, documented, and supported apis and api documentation for external service consumers
-		
-	
-	
-		
-			
-				
-					utilized jpa
-(hibernate), spring (mvc, core, integration, and batch), jquery, jax-ws ri, apache cxf, and
-other frameworks for production code and jmockit, junit, and soapui for developing tests designed, implemented, and managed xacml-based policies within java enterprise applications​mentored fellow team members
- icf international
- december 2003 to march 2012
- software engineer
- charleston, sc
- 		
-	
-	
-		
-			
-				
-					
-						designed and developed custom java-based content management system with magnolia cms
-and ckeditor to manage item descriptions and media
-
-					
-				
-			
-		 designed and implemented aws-based system which automated the transcoding of the uploaded videos to a format
-compatible with flash-based video streaming within an external web site. maintained iphone application code for an international annual arts festival, providing fixes and enhancementshelped design, develop and maintain several java enterprise applications for a major us dod procurement website
- skills
- languages:   java (1.4-1.8), c, javascript, objective-c, visual basicoperating systems: mac os x, windows, linux​java standards:   ejb, jsp/jstl, jpa, jax-ws, jax-rs, java content repository apijava frameworks:   spring (core, boot, mvc, integration, batch, security), thymeleaf, hibernate, jax-ws ri, apache cxf, apache jackrabbit, liquibasetesting frameworks: ​junit, jmockit, selenium, spring testbuild/dependency management: 
-		
-	
-	
-		
-			
-				
-					
-						maven, ant, ivyui: html, css, javascript/ajax, jqueryapplication servers:   oracle weblogic server, apache tomcatdatabases:   oracle database (10g-12c), microsoft sql serverweb services:   rest, oauth 2.0, soap, wsdl, mtom, xacml, ws-security third-party services:   amazon (s3, ec2, hsm, sqs)miscellanous: docker, asc (ansi) x12 standards
- education
- college of charleston
- 2003
- bachelor of science: computer science
- charleston, sc, usa
- co-authored published computer science paper on applying the zipf-mandelbrot law to music
- college of charleston
- 1995
- bachelor of arts: music composition/theory
- charleston, sc, usa
- won 1995 lowcountry music award for an orchestral composition
- 
+      
+        
+        
+           SENIOR DATA CENTER LAB ENGINEER
+        
+        
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Results-driven IT management professional with 20 years of experience in diverse industries, including Infrastructure and data center management. Expertise includes team leadership, technical architecture, training , recruiting, mentoring , development, disaster recovery planning, asset management, inventory control, VAR experience, contract to hire experience and information protection analysis. Knowledge of Enterprise Project Lifecycle methodology with a emphasis in Infrastructure engineering with strong background in project management, product support including break/fix to the board level. More than 15 years in IT project management, skilled in installation, configuration, migration and implementation of rack systems, cable management, cable testing, server, power and cooling infrastructure including retrofitting, commissioning and decommissioning  data centers from the ground up. Dynamic, resourceful, and extremely driven individual with a deep passion for creating and delivering programs and solutions that empower a team, company, and customer to meet and exceed desired expectations. 
+      
+      
+      
+        
+        Highlights
+      
+        
+        
+          
+            
+              Enterprise platformsExperienced in infrastructure designForecasting specialistKnowledge of Product Lifecycle Management (PLM)Supplier interfacePerformance criteria trackingEnd-to-end product lifecyclesCollaborativeInventory trackingVendor management
+              Project trackingHardware and software upgrade planningProduct requirements documentationSelf-directedBudgeting and resource managementMS VisioDecisiveCost reductionColo experience and management.Staffing augmentation, hiring and training.
+            
+          
+        
+      
+      
+      
+        
+        Accomplishments
+      
+        
+        Responsible for managing the infrastructure project commissioning of a 428,000 Sq. Ft. data center from a empty building to completion including assembling the infrastructure team required to install the equipment, racks, cabling, power successfully ahead of schedule.Responsible for managing the decommissioning project of a DR data center successfully transferring the entire contents to another DR data center including the inventory and assets.Successfully Increased core system availability to 100% by developing standards, in house break/fix ability, redundant hot swap equipment allowing immediate replacement within minutes instead of hours and implementing best practices.Successfully transitioned a mainframe data center to a standard open system data center including the high volume printers successfully without error , under budget and ahead of schedule.Reduced the incidence of IT issues by 50% globally by designing a training improvement program for the infrastructure engineers increasing their skill sets and knowledge with industry certifications related to their daily tasks.Reduced costs and delays by internally completing break/fix on the hardware instead of contracting out the break/fix function. The quality of the repairs also increased because of pride of ownership and the expectation that it be repaired correctly the first time.     
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Senior Data Center Lab Engineer
+            
+              August 2016 to 
+              Current
+            
+          
+          
+            GE Health Care Inc. － 
+            Barrington, 
+            IL
+          
+          
+            Insight Global contract position Install and perform repairs to hardware and peripheral equipment, following design and installation specifications including copper/fiber cabling for connectivity. This includes Dell, HP servers and blades, Cisco switches and firewalls, HP switches,  EMC arrays, F5 and related KVM devices etc. Provided feet and hands support for commissioning/decommissioning, break/fix to the board level, cabling installation and testing and rack installation for the Barrington, Chicago, Milwaukee and Wauwatosa data centers as required.Conduct computer diagnostics, firmware upgrades to investigate and resolve problems and provide technical assistance and support to product developers and programmers. Design, maintain and audit inventory according to present and forth coming projects.Provide space, power and cooling direction  and installation according to project hardware and software requirements.Provide quarterly data center hardware audits using Visio to maintain FDA standards and requirements.
+          
+        
+      
+        
+        
+          
+            Senior Data Center Engineer
+            
+              November 2015 to 
+              August 2016
+            
+          
+          
+            CapitalOne － 
+            Volo, 
+            IL.
+          
+          
+            Apex contract positionProvided daily commissioning and decommissioning of various types of equipment into racks based on HP Service Manager customer tickets including required copper,fiber cables including cable management.Provided vendor escorts to install and/or provide break/fix of customer equipment.Provided break/fix for servers, switches, firewalls and other related equipment to the board level and beyond.Provided hands and feet services for off-site engineers to troubleshoot, install, repair, upgrade or anything required to return their equipment to operational status.Maintained the cleanliness of the data center including the floors and both the interior and exterior of each rack being installed in the data center.Set up and configure servers and blade servers in the lab racks prior to going live on the data center floor according to owner requirements.Participate in bridge calls requiring assistance for failed equipment and/or connections until corrected as the on-site engineer.Maintain and monitor the power and cooling systems and related alarms. ​
+          
+        
+      
+        
+        
+          
+            IBM Global Remote Data Center Manager
+            
+              March 2015 to 
+              July 2015
+            
+          
+          
+            IBM － 
+            Schaumburg, 
+            IL
+          
+          
+            Compunnel contract position.Manage IBM Colo for Baxter pharmaceutical customer daily request for connectivity and hardware installation remotely.Project management to both decommission old customer equipment and to commission customers design in the COLO for new racks, equipment and connectivity.Managed customer split between Baxter pharmaceutical and Baxalta pharmaceutical and ensure that the connectivity and equipment is moved and reinstalled in the COLO ensuring to separate companies.Worked directly with customer network administration to complete customer request for network connectivity and hardware trouble shooting including issuing the proper TCP/IP and VMWare scopes.Provided mentoring and trouble shooting experience with on-site remote hands engineers to complete customer new orders for cable, connectivity and hardware installation and trouble shooting.  ​
+          
+        
+      
+        
+        
+          
+            Infrastructure Manager
+            
+              June 2009 to 
+              July 2014
+            
+          
+          
+            Chicago Mercantile Exchange － 
+            Chicago, 
+            IL.
+          
+          
+            Directed and managed the infrastructure and engineers to bring the data online from a empty building to a fully operational 428,000 Sq. Ft. production data center. Managed day-to-day activities of 12 infrastructure technicians and D/R data center, which included handling daily I.T.S.M tickets for  power, server, switch and router installations, decommissioning and connectivity issues.Conducted performance reviews of engineers and scheduling of PTO, ECC and on call 24X7 coverage.Directed engineers course of action resolving Internet connectivity, general software and hardware issues.Directed hands-on management of racking, stacking, decommissions, inventory, asset management, cable tracing, cable clean up, cable testing and new circuit installations including Roadm and dark fiber.Redesigned recruiting process requiring stringent technical knowledge  and experience and training for seven data centers including the training for engineers, colo space and remote hands.This involved the following: Windows operating systems from XP thru Windows 7, Server 2003, Cisco Nexus 7000, 6500, 3750's and 2800 series, Net scout, Netbotz 500, Compaq, RF code, HP and Dell servers, Liebert CRAC's and PDU's, Terminal server using Cisco 2600 and Cisco Airport's for wireless.Participated in the weekly change control and risk meetings collaborating with all levels of management from director to CTO.Hired, trained and mentored 75 new infrastructure engineers.Managed the 75 person local data center infrastructure team, allocating resources to ongoing projects and enforcing deadlines.Collaborated with the global team to resolve IT support cases in the data centers.
+          
+        
+      
+        
+        
+          
+            Self employed
+            
+              April 2008 to 
+              June 2009
+            
+          
+          
+            Dave's Computer Services － 
+            Kenosha, 
+            WI.
+          
+          
+            Assisted residential and small business owners with daily hardware and software support.This included break/fix, re-imaging, network connectivity, wireless networks, cabling and network installation and maintenance.This involved the following: Windows from 98 thru Vista, Microsoft Office 97 thru 2007, Linksys and D-Link routers and switches, phone support.
+          
+        
+      
+        
+        
+          
+            Premise Technician
+            
+              October 2007 to 
+              April 2008
+            
+          
+          
+            AT&T － 
+            Greenfield, 
+            WI.
+          
+          
+            Installed U-Verse into customer's homes and businesses on a daily basis, which involved making cross connects at the VRAD and then completing the connection using a balun at the customers NID.Cat5/coax was then installed throughout the home or business, which was terminated, tested and certified and connected to a television and/or computer.This involved the following: Windows from 98 thru Vista, Microsoft Office 97 thru 2007, Linksys and D-Link routers and switches including trouble tickets.
+          
+        
+      
+        
+        
+          
+            System Integration Manager
+            
+              November 2006 to 
+              May 2007
+            
+          
+          
+            GE Health Care － 
+            Wauwatosa, 
+            WI.
+          
+          
+            CompuCom contract positionManaged contract account for GE Healthcare including budget, profit margin, hiring, recruiting and mentoring.This included the projects for each of my teams in cooperation with GE managers, which consisted of 45 technicians ranging from tier one to designer.Responsible for the daily operation of GE end users and responded to help desk tickets to meet SOP and SLA's, which ranged from windows/UNIX server issues and everything in between.This involved: Windows XP and Server 2000 and 2003, UNIX 9, 10 and Linux on HP, Compaq, Dell and Sun servers.    ​
+ 
+​
+          
+        
+      
+        
+        
+          
+            Facility Data Center Manager
+            
+              July 2006 to 
+              October 2006
+            
+          
+          
+            Zurich/Farmers Insurance － 
+            Schaumburg, 
+            IL.
+          
+          
+            Teksystems contract position.Installed server racks and servers into the data center and maintained and monitored their connectivity.Also maintained the Liebert 750KVA UPS and Liebert CRAC units using Liebert sitescan 3.0.This included the Liebert PDU's and halon fire suppression system on a 24/7 on-call basis.This involved Windows 2000 Server, UNIX and HP AUX.
+          
+        
+      
+        
+        
+          
+            SIS Project Manager
+            
+              May 2006 to 
+              June 2006
+            
+          
+          
+            Wisconsin Department of Corrections － 
+            Madison, 
+            WI.
+          
+          
+            Teksystems contract positionManaged the project to transfer all ownership and technical support of the Department of Corrections computer systems to the Department of Engineering, which included transferring eight thousand and five hundred Microsoft Outlook accounts and six hundred and fifty print servers.This involved Outlook 2003 and process management.
+          
+        
+      
+        
+        
+          
+            Data Center Engineer
+            
+              January 2006 to 
+              May 2006
+            
+          
+          
+            JP Morgan-Chase － 
+            Elgin, 
+            IL.
+          
+          
+            Teksystems contract position.Installed and de-installed servers on a daily basis and installed either the Windows server OS or the UNIX OS depending upon the requirement using a script.This also involved break/fix on Dell, Compaq and HP servers to the board level and maintenance and monitoring of the Liebert power and cooling systems.Collaborated with the global team to decommission the data center and transfer the assets.
+          
+        
+      
+        
+        
+          
+            NOC Manager
+            
+              January 2005 to 
+              May 2005
+            
+          
+          
+            Allergan Pharmaceutical － 
+            Irvine, 
+            CA.
+          
+          
+            Compucom contract position.Managed the daily operation of 55 tier one and tier two technicians that responded to help desk tickets for end user assistance ranging from file and folder issues to server connectivity issues.This also involved managing the SLA's, SOP's and Sarbanes-Oxley audits to ensure FDA regulation compliance.Handled the recruiting, hiring and mentoring of the staff, which included vendor management.
+          
+        
+      
+        
+        
+          
+            Data Center Manager
+            
+              February 2002 to 
+              January 2005
+            
+          
+          
+            Publicis Groupe/ Leo Burnett USA, Inc － 
+            Chicago, 
+            IL.
+          
+          
+            Directed and managed the transition from a main frame data center to a traditional open systems data center including printing services.Managed three global data centers and participated in the building and project management of a fourth data center spanning Chicago, Michigan, New York and Europe.Directed the management of 9 analysts, 2 network/telecom technicians and 3 electricians, which included training and mentoring.I also managed and was responsible for calculating the cooling and power needs of the data centers using Liebert UPS and CRAC's.This involved the daily break/fix of all hardware within the data centers and the maintenance and management of the AS390 mainframe on a daily basis including transitioning from the mainframe to open systems solely.This involved Dell, Compaq and HP, Sun, HP AUX servers and Panduit racks using Windows NT 4.0 and 2000, Novell 4.11.Managed help desk ticket and phone support queue.
+          
+        
+      
+      
+      
+        
+        Education
+      
+        
+        
+          
+            
+            
+            A /CNA certification, 
+            1997
+          
+          
+            Training Technologies
+             － 
+            Rancho Cucamonga, 
+            CA, 
+            United States
+          
+          
+          
+            Coursework in Computer Networking and Information Technology
+          
+        
+      
+      
+      
+        
+        Certifications
+      
+        
+        A  certified #9E8DTT2557Network  certificationMicrosoft Certified Professional #1267994 /Windows NT 4.0Microsoft Certified Professional #1269364 /Windows 2000 70-73 NT Server 4.070-67 Windows 2000 Professional70-270 Windows SQL 7.0Administration Microsoft Networking Essentials #70-58 Hewlett Packard authorized technician  #SD0436Compaq authorized technicianDell authorized technician  #25933Network Analysis with SnifferInterconnecting Cisco Network DevicesLight Brigade fiber certification
+      
+      
+      
+        
+        Personal Information
+      
+        
+         
+      
+      
+      
+        
+        Skills
+      
+        
+        15 years of experience in recruiting, hiring, training and mentoring infrastructure engineers.10 years of experience managing the daily functioning of 24/7 data centers.18 years of experience performing break/fix to the board level on servers, desktops, laptops and most printers.10 years of experience upgrading, commissioning and decommissioning global data centers.
+      
+      
+    

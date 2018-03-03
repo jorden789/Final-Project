@@ -1,37 +1,436 @@
 
- senior engineer
- heading
- seasoned full stack developer with 10+ years of experience developing enterprise web apps. well-versed in the design and development of mission critical enterprise apps using java and oracle technologies. sun certified java developer and oracle certified professional.
- skills
- languages:java/j2ee/python/groovyj2ee technologies:struts/spring/grails/mvc/jsf/ajax/hibernate/jpa/jmsweb servies/soa/xml/rest​esb:mule,oracle service busdb:oracle,sql server,mongodb/no sql,apache solrsoftware process:agile/scrum,tdd,ci,maven,jiraui :knockout js,ajax,jquery,bootstraptools:eclipsesdk,python idle,weblogic,websphere,subversion,git,tomcat
- education
- master of science: computer science
- 2000
- mumbai university , india
- full stack web developer nanodegree
- 2017
- udacity
- projects
- neighborhood map :developed a single-page web application, built using the knockout & bootstrap framework, that displays a google map of an area and various restaurants nearby.integrated lookup of additional restaurant information via foursquare. linux server configuration :installed and configured all required software to turn a baseline ubuntu amazon web services server into a fully functional web application server, including apache web server and postgresql database server.added security using ssh.
- experience
- senior engineer
- 10/2013 to 04/2015
- multiplan inc
- naperville, il
- involved in the design/development of etl module to extract and load claims and provider data from the database into apache solr.provided much faster claim and provider searches from web portals.
- engineer - payment solutions division
- 03/2011 to 09/2012
- intuit
- los angeles, california
- worked with product management teams to deliver critical payment processing attach initiative for various intuit products like quick books online, quick books desktop, go mobile payment etc.directly involved in product release cycles for intuit and delivered under strict timelines.
- consultant-business tech integration
- 04/2007 to 05/2010
- bank of america
- los angeles, california
- participated in the development of servicer accounting web application module for the mortgage servicing business division.involved in servicer accounting system migration from countrywide systems to bank of america.
- knowledge engineer
- 03/2004 to 04/2007
- mindbox
- los angeles, california
- developed a web enabled loan origination system(los) using java/j2ee framework for one of the clients.improved pre-approval time within sla for the business client.
- 
+      
+        
+        
+          
+          NETWORK ENGINEEER
+        
+      
+      
+      
+      
+        
+        Career Overview
+      
+        
+        Over 7 years experience in routing, switching, firewalls and wireless field and would
+like to
+grow my skills, knowledge and
+expertise more within this area and find new endeavors. As a
+network engineer I have worked
+on designing, installing, managing, troubleshooting, automating and maintaining most of
+network related
+products and equipment. I have worked on most of the main technology brands
+such as Cisco, nexus, Palo Alto, Fortinet, F5, bluecoat, Silverpeak, A10, AWS, Aerohive, Aruba, Meraki.
+Designed core office networks
+with branches ranging from 50 to 1000 users
+      
+      
+      
+        
+        Qualifications
+      
+        
+        
+          
+            
+              Cisco Certified Network Associate (CCNA) Cisco Certified Network Professional (CCNP)Silver Peak Optimization Professional (SPOP)AWS Systems Operations
+              A10 Accredited Specialist Palo Alto Certified Network Security Engineer (PCNSC)Microsoft Certified Systems Engineer (MCSE)
+            
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        
+		
+	
+	
+		
+			
+				
+					
+						Cisco Routers ASR 1000 Series,
+ISR 4000 Series, 2900 Series, 2800 SeriesNetwork Monitoring and backup tools such as solarwinds ncm, npm, ipamWireshark Packet CaptureCloudshark Packet CaptureLogicmonitor for bandwidth monitoringNetflow monitoring with management netflow
+		
+	
+	
+		
+			
+				
+					
+						Switches Cisco 3850, 3750, 3560,
+2960, 6500Switches Nexus 9000, 7000, 5000, 2000 SeriesSwitches Arista Networks
+		
+	
+	
+		
+			
+				
+					
+						Routing Protocols BGP, iBGP,
+eBGP, EIGRP, OSPF
+		
+	
+	
+		
+			
+				
+					
+						AWS Advanced Operations 
+					
+				
+			
+		
+		
+	
+	
+		
+			
+				
+					
+						QOS, WCCPQOS on cisco routers, switches, ASRQOS on palo alto and Fortigate firewallsQOS for VOIP services on cisco routers
+		
+	
+	
+		
+			
+				
+					
+						Spanning Tree Protocol (STP)
+(RSTP) on access and core switches
+		
+	
+	
+		
+			
+				
+					
+						Cisco Firewall ASA 5505, 5508,
+5516
+		
+	
+	
+		
+			
+				
+					
+						Zscaler Cloud Security FirewallSD WAN TechnologiesSilverpeak Wan OptimizationBluecoat Wan Optimization
+		
+	
+	
+		
+			
+				
+					
+						Palo Alto Firewall PA7000,
+PA5000, PA3000, PA2000, PA500, 
+					
+				
+			
+		
+		
+	
+	
+		
+			
+				
+					
+						PA200, CLI ConfigurationFortigate 100,200,600 series NGFWA10 Load balancers configuration, installation, troubleshootingF5 load balancers
+		
+	
+	
+		
+			
+				
+					
+						Wireless (Aruba, Meraki, Aerohive, Cisco) 
+		
+	
+	
+		
+			
+				
+					
+						VPN, DMVPN, IPSEC, GRE 
+					
+				
+			
+		
+		
+	
+	
+		
+			
+				
+					
+						Bradford Networks Network
+Access Control 
+					
+				
+			
+		
+		
+	
+	
+		
+			
+				
+					
+						Bradford BYOD Technology 
+					
+				
+			
+		
+		
+	
+	
+		
+			
+				
+					
+						DNS, DHCP, TCP/IP
+		
+	
+	
+		
+			
+				
+					
+						OKTA, Servicenow, Versionone,
+WorkdayJira software
+      
+      
+      
+        
+        Accomplishments
+      
+        
+        Setup Core Office Network3 different Office builds for 500  Users Network (EMEA, APAC, North America)Ordered Switches, Routers, Firewalls for the officeOrdered MPLS and Internet circuits for the officeOrdered Wireless Access Points for the officeSetup router, switches and palo alto firewalls in some locations and Cisco asa firewalls in other locationsCoordinated with the MPLS and internet careers to do testing and braining up routing throughout the enterpriseCoordinated with the internal logistics team and external vendors to make sure all the deadlines are metCoordinated with internal teams to make sure all the services are running and delivered on time eg. DNS, DHCP, RMP Servers, VMWare machinesMade sure the testing is done thoroughly after the implementation to test all the services including wireless, WAN, LAN and logistics devices such as printers tvs and monitors AWS Migration Migrated 2 data centers from EMEA and APAC to AWS servicesSetup routing and vpn tunnels back to core offices from AWSSetup internal routing and natting in AWSSetup and ordered direct connect circuits with both of our MPLS providers to the AWS datacenters in singapore and irelandSetup VPC, EC2 instances, Gateways, Firewalls, Routing and Security groups in AWSSetup Wan accelerator device between AWS and other various office locations to make sure the data is optimized according to the client specificationsSetup VPN ASA in primary/standby configuration for the company's vpn users base getting away from the physical datacenter    Setup Palo Alto firewalls in active/passive setup to get all the aws traffic pass through the firewallsParticipated in testing with server engineering teams and various other database and applications team to make sure all the apps and services work optimally with same integrity as beforeNAC Solution (Bradford Networks)Researched and implemented network access control solution called bradford networks throughout the company 30 locations in north america, emea and apacTrained network staff on the solution to make sure we have proper documentation in place for backups and disaster recoveryTrouble shoot and maintained the entire NAC systemBYOD (Bradford Networks) Researched and implemented byod technology on the company wide wireless systemAround 30 offices worldwide deployedSetup the acces points to point them to the byod servers and then directing the radius requests from the byod server to the actual radius servers in order to control the byod devicesPalo Alto Setup in HAInstalled and configured PA-5000, PA300, PA2000 and PA500 in HA environment in different datacenters and main core office locations around the globe Deployed PA800 in 2 of the datacenters in AWS which are singapore and ireland locationsWireless Refresh Spearheaded the project to replace cisco wireless environment with aerohive, aruba and meraki wireless access points throughout the company locations of about 30 offices worldwideRemotely coordinated with 3rd party vendors to install the new access points in all of the company remote offices and bringing them oline and configuring them in the cloud management dashboardTrained team members on the aerohive management dashboard and aerohive O/S. Trained them on how to configure the access points correctly from switchport to the core routers and switches​​Fortinet Firewall ImplementationWorked on Fortinet 100 series NGFW implementation in the datacenters and some remote offices to replace the cloud zscaler firewall solution and actual physical routers with one fortigate firewall to replace both router and the firewall on premise. Went to remote office locations to take out the router and cloud firewall and put in place the fortigate firewall and connect it back into company's BGP system and various other circuits. Worked on fortigate 201E for the main datacenter implementationSwitch RefreshWoked on a project to refresh the switches in the core offices and remote offices to go from old cisco 6500 to 3850 stackable switches. Configured and installed switches with the help of 3rd party installation techs. Followed standard test plans after the refresh to make sure all the services and application are running at thier best performanceTrained other team members on how to perform the refresh and upgrades following a particular standard company processData Center Refresh and BuildWorked on couple of datacenter refreshed where company wanted to move from old 6500 series switches to new nexus 7k chassis series.Worked on the design of a new datacenter in london where company had to move out of old datacenter space into the new location in amsterdam where new core switches and routers needed to be setup according to the desgin. Worked with senior leadership in designing the layout of the new setup space and servicesConfigured the edge routers and core switches for both data centersConfigured Palo Alto firewalls in the datacenters in a active/standby configurationConfigured WAN Optimization between the datacenters and different remote sitesConfigured DMVPN for the datacenters and remote site where the datacenter was the hub and remote sites were spokesConfigured Cisco ISE for Tacacs Configured A10 load balancers in the datacenterConfigured ASA Firewalls and VPN firewallsDocumentationZscaler Cloud Firewall RolloutParticipated and implemkented zscaler cloud firewall for all the remote offices in north america, europe and asia sitesTrained junior colleagues on the zscaler project and how to confiure the tunnels to zscaler portal from the local cisco ASR routersConfigured zscaler tunnels on the dia circuits on all the remote offices and one by one moved all the offices off of backhauling the internet from datacenter to the local dia circuit through zscaler firewall
+      
+      
+      
+        
+        Work Experience
+      
+        
+        
+          
+            Network Engineeer
+            
+              May 2013 to 
+              Current
+            
+          
+          
+            Careerbuilder LLC. － 
+            Chicago, 
+            IL
+          
+          Daily troubleshooting of network
+     issues company wide in all 3 regions North America, emea and apac.
+     Participated in on-call rotations every week. Traveled throughout the
+     company for new office installations, datacenter setup, new company
+     acquisition requirement gathering and troubleshooting remote sites which
+     required being physically present at the site. Setup a core datacenter in
+     Amsterdam for all the EMEA remote office traffic. Used OKTA for all the
+     internal applications including travel, accounting and other services.
+     Used service now for change creation and ticketing system. Used version
+     one for project planning and daily tasks tracking. Used Microsoft office
+     365 one drive for shared folders and documentation. Used wireshark and cloud shark regularly for network troubleshooting of various issues from switchport mirroring to port span. Used workday for HR
+     communications pto and on call calendars. Participated in on-call rotations
+     every 2 weeks
+ Worked on various datacenters
+     throughout the organization utilizing cisco nexus line of switches for
+     both core and distribution layer access. Setup nexus 7k switches as core
+     for the datacenter and used nexus 5k switches to extend the fex fabric
+     into 2k switches. Used nexus 6k and 4k access switches with ibm servers.
+     Nexus 7Ks used in hsrp pri/sec configuration for all the svis on the core
+     switches. Used dual fiver connection in a port-channel vpc configuration between
+     the 2 7k core switches. All the access layers switches were 3850's coming
+     back to 7k core in a dual port channel configuration with primary and
+     secondary connections to the pri/sec 7k cores.
+ For core offices builds I used
+     nexus 9k as core layer switch for all SVI interfaces and vpc port channel
+     configurations with the access layer switches in the idfs. Used 9k in an
+     hsrp design for all the svis and vlans. Used 9k for the core routing and
+     eigrp distribution into the 2 MPLS routers. Used prefix lists and metrics
+     to control the flow of traffic. Worked on VPN ASAs which connected all the vpn users throughout our enterprise network to various vpn end points located in various datacenters across the globe. Setup palo altos in major company locations such as core offices and datacenters. Deployed the network access control solution throughout the enterprise which included the implementation of the byod technology as well as wired nac implementation throughout the company locations. Used monitoring tools such as logicmonitor a cloud based monitoring solution to monitor bandwidth and various alerting systems. Used solarwinds to manage backups and ip addresses and used managengine netflow product to leverage the netflow traffic from various network devices into one dashboard
+        
+      
+        
+        
+          
+            Network Engineer
+            
+              Feb 2013 to 
+              May 2013
+            
+          
+          
+            Convergint Technologies － 
+            Schaumburg, 
+            IL
+          
+          Worked on a project for convergent technologies to configure, install and maintain brocade network switches for METRA electric rail lines. Worked with one more junior person to train him on configuration of the switches in the lab environment and then going out to various METRA stations to physically install and configure the switches throughout different stations leveraging their fiber connection throughout the different stations
+        
+      
+        
+        
+          
+            Network Engineer
+            
+              Aug 2011 to 
+              May 2013
+            
+          
+          
+            Abbott Labs － 
+            Waukegan, 
+            IL
+          
+          Worked in the implementation department which is responsible for configuration and installation of network devices including wan routers, lan switches, wireless equipment, firewalls and load balancers. Used sharepoint for all the information for documentation, travel and other resources.Worked on wireless refresh project where we had to refresh around 500 wireless access points throughout different campuses of abbott labs locations which included installation and configuration the APs according to the environmentWorked on a project where the company remote offices and datacenters needed installation of new blue coat wan accelerator equipment which required configuring the blue coat locally in the waukegan office and then shipping the device to the remote offices in india, china, singapore and australia and working with local contacts to physically rack and setup remote connections to the device for us to configure and test the new device.Worked on a router and switches refresh project where the company needed to refresh their current siwtches with the newest model of extreme networks stackable switches. Configured the switches locally in the waukegan office and shipped the switches out to the remote offices throughout north america and worked with their local office contacts to rack and setup remote access to access them remotely and test them​
+        
+      
+        
+        
+          
+            Network Admin
+            
+              Oct 2009 to 
+              Aug 2011
+            
+          
+          
+            Quicklink Communications － 
+            New York, 
+            NY
+          
+          Worked with the senior team to help them configure routers, switches and firewalls throughout the company remote locations. Setup wireless access points throughout the company remote locations. Participated in on call rotations for help desk and network issues.​
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+            Bachelor of Science, 
+            Computer Science
+            
+              2008
+            
+          
+          
+            Northern Illinois University － 
+            Dekalb, 
+            IL, 
+            U.S.A
+          
+          
+          
+        
+      
+        
+        
+          
+            Associate of Science, 
+            Firewalls
+            
+              2016
+            
+          
+          
+            Palo Alto Networks － 
+            Chicago, 
+            IL, 
+            U.S.A
+          
+          
+          Troubleshooting (331)Installing and configuration (221)Panorama Essentials (231)
+        
+      
+        
+        
+          
+            Associate of Science, 
+            Technical Essentials AWS
+            
+              2016
+            
+          
+          
+            Amazon Web Services － 
+            New York City, 
+            NY, 
+            U.S.A
+          
+          
+          
+        
+      
+        
+        
+          
+            Associate of Science, 
+            Systems Operations AWS
+            
+              2016
+            
+          
+          
+            Global Knowledge － 
+            Washington D.C., 
+            DC, 
+            U.S.A
+          
+          
+          
+        
+      
+        
+        
+          
+            Associate of Science, 
+            A10 Certification
+            
+              2015
+            
+          
+          
+            A10 Networks － 
+            San Jose, 
+            CA, 
+            U.S.A
+          
+          
+          
+        
+      
+        
+        
+          
+            
+            Wan Optimization
+            
+              2015
+            
+          
+          
+            Silverpeak Systems － 
+            San Jose, 
+            CA, 
+            U.S.A
+          
+          
+          
+        
+      
+      
+    

@@ -1,32 +1,141 @@
 
- lead software engineer
- objective
- seeking a challenging software engineering environment which utilizes the latest technologies and paradigms,
-dedicates time to research and focuses on core architectural aspects of software development.
- highlights
- design and implement frameworks and platform level enhancements in web applications.provide technical leadership to dev teams. provide guidance in new technical ventures. conduct design review sessions with various teams.extensive backend development experience in j2ee multi-tier web applicationsextensive experience with agile sdlc
- experience
- lead software engineer
- april 2010 to current
- sap successfactors － reston, va
- design and implement a new spring boot based application for automated provisioning of customers on a multi-tenant application. plan application deployment and infrastructure with ops.design, implement and maintain various platform level frameworks for a multi-tenant web application. these include frameworks to support background jobs, event processing, session management, connection pooling, localization, deep linking and web security.technical lead for transition of a mobile web application to native ios and android. started with no prior ios or objective c experience.design and implement various platform level aspects for a new ios application.these include an entity driven sync framework to support a hybrid offline and online functionality. creating an api authentication layer that allows ios developers to make api calls with minimum boiler plate code.  profile the ios application for improved performance, memory consumption and detection of memory leaks.total redesign of various outdated back-end layers of the application related to finance and course assignmentdesign and implement a framework to streamline the addition of a mobile extension to the web application. implemented the ability to plugin a mobile flavor of the existing web ui and client layer with minimum boiler plate code. design and maintain project dependency management.troubleshoot issues related to jvm thread capacity, garbage collection and heap consumption.     ​
- software engineer
- february 2007 to april 2010
- tritek solutions － annandale, va
- develop enterprise content management and business process management solutions.prepare design documents and develop proof of concept solutions. interact and collaborate directly with the client.develop and customize web applications based on the model-view-controller paradigm.debug and monitor performance through jprofiler.research, design and develop a highly customizable event handler framework. the framework supports event handlers that perform certain work based on events that are triggered upon committing or modifying documents.develop jquery and ajax based uis for indexing documents.
- software engineer
- july 2006 to september 2006
- freddie mac － vienna, va
- development and integration of java and c based applications.enhancements to report processing engines.implement a suite-wide transition to encrypted communication for file transfers in c and java applications.
- intern researcher
- february 2005 to august 2005
- carnegie mellon robotics (under the supervision of professor geoffrey j. gordon) － pittsburgh, pa
- develop an engine using the carmen c library to communicate with the sensors and wheels of a robot.implement an online learning algorithm by combining hedge and brushfire (a variation of dijkstra shorted path).
- education
- bachelor of science
- : computer science/mathmematics, december 2006
- carnegie mellon university
- － pittsburgh, pa
- technical skills
- java 1.8, objective c, c, javascript, htmlspring boot, spring, spring mvc, hibernate, jpa, ibatis, struts, jsp tomcat, apacheweb services, rest, json, odataeclipse, intellij, xcodetestng, junit, jmeter, jprofiler, visualvm, gdbgit, grade, svn, maven oracle 11g, ms sqlangularjs/bootstrap, jquery, jquery mobile uiunix/bash shell scripting, regex. 
- 
+      
+        
+        
+          
+          CUSTOMER SERVICE ENGINEER IN DEFECT METROLOGY.
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Solution-oriented,
+self-motivated Field Service Engineer with over 10  years of experience with well round of knowledge in the areas of electronics, pneumatic, networking, mechanical, vacuum, laser and optical system.
+      
+      
+      
+        
+        Professional Experience
+      
+        
+        
+          
+            Customer service engineer in Defect metrology.
+            
+              Jan 2013 to 
+              Current
+            
+          
+          
+            Applied Materials, Inc － 
+            Hillsboro, 
+            Oregon
+          
+          Install, upgrade, calibrated and repair at client's siteInteract with clients and their manager and take feedbackEnsure safety norms are followed during installation and maintenance
+        
+      
+        
+        
+          
+            Customer service engineer in EPI
+            
+              Sep 2006 to 
+              Dec 2012
+            
+          
+          
+            Applied Materials, Inc － 
+            Hillsboro, 
+            Oregon
+          
+          Installation and repair complex electronic, network, mechanical and vacuum system
+        
+      
+        
+        
+          
+            Grinding machine technician and operator
+            
+              May 2006 to 
+              Sep 2006
+            
+          
+          
+            Sumitomo Electric Semiconductor Materials, Inc － 
+            Hillsboro, 
+            Oregon
+          
+          
+        
+      
+        
+        
+          
+            Thin-film Equipment Maintenance Technician Intern
+            
+              Jun 1997 to 
+              Jun 1998
+            
+          
+          
+            Fujitsu Microelectronics Inc － 
+            Gresham, 
+            Oregon
+          
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+            Bachelor of Science, 
+            Automated Manufacturing Technology
+            
+          
+          
+            ITT Technical Institute － 
+            Portland, 
+            Oregon
+            
+          
+          
+          
+        
+      
+        
+        
+          
+            Associate of Science, 
+            Electronics Engineering Technology
+            
+          
+          
+            ITT Technical Institute － 
+            Portland, 
+            OR
+            
+          
+          
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        Experience with complex electronic, mechanical, vacuum, laser and optic system.Strong analytical, diagnosis, and problem solving skills.Ability to work with blueprints, schematic drawings.Setup and troubleshooting networking using NETBEUI, IPX/SPX, TCP/IP, and TelnetProficient with Microsoft Operating system and Microsoft OfficeFamiliar with PLC ladder diagram and CNC programs.Improving customer service based on client feedback through the development of new policies and procedures.Work well as individual and/or team environment.Flexible with Travel (Domestic or International)Bilingual
+in Thai & English
+      
+      
+    

@@ -1,31 +1,110 @@
 
- applications analyst ii (document management system)
- summary
- motivated senior application administrator seeking opportunities in management of a dynamic applications and systems analyst team. focused and detail-oriented, offering exceptional troubleshooting skills and a talent for developing innovative solutions to unusual and difficult problems and motivating peers to do the same. expert in imanage and related ancillary systems. experienced in intapp wallbuilder, integration builder and open, attunity managed file transfer, visatrax, aternity end user experience, microsoft sql systems and other legal applications, as well as, some ogletree custom applications.
- accomplishments
- successfully managed the planning and implementation of multiple projects related to the upgrade of tier 1 and tier 2 applications.developed sql scripts to automate tasks used by support and other administrators to streamline processes.worked with sharepoint team to establish a new attorney onboarding platform to track tasks and more effectively communicate with attorneys and legal secretaries making the onboarding process much smoother.  manage team members and other peers on several on-going projects related to attorney onboarding.mentor and provide guidance to new team members as well as those outside of the system administration group.establish processes for the help desk for resolution and escalation of dms issues.
- experience
- applications analyst ii (document management system)
- february 2009 to current
- ogletree deakins － greenville, sc
- support of the full systems life cycle of applications as well as their related hardware and software.managed systems specification and design, installation, integration, maintenance, upgrades, patch installation, configuration, trouble-shooting, continuous performance monitoring and over-site of backup operations and strategy.provide guidance and assistance in developing and supporting related disaster recovery and business continuity strategies.write sql language queries to support  systems applications as needed, perform data analysis to facilitate identifying and resolving issues and problems, assist with data integrations and data migration activities.assist dba in the management and administration of dms microsoft sql databases.execute systems analysis to ensure that integrated systems work properly.resolve systems issues, develop test plans and perform testing functions on all related systems.function as project lead and technical liaison for document management systems and related systems upgrade projects.act as primary for the on-boarding and off-boarding process for attorneys as related to the dms.  managed peers and other teams in projects related to onboarding.    support aternity end user monitoring system, attunity managed file transfer system, intapp wallbuilder and open, visatrax, compulaw and various other systems.create and maintain all documentation related to supported systems.train peers in system processes.organized and held meetings with stakeholders, contractor product teams and customers. effectively manage and work with vendors, building and maintaining relationships. 
- trainer
- april 2008 to february 2009
- new horizons computer learning center － jacksonville, fl
- conduct classes in numerous computer soft skills, including but not limited to microsoft office, a certification course, ms infopath, adobe and photoshop.
- applications systems integration specialist
- may 1998 to march 2008
- mcguirewoods － jacksonville, fl
- act as administrator for interwoven worksite document management system (dms) and it's integration with other software in the firm, including microsoft office, workshare, adobe and emc software.train peers in support and use of firm software.tier 3 support for and assist with many of the firms primary software, including, but not limited to, interwoven, workshare professional, microsoft office xp, sharepoint and practice manager software.contact for and work closely with vendors for those software.
- senior on-site support technician
- february 1753
- mcguirewoods － jacksonville, fl
- responsible for supporting jacksonville office dealing with and troubleshooting all day to day issues.  supervise and train all incoming site support technicians across the midwest and east coast.
- education
- ba
- : criminal justice, political science
- university of north florida
- － jacksonville, fl
- skills
- imanage certified system engineer (v 8.5), system administration, backup/recovery, hardware, data analysis, data migration, databases, disaster recovery, document management, microsoft office, project lead, microsoft sql, strategy, systems analysis, troubleshooting, upgrades, microsoft os, virtualization, web apps
- 
+      
+        
+        
+           QUALITY ENGINEER
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Work at Ford Plant doing diagnostics of cars and trouble shoot failures of steering gears using Green Studios,CANalyzer ,Ford Tools. Flash gears with new software when needed. work with Ford team during PTR trials to ensure the gears function properly.Dedicated Quality Engineer with excellent technical, analytical and communication skills demonstrated by 5 years of experience.  I worked building Prototype gears Flashing software and testing on the bench for setting to spec.Dedicated Prototype tech. with excellent technical, analytical and communication skills demonstrated by 1 years of experience.  Work relocating factories worldwide from point A to Point B  making sure that  everything was back working and running smoothly with there operations.Dedicated Supervisor Rigger with excellent technical, analytical and communication skills demonstrated by 15 years of experience. 
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          07/2013
+           to 
+          Current
+        
+        
+          
+            Quality Engineer
+          
+          
+            BOSCH AUTOMOTIVE STEERING － 
+            Florence, 
+            Kentucky
+          
+          
+            Conduct routine and non-routine analysis of in-process materials, raw materials, environmental samples, finished goods, or stability samples.Compile laboratory test data and perform appropriate analysis.Complete documentation needed to support testing procedures including data capture forms, equipment logbooks, or inventory forms.Identify quality problems and recommend solutions.Interpret test results, compare them to established specifications and control limits, and make recommendations on appropriateness of data for release.Investigate or report questionable test results.Participate in out-of-specification and failure investigations and recommend corrective actions.Receive and inspect raw materials.Write or revise standard quality control operating procedures.Identify and troubleshoot equipment problems.Participate in internal assessments and audits as required.
+          
+        
+      
+        
+        
+          05/2011
+           to 
+          Current
+        
+        
+          
+            Prototype Technician
+          
+          
+            Bosch Automotive Steering － 
+            Florence, 
+            Kentucky
+          
+          
+            Study blueprints, drawings, and sketches to determine material dimensions, required equipment, and operations sequences.Drill, countersink, and ream holes in parts and assemblies for bolts, screws, and other fasteners, using power tools.Rework or alter component model or parts as required to ensure that products meet standards.Align, fit, and join parts, using bolts and screws or by welding or gluing.Consult and confer with engineering personnel to discuss developmental problems and to recommend product modifications.Assemble mechanical, electrical, and electronic components into models or prototypes, using hand tools, power tools, and fabricating machines.Wire and solder electrical and electronic connections and components.
+          
+        
+      
+        
+        
+          01/1994
+           to 
+          05/2011
+        
+        
+          
+            Manager or Supervisor
+          
+          
+            Hosea Worldwide － 
+            Independence, 
+            kentucky
+          
+          
+            Signal or verbally direct workers engaged in hoisting and moving loads, in order to ensure safety of workers and materials.Test rigging to ensure safety and reliability.Attach loads to rigging to provide support or prepare them for moving, using hand and power tools.Select gear such as cables, pulleys, and winches, according to load weights and sizes, facilities, and work schedules.Control movement of heavy equipment through narrow openings or confined spaces, using chainfalls, gin poles, gallows frames, and other equipment.Tilt, dip, and turn suspended loads to maneuver over, under, and/or around obstacles, using multi-point suspension techniques.Align, level, and anchor machinery.Fabricate, set up, and repair rigging, supporting structures, hoists, and pulling gear, using hand and power tools.Manipulate rigging lines, hoists, and pulling gear to move or support materials such as heavy equipment, ships, or theatrical sets.Attach pulleys and blocks to fixed overhead structures such as beams, ceilings, and gin pole booms, using bolts and clamps.Dismantle and store rigging equipment after use.Install ground rigging for yarding lines, attaching chokers to logs and then to the lines.Clean and dress machine surfaces and component parts.
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+        
+        
+          
+          
+          
+          
+            Southern ohio college, cincinnati , Ohio
+associates degree in costumer service engineering
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        blueprints, cables, hand tools, hoists, inspect, power tools, power tools, solder, welding
+      
+      
+    

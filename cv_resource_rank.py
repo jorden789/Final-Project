@@ -31,7 +31,8 @@ from munkres import Munkres, print_matrix, make_cost_matrix
 def main(p_cost_matrix):
     l_cost_matrix = []
 
-    for x, score in p_cost_matrix.iteritems():
+    #for x, score in p_cost_matrix.iteritems():
+    for x, score in p_cost_matrix.items():
         l_cost_matrix.append(score)
 
     #print(l_cost_matrix)
@@ -40,7 +41,7 @@ def main(p_cost_matrix):
 
     m = Munkres()  
     indexes = m.compute(cost_matrix)
-    print_matrix(cost_matrix, msg='Highest profit through this matrix:')
+    #print_matrix(cost_matrix, msg='Highest profit through this matrix:')
     total = 0
     position = []
     for row, column in indexes:
@@ -48,9 +49,9 @@ def main(p_cost_matrix):
         total += value
         position.append(row)
         position.append(column)
-        print '(%d, %d) -> %d' % (row, column, value)
+        #print '(%d, %d) -> %d' % (row, column, value)
 
-    print 'total profit=%d' % total
+    #print 'total profit=%d' % total
     
     return(position)
 

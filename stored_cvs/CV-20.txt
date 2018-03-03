@@ -1,38 +1,145 @@
 
- software intern
- summary
- seeking an entry-level data scientist position
- skills
- c++, c, python, matlab, linux, sql, microsoft office
-github: https://github.com/kasimshah
- accomplishments
- machine learning, advance data base systems, big data, pattern recognition and data mining, web search and information retrieval, linear algebra, probability, advanced design and analysis of algorithms
-projects:.movie recommendation system - implemented in python using numpy library.a recommendation system using a hybrid of k-means clustering and collaborative filtering.home price predictions - implemented in matlab.created a linear regression model to predict home prices based upon their size.classification of flowers - implemented in matlab.classified flowers using bayes decision theory to estimate the mean and covariance matrix for different flower types.certificate of achievement in programming c/c++ august 2016
-de anza college, cupertino, ca
-courses: data abstraction and structures, advanced c & advanced c++ programming
-master and bachelor of science in biomedical engineering design
- experience
- software intern
- 06/2017 to current
- d2s inc
- san jose, ca
- supplier of gpu-accelerated computational design platform to maximize existing ebeam technology to reduce mask costs for semiconductor manufacturing.developing tcl scripts for analyzing cad shapes.analyze shape alignment algorithm to optimized parameters for finer alignment, using data display debugger on c++ code base.
- test engineer
- 09/2015 to 06/2016
- outset medical inc
- san jose, ca
- performed quality and reliability testing on miniaturize dialysis systems.
- associate research scientist 1 contractor
- 08/2013 to 02/2015
- novartis pharmaceuticals
- san carlos, ca
- performed data analysis, prepared and presented detail reports on laboratory tests.
- education and training
- master of science: computer science and engineering data science
- june 2018
- santa clara university
- santa clara, ca
- computer science and engineering data science
- skills
- c, c++, cad, com, data analysis, dialysis, laboratory tests, linux, matlab, microsoft office, python, quality, scripts, sql, tcl
- 
+      
+        
+        
+          
+          PLANT MANAGER
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Dependable, highly driven manager with a strong general management background, and a track record for providing strategic direction leading to positive results. A proven leader in both logistics coordination and purchasing. Organized and proactive with strong communication and planning abilities. Dependable leadership and team building skills that drive marketplace results. 
+      
+      
+      
+        
+        Highlights
+      
+        
+        
+          
+            
+              Logistics coordination Team leadership Decision-making ability Procurement experience
+              Distribution experienceStaff developmentRate negotiations Ground transportation
+            
+          
+        
+      
+      
+      
+        
+        Accomplishments
+      
+        
+        Organized and implemented a new procurement process following the transition to a new ERP system.Managed and oversaw the expansion of a transportation group that increased profitability.Restructured driver pay scale to better manage costs in 2014 -15.Spearheaded the addition of a new warehousing facility to reduce delivery times to customers in the field.Built relationships with vendors directly to minimize cost and guarantee product availability.
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Plant Manager
+            
+              Nov 2016 to 
+              Current
+            
+          
+          
+            Solnexus Chemical － 
+            Midland, 
+            Texas
+          
+          Direct all plant operations associated with blending chemicals, and packaging products per customers specifications.  Hire and develop a cohesive team of 30 individuals including a strong management team to handle the increase in product demand.Work closely with laboratory personnel to ensure all products delivered to customers meet set specifications.    Oversee scheduling for day-to-day blends based on production needs determined by incoming orders and future forecasting.
+        
+      
+        
+        
+          
+            Distribution Manager
+            
+              Jul 2013 to 
+              Mar 2016
+            
+          
+          
+            AES Drilling Fluids, LLC － 
+            Midland / Houston, 
+            TX
+          
+          Planned, monitored, and managed product purchasing for West Texas drilling activities.Hired personnel and fully developed a new procurement team leading to lower COGS. Negotiated pricing, terms and conditions of sale, warranties, and conditions of contracts for goods and services.Managed team responsible for all warehousing operations in West Texas.Led logistics team driving a better response time to the field while reducing costs.​​
+        
+      
+        
+        
+          
+            Operations Coordinator
+            
+              Jul 2010 to 
+              Jul 2013
+            
+          
+          
+            Venture Mud, LP － 
+            Midland, 
+            TX
+          
+          Doubled trucking operations and profitability contributing to quicker response time in the field.Completed Apportioned tag Registration for all trucks in TXIRP system.Prepared Heavy Highway Vehicle Use (2290) tax return.Filed quarterly IFTA fuel tax reports.Developed relationships with new vendors for purchasing needs. Recruited and interviewed solid candidates for dispatching and driver positions. Oversaw warehouse growth operations in organizing and developing expansion projects.Further developed Health and Safety process.Updated ISnetworld as a part of the Health and Safety process.
+        
+      
+        
+        
+          
+            Drilling Fluids Engineer / Accounting
+            
+              Aug 2007 to 
+              Jul 2010
+            
+          
+          
+            Venture Mud, LP － 
+            Midland, 
+            Texas
+          
+          Provided daily leadership and instruction to drilling rig personnel regarding drilling fluids.Tested drilling fluids, prescribing daily treatments maintaining weight and chemistry properties within recommended limitsWorked closely with the drilling fluid supervisor to disseminate information regarding drilling fluids and expected treatments during drilling intervals. Invoiced customers as a part of the AP function.Worked closely with operators to resolve invoice related issues.Maintained and updated price scheduled from vendors to provide information to management for future bidding.
+        
+      
+      
+      
+        
+        Education
+      
+        
+        
+          
+            BBA, 
+            Management
+            
+          
+          
+            University of Texas of the Permian Basin － 
+            Odessa, 
+            TX
+            
+          
+          
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        Microsoft Office: Excel, Word, PowerPoint, Access, OutlookERP - Peachtree, Microsoft Dynamics AX, ChempaxDrilling Fluids Software - Mud Man ProPDF Viewer - AdobeCustomer Service, Computer Proficient, Multi-Task Management, Health & Safety experience, Oil & Gas Background, Drilling Fluids, Procurement, Supply Chain Management, Logistics management, Semiconductor Industry Background, Distribution management, Plant Management
+      
+      
+    

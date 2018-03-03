@@ -80,7 +80,8 @@ def main(p_cv_search_string):
 
     # For the page range 1 to 5, of the previously mentioned search, we specify specific pages in result set of search
     for i in range(5):
-        url = "https://resumes.livecareer.com/search?jt=software%20engineering&pg=" + str(i + 1)
+        #url = "https://resumes.livecareer.com/search?jt=software%20engineering&pg=" + str(i + 1)
+        url = p_cv_search_string + "&pg=" + str(i + 1)
     # Open specified page and process with specified html5 parser
         html_page = urllib.urlopen(url)
         soup = BeautifulSoup(html_page, "html5lib")
@@ -104,7 +105,7 @@ def main(p_cv_search_string):
                 if '/r/' in cv_url:
                     html = urlopen(cv_url)
                     print("Processing URL: " + cv_url)
-                    path = "/home/jallcock/environments/python_output/CV-" + str((i * 10) + n) + ".txt"
+                    path = "/home/jallcock/environments/Final-Project/stored_cvs/CV-" + str((i * 10) + n) + ".txt"
                     cv_soup = BeautifulSoup(html.read(), 'html5lib')
 
                     cv_info = cv_soup.find_all('div', {'id' : 'document'})

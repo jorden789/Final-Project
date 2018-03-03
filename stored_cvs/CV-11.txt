@@ -1,45 +1,160 @@
 
- senior software engineer
- summary
- senior software engineer with a strong scientific background and over 16 years of professional experience. skilled in test-driven development with a passion for producing high-quality clean code. highly adept at application design and development, testing and optimization. excels at java application development, including coordinating ground-up planning, programming and implementation for core modules.
- experience
- senior software engineer
- december 2016 to current
- somalogic inc － boulder, co
- ported key infrastructure to amazon web services (aws) for deployment to chinamigrated components of existing monolith to containerized microservicesevaluated angular and react as a replacement for existing front-endpresented team tech talks on new technologies (docker, kibana, kubernetes)evaluated single sign on (sso) solutionactive participant in group learning (machine learning, evolutionary architectures)completed architecting on aws training course
- senior software engineer
- november 2005 to november 2016
- las cumbres observatory － santa barbara, ca
- designed and developed core control software for network of worldwide telescopes
- prototyped satellite tracking algorithm software
- championed a team scrum/agile methodology, including introducing unit testing and continuous integration team-wide
- software lead on mission-critical instrument design
- created a junit test infrastructure for full-system validation pre-shipping
- refactoring legacy code systems to make them testable and easier to maintain
- mentored junior software engineers and scientists in good coding practices
- interfaced with operations team and customers to determine root cause problems and define new requirements
- instrumental in creating metric-based dashboards for system-wide monitoring
-
- senior software engineer
- january 2004 to november 2005
- diamond light source ltd － oxfordshire, uk
- designed and developed control software for world-class facility capable of researching cutting-edge disciplinesworked closely with customer to define software and hardware requirementsevaluated motion control systems for use in laboratoriescontract management of outsourced turn-key components
- software engineer
- january 2002 to january 2004
- telescope technologies ltd. － liverpool, uk
- key member of a small team which developed highly robust code for the world's first fully robotic telescopedeveloped autoguider software and algorithms used for closed-loop telescope trackingdeveloped mirror support software for maintaining consistent optical collimationembedded software development, configuration and programmingresponsible for integrating hardware and software systems before handover to customer   
-
- education
- ph.d.
- : astrophysics
- the universitory of manchester
- － manchester, uk
- thesis title: observations and mass models of class
-gravitational lenses
- master of science
- : physics with astrophysics
- the university of birmingham
- － birmingham, uk
- skills
- languages: java, python, c. novice at go, groovymethodologies: agile, pair programming, continuous integration, test-driven developmentquality: junit, mockito, dbunit, checkstyle, pmd, findbugs, clover, cobertura, sonartools: intellij, eclipse, git, svn, jvisualvm, maven, docker, wireshark, kibana, graphiteframeworks: guice, spring, google guava, gwt, dropwizard, django, celery, numpy, scipy, rabbitmqinfrastructure: aws, kubernetes, spring cloud, netflix oss
- 
+      
+        
+        
+          
+          MANUFACTURING PROJECT ENGINEER
+        
+      
+      
+      
+      
+        
+        Profile
+      
+        
+        Manufacturing Project Engineer with over four years of experience. Innovative, collaborative and motivated, with proven skills in manufacturing, QA and CAD design. Experience with start-ups and problem-solving. Well-versed in imperial and metric systems. Fluent in English/Spanish.  Committed to continuous improvement and growth.
+      
+      
+      
+        
+        Skills
+      
+        
+        
+          
+            
+              Project and Material ManagementProcess Engineering & QA ManagementTrained in Six Sigma and Lean Manufacturing techniquesFamiliar with ISO 9001
+              Effective communication and focusCritical thinkerTeam builder and calm in stressful work environmentsAvailability to travel
+            
+          
+        
+      
+      
+      
+        
+        Professional Experience
+      
+        
+        
+          
+            Manufacturing Project Engineer
+            
+              Dec 2012 to 
+              Jan 2016
+            
+          
+          
+            SIC Lazaro US Inc - 
+            Milwaukee, 
+            Wisconsin
+          
+          Managed CAD/CAM Drawings, CNC programs, BOMs, ECRs, PPAPs, RFQs. Stabilized new US branch operations resulting in increased monthly sales from $70,000 to over $1,000,000.Determined and Implemented the Weld Inspection Process, reducing rework by over 50% over the course of 6 months.Derived and led the implementation to our Counterweight Cataloging System and Final QA process—reducing the cycle time of preparing and loading trucks by over 33%.Developed flow process documentation and support installation of ERP database management system.
+        
+      
+        
+        
+          
+            Manufacturing Assistant Engineer
+            
+              Mar 2012 to 
+              Dec 2012
+            
+          
+          
+            SIC Lazaro US Inc - 
+            Milwaukee, 
+            Wisconsin
+          
+          Developed prototypes and first series of production in the new facility in US.Designed multiple fixtures, simultaneously reducing rework and cycle time in multiple manufacturing cells.
+        
+      
+        
+        
+          
+            Manufacturing Assistant Engineer
+            
+              Sep 2011 to 
+              Mar 2012
+            
+          
+          
+            KYB Europe Headquarters GMBH - 
+            Ororbia , 
+            Navarre, Spain
+          
+          Collaborated with engineers and project managers regarding design parameters for the process of relocating two production lines. 
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+            Final Year Project, 
+            Industrial Engineering
+            
+              2011
+            
+          
+          
+            Erasmushogeschool Brussel (Ehb) - 
+            Brussels, 
+            
+            Belgium
+          
+          
+          Thesis Title: “Design and Implementation of silicon board circuits for the rotational speed control of AC electro motors.”
+        
+      
+        
+        
+          
+            M.S, 
+            Industrial Engineering
+            
+              2011
+            
+          
+          
+            Public University of Navarre (UPNA) - 
+            Pamplona, 
+            Navarre, 
+            Spain
+          
+          
+          
+        
+      
+        
+        
+          
+            B.S, 
+            Electrical Engineering
+            
+              2008
+            
+          
+          
+            Public University of Navarre (UPNA) - 
+            Pamplona, 
+            Navarre, 
+            Spain
+          
+          
+          
+        
+      
+      
+      
+        
+        Technical Skills
+      
+        
+        Proficient using: SolidWorks and Microsoft OfficeOracle JD Edwards, Business Intelligence.VBA, LANTEK, CATIA, AUTOCAD, MATLABKnowledge in AWS D1.1 structural welding code
+      
+      
+    

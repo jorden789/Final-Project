@@ -1,26 +1,148 @@
 
- front end software engineer
- summary
- dedicated frontend software engineer experienced with all facets of the software development lifecycle including
- requirements analysis, design, development, verification, deployment and support.
- skills
- javascript, typescript, html, csslibraries/frameworks: angularjs, angular, ionic, react, rxjs, jquery, bootstrap, sassunit testing: mocha, chai, sinon, jasmineversion control: git, github, bitbucketdependency management: node, bowerbuild automation: gulpbackend: firebaseapis: google maps, stripe, twilioplatforms: google cloud platform, heroku, xcode
- experience
- penta technologies, inc
- brookfield, wi
- front end software engineer
- 02/2016 to current
- implement design and logic to turn multiple legacy systems into modern web and mobile applications.work with product managers, engineers and qa to see projects through, from conception to completion.build reusable components and libraries for future use.perform peer code reviews.
- udacity
- mountain view, ca
- front end team guide
- 09/2015 to 12/2015
- lead weekly meetings with students, developing positive group dynamics and weekly expectations.built cohesive teams, leveraging group collaboration and independent research.encouraged organizational skills, task assessment and requirement evaluations.
- ssi technical
- dallas, tx
- technical recruiter
- 05/2014 to 10/2014
- recruit candidates for fortune 500 companies in the engineering / medical / financial sectors.analyze and evaluate top candidates through background review and consultative interviews.maintain a portfolio of candidates and requisitions, in all stages of the pipeline.
- skills
- automation, css, version control, financial, html, javascript, jquery, logic, meetings, organizational skills, programming, qa, requirement, research, chai
- 
+      
+        
+        
+           QUALITY ASSURANCE TECHNICIAN
+        
+      
+      
+      
+      
+        
+        Profile
+      
+        
+        Experienced Quality Assurance Engineer with experience in automation scripting using testing tools. Create, implement, and maintain changes to test cases, test procedures and instructions, and produce evaluation processes. Work with developers and project managers in defining and designing performance test tools and infrastructures. Experienced in JIRA Test Planning, execution, tracking tool. Experienced in general-purpose programming language including Java, and with a Unix/Linux environment. Excellent analytical and troubleshooting skills. Perform system builds and maintenance. Proficient with various bug tracking and test case management systems. 
+      
+      
+      
+        
+        Core Qualifications
+      
+        
+        
+          
+            
+              Excellent Problem Solving SkillsSystem Issue ResolutionManual / Automated Performance TestingStrong Collaborative SkillsUNIX/Linux/WindowsMobile Quality AssuranceBug Tracking Systems
+              Custom ScriptsTest Planning and ExecutionAutomation CodeRegression TestingAutomation Testing ToolsProcess Improvement InitiativesProof of Concept
+            
+          
+        
+      
+      
+      
+        
+        Professional Experience
+      
+        
+        
+          
+            Quality Assurance Technician
+            
+              08/2012 to 
+              Current
+            
+          
+          
+            Grass Valley, (a Belden Brand)
+            
+              Hillsboro, 
+              OR
+            
+          
+          
+            Quality Assurance engineer for a family of brands consisting of a comprehensive portfolio of cable, connectivity and networking products for the transmission of signals for data, sound and video applications. Ensure quality products that enable the company to offer end-to-end signal transmission solutions that meet the most demanding standards for data, sound, and video applications.Performed quality assurance on Grass Valley's Broadcast Video Servers and various software suites. Executed test cases via automated and manual testing methodologies. Logged bugs when found using the JIRA bug tracking system.Executed and created test cases via TestRail based on User Stories and Requirements.Performed system imaging using Acronis disk imaging software.
+          
+        
+      
+        
+        
+          
+            Quality Assurance Engineer / Lab System Administrator
+            
+              03/2006 to 
+              04/2012
+            
+          
+          
+            Motorola Mobility
+            
+              Beaverton, 
+              OR
+            
+          
+          
+            Performed quality assurance on Motorola branded IP video encoders.Analyzed raw video using various video quality software analyzers per documented specification.Logged bugs using various bug tracking management systems (Bugzilla)Provided Wiki content and maintaining quality assurance's web servers.Maintained Quality Assurance's Cisco switches, IP set-top boxes, satellite dishes, receivers, and transcoders.
+          
+        
+      
+        
+        
+          
+            Quality Assurance Engineer / Migration Content Developer
+            
+              01/2001 to 
+              02/2006
+            
+          
+          
+            Tranxition Corporation
+            
+              Beaverton, 
+              OR
+            
+          
+          
+            Developed content to be used in Tranxition's migration engine.Member of Tranxition's 24/7 product support team.Performed quality assurance on Tranxition's migration software validating enhancements and regression testing.Located bugs using automated and manual testing methods.Wrote applets for automation testing.Wrote customized DOS batch files for advanced migration testing.
+          
+        
+      
+      
+      
+        
+        Education
+      
+        
+        
+          
+            Bachelor of Science degree: 
+            Information Technology
+            
+          
+          
+            The University of Phoenix
+            
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          
+            Associate of Arts: 
+            Information Technology
+            
+          
+          
+            Axia College of the University of Phoenix
+            
+          
+          
+          
+            
+          
+        
+      
+      
+      
+        
+        Technical Skills
+      
+        
+        UNIX, Linux, Windows, Bash Shell Scripting, Microsoft PowerShell, Batch Files, Applets, Automation, Broadcast Video, Content, DOS, Disk Imaging, Migration, Servers, Scripts, Stories, Video Servers, Web Servers, VMware, Virtual Machines, Video Editing Software, Final Cut Pro 7.x, Adobe Premiere CC (2015.3), Grass Valley Edius, Video Test Equipment, Tektronix WFM 8300,  Tektronix TG700, Apantac multi-viewers. Remote Desktop Manager, VNC, Microsoft Remote Desktop.
+      
+      
+    

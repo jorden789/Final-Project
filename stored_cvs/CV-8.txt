@@ -1,73 +1,171 @@
 
- software engineering analyst
- summary
- trained in customer service. high energy and outgoing with a dedication to positive guest relations. i am working as software engineer now and want to obtain a part time job 
- experience
- software engineering analyst
- 12/2017 to current
- doubleverify inc
- new york, ny
- 
-
-
-
-
-
-
-·  contributed
-to the development of an online payment website with several thousands customers
-
-
-·  focused on
-back-end development using java springmvc framework ·  used hibernate
-to interact with mysql database ensuring the consistence of transaction data
-and implement crud operations on backend database. 
-
-
- assistant librarian
- 08/2016 to 08/2017
- cornell university loin library
- ithaca, ny
- 
-
-
-
-
-
-
-·  worked as a part
-time student receptionist ·  assisted with technical,
-directional and information problems related with library servcies 
-
-
- graduate research assistant
- 08/2016 to 08/2017
- cornell univerity
- ithaca, ny
- 
-
-
-
-
-
-
-·  built inception-resnet,
-resnet, and vggnet models on tensorflow, training and fine-tuning from scratch
-to classify pollutes images, achieved 80% top-5 accuracy on dataset with 200
-classes ·  collected,
-analyzed and visualized the daily research data set using numpy, pandas and matplotlib
-in python
-
-
- education and training
- master of science: civil engineering
- 2017
- cornell univerisity
- ithaca, ny
- bachelor of science: environment engineering
- 2015
- nankai university
- tianjin, china
- skills
- languages: english, mandarincomputer skills : java, python, microsoft office
- 
+      
+        
+        
+           PRODUCTION MANAGER
+        
+        
+        
+      
+      
+      
+      
+        
+        Executive Summary
+      
+        
+        Production Management professional with 16 years of progressive experience managing Production, Quality, Safety, and Cost Control in a fast paced, high volume manufacturing facility. Proven track record of developing and motivating teams to achieve business goals and objectives.
+      
+      
+      
+        
+        Core Qualifications
+      
+        
+        
+          
+            
+              Operations managementPersonnel developmentBudget ManagementProduction SchedulingLean Manufacturing
+              Process ImprovementQuality AssuranceTeam BuildingProblem ResolutionLeadership
+            
+          
+        
+      
+      
+      
+        
+        Professional Experience
+      
+        
+        
+          
+            Production Manager
+            
+              October 2009 to 
+              November 2016
+            
+          
+          
+            Caterpillar Inc. － 
+            Thomasville, 
+            Georgia
+          
+          
+            Maintained 0% injury rate during a four-year period through implementation of safety awareness training, communication, and accountabilityDirected manufacturing operations for 40 - 60 employees including 3 Team Leaders across multiple shiftsManaged annual operational budget exceeding $3 million for assigned product linesAchieved 100% on time delivery of customer orders spanning 2-year reporting period Effectively managed employees performance including reviews, coaching, training, and discipline
+          
+        
+      
+        
+        
+          
+            Quality Engineer
+            
+              September 2014 to 
+              January 2016
+            
+          
+          
+            Caterpillar Inc. － 
+            Thomasville, 
+            Georgia
+          
+          
+            Supervised internal quality support functions: gage calibrations, inspection, sorting/containment, and cleanlinessMaintained Quality System including ISO audits, documentation of standard work instructions, and customer testing requirementsLed successful attainment of ISO 9001/TS16949 and Caterpillar Quality System certifications on initial attemptCollaborated with Engineering, Operations, and Customers to resolve non-conformance quality issues
+          
+        
+      
+        
+        
+          
+            Production Supervisor
+            
+              October 2004 to 
+              October 2009
+            
+          
+          
+            Caterpillar Inc. － 
+            Thomasville, 
+            Georgia
+          
+          
+            Coordinated off shift manufacturing activities for 20 - 40 employeesCommunicated changes in policy, procedures, and strategies through daily shift meetingsMet or exceeded daily production requirements through effective management of schedules, throughput, and materialsIdentified, diagnosed and resolved operation and maintenance issues to reduce downtime 
+          
+        
+      
+        
+        
+          
+            Production Technician
+            
+              October 2000 to 
+              October 2004
+            
+          
+          
+            Caterpillar Inc. － 
+            Thomasville, 
+            Georgia
+          
+          
+            Set up and operated production equipment in accordance with current manufacturing practices and Standard Operating ProceduresWorked from detailed manufacturing documentation including blueprints to produce components to customer specificationsConsistently adhered to all applicable regulations, policies, and procedures for safety and environmental compliance    Trained and developed new production members
+          
+        
+      
+      
+      
+        
+        Education
+      
+        
+        
+          
+            Bachelor of Arts
+             : 
+            Business Management, 
+            2007
+          
+          
+            American Intercontinental University
+             － 
+            Atlanta, 
+            Georgia, 
+            USA
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          
+            
+            
+            Certified Internal Auditing ISO 9001/TS16949, 
+            2006
+          
+          
+            Caterpillar Inc.
+            
+            
+            
+            
+          
+          
+          
+            
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        Proficient in Microsoft Office and IBM Lotus NotesStrong verbal and personal communicationOrganization and prioritizationDecision making and critical thinking
+      
+      
+    

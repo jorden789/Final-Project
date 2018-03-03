@@ -1,30 +1,186 @@
 
- software engineering manager
- summary
- multifaceted technical career with 15+ years' track record of innovation and success.
-accomplished, enthusiastic, and driven software engineer with a solid history of effective systems engineering in client/server/ web / enterprise software and saas / soa development. well recognized for strong leadership and project management abilities while leading cross-functional teams in fast-paced, competitive work environments. willing to multitask on projects in personnel and database management and architecture/design.
- highlights
- c#, asp.net, mvc, sql, javascript, java, web services, agile, scrum, etl, php
-tools:
-visual studio, ssrs, ssis, iis, sharepoint, eclipse, apache, cognos, sql server, oracle
- experience
- software engineering manager
- august 2011 to current
- reed group － westminster, co
- orchestrate key internal it developments for large-scale enterprise solutions while managing budgets and capacity planning company-wide.cross-train a professional team of 10+ employees on software development using c#, asp.net and javascript, and sql.foster relationships between competitive organizations in order to coordinate cross-functional software, oversee career guidance/progress, and monitor success ratios.
- senior software engineer
- april 2008 to august 2011
- pearson e-college － denver, co
- coordinated highly responsive web-based software development using c#, asp.net and javascript, sql and dojo.built loyalty and rapport as a result of strong written and verbal communication while overseeing, supporting, and enhancing existing systems and software.strategically maintained department and enterprise cognos reporting systems, along with system architecture/ design.troubleshot database and reporting issues.
- senior software engineer/architect
- april 2003 to august 2008
- frontier airlines － denver, co
- led teams in full life cycle software development using c#, asp.net and javascript, sql as a result of strong expertise in supporting and enhancing existing legacy systems and software.assigned to train others and maintain the department and enterprise crystal reporting systems, along with system architecture and design..acquired further multi-department exposure as development manager at matrix bancorp, and supervisor/ developer at mci worldcom.
- education
- computer science information systems
- university of louisiana ashford university
- － monroe clinton, la ia
- computer science information systems
- skills
- asp.net, agile, apache, budgets, capacity planning, cognos, competitive, crystal, database, eclipse, etl, full life cycle, functional, php, iis, java, javascript, managing, c#, sharepoint, mvc, enterprise, oracle, developer, progress, rapport, reporting, scrum, software development, sql, sql server, supervisor, system architecture, verbal communication, visual studio, written
- 
+      
+        
+        
+           TIER 3 FIELD SUPPORT ENGINEER
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        More than five years of experience providing quality control on networking equipment and hardware. More than a years experience as a field support engineer working directly with Cisco servers, routers, gateways, and internal network wiring. Provided network and proprietary equipment customer support for corporate Planet Fitness to help implement new network protocols across all 1,400 planet fitness locations. Nineteen years of military experience working on high tech weapon systems in high stress environments.
+      
+      
+      
+        
+        Highlights
+      
+        
+        
+          
+            
+              Strong verbal communicationEffective team leaderProject analysisData collection and analysisVersatile skill setNetwork configuration and support 
+              Customer service-focusedEffective at troubleshootingResourcefulInnovative thinkerWorks well in groups or individuallyExtremely organized 
+            
+          
+        
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Tier 3 Field Support Engineer
+            
+              07/2016 to 
+              07/2017
+            
+          
+          
+            Radianse
+            
+              Rochester, 
+              NH
+            
+          
+          
+            
+    Worked as a field support engineer for Radianse supporting our proprietary hardware and software running real time location systems at Brigham Women's Hospitals, Mass General Hospitals and Planet Fitness.
+    Provided daily and on call Tier 3 tech support for more than 200 Planet Fitness' running our amenity kiosk hardware/software.
+    Installed and set up network equipment, security cameras, RFID tracking equipment, and other network equipment for Planet Fitness, BWH and MGH.
+    Configured PCs tablets and proprietary wifi equipment to run proprietary software to meet customers needs.
+    Use remote desktop software to provide fast and efficient customer support for employees and customers.
+    Work with data base software to run queries to help provide customers with valuable data that saves them money. 
+    Conduct lab configurations and equipment tests to verify equipment stability before implementation in the field. 
+    Provide direct support with Planet Fitness corporate Network team to help them implement new club network set ups that provide the best network security and stability. 
+
+          
+        
+      
+        
+        
+          
+            Technician
+            
+          
+          
+            University of New Hampshire InterOperability Labrator
+            
+              Durham, 
+              NH
+            
+          
+          
+            Ethernets Auto-Negotiation ConsortiumWork daily on computers using a wide range of operating systems from Windows 2000-Windows 8, and Linux.Data base entry and management to track vendor products and test results.Provide conformance testing of networking devices according to the IEEE 802.3 standard for Cisco, Broadcom, HP, and Intel.Observe the behavior of devices while testing to provide vendor pre-production engineering teams accurate conformance results.Communicate with engineering teams from around working through language barriers and time zones to provide them timely feedback to get their product to production.
+          
+        
+      
+        
+        
+          
+            Munitions Systems Craftsman (NCO)
+            
+              
+              Current
+            
+          
+          
+            United States Air Force
+            
+              Hill Air Force Base, 
+              UT
+            
+          
+          
+            19 years of experience working on high-tech weapon systems maintain their usability and providing in the field support for the manufacturers engineering teams .Provided monthly Power Point presentations showing work loads and results to command staff. Extensive experience working with weapons contractors to coordinate weapons upgrade programs, travel on site to implement weapons upgrades, and assist engineers with advanced weapons circuitry replacement and testing. Oversaw the expenditure of $32 million in annual operational funds. Managed receipt, storage and issue of ammunition processes for multiple Air Force bases. Coordinated training schedules and filed crucial administrative paperwork. Directly involved in numerous weapon system upgrade projects that saved the Air Force more than $10.5 billion during a 10 year period. 
+          
+        
+      
+        
+        
+          
+            General Manager
+            
+          
+          
+            Tweeter Opco
+            
+              Manchester, 
+              NH
+            
+          
+          
+            Managed one of Tweeter's top 10 national sales stores with a customer satisfaction rate of over 97%. Managed 4 separate departments, to include over 20 sales floor staff members, 14 home instillation members, 4 home delivery staff, and two regional warehouse staff members. Managed relations with other local business through the Manchester Chamber of Commerce, and attended numerous shared Chamber of Commerce events. 
+          
+        
+      
+      
+      
+        
+        Education
+      
+        
+        
+          
+            Bachelor of Arts: 
+            Geography
+            
+              2015
+            
+          
+          
+            University of New Hampshire
+            
+              Durham , 
+              NH, 
+            Uninted States
+            
+          
+          
+          
+            3.4 GPA within majorCoursework in Geographic Information Systems, Weather, Climatology, and Geography
+          
+        
+      
+        
+        
+          
+            Associate of Applied Science: 
+            Munitions Systems
+            
+              2006
+            
+          
+          
+            Community College of the Air Force
+            
+              Hill Air Force Base, 
+              UT, 
+            United States
+            
+          
+          
+            GPA: GPA: 0
+          
+          
+            3.8 GPACoursework in Public speaking and Management
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        Experience working with remote desktop software like Tight VVNC, Teamviewer, Remote Desktop, and Chrome Remote Desktop.  GIS Software: ArcGIS Desktop, ArcGIS Collector App, Google Earth, SketchUp, and CAD.Windows proficient: Experience with navigating, upgrading, troubleshooting and debugging Windows and Windows Server (2008-2012).Desktop Software: Word, excel, PowerPoint, Access, and Outlook.Applying analytical processes to the planning, design, and implementation of new and improved information systems to meet the business requirements of customers.Extensive experience with electronic troubleshooting in person and over the phone. Experience with setting up and configuring Dell Sonic walls, Cisco access points, network switches and WiFi systems. 
+      
+      
+    

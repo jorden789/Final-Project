@@ -1,37 +1,222 @@
 
- dsi - technical manager
- highlights
- development environment software  java/java eespringsql(mysql, postgresql)phphtml/cssjavascriptintellij ideasublimtextgit microsoft toolsquick learnercollaborative team memberissue resolutionenergetic and organizedexcellent communicator accomplishments
- developped the web service of an erp in java ee for airlab'eau a company analysing air and water on different sites.  ​
- experience
- 04/2016
- to current
- dsi - technical manager
- junior isep － paris, france
- take care of document's technical validation, for documents realised by project managers.dispense training, particularly java programming training.follow a study, project (being closer to consultants).
- 12/2015
- to current
- software consultant
- junior isep － paris, france
- designed, developed and implemented a webservice of an erp for airlab'eau company (analysing air and water).
- worked with a team composed of projet manager and three other consultants.
- 06/2012
- to 08/2013
- administrative manager (legal department)
- siaci saint honoré － paris, france
- opened, managed, and closed sinisters. entried data on excel scanned documents to put into the company's intranet​
- education
- 2012
- high school diploma: scientist
- saint pierre institute
- － brunoy
- france
- specialised in mathematicsgraduated with distinction
- 2015
- two-year university: preparatory class to engineer school
- paris diderot university
- － paris
- france
- informatics option (introduction to java programming) interests
- sport (ski, motorbike, fitness) music (classical guitar)modern-jazz dancehip-hop cinema/theatreanimals
- 
+      
+        
+        
+           SOFTWARE ENGINEERING ANALYST
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Trained in customer service. High Energy and outgoing with a dedication to positive guest relations. I am Working as software Engineer now and want to obtain a part time job 
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Software Engineering Analyst
+            
+              12/2017 to 
+              Current
+            
+          
+          
+            Doubleverify Inc
+            
+              New York, 
+              NY
+            
+          
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+·  Contributed
+to the development of an online payment website with several thousands customers
+
+
+·  Focused on
+back-end development using Java SpringMVC framework 
+
+·  Used Hibernate
+to interact with MySQL database ensuring the consistence of transaction data
+and implement CRUD operations on backend database. 
+
+
+          
+        
+      
+        
+        
+          
+            Assistant Librarian
+            
+              08/2016 to 
+              08/2017
+            
+          
+          
+            Cornell University Loin Library
+            
+              Ithaca, 
+              NY
+            
+          
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+·  Worked as a part
+time student receptionist 
+
+·  Assisted with technical,
+directional and information problems related with library servcies 
+
+
+          
+        
+      
+        
+        
+          
+            Graduate Research Assistant
+            
+              08/2016 to 
+              08/2017
+            
+          
+          
+            Cornell Univerity
+            
+              Ithaca, 
+              NY
+            
+          
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+·  Built Inception-ResNet,
+ResNet, and VGGNet models on Tensorflow, training and fine-tuning from scratch
+to classify pollutes images, achieved 80% top-5 accuracy on dataset with 200
+classes 
+
+·  Collected,
+analyzed and visualized the daily research data set using Numpy, Pandas and Matplotlib
+in Python
+
+
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+            Master of Science: 
+            Civil Engineering
+            
+              2017
+            
+          
+          
+            Cornell Univerisity
+            
+              Ithaca, 
+              NY
+            
+            
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          
+            Bachelor of Science: 
+            Environment Engineering
+            
+              2015
+            
+          
+          
+            Nankai University
+            
+              Tianjin, 
+              
+            China
+            
+          
+          
+          
+            
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        Languages: English, MandarinComputer Skills : Java, Python, Microsoft Office
+      
+      
+    

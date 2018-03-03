@@ -1,40 +1,177 @@
 
- software developer i
- skills
- operating systems softwarewindows, unix, linux (centos, linux mint) after effects, photoshop, flash, sony vegas, word,languages excel, powerpointjava (5 years), c (4 years), c# (1.5 years), xml (1 unity, netbeans, eclipse, sourcetree, git,year), mysql (6 months) subversionsome experience with python, html, andactionscriptcourseworksystems programming (cpe 357) - spring 2015learned low-level programming in c using the unix environmentdeveloped complex programs that use the operating system architecture and system callsdesign and analysis of algorithms (cpe 349) - fall 2015developed problem-solving and analysis skills in order to find the most efficient algorithms for a given taskgained experience with divide and conquer algorithms as well as dynamic programmingsoftware engineering i/ii (cpe 308/309) - fall/winter 2015working in a team to develop a multi-player, server-client version of the game clue in javagained experience using subversion and the netbeans ide
- experience
- 06/2016
- to 11/2016
- software developer i
- tapestry solutions, inc － san luis obispo, ca
- developed, tested, and maintained code used in the target (transportability analysis report generator)
- application as a part of the icodes application suite
- collaborated with the testing team to fix bugs and troubleshoot defects within the system.
- 10/2015
- to 04/2016
- intern programmer
- neocrux ltd － san diego, ca
- collaborated with a team of designers and senior programmers to create a videogame (galacollider)
- gained experience working in c# and the unity game engine
- gained experience using git and version control software (specifically sourcetree.
- 08/2015
- to 01/2016
- team member
- dickey's barbecue pit － san luis obispo, ca
- worked in a team, providing excellent customer service and maintaining a clean and efficient environment
- learned how to manage time effectively while going to school full-time.
- 05/2014
- to 08/2014
- courtesy clerk
- nob hill foods － san jose, ca
- gained experience working in a team
- learned customer service skills.
- education and training
- june 2017
- bachelor of science: software engineering
- california polytechnic state university
- － san luis, obispo
- software engineering 387
- skills
- actionscript, after effects, photoshop, c, client, excellent customer service, customer service skills, version control, eclipse, xml, flash, html, ide, java, linux, c#, excel, powerpoint, windows, word, mysql, operating systems, operating system, problem-solving, programming, python, software engineering i, troubleshoot, unix
- 
+      
+        
+        
+           ELECTRONICS ENGINEER
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        To obtain a challenging, hands-on technical position in the Engineering and Planning Department, applying my previous experiences and technical skills in the effort to support the Submarine Fleet.
+      
+      
+      
+        
+        Skills
+      
+        
+        
+          
+            
+              C, VHDL, Java, C++, Mathworks - Matlab/Simulink, Assembly, SQLCAD Software: National Instruments - Multisim, Microsoft VisioOperating System/Dev. Tool: Linux, Mac OS X, UNIX, Windows, Solaris, Eclipse IDE, AIMExtensive understanding of networking protocols including RFC 3261 (SIP)Proficiency in soldering (surface mount and through hole), computer repair, and analysis instruments such as logic analyzers, oscilloscopes, and multimeters.
+              
+            
+          
+        
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          06/2009
+           to 
+          Current
+        
+        
+          
+            Electronics Engineer
+          
+          
+            Portsmouth Naval Shipyard － 
+            Kittery, 
+            ME
+          
+          
+            Fire Control, GS-0855-12 Technical lead for emergent work off yard providing technical and administrative feedback to respective Branch and Division Heads, Ships Force Commanding Officer and Shop Supervisor.Prepare & deliver TGI's, Deficiency Logs, Deficiency Reports, estimates & test procedures.Distinguished qualified Lead Test Engineer - Weapons; Responsible for advising and directing the Combat Systems test program including but not limited to Sonar, Navigation, Fire Control, Radio, Towed Array, Mast, Torpedo Tube and Vertical Launch System mechanical and electrical testing.Co-ordinate with vendors, project team, ships force and mechanics to complete system testing in a timely manner.Instruct, mentor and evaluate peers through individual development program.Perform functional checkout, test and inspection of all major Fire Control weapons systems.Proficient with maintenance involving Vertical Launch, 3 inch and 6 inch Countermeasure Launch, Torpedo Tube and Weapon Delivery & Handling systems.Support SHAPEC functions for all Fast-Attack Submarine shipyard maintenance facilities.Interface and provide assistance with Code 292 Sonar Division Senior Project As team leader, delegated tasks to effectively meet critical deadlines.Designed and implemented a vehicle fuel efficiency monitor using a Motorola microcontroller.
+          
+        
+      
+        
+        
+          09/2006
+           to 
+          06/2009
+        
+        
+          
+            VoIP Test Engineer
+          
+          
+            UNH Interoperability Laboratory － 
+            Durham, 
+            NH
+          
+          
+            Develop product test plans to meet customers' testing criteria.Submit developed test plans for team review incorporating provided feedback.Work extensively with member companies, industry forums and standards organizations Proficient at analyzing and debugging VoIP technology test procedures Performed test procedures to verify product interoperability.Operate, test and improve VoIP related products such as SIP user agents, VoIP test equipment, home gateways and proxy servers Exposed to pre-developed and emerging technologies Manage and maintain Sun Workstations ensuring proper operation and software versioning to meet test needs.
+          
+        
+      
+        
+        
+          06/2003
+           to 
+          05/2004
+        
+        
+          
+            Entrepreneurship - Owner
+          
+          
+            Brentwood Lawncare － 
+            Brentwood, 
+            NH
+          
+          
+            Maintained over 25 customer accounts while ensuring complete customer satisfaction.Create marketing materials and secure appropriate advertising.Perform billing, accounts receivable and collection functions.
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          May 2009
+        
+        
+          
+            B.S: 
+            Computer Engineering
+          
+          
+            University of New Hampshire
+             － 
+            Durham, 
+            NH
+            
+          
+          
+          
+            Computer Engineering
+          
+        
+      
+        
+        
+          May 2003
+        
+        
+          
+            Embedded Microcomputer Design, Design w/ Programmable Logic, 
+DSP, Digital Systems, Advanced Programming Classes
+Electronic Vocational Certificate
+            
+          
+          
+            Seacoast School of Technology
+             － 
+            Exeter, 
+            NH
+            
+          
+          
+          
+            Member of National Honor Society and Recipient of Honors Student Award
+          
+        
+      
+      
+      
+        
+        Interests
+      
+        
+        Treasurer of IEEE student organization
+ September 2008 - May 2009
+      
+      
+      
+      
+        
+        Skills
+      
+        
+        advertising, C++, computer repair, debugging, Eclipse, inspection, Java, Linux, Mac OS, marketing materials, Matlab, oscilloscopes, Develop product, Solaris, soldering, SQL, UNIX, VoIP
+      
+      
+      
+        
+        Additional Information
+      
+        
+        Activities
+*Treasurer of IEEE student organization
+ September 2008 - May 2009
+      
+      
+    

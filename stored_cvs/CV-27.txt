@@ -1,37 +1,141 @@
 
- iconectiv( subsidiary of ericsson)
- summary
- innovative electrical engineer with 5+ years of experience focused on developing new methods and technologies in a networked society. expertise in all aspects of the software development life cycle, including requirements analysis, design, development and production support. dynamically skilled at developing complex solutions possessing strong creative thinking skills, high energy and integrity. dedicated to constantly improving tools and infrastructure to maximize productivity, minimize system downtime and quickly respond to the changing needs of the business. well-versed in creating test cases, as well as covering all test conditions and eliminating redundancy and duplications.
- highlights
- code reviews java ,agile, selenium html, xml ,silk test, javascript ,unix ,visual basic, c/c++ ,tcl, maven, jenkins, soapui, svn, rally, rational, testng, unit, spring, apachepoi
- experience
- iconectiv( subsidiary of ericsson)
- february 2015 to current
- software quality assurance engineer － piscataway, nj
- develop and maintain gui automation framework using java and selenium create test plans and test cases to validate broad solution and specific functional requirements in a continuous improvement environment. in addition to functionality ,accommodation for proactive identification of bugs, performance and reliability issues, as well as other potential failurescollaborate with system engineering and architecture, program management, and software development teams in all aspects of the development lifecycle from early design feedback, functional automation, reliability, stress, performance, integration testing, through to supporting production issues. analyze and report results, track defects, and participate in day to day qa support activities. generate test plans for industry testing and support configuration and system issues during this period.
- ericsson
- august 2014 to february 2015
- cloud manager qa - gui automation － piscataway, nj
- interfaced with business analysts, developers and technical support to determine the best requirement specifications.worked effectively with design teams to ensure software solutions elevated client side experience.wrote java code to automate testing of the front end gui of product.used smartgwt selenium client to test product feasibility.stored, retrieved and manipulated test cases using git for close analysis of system capabilities.automated test cases to provision items from openstack.
- ericsson
- september 2013 to september 2014
- software qa engineer intern － piscataway, nj
- collaborated successfully with cross-functional development teams to design and package testing needs.performed compatibility testing using silktest.rapidly prototyped new test cases to confirm feasibility of front end gui of telcordia product.    stored, retrieved and manipulated data using sccs and unix for close analysis of system capabilities.modified existing software module test scripts using mynah , tcl , and shell scripting to correct errors and improve performance.implemented designs, including experimentation and multiple iterations.worked closely with other team members to plan, design and develop robust solutions in a timely manner.wrote maintainable and extensible code in a team environment.
- sumashita group
- september 2012 to september 2013
- web design intern － east windsor, nj
- designed new on-brand visual elements to effectively convey concepts and messaging.worked with internal clients to determine strategy and design for annual marketing campaigns.presented projects to internal clients.liaised with internal clients in marketing to execute collateral creation projects.delivered production ready graphics in html and css for all marketing assets.researched current and emerging art and graphic design technologies.
- education
- master of science
- : electrical engineering, 2017
- new jersey institute of technology
- bachelor of science
- : electrical engineering, 2014
- new jersey institute of technology
- gpa: gpa: 3.2/4.00
- research experience
- furuta inverted pendulum using arduino microcontroller(project lead) rover control using arduino (project lead) reverse engineering of belt sander (project lead) solar power charging station for small electronic devices (project lead) geothermal hvac system concept (co project lead).
- accomplishments
- ericsson intern project showcase (1st place) ericsson intern of the week ieee student branch class representative at njit. women in engineering program seminar recipient. deans list njit. karr scholarship recipient. allentuch scholarship recipient. national student leadership conference nominee. student governement excellence in leadership award. ibm discover engineering student speaker. skills
- agile,  automation, c, c++, critical thinking, css, functional testing , graphic design, graphics, gui, html, java, javascript, marketing, matlab, messaging, requirements, sccs, scripts, shell scripting, silk, software development,  solidworks, tcl, technical support, unix, visual basic, xml,git, svn, jenkins, maven, spring
- 
+      
+        
+        
+           MANUFACTURING ENGINEER
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Personable Industrial Engineering professional driven to inspire students to achieve personal and academic success. 
+      
+      
+      
+        
+        Skills
+      
+        
+        
+          
+            
+              Fluent in high level mathematicsFluent in the use of statisticsExceptional written and verbal communicatorEngaging public speaker
+              Certified Six Sigma Black BeltGerman - Eight years of oral and written study focused on cultureSoftware Applications - Microsoft Office, Process Model, Visio, Minitab
+            
+          
+        
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          07/2006
+           - 
+          06/2009
+        
+        
+          
+            Honeywell, International － 
+            Phoenix, 
+            AZ
+          
+          
+            Manufacturing Engineer
+          
+          
+            Supported high-technology manufacture of components for government applicationsDeveloped Work Instructions for all areas of productionCompiled and reported production metrics, including statistical analysis of defects, performance to plan budget, schedule and quality
+          
+        
+      
+        
+        
+          06/2000
+           - 
+          12/2005
+        
+        
+          
+            Honeywell International － 
+            Olathe, 
+            KS
+          
+          
+            Manufacturing Engineer
+          
+          
+            Taught Total Quality course to Honeywell associates, and helped develop improved Total Quality training course Supported successful achievement of metrics such as customer fill-rate, MPS compliance, and Rolled Throughput Yield.Provided mechanical support to existing product lines Supported training of another Manufacturing Engineer 
+          
+        
+      
+        
+        
+          04/1997
+           - 
+          04/1998
+        
+        
+          
+            Penn State Housing and Food Services － 
+            University Park, 
+            PA
+          
+          
+            Student Manager
+          
+          
+            Acted as a liaison between student trainers and upper management.Supervised 10 student trainers.Worked 20 hours per week during the semester.
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          May 2000
+        
+        
+          
+            The Pennsylvania State University
+            
+            University Park, 
+            PA
+            
+          
+          
+            Bachelor of Science: 
+            Industrial Engineering
+          
+          
+          
+            Industrial Engineering GPA: 3.76/4.00 Minor in German GPA: 3.47/4.00
+          
+        
+      
+      
+      
+        
+        Relevant College Courses
+      
+        
+        Calculus with Analytical Geometry ICalculus with Analytical Geometry IICalculus of Several Variables Differential EquationsMatricesEffective SpeechStatistical Methods in Industrial EngineeringTechnical Writing
+      
+      
+      
+        
+        Activities and Honors
+      
+        
+        Six Sigma Black Belt certification received - 12/04Green Belt certification received - 11/01 Dean's List - Fall 1995, Fall 1997, Spring and Fall 1998, Spring 1999 Alpha Pi Mu - President (1999-2000), Vice President (1998-1999) Foundry Educational Foundation and H.H. Harris Foundation Scholarship winner 
+      
+      
+    

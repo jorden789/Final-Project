@@ -1,37 +1,209 @@
 
- senior support specialist
- summary
- accomplished, results-oriented professional with over 4 years of leadership and management experience in the military. highly skilled in troubleshooting hardware and software application issues. experienced in java and c++, with knowledge in sql, html, css, and javascript. 
- highlights
- team playerexcellent communication skillscustomer and goal orientedexceptional problem solving skills
- experienced in hl7 standardsinterface implementation, and troubleshootingproficient in linux command line
- accomplishments
- promoted to senior support specialist after 10 months of employment.awarded navy and marines corps achievement medal (nov 2014) for outstanding performance while serving as day shift supervisor and quality assurance inspector at vfa 137. earned aviation maintenance award (2013/2014) - best overall maintainer.
- experience
- 01/2016
- to current
- senior support specialist
- modernizing medicine － weston, fl
- supports clients by resolving complex application specific issues in a timely manner. possess excellent communication, technical skills, and empathy are key to understanding, resolving and/or escalating product issues and enhancements. become a trusted mentor to other tiers and a valued partner to our clients, providing the technical expertise that allows them to maximize the investment they've made in choosing gmed's software.  respond to and resolve tickets in a timely manner. provide hardware and software support/troubleshooting.analyze and troubleshoot computer peripherals, general network and application level issues. act as a point of escalation for 2nd tier for resolution of complex application-specific issues. ensure timely and professional communications with clients. develop and review documentation that includes but is not limited to product installation guides, use cases, business requirements, technical requirements, and programming specifications. mentor front line support members and share information to help improve overall knowledge amongst the team.
- 03/2015
- to 01/2016
- associate support specialist
- modernizing medicine － weston, fl
- deliver an exceptional client experience by identifying and documenting client needs and issues; answering incoming inquiries, effectively applying problem-solving techniques, educating clients and following issues through to their successful resolution.provide consistent, professional and high-quality client support, every day, all the time, no matter what.establish procedures to ensure client satisfaction and quality service delivery.communicate and collaborate across teams and departments to help solve issues.replicate and document issues for further escalation.
- 03/2011
- to 01/2015
- aviation electrician
- us navy － nas lemoore, ca
- supervisor for a work center with 4 workers, demonstrating proper accountability for personnel, tools, and support equipment.performed quality assurance inspections on electrical components on 12 aircraft.demonstrated proper documentation of maintenance and other inspections on 12 aircraft.performed testing, installation, and maintenance to a wide range of aircraft instruments and electrical equipment including generators, motors, and lighting systems.read electrical system diagrams.performed electrical troubleshooting operations by starting and operating aircraft in ground safely mode.
- 05/2017
- to 08/2017
- software developer intern
- modernizing medicine － boca raton, fl
- skills
- fast learnergithub experiencems sql experiencebilingual (english and spanish)
- education
- 2018
- bachelor of science: computer information systems
- nova southeastern university
- － davie, fl, us
- 
+      
+        
+        
+           CHIEF ENGINEER
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Mechanical Design Engineer experienced in the planning, design, testing and validation. Qualifications including Graduate certifications in Automotive , expertise in SolidWorks, Altair-Hyperworks, Adams and comprehensive knowledge of Lean Manufacturing and Kaizen principles.
+      
+      
+      
+        
+        Education
+      
+        
+        
+          
+            
+              2018
+            
+            Master of Science:
+            University Of Texas-Arlington - 
+            Mechanical Engineering
+          
+          
+            GPA 3.87/4.0
+            
+            
+          
+          
+          
+            Graduate certificate in Automotive Engineering. Awards: A.E. Petche father and Son award for contribution in UTA Racing FSAE.
+          
+        
+      
+        
+        
+          
+            
+              2015
+            
+            Bachelor of Science:
+            Mumbai University - 
+            Automotive Engineering
+          
+          
+            First Class
+            
+            
+          
+          
+          
+            
+          
+        
+      
+      
+      
+        
+        Dissertation
+      
+        
+        Dissertation: "Woods Tire Model"The purpose of this thesis is to develop a procedure and tools to produce a tire model that accurately represents a tire's behavior 
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Chief Engineer
+            
+              07/2017 － 
+              Current
+            
+          
+          
+            UTA Racing-FSAE
+            
+              Arlington, 
+              TX
+            
+          
+          
+            Collaborated with system engineers to implement operating procedures and resolve system malfunctions.Led cross-functional project teams of 30 team members to achieve deadlines and accomplish targets.​Designed and Manufactured Rear Uprights weighing 0.9 lbs using Solidworks.Designed and Developed Unsprung Aero Package to improve aerodynamic and suspension characteristics of the overall car.Assisted in designing and analyzing suspension kinematics of FSAE car.Non-linear dynamic FEA of Impact attenuator.
+          
+        
+      
+        
+        
+          
+            Chassis and Ergonomics Deputy Engineer
+            
+              08/2016 － 
+              07/2017
+            
+          
+          
+            UTA Racing-FSAE
+            
+              Arlington, 
+              TX
+            
+          
+          
+            Designed composite pedal box on Solidworks and analysed specific stiffness and ply schedule on Hyperworks.Assisted in F-17 chassis design and manufacturing with 10” wheels, higher Torsional Rigidity and lower weight targets .Assisted in designing an experiment for testing the torsional rigidity of Fsae chassis.Designed chassis in Solidworks & FEA for torsional rigidity, front impact & side impact in solidworks, Hypermesh & Ansys. Designed and manufactured chassis jig and suspension tabs within a 0.003” tolerance to reduce weight, cost and time.Designed and Manufactured the first ever Ergo Jig setup for UTA Racing and developed a cockpit mock up for better driver ergonomics. 
+          
+        
+      
+        
+        
+          
+            Graduate Teaching And Research Assistant
+            
+              01/2017 － 
+              Current
+            
+          
+          
+            The University of Texas at Arlington
+            
+              Arlington, 
+              TX
+            
+          
+          
+            Served as a Project Monitor for 80 undergraduate students each year for Capstone Senior Design Project.  Challenged and motivated students through in-depth lectures and discussions. Established course websites to make updated handouts and other resources available to students at all times. S
+          
+        
+      
+        
+        
+          
+            Engineering Intern
+            
+              04/2016 － 
+              07/2016
+            
+          
+          
+            TAG Motors
+            
+              Pune, 
+              India
+            
+          
+          
+            Designed and detailed mechanical parts and electronics assembly of a lightweight electric motorcycle using 3D CAD and FEA.Manufactured an ultralight spaceframe chassis using laser tube profiling and TIG welding.Designed a modular batterypack casing using solidworks.Maintained open and effective communications with project teams to increase productivity.
+          
+        
+      
+      
+      
+        
+        Memberships
+      
+        
+        SAE Membership to attend competitions like Formula Student Germany 2014,
+Formula Design Challenge 2015 and Formula SAE Lincoln 2017 & 2018.IMeche: Institution of mechanical engineers for Formula Student UK 2018.
+      
+      
+      
+        
+        Skills
+      
+        
+        Softwares:Solidworks, Altair-Hyperworks, Catia V5, MSC-Adams, Optimum Tyre, slice3D, Matalab & Simulink.Technical drawings using Solidworks and Autocad using GD&T.Machining: 3 years of experience using Manual & CNC lathes and mills. Familiars with various rapid prototyping machines including Stratasys fortis-450, makerbot, polyprinter-229.Professional experience in diagnosis and troubleshooting automotive design and manufacturing issues.
+      
+      
+      
+        
+        Projects
+      
+        
+        F-18
+Uprights (Fall-2107)
+
+Designed and
+Manufactured F-18 Suspension uprights weighing 0.9lbs achieving 50% weight
+reduction over previous years's design.
+
+Carried out
+assembly simulations of the corner assembly to find stiffnes of the entire
+corner assembly .Design and
+Analysis of Unsprung Mounting System for F-18 Aerodynamics Package: Fall-2017 Objectivedevelop a mounting system that would enable to send all aero loads to the wheel with minimum interaction to chassis. Innovative implementation
+of the system to minimize change in angle of attack of  the wings(less than 0.25 Deg) with motion of
+the wheels.   Honeycomb Impact Attenuator: Spring-2017 Modeling and Analysis of aluminum Honeycomb Impact Attenuator Using Radioss on Hyperworks. Successfully simulated Front impact of an fsae racecar using non linear FEA. ​​Composite
+Driveshaft concept: Summer-2017
+
+Was able to achieve
+composite driveshaft with same strength but 50% lighter.
+
+Designed and
+developed composite driveshaft for high specific strength and high endurance
+limit.​F-17 Composites pedal box and wheel: Fall-2016Designed and
+developed composite carbon fiber pedal box and 10in wheel for high specific
+stiffness and minimum compliance.​​streamlined the manufacturing process which reduced the production time by 30%.
+      
+      
+    

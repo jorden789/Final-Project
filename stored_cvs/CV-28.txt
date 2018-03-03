@@ -1,47 +1,164 @@
 
- sales operations manager
- summary
- very effective leader that emphasizes innovation and creativity in solving complex problems.
-results-orientated management professional that has multiple years of proven leadership
-and supervising experience. guides and mentors high-potential staff using the right
-techniques for business development needs.
-management expert that will impact all aspects of operations management.
-versatile and innovative management professional that will get the job done and meet
-expectations.
- skills
- salesoperationscomputersresult-oriented
- leadershiplogistics mangementstatistics
- experience
- 08/2015
- to current
- sales operations manager
- acceptancenow － jacksonville, fl
- implemented strategic sales programs through the leadership and development of a small sales team.offer enthusiastic and knowledgeable sales guidance to customers who have been referred by the partnership store.collaborate with coworkers within the partnership store.educate referred customers on the rent-to-own transaction, including pricing options, features and benefits.review expired accounts and respectfully communicate with customers to promote timely payments.network with partnership store coworkers to gain referrals.create, manage and execute plans to increase sales and conversion percentages.train, motivate and evaluate coworkers.gauge store performance by monitoring weekly, monthly and quarterly performance and financial reports.organize daily activities, including coworker schedules.proficiency in the windows operating system.#1 sales manager out of 650 stores in the region, received perform to win award for 2016. 
- 09/2000
- to 04/2003
- designer manager
- interior services of los gatos － los gatos, ca
- responsible for preparing presentations to clients of scaled renderings of rooms.worked with merchandise distributors, contractors with purchase orders, and delivery
-arrangements.supervised a team of 3-4 designers to properly handle business needs.
- 04/1993
- to 01/1995
- sales executive/manager
- nelson temporary staffing － san francisco, ca
- managed outside branch relations with businesses to develop temporary staffing solutions.responsible for managing and renewing temporary staffing contracts for businesses
-in the downtown financial districts.developed business relationships with human resource departments for accurate job
-descriptions and staffing needs.
- 10/1991
- to 10/1993
- operations manager
- kelly temporary services － san francisco, ca
- responsible for managing a 6-8 full-time kelly staffing supervisors that placed temporary
-help employees on various short and long term occupations.managed the daily operations of the branch office.instructed kelly staffing supervisors how to follow and maintain specific labor law guidelines
-for temporary employees.
- education and training
- high school diploma
- wolfson high school
- － jacksonville, fl
- skills
- contracts, credit, clients, delivery, financial, human resource, leadership, law, logistics, managing, office, presentations, sales
- management, staffing, statistics
- 
+      
+        
+        
+           WEB SITE ASSOCIATE
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Web designer and developer with experience in HTML/ HTML5, CSS/CSS3, JavaScript, JQuery, PHP, C# ASP.NET as well as Drupal 8 and Prism content management systems (CMS). Experience includes development with MySQL, SQL Server, and Sybase IQ.
+      
+      
+      
+        
+        Skills
+      
+        
+        
+          
+            
+              HTML/XHTML/HTML3, CSS/CSS3, VRML, XML, JavaScript, JQuery, C, C++, C# .NET/ASP.NET, PHP, SQL, OpenGL, Performer, Dreamweaver, Visual Studio/Web Developer, Photoshop, Drupal 8 CMS, Prism CMS MySQL, SQL Server, Sybase IQ
+Technical Writing: technical proposals, white papers, requirements specifications, other technical documentation to include user's manuals, and programmer's manuals
+              
+            
+          
+        
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          01/2009
+           to 
+          01/2018
+        
+        
+          
+            Web Site Associate
+          
+          
+            ISPE － 
+            Tampa, 
+            FL
+          
+          
+            Design, develop and maintain conference and other websites using HTML/HTML5, CSS/CSS3, Responsive Design, PHP, ColdFusion, JavaScript, JQuery, Dreamweaver, Photoshop, Drupal 8 and Prism CMS.Involved in specification, migration, and integration of the 2017 redesign of the main website to Drupal 8.Created the templates and CSS required to implement the previous redesign of the main website to include conference sites, forum sites, and affiliate and chapter sites.Designed, developed and maintained dynamic websites and areas for the society to include conference and Annual Meeting websites, training, and Speaker Connect.Work closely with content owners to understand their business requirements and provide a user-centric presentation of their information that meets those needs.Insure web content has consistent messaging, adherence to style and brand standards, and supports search engine optimization (SEO).
+          
+        
+      
+        
+        
+          01/2007
+           to 
+          01/2009
+        
+        
+          
+            President, Web Designer/Developer
+          
+          
+            SIMPLEKAT INC － 
+            Clearwater, 
+            FL
+          
+          
+            Design, develop and maintain websites for individuals and small businesses.Create standards based websites using HTML/XHTML, CSS, PHP, MySQL, JavaScript, Dreamweaver, Fireworks, and Photoshop.Designed and developed custom static and dynamic websites with server interaction through PHP and MySQL or SQL Server.Updated, maintained, and redesigned existing websites to include analysis of existing websites to determine the appropriate approach.Promoted strong customer relations with regular client interaction, website reviews, and documentation of client requirements, design, and other information.
+          
+        
+      
+        
+        
+          01/2000
+           to 
+          01/2007
+        
+        
+          
+            Software Developer II
+          
+          
+            THE NIELSEN COMPANY － 
+            Oldsmar, 
+            FL
+          
+          
+            Designed and developed C# ASP.NET web applications, a web portal, and other C#, C++ MS Windows and UNIX based software applications that provided custom media analysis and reporting for internal and external customers.Developed a web portal for a new audience analysis and measurement service under research and development.Designed and developed interactive reporting and analysis C#, asp.net, SQL Server and Sybase IQ web applications that provided valuable research information to both internal and external customers.Designed and developed custom television audience analysis software for various external customers to include TV Networks and advertising agencies in C# MS Windows and the IBM Informix Red Brick data warehouse.Worked closely with Quality Assurance to insure all applications worked properly produced accurate and reliable information.Technical leader and mentor on various projects.
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+        
+        
+          
+            BS: 
+            Computer Science/Information Systems Management
+          
+          
+            University of Maryland University College
+             － 
+            College Park, 
+            Maryland
+            
+          
+          
+          
+            Computer Science/Information Systems Management
+          
+        
+      
+      
+      
+        
+        Activities and Honors
+      
+        
+        Drupal 8 Site Building, Theming, Module Building Course
+Oriented Design and Development Course
+Relational Data Base Design and Development Course
+Six Sigma Green Belt Training
+      
+      
+      
+        
+        Interests
+      
+        
+        United States Army SIGINT Morse Interceptor (4 years)
+Fort Meade, Maryland
+      
+      
+      
+        
+        Skills
+      
+        
+        asp.net, C# .NET, Dreamweaver, Photoshop, advertising, C++, data warehouse, Data Warehouses, Drupal 8, XML, HTML5, PHP, JavaScript, JQuery, C#, MySQL, search engine optimization, SQL, SQL Server, Sybase, white papers, Technical Writing, technical documentation, UNIX, Visual Studio, web applications, Web Developer, XHTML
+      
+      
+      
+        
+        Additional Information
+      
+        
+        MILITARY
+United States Army SIGINT Morse Interceptor (4 years)
+Fort Meade, Maryland
+      
+      
+    

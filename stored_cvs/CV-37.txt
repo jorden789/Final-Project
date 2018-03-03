@@ -1,36 +1,162 @@
 
- analyst/programmer intermediate
- summary
- identity management specialist with 8 years of professional experience in identity management, and 13 total years in it. nonprofit president with 3 years of experience managing business operations.
- highlights
- microsoft ilmnetiq identity managerldapactive directory
- javac#radiantone icsnovell edirectory
- experience
- 01/2012
- - current
- georgia state university － atlanta, ga
- analyst/programmer intermediate
- create and maintain identity data solutions, including identity data consolidation and synchronization with multiple sources and destinations.maintain ldap directory systems including synchronization between multiple server clusters.consolidate identity sources into central identity databaseprovision identity data from central identity database to multiple systems, including ldap, active directory, and office 365.implement encryption for internal password synchronization feeds.maintain security certificates for all identity feeds, including internal feeds.create custom identity feeds for internal and external customers. maintain password synchronization between multiple authentication systems.maintain legacy systems written in multiple languages, including pl/sql, c#, java, bash, and expect.create and maintain saml based single sign on systems for the university, including federated identitytroubleshoot identity issues and work with customers to reach a resolution.
- 03/2013
- - current
- relationship equality foundation － fayetteville, ga
- president
- act as ceo of corporation.oversee day to day operations of nonprofit activities.balance project needs and budgetary concerns.approve corporate activities and projects based on directives and goals from board of directors.oversee officers and staff.
- 09/2008
- - 12/2011
- booz allen hamilton － montgomery, al
- senior consultant
- created and maintained identity data solutions, including identity data consolidation and synchronization with multiple sources and destinations.developed identity solutions for air force directory services.developed identity and access management solutions using both java and c# based tools.rebuilt and maintained email for career system for us air force to improve reliability of processes.generated design, test and operational documents describing the design and operation of each package developed and deployed.
- 03/2006
- - 08/2008
- general dynamics information technology － montgomery, al
- programmer/analyst
- maintained systems and software necessary for development and deployment of asset management software.traveled to customer premises to install software on customer systems.manged onsite and offsite backups of development systems.
- education
- auburn university
- auburn, al
- computer engineering
- bachelor of science - computer engineering
- skills
- active directory, ldap, c#, java, netiq identity manager, microsoft identity lifecycle manager, microsoft office, oracle pl/sql, project management, unix, linux, windows
- 
+      
+        
+        
+           SENIOR SOFTWARE ENGINEER
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        I am seeking a challenging career in the IT industry as a Senior Software Engineer where I can utilize my programming,
+analyst, and leadership skills. I am extremely dependable, a quick learner, and love a challenge
+      
+      
+      
+        
+        Skills
+      
+        
+        
+          
+            
+              Windows, UNIX, MQ Series, Batch Scripts, Python,programming languages, concepts and technologies,    Jython, Linux, Informatica, Functional Testing,including:    Performance and Load testing, Exploratory testingJava, JavaScript, HTML, JSP, PL/SQL, JIBX, XML,    JBOSS, Weblogic, Tomcat, CVS, SVN, Eclipse IDE,Web Services, JAXB, Spring, Angular 2 , Angular JS,    STS, RAD, Websphere, Clearcase, ClearQuest,CSS, Bamboo, Spring, Hibernate    Crucible, Fisheye, Cucumber/Selenium, New Relic,Oracle, DB2, MyBatis, MongoDB, SQL Server,    Postman, Junit, SonarSDLC, Data Mapping, Data Analysis, Estimating,Design, Agile Agile, Analyst, Ant, automate, billing, catalog, Clearcase, CSS, clients, CVS, Data Analysis, database, Documentation,Eclipse, Estimating, XML, Functional, HTML, DB2, IDE, Informatica, Java, JSP, JavaScript, JBOSS, Linux, Mainframe,Mentor, Windows, migration, MongoDB, MQ Series, Oracle, PL/SQL, performance reviews, coding, programming, PVCS,Python, RAD, Requirement, SDLC, Scripts, Soap, Software Engineer, SQL Server, Struts, Tomcat, UNIX, websites,Weblogic, Websphere
+              
+            
+          
+        
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Senior Software Engineer
+            
+              10/2017 to 
+              12/2017
+            
+          
+          
+            BROOKSOURCE/THRIVENT FINANCIAL
+            
+              Appleton, 
+              WI
+            
+          
+          
+            Migrate billing payment applications from WAS to Tomcat.Update services and methods for migration.Update documentation and process.Agile.
+          
+        
+      
+        
+        
+          
+            Fulltime Software Engineer
+            
+              08/2012 to 
+              10/2017
+            
+          
+          
+            LIBERTY MUTUAL INSURANCE
+            
+              Wausau, 
+              WI
+            
+          
+          
+            Created Web Services.New Development for several product and policy and claims applications.Utilize ETM for ref data.Utilize our spec model to add/reuse properties and specs to be used in the data that we pass in AMXML.Data Mapping to target state.Worked on ACORD projects to transform our AMXML to ACORD.Mentor other Developers and Analysts.Exceeded expectations on performance reviews.Researched and wrote cucumber/selenium tests to automate our testing.Mentor new developers that have gone through out 12 week go for code program.Have worked in all aspects of our policy system whether new development or enhancements that the business
+prioritizes/work closely with the business.
+          
+        
+      
+        
+        
+          
+            Software Engineer
+            
+              12/2011 to 
+              08/2012
+            
+          
+          
+            TEKSYSTEMS/AMERICAN FAMILY INSURANCE
+            
+              Madison, 
+              WI
+            
+          
+          
+            Coded several enhancements for online billing and payment manager.Assist clients with web issues.Analyze issues to determine the appropriate resolution ü  Write requirements and designs and estimates.Update Documentation and process.Unit, system, and Integration testing.Maintained existing websites.
+          
+        
+      
+        
+        
+          
+            Software Engineer/Analyst
+            
+              10/2006 to 
+              12/2011
+            
+          
+          
+            INTERWEST TECHNOLOGY GROUP
+            
+              Grand Blanc, 
+              MI
+            
+          
+          
+            Analysis of large scale systems and interactions within those systems.Update documentation and process.Coded several projects and enhancements for General Motors ACDelco part ordering site.SDLC- Analysis, wrote requirements, estimates and technical designs.Provided unit, system and integration testing of all code changes
+Created UNIX batch scripts to load the data from the mainframe to the application database utilizing MQ Series.Technical lead for 3 years.Worked on General Motors part catalog website providing analysis, review, coding, all phases of testing.
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+            Business Management CST Computer Applications: 
+            BUSINESS MANAGEMENT CST COMPUTER APPLICATIONS
+            
+              2005
+            
+          
+          
+            Delta College University
+            
+              Center, 
+              Michigan
+            
+            
+          
+          
+          
+            BUSINESS MANAGEMENT CST COMPUTER APPLICATIONS
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        Agile, Analyst, Ant, automate, billing, Business Management, catalog, Clearcase, Computer Applications, CSS, clients, CVS, Data Analysis, database, Documentation, Eclipse, Estimating, XML, Functional, HTML, DB2, IDE, Informatica, Java, JSP, JavaScript, JBOSS, Linux, Mainframe, Mentor, Windows, migration, MongoDB, MQ Series, Oracle, PL/SQL, performance reviews, coding, programming, PVCS, Python, RAD, Requirement, SDLC, Scripts, Soap, Software Engineer, SQL Server, Struts, Tomcat, UNIX, website, websites, Weblogic, Websphere
+      
+      
+      
+    

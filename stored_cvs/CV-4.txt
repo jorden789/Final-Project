@@ -1,40 +1,145 @@
 
- lead firmware engineer
- summary
- embedded systems engineer developing disruptive mixed reality technologies at a silicon valley startup.  recognized expert at delivering mission control quality firmware for world's most sought after smartphones and wearables. 
- skills
- software engineering leadershipbare metal as well as applications programmingcontinuous integration and testrapid prototypingdevelopment board bring-up 
- managing enterprise customer expectations standards compliance agile project management conducting technical presentations, workshops factory processes (evt, dvt, pvt)
- accomplishments
- avegant glyph: led firmware development on ces award winning near-eye head mounted display.iphone 5s, 6, 6s qualcomm mdm and rf: developed algorithms for controlling smartphone receiver amplifiers in 4g lte advanced. saving 15ma current per amplifier during frequent inactive periods in lte connection. iphone6s: led development of "dynamic auto rf path selection algorithms" critical for truly world-mode 4g lte carrier aggregation (ca). ipad3, iphone4: developed average power tracking (apt) proof of concept for power amplifiers. resulted in over 30% savings in battery life during data/voice connection. apt is used in over 90% of world's mobile devicesprimary inventor in us granted patent. invented a signal processing technique to search for un-used terrestrial tv spectrum and to utilize the found spectrum for high speed wireless tech usage i.e. cognitive radiohave been promoted thrice during tenure at qualcomm. recognized for expert level debugging, rapid prototyping for proof-of-concepts and managing expectations of enterprize partner
- experience
- 06/2016
- to current
- lead firmware engineer
- avegant － belmont, ca
- developed firmware for 2-time ces award winning, oprah's favorite thing 2016, near eye head mounted display(hmd) "avegant glyph". developed i2c, spi drivers, algorithms in c++ over ti arm cortex m4 platform. implemented proprietary packet protocol as serial gatt service over bluetooth low energy.prototyped liquid crystal on silicon based head mounted display with st arm cortex m4, freertos. drivers abstracting peripherals such as timers, pwm generators, dma, dac. implemented tasks for hdmi for automatic switching of 3d, 2d video formats, on-screen display with 3-buttons. interfaced invensense 6dof imu for vr applications. implemented state machine for overall system in c++. developed mac python application for ble interactions with hmd based on adafruit's bluefruitle package 
- 11/2006
- to 06/2016
- staff embedded software engineer
- qualcomm － santa clara, ca
- led board bring-ups for upcoming smart devices that contain qualcomm 4g lte chipsets constrained by extremely tiny form-factor. developed proprietary single antenna lte solution.  (2015, 2016)developed algorithms that have helped significantly reduce power consumption on receiver amplifiers during 4g lte micro-sleep states. saving current of 15 ma per amp. the algorithms run in time-constrained receiver automatic gain control timeline, ensuring signal level changes are 3gpp compliant and take place under a mili-second. resolved multiple feature interaction issues with assembly level debug of mipi scripts that are programmed by arm cortex m. (2015, 2016)provided configurable tx duty cycle for factory test mode lte, helped cut customer operations costs by eliminating need for expensive test equipment (2015)led development of "dynamic auto rf path selection algorithms" that enabled world-mode aka international roaming 4g lte advanced carrier aggregation that could support multiple rf frontend combinations on the same smartphone. used c inheritance concept to abstract device details from lte firmware. improved sensitivity and accuracy by up to 4 dbs. got promoted for introduction and successful commercialization of lte and lte carrier aggregation on key design wins for qualcomm (2014)    developed 4g and 3g transmitter dac calibration and configuration drivers that helped save 100s of microseconds of warm up time during packet transmissions. delved into mixed-signal register sequences, executing in minimum amount of cycles to save boot time (2013)introduced lte on a very sought after tablet\'s cellular variant. working in a very small team, did ground floor work, debugging, improving all aspects of rf through factory evt, dvt, pvt (2011, 2012)developed algorithms that use on-chip transceiver power detector(hdet) for lte max power limiting(mtpl). developed isrs for a strict, micro-second level timeline (2012)developed factory test mode capability for transmitting cw tone in lte bands. enabled characterization of tx frequency response over the entire bandwidth, saving equipment costs and technician time otherwise needed with conventional rf analysis. (2012)developed average power tracking (apt) proof of concept for power amplifiers. developed microsecond level execution time constrained embedded software in c for linear interpolation of data-points from transmitter power measurements, and low-level programming of dc-dc converters aka smps for power amplifiers. apt saved over 30% of battery and is used in 90% of all mobile devices (2010, 2011)provided many improvements to modem adc clock sourcing and switching for spur mitigation in cdma gps. improved gps receiver sensitivity significantly. used fixed-point math for calculating spurs and transceiver pll programming codes. got promoted for expert level jtag debug of multiple rf frontend issues.  (2010)driver development for single chip modem rf transceiver cdma implementation. used c for encapsulating transceiver key features. provided a proof of concept for re-purposing wcdma transceiver for cdma usage, delving into low-level asic blocks. this enabled a china customer for faster time-to-market (2009)fine-tuned and mainlined a dormant algorithm design for supporting cdma receiver diversity dynamic switching for multi-antenna devices. simulated the iir filters in matlab. provided corrections to fixed point c arithmetic. algorithm improves battery life significantly while improving voice quality (2008)as a systems engineer, provided multiple improvements to cdma is98 compliance standard test sequences, catching multiple field issues during lab prototype tests thus avoiding device returns. evaluated potential standard improvements, got promoted for significantly altering compliance test approaches (2006, 2007)​
- 01/2006
- to 10/2006
- software test engineer
- nokia mobile phones － mumbai, india
- protocol r&d systems test engineer for nokia mobile phone prototypes. developed tests in c for verification of is98 verification, mobile assisted hard-handoff. left nokia for an opportunity to work on core signal processing and rf algorithms at qualcomm
- publications
- us patent us8594121 b2patent title "cognitive radio spectrum sensor employing peak-to-average ratio as the signal feature"inventors: sushant thakur (primary), saidhiraj amuru, vollala cabstract: a white space sensing method includes measuring a peak to average power ratio (papr) of a signal of a channel in a spectrum band. the method also includes determining whether a ratio of the measured  papr to a predetermined  papr of a modulation scheme associated with the signal meets a predetermined threshold. the method further includes indicating the channel is available for use by an unlicensed user when the ratio meets the predetermined threshold
- skills
- fluent in c/c++, arm assembly. arm, arm cortex and hexagon dsp micro-controllers. real time operating systems, linux, bare metal. scripting and data analysis using python, numpy, matlab. developing firmware for fixed-point and floating-point computations. interface programming over i2c, spi, usb, uart, mipi, gpio. mixed signal interfaces adc, dac, pwm. developing physical layer for lte, cellular, gsm, 3g, wifi, ble, nfc. schematic analysis using cadence allegra. in-circuit debugging using lauterbach trace32 jtag. spectrum analysis, digital logic analysis on pcb using salae, digital phosphor oscilloscope, rhode and schwartz cmw500, anritsu 8820c, litepoint
- education
- 2013
- project management certificate (project management institute approved)
- university of california
- － berkeley
- 2005
- bachelor of engineering: electronics and telecommunication,
- university of mumbai
- － mumbai
- india
- 
+      
+        
+        
+           PE- ELECTRICAL ENGINEER
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Electrical Engineer possessing 15+ years of experience at automotive industrial manufacturers with an extensive background in troubleshooting all aspects of production automation. Highly experienced in solving technical problems, establishing teamwork, departmental communication, and maintaining a positive and safe working environment.
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            PE- Electrical Engineer
+            
+              03/2015 to 
+              Current
+            
+          
+          
+            TAIHO Corporation of America
+            
+              Tiffin, 
+              OH
+            
+          
+          
+            Re-established an arc flash awareness and the importance of proper PPEImproved downtime incidents by 25% the first year of employment due to effective troubleshooting skills and training for Maintenance employeesRebuilt 3 machines from the ground up to be placed back in to full production in less than 6 monthsEliminated machine crashes due to data loss during power interruptionsEstablished a backup battery replacement PM system for all controls that were requiredTwo PLC upgrades within the first year of employment - AB and MitsubishiCountless PLC, HMI and robot programming improvements
+          
+        
+      
+        
+        
+          
+            Maintenance Supervisor
+            
+              06/2014 to 
+              03/2015
+            
+          
+          
+            Jeg's High Performance
+            
+              Delaware, 
+              OH
+            
+          
+          
+            Improved down time on the ASRS system in less than 3 monthsReduced the amount of off shift call-ins in less than 3 monthsReduced energy costs by 25% in less than 4 months and continuing the progressReduced costs for the need of outside resources to troubleshoot distribution processes and facility upkeep in less than 3 months
+          
+        
+      
+        
+        
+          
+            Maintenance Equipment Specialist
+            
+              07/2000 to 
+              05/2014
+            
+          
+          
+            Cardington Yutaka Technologies
+            
+              Cardington, 
+              OH
+            
+          
+          
+            Achieved downtime reduction from 5-6% to less than 3%.Rapidly grasped full knowledge of press operations in less than 2 years.Increased OEE for several production lines.Improved and monitored cycle time analysis.Worked in groups using Six Sigma/Root Cause Analysis techniques to evaluate concerns and how to make improvements.
+          
+        
+      
+        
+        
+          
+            Service Director
+            
+              08/1993 to 
+              03/2000
+            
+          
+          
+            Whitey's Auto Mall
+            
+              Mansfield, 
+              OH
+            
+          
+          
+            Accountable for $1,500,000 total labor sales annually.Increased profits 34% in the period of one year.Instrumental in developing and maintaining a loyal customer base.Supervision, motivation and coordination of training activities for 25 employees as well as customer complaint research and resolution.Monitor equipment maintenance, tool inventory, hazardous waste disposal, employee safety, computer hardware maintenance and software upgrades, advertising, competitive marketing and technical advice.
+          
+        
+      
+      
+      
+        
+        Education
+      
+        
+        
+          
+            Associate of Applied Science: 
+            Electronics Engineering
+            
+              1996
+            
+          
+          
+            North Central Technical College
+            
+              Mansfield, 
+              OH, 
+            USA
+            
+          
+          
+            GPA: GPA: 3.75
+          
+          
+            Electronics Engineering Coursework in Electrical and Industrial Engineering focusing on Basic Electronics, Circuit Analysis, Motors and Controls, Integrated Circuitry, PLC Programming and I/O, Electronic Drafting, Linear Circuits, Instrumentation, Microprocessors, Math (Calculus/Trig), Communications, Physics, Industrial Controls, Digital Principles and English GPA: 3.75 Graduated with honors - Summa Cum Laude
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        Technical degree with honors in Electronics Engineering Technology, experience in project management, Microsoft Office, vision systems-Keyence/OMRON/COGNEX/DVT, 15 years experience in automotive manufacturing, programming and troubleshooting PLCs-Mitsubishi/Allen-Bradley/YASKAWA/FANUC, HMI programming, trained in Root Cause Analysis, very diversified with industrial controls and networking, servo programming and troubleshooting, motors and controls-AC & DC, trained in robotics programming, maintenance and troubleshooting-FANUC/YASKAWA-MOTOMAN/OTC DAIHEN/DENSO/Yamaha robots, YAG/Panasonic laser welding/etching training and safety, OSHA compliance knowledge, hydraulics and pneumatics, reading blueprints, Hitachi Zosen and AIDA blanking/forming press maintenance and troubleshooting knowledge, heat treat, weld cells, lathe troubleshooting-MAZAK/OKUMA/Mori Seiki, various quality measurement systems and facility maintenance, experienced with low (24VDC) and high voltage (110/208/480) power distribution, shipping dock lock restraints and controls, management and communication.  
+      
+      
+    

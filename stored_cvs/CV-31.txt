@@ -1,83 +1,163 @@
 
- ui developer
- summary
- 4 years of experience in web development using web 2.0, jquery, html, css and oo javascript.strong knowledge in developing and designing web 2.0 and business application according to information
-architecture and usability standards using oo javascript framework, ajax, jquery, java, jsp, servlets, xml,
-dhtml, xhtml, css and mvc framework.
- extensive knowledge in oo javascript design pattern and javascript and ajax, json.
- good understanding of three column / bootstrap layout using css and xhtml and also experience of fixing
-cross-browser and cross-platform issues.
- experience in web application development, interface web design, designing/developing interfaces for
-multiple browsers, planning and implementing internet/intranet project, working with the jquery library, web
-technologies and integrated with jsp and jquery.
- expertise in all phases of the software development life cycle including requirements gathering, analysis, designing,
-coding, testing, integration, and documentation.
- excellent knowledge of multi- tier web based application development.
- expert in using json (javascript object notation) a lightweight data-interchange format to build collection of
-name/value pairs and ordered list of values
- extensive experience in testing including accessibility, usability and ui regression testing. strong project planning and very detail oriented.
- excellent ability in communicating designs through scenarios, prototypes, and ui specs as well as liaising with
-business analysts, designers, and developers in order to create functional specifications.
- highly motivated, dedicated, fast learner and has proven my abilities in my projects both as a team player and an
-individual.
- ability to excel at communicating with customers, teammates, and other internal organizations.
- excellent working knowledge and thorough exposure on compatibility issues with different versions
-browsers like safari, google chrome and mozilla firefox.  as a part of self learning have worked on couple of proof of concept in reactjs,babel,javascript es6.authorized to work in the us for any employer
- experience
- ui developer
- nov 2015 to jun 2016
- apple inc － sunnyvale, ca
- developed responsive user interface using javascript, jquery, html5, css3
- responsibilities included improving, implementing new features and maintaining existing application
- developed html5 interfaces with an understanding of user interface design principles and object-oriented
-program development.minified all css and js to set desired compression level and customize compression option.also used
-html-css-js prettify plugin for formatting.implemented code to fetch data from web services using jquery ajax via json response and hence update the
-web page.implemented tabular data using jquery plugin, jqgrid to load data and support features like sorting grid,
-pagination, multi-select rows, tool-tip and format cells depending on requirement.implemented directed graphs for data visualization using javascript library dagre-d3 which provides actual
-rendering using d3.js to help business measure current status of application.also supported interactive features like
-animations, scaling, events and transitions.parsed data using json to demonstrate data using dagre-d3.solved the padding effect differences among the various browsers i.e browser's compatibility.implemented javascript functionality for auto generation of initials during signature process in pdf document.utilized jquery library functions to increase the code re-usability and support standard coding practices.extensively used jquery ui widgets such as accordion, date-picker, dialog and jquery plugins like multi- select
-drop-down, tokenize auto-complete plugin with functionality to enhance the look and feel of web page.utilized css media queries to build responsive website optimized for ios multiple devices.used detailed wireframes and developed mock-up designs as per the requirements of business.worked with the team of architects and back-end developers to gather requirements and enhance the application
-functionality and add new featuresdeveloped cross-browser pages using css3, html5, javascript and jquery.worked on a single page application that uses twitter bootstrap and backbone for front end, that connects to
-internal and public restful api's.the application used backbone.js for routing, models and views.jquery was used
-for dom manipulation and ajax requests.built templates with an assortment of javascript micro- templating tools
-that include underscore.js, mustache.js and handlebar.js.installed and maintained packages and dependencies
-using nodejs npm.utilized backbone.marionette to improve the application architecture as well as enhance the user interface.implemented tabular data using datatables integrated with bootstrap 3.utilized grunt for build/deploy the application.debugged the common code platform to remove bugs from several features of the code using eclipse ide , safari
-developer tool, firebug, chrome developer tool.worked in an agile environment running morning scrums and bi-weekly sprint pattern
- used gitlab and svn for source version control.environment and technologies: javascript, ajax, css, xhtml, html5, xml, css3, java, jsp, jsp tag library, servlet, oracle, jquery, jboss, ant, eclipse, svn, gitlab, backbone.js, grunt/node.js, bootstrap,nodejs, npm package
- ui developer intern
- mar 2015 to oct 2015
- gigame － santa clara, ca
- developed a site-wide web 2.0 migration service using ajax framework using jquery, jsp, mvc and html5 leveraging bootstrap framework.used facebook sdk for javascript to implement client side functionality for adding social plugins, making api calls and implementing facebook login. developed ajax implementation for searching candidates/ jobs/ companies for different search criteria.  implemented autosuggest widget for different fields like location, job categories, skills etc. for user profile.  developed html5 interfaces with an understanding of ui design principles and object-oriented program development. implemented a html5 page to present the search box with javascript file to handle the ajax functionality and a server-side jsp page and javascript mvc to return a new-line separated list of suggested searches.  developed and migrated customer profile page to jquery isotope plug-in with ajax implementation, and extensively used jquery dom, traversing and selector api. developed a box model for padding, margins or borders on the playing fields or the draggable elements will cause them not to stay fully in the playing field so that they will overlap the region by the width of the margin/padding/border. debugged the common code platform to remove bugs from several features of the code using eclipse ide and firebug tool developed ui library functions to increase the code reusability and support standard coding practices. developed a customer profile area auto scroll with the messages to increase the usability of the chat. developed functionality for displaying values in tag style and implemented validations like null check for duplicate value check etc.designed expanded rows that will wiped out and restored when the datatable paginates or sorts, and to keep track of expanded rows and automatically restore them after each rendering of the datatable.implement tokeninput autocomplete plugin to make the integration and the data is saved on the database. implemented the fancy box to change the image of popup when link is clicked. developed sql statements to get fetch data and implemented pagination.used standard coding practices to debug the code and provide a general object oriented solution to support all other features.environment and technologies: javascript, ajax, css, xhtml, html5, bootstrap, xml, css3, java, jsp, jsp tag library, servlet, oracle, jquery, tomcat, ant, eclipse, svn, tomcat 
- project engineer
- nov 2010 to current
- wipro technologies － bangalore, india
- created web pages for each project using xhtml, css, and javascript. developed and implemented pure css-based page layouts.identifying and solving cross-browser compatibility issues relating to xhtml and css. creating new web pages from photoshop mockups using css and xhtml. worked on tools like home site, dream weaver, photoshop and image ready and also constructed and evaluated prototypes following standards.worked with css selectors, classes, ids, pseudo classes, inheritance and cascade concepts, box model with fixed width, fluid & elastic layouts implemented user interface using jsp and html, css.used the ajax technology for making asynchronous calls for the action classes for validating the data for the modify and add functionality of the application. used concurrent version system for version control system.constructed web wireframes and mock-ups by designing and building interaction, determined screen layouts, style, and color palettes.developed complex database objects like stored procedures, functions, packages, and triggers using sql and pl/sql developed java code for ui/business validations for owned use cases. involved in resolving production problems for the applications and ensured all support service level agreements are met. mentored junior engineers in the team and getting them productive quickly. effectively made use of tables, indexes, partitioning, collections, exception handling, constraints, index, views, ref cursor					environment and technologies: javascript, jquery, json, xml, html, css, java, tomcat, ajax, jsp, xml.
- education and training
- postgraduate certificate in software engineering
-university of california santa cruz extension silicon valley
- 2015
- ca
- bachelors, electrical and electronics engineering
- 2010
- m.g. university kerala
- electrical and electronics engineering
- other achievements
- wipro spark award 	2011-07
- awarded certificate for outstanding contribution, "wipro spark" in 2011 by wipro technologies as an appreciation
-for hard work and dedication.
- skills
- operating system: windows 98/2k/nt/xp, unix, mac os x
-web technologies: css/css3, html/html5, xml, xhtml, responsive design, json, javascript, jsp, servlet,
-ajax, jquery, json, javascript es6,
-webpack
-framework: jquery, angular.js, react.js, backbone.js
-built tools grunt, gitlanguages: c, c , java, php.
-java ide's :eclipse ide, spring tool suite ide, aptana ide, netbeans ide
-web/app. servers apache tomcat, jboss application server
-database mysql, db2, oracle7.x/8.x/9.x/10
-other tools sql, sql plus, wamp
-tools & utilities: ant, junit,
-version mgmt. cvs , subversion, gitlab
- additional information
- github: https://github.com/taniatressa/tania-thomas-repository.git
- 
+      
+        
+        
+          
+          BIM COORDINATOR
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        
+	Proficient in Revit MEP, Revit Architecture, Navisworks, AutoCAD, AutoCAD Inventor, Solidworks, Bluebeam, and Microsoft Suite Programs
+	Qualified and experienced in utilizing engineering & architectural drafting principles and standards
+	Strong 3D spatial comprehension
+	Expert ability to understand design drawings from other engineering disciplines
+	Venture toward continuous self evaluation, personal growth, and professional development
+	Excel in taking initiative to learn systematically
+
+      
+      
+      
+        
+        Skills
+      
+        
+        Mechanical design/implementation, technical drawing, drafting techniques, reading and interpreting blueprints, geometric dimensioning, red-line revision skills, team player, material interpersonal skills, results-oriented, quick learner, advanced critical thinking
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            BIM COORDINATOR
+            
+              Sep 2017 to 
+              Jan 2018
+            
+          
+          
+            WSP | PARSONS BRINCKERHOFF － 
+            Seattle, 
+            WA
+          
+          Maintained project CAD and Revit files in accordance with project standardsManaged project setup in AutoCAD and Revit following company proceduresUpdated CAD and Revit backgrounds in line with the project schedulesMaintained and updated Title Blocks, Phases, and Revision Documentation as requiredPrepared clash detection and coordination reports using NavisworksAssisted in content creation for Revit using dynamo and BIM specific proceduresAssisted users with Revit usage questions and troubleshooting
+        
+      
+        
+        
+          
+            Revit Manager/Design Engineer
+            
+              Aug 2015 to 
+              Aug 2017
+            
+          
+          
+            Evergreen Refrigeration & HVAC － 
+            Seattle, 
+            WA
+          
+          
+	Manager of 3D models and coordination for large commercial projects
+	Developer of employee training and procedures for Revit MEP
+	Initiated Revit MEP program integration into the workflow process
+	Mechanical designer/drafter of variable mechanical systems
+	Constructed code compliant documents in response to permit corrections.
+
+        
+      
+        
+        
+          
+            Intern
+            
+              May 2015 to 
+              Aug 2015
+            
+          
+          
+            Evergreen Refrigeration & HVAC － 
+            Seattle, 
+            WA
+          
+          
+	Drafted mechanical details, wiring diagrams, isometric diagrams, and HVAC schematics
+	Produced HVAC design estimations for commercial projects
+	Utilized engineering software to procure HVAC load calculations and material takeoffs
+
+        
+      
+        
+        
+          
+            Server
+            
+              Dec 2013 to 
+              Apr 2016
+            
+          
+          
+            Tallulah's － 
+            Seattle, 
+            WA
+          
+          
+	Trained employees on service standards and procedures
+	Provided exceptional customer service; invariable company recognition and customer loyalty.
+
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+            
+            Engineering Design & Technology
+            
+              2017
+            
+          
+          
+            South Seattle College － 
+            Seattle, 
+            WA
+            
+          
+          
+          GPA: 3.80, Phi Theta Kappa Honor Society Member, Dean's List 2013-2017
+        
+      
+        
+        
+          
+            Bachelor's of Interdisciplinary Studies, 
+            College of Letters and Sciences
+            
+              2012
+            
+          
+          
+            Arizona State University － 
+            Tempe, 
+            AZ
+            
+          
+          
+          
+        
+      
+      
+    

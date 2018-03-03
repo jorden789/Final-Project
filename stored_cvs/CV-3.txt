@@ -1,38 +1,174 @@
 
- senior consultant (container and paas practice)
- summary
- a focused, and detail-oriented software engineering professional, passionate about creating great software in highly agile, fast-paced environments. active in the open source community, including maintainer, and leadership roles. committed to building quality software with a collaborative, team-player attitude, great problem solving skills, and excellent programming ability.
- highlights
- leader in open source expert in agile development methodologies (scrum, kanban, xp)expert understanding of application architectures, design patterns, and software development principlesseasoned devops mindset
- knowledgeable in web, and application performancejvm expertcollaborative developerexpert in infrastructure automation, automated testing, build tooling, and automated release delivery
- accomplishments
- active maintainer, and top contributor of open-source project, grabbitcontributor to multiple oss projects including openshift, scl, and okhttptechnical speaker, with experience speaking at technical talks, and conferencesleader in moving time warner cable's marketing, and commerce portals into an openstack cloud; including automated provisioning, and image production.spearheaded local development environment virtualization using vagrant, packer, and puppet for time warner cable.leader in development, and maintenance of timewarnercable.com's online checkout portal, and ordering system.
- experience
- senior consultant (container and paas practice)
- 03/2017 to current
- red hat
- raleigh, nc
- a senior member of the container and paas practice, provides engineering expertise, and development for red hat openshift container platform customers. experience includes advising customers on deployment strategy, build strategy, and application integration strategy; in addition to development of feature demos, run-time images, and upstream contributions in the form of bug fixes, new features, and documentation enhancements to openshift origin, and software collections projects.  major accomplishments: development of a password vaulting integration with openshift and cyberark for a major financial institution.overhauled red hat supported mongodb image to support mongos, sharding, and ssl/tls replication supportdevelopment of blog posts, and training materials for openshift adoption.  ​
- senior software engineer (contracted from icidigital)
- 11/2012 to 03/2017
- time warner cable
- raleigh, nc
- an embedded, long-term contractor of time warner cable's atg (advanced technology group), has provided engineering leadership, and senior development on twc's adobe aem marketing platform - timewarnercable.com for over 4 years. actively leads, and contributes to time warner cable's open source presence, including twc's aem/jackrabbit content data sync tool, grabbit; build automation plugins; and infrastructure automation projects. has full-rounded experience as a devops member, bridging the gap between operations, infrastructure automation, and product development. primary technical exposure includes development in groovy, and java with several open source technologies (i.e apache camel, apache felix, apache jackrabbit, netflix hystrix); development of restful web-services; development of server-side core support services; modern distributed vcs approaches (git, ghe); and tools development in several languages (ruby, python, perl, bash, puppet). major accomplishments :leader in moving charter infrastructure to automation post-acquisitionspearheaded moving timewarnercable.com and support systems to an openstack iaas configuration; allowing the business to react quickly to change.lead developer on twc's vagrant implementation, as well as supporting projects such as an image development pipeline project using packer, and open source puppet provisioning modules.development leader on twc's residential checkout portal, increasing online conversion by over 100%.developed twc's business class cms platform for commercial marketing content development. software engineer (contracted from i-cubed)
- 09/2012 to 11/2012
- boeing
- raleigh, nc
- lead development on an add-on module for creo parametric that allowed mechanical, and structural engineers to automatically discover parts, and sub-assemblies; associate; and assemble them into a final top-level assembly. developed an easy-to-use installer using the nsis language. this project allowed boeing to reduce turn-around time on assembly development drastically. technical exposure included c++ development, nsis development, svn as vcs, and visual studio professional as ide choice.  
- software engineer
- 07/2012 to 09/2012
- general dynamics land systems (formerly force protection) (contracted by i-cubed)
- raleigh, nc
- lead development on add-on modules for creo schematics, and creo parametric that allowed part, and assembly metadata to be processed, updated on designs, and uploaded to a ptc windchill plm implementation. this helped streamline communication between engineering teams in general dynamics. technical exposure included development in c++ (for creo parametric module), and java (for creo schematics port); mercurial as vcs; and visual studio professional, and eclipse as ide choices. education
- bachelor of science: computer science
- 2012
- appalachian state university
- boone, nc, 28608
- portfolio
- github profile : www.github.com/jbornemannlinkedin : www.linkedin.com/in/jeffbornemannblog : www.softwarewithjeff.com
- technical proficiency
- languages:  groovy, java, go, ruby, puppet, bash, javascript, c/c++, pythontools:adobe aem (5.5, 5.6, 6.0, 6.1, 6.2), adium, ant, apache camel, apache felix, apache jackrabbit, apache sling, apache web server, blazemeter, boxen, docker, eclipse, git, github enterprise, gradle, haproxy, hipchat, hudson, hystrix, intellij, jenkins, jira, jprofiler, jvisualvm, loadrunner, make, maven, netbeans,  nginx, openshift, openstack, packer, puppet, selenium, slack, speedcurve, spring (batch, boot, mvc), sublime text, terraform, vagrant, varnish, vim, virtual box, visual studio, vmware, wpt
- 
+      
+        
+        
+           SENIOR CONSULTANT (CONTAINER AND PAAS PRACTICE)
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        A focused, and detail-oriented Software Engineering professional, passionate about creating great software in highly agile, fast-paced environments. Active in the Open Source community, including maintainer, and leadership roles. Committed to building quality software with a collaborative, team-player attitude, great problem solving skills, and excellent programming ability.
+      
+      
+      
+        
+        Highlights
+      
+        
+        
+          
+            
+              Leader in Open Source Expert in Agile development methodologies (Scrum, Kanban, XP)Expert understanding of application architectures, design patterns, and software development principlesSeasoned DevOps mindset
+              Knowledgeable in web, and application performanceJVM expertCollaborative developerExpert in infrastructure automation, automated testing, build tooling, and automated release delivery
+            
+          
+        
+      
+      
+      
+        
+        Accomplishments
+      
+        
+        Active maintainer, and top contributor of open-source project, GrabbitContributor to multiple OSS projects including OpenShift, SCL, and okhttpTechnical speaker, with experience speaking at technical talks, and conferencesLeader in moving Time Warner Cable's marketing, and commerce portals into an OpenStack cloud; including automated provisioning, and image production.Spearheaded local development environment virtualization using Vagrant, Packer, and Puppet for Time Warner Cable.Leader in development, and maintenance of timewarnercable.com's online checkout portal, and ordering system.
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Senior Consultant (Container and PaaS Practice)
+            
+              03/2017 to 
+              Current
+            
+          
+          
+            Red Hat
+            
+              Raleigh, 
+              NC
+            
+          
+          
+            A senior member of the Container and PaaS practice, provides engineering expertise, and development for Red Hat OpenShift Container Platform customers. Experience includes advising customers on deployment strategy, build strategy, and application integration strategy; in addition to development of feature demos, run-time images, and upstream contributions in the form of bug fixes, new features, and documentation enhancements to OpenShift Origin, and Software Collections projects.  Major Accomplishments: Development of a password vaulting integration with OpenShift and CyberArk for a major financial institution.Overhauled Red Hat supported MongoDB image to support mongos, sharding, and SSL/TLS replication supportDevelopment of blog posts, and training materials for OpenShift adoption.  ​
+          
+        
+      
+        
+        
+          
+            Senior Software Engineer (Contracted from iCiDigital)
+            
+              11/2012 to 
+              03/2017
+            
+          
+          
+            Time Warner Cable
+            
+              Raleigh, 
+              NC
+            
+          
+          
+            An embedded, long-term contractor of Time Warner Cable's ATG (Advanced Technology Group), has provided engineering leadership, and senior development on TWC's Adobe AEM marketing platform - timewarnercable.com for over 4 years. Actively leads, and contributes to Time Warner Cable's open source presence, including TWC's AEM/Jackrabbit content data sync tool, Grabbit; build automation plugins; and infrastructure automation projects. Has full-rounded experience as a DevOps member, bridging the gap between Operations, infrastructure automation, and product development. Primary technical exposure includes development in Groovy, and Java with several open source technologies (i.e Apache Camel, Apache Felix, Apache Jackrabbit, Netflix Hystrix); development of RESTful web-services; development of server-side core support services; modern distributed VCS approaches (Git, GHE); and tools development in several languages (Ruby, Python, Perl, Bash, Puppet). Major Accomplishments :Leader in moving Charter infrastructure to automation post-acquisitionSpearheaded moving timewarnercable.com and support systems to an OpenStack IaaS configuration; allowing the business to react quickly to change.Lead developer on TWC's Vagrant implementation, as well as supporting projects such as an image development pipeline project using Packer, and open source Puppet provisioning modules.Development leader on TWC's residential checkout portal, increasing online conversion by over 100%.Developed TWC's Business Class CMS platform for commercial marketing content development. 
+          
+        
+      
+        
+        
+          
+            Software Engineer (Contracted from I-Cubed)
+            
+              09/2012 to 
+              11/2012
+            
+          
+          
+            Boeing
+            
+              Raleigh, 
+              NC
+            
+          
+          
+            Lead Development on an add-on module for Creo Parametric that allowed mechanical, and structural engineers to automatically discover parts, and sub-assemblies; associate; and assemble them into a final top-level assembly.  Developed an easy-to-use installer using the NSIS language. This project allowed Boeing to reduce turn-around time on assembly development drastically.  Technical exposure included C++ development, NSIS development, SVN as VCS, and Visual Studio Professional as IDE choice.  
+          
+        
+      
+        
+        
+          
+            Software Engineer
+            
+              07/2012 to 
+              09/2012
+            
+          
+          
+            General Dynamics Land Systems (formerly Force Protection) (Contracted by I-Cubed)
+            
+              Raleigh, 
+              NC
+            
+          
+          
+            Lead Development on add-on modules for Creo Schematics, and Creo Parametric that allowed part, and assembly metadata to be processed, updated on designs, and uploaded to a PTC Windchill PLM implementation. This helped streamline communication between engineering teams in General Dynamics. Technical exposure included development in C++ (for Creo Parametric module), and Java (for Creo Schematics port); Mercurial as VCS; and Visual Studio Professional, and Eclipse as IDE choices. 
+          
+        
+      
+      
+      
+        
+        Education
+      
+        
+        
+          
+            Bachelor of Science: 
+            Computer Science
+            
+              2012
+            
+          
+          
+            Appalachian State University
+            
+              Boone, 
+              NC, 
+            28608
+            
+          
+          
+          
+            
+          
+        
+      
+      
+      
+        
+        Portfolio
+      
+        
+        Github Profile : www.github.com/jbornemannLinkedIn : www.linkedin.com/in/jeffbornemannBlog : www.softwarewithjeff.com
+      
+      
+      
+        
+        Technical Proficiency
+      
+        
+        Languages:  Groovy, Java, Go, Ruby, Puppet, Bash, Javascript, C/C++, PythonTools:Adobe AEM (5.5, 5.6, 6.0, 6.1, 6.2), Adium, Ant, Apache Camel, Apache Felix, Apache Jackrabbit, Apache Sling, Apache Web Server, Blazemeter, Boxen, Docker, Eclipse, Git, Github Enterprise, Gradle, HAProxy, Hipchat, Hudson, Hystrix, IntelliJ, Jenkins, Jira, JProfiler, JVisualVM, LoadRunner, Make, Maven, Netbeans,  Nginx, OpenShift, OpenStack, Packer, Puppet, Selenium, Slack, Speedcurve, Spring (Batch, Boot, MVC), Sublime Text, Terraform, Vagrant, Varnish, vim, Virtual Box, Visual Studio, VMWare, WPT
+      
+      
+    

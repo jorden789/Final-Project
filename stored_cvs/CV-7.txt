@@ -1,48 +1,164 @@
 
- information technology intern (test automation engineer)
- summary
- over 3 years of experience serving as a key contributor across all software development life cycle phases including analysis, architectural design, prototyping, development, and testing of application using java/j2ee technologies in various domains.very good understanding of object oriented programming, data structure, algorithms, design patterns and distributed systems.excellent working experience in backend development using different spring modules like spring core container module, aop, mvc, security, data, transaction management etc.experienced in developing microservices with spring boot, spring rest, spring cloud, etc.extensive experience in developing web interfaces using html5, css3, bootstrap, sass, less, javascript, jquery, angularjs, reactjs and backbonejs.experienced in working with sql databases like mysql, postgresql, oracle and have some knowledge of nosql databases like mongodb.expertise working in agile methodology environments like scrum.experienced in working with version control tools like svn and git.experienced in performing automation using selenium, java and performing behavioral driven testing using cucumber.experienced in build tools like ant, maven, gradle and using them with continuous integration tools like jenkins.a proactive learner with exceptional analytical, design and problem-solving capabilities.excellent communication skills including formal presentations and technical documentation.productive in both team-based and self-managed projects.
- skills
- programming languages: java/j2ee, javascript, android, html, css, sql, c, cframeworks and libraries: spring, restful-web services, hibernate, angularjs, reactjs, jquery, bootstrap, selenium webdriver, cucumberdatabases: mysql, postgresql, oracle, mongodb, h2build tools: gradle, maven, antpractices: agile/scrum, waterfall, tdd, clean coding, continuous deliveryarchitectures: microservices, single page application, rest, client/serverversion control: svn, gitcloud application platform: awsothers: bower, grunt, npm, node, json, xml, jenkinside: eclipse, intellij, android studiooperating systems: linux, windows
- experience
- information technology intern (test automation engineer)
- 05/2017 to 08/2017
- extremetix inc.
- houston, tx
- created nicely baked ‘test automation framework' to provide an execution environment for the automation test scripts. the framework allowed automated regression testing of ‘webtix', frontend/web interface that extremetix's (ticketing solution company) clients use to access web services.extensively used selenium webdriver and spring boot combined to write automation scripts for dynamic pages of ‘webtix' written on angularjs framework. modularized web components as java objects following page object model i.e created object repository for all locators which can be easily automated.leveraged the benefits of both data-driven and behavior-driven approaches and built the framework that is maintainable and reusable. integrated automated tests with cucumber (behavior-driven testing framework) to allow quality assurance team write high-level use cases in plain text.leveraged jenkins to build automated tests project and use selenium grid to run parallel tests across multiple browsers and platforms. automated reports generation and distribution.interpreted and converted manual test cases into automation smoke and regression suites.trained and supported the qa team with automation framework and script issues.collaborated with the qa team and went through an evolutionary approach in writing concise documentation to help configure the framework and add new automated tests as required.worked on jira tool to create and track new project/issue.
- java full stack developer
- 05/2014 to 06/2016
- real time solutions pvt. ltd.
- patan, cdr, nepal
- worked on varied aspects of application development including requirement analysis, design, implementation, and testing.coded and debugged multi-tiered java-based applications to provide enterprise and embedded solutions using java and spring framework apis like mvc, aop, dao, jdbc, transaction, validation, annotation, json, xml, maven and junit test.involved in implementation of applications using conventional design practices (soa - service oriented architecture).developed database access layers using spring data jpa and hibernate.developed rest web services
-for external application integration.developed a java-based sdk and driver software for making the card reader, pua-310v-0/m2u2/y4 to work on linux environment.did extensive research on smart card technology (nfc, mifare, desfire, etc.) for projects like vms (visitor management system) and scbtims (smart card based trekkers' information management system).was responsible for writing core software logic for qms (queue management system) in java, developing plugin architecture and implementing rs485, tcp & http channels as plugins for interfacing qms hardware devices.worked as a development coordinator for projects like vms (visitors management system), qms (queue management system), scbtims (smart card based trekkers' information management system).worked with js, jsp, html, css, bootstrap, angularjs and reactjs to design and develop interactive user interfaces and hmi (human machine interface) for real-time data monitoring and interactions.built multiple mobile applications (android and ios) for real-time monitoring of hydrologic parameters and alert dissemination during floods and glacial lake outburst risks.gained experience in multi-platform mobile application development technologies like phonegap and titanium.fixed bugs and implemented improvement features using java and j2ee on large scale projects through reviews of codes and test cases, analysis of change requests and enhancements, investing alternate configurations and implementing better solutions.leveraged an array of tools to optimize efficiency, including openerp for project management, git for source control and versioning, sophisticated ides such as intellij and many other.was responsible for client interactions and handling technical aspects in a sales pitch.
- java developer intern
- 03/2014 to 05/2014
- bajra technologies pvt. ltd.
- kathmandu, cdr, nepal
- core java programming with multithreading exception handling, file handling, io, generics, and java collections. developed the entire mrp (machine readable passport) reading module both backend and frontend by utilizing java 1.7 and java swing.used jdbc for database connectivity to sql server.involved in backend development and optimizing the search engine for nepal tourism board (ntb)'s website.involved in bug fixing, code enhancements, and maintenance activities.prepared test plans for unit testing and implemented test cases using junit.
- software developer intern
- 01/2013 to 10/2013
- real time solutions pvt. ltd.
- patan, cdr, nepal
- designed and developed applications using scrum, an iterative and incremental agile software development methodology.performed back-end development using php (codeigniter mvc framework).developed cms like system majorly based on php and mysql.built a file-crawler app in codeigniter for sorting and removing duplicates and redundant files.created data entry forms in html embedded with php.trained in effectively utilizing agile methodologies and object oriented programming practices.maintained project documentation.trained in utilizing version control system like git and managing project timeline by use of openerp, a comprehensive suite of business applications.responsible for writing user and administrator modules of php mysql applications as per the technical specifications.responsible for implementing and hosting of prototype systems on test servers.attended seminars and workshops about sql (structured query language) and database design.
- education
- master of science: computer science
- 2017
- lamar university
- beaumont, texas, united states of america
- gpa: 4.0/4.0
- bachelor of engineering: electronics and communication engineering
- 2013
- tribhuvan university
- kathmandu, cdr, nepal
- gpa: 3.94/4.0
- honours and distinction
- winner of national robotics competition, 'yantra 1.0' organized by robotics association of nepal (ran): july 2012outstanding student award, lamar university: fall 2017 
- extra-curricular activities
- resource manager in robotics club, kathmandu engineering college, tribhuvan university (2013 - 2013).twice the winner of national robotics competition organized by robotics association of nepal (ran).conducted and mentored 'microcontroller workshop (13th january 2013)', and 'circuit synthesis training program (14th june 2013)' at kathmandu engineering college.presented ideas and project based on android controlled robot in locus 2013, annual technological festival, nepalgave a presentation to nepal army club on the application of robotics in safety and security (during tech exhibition 2013).treasurer and event organizer in nepalese student association (nsa) at lamar university (2016 - 2017).
- website and links
- website: www.sagunpandey.com
- linkedin: www.linkedin.com/in/sagunpandey
- github: www.github.com/sagunpandey
- 
+      
+        
+        
+           OWNER
+        
+      
+      
+      
+      
+        
+        Profile
+      
+        
+        Team-oriented Manufacturing Engineer with 10+ years experience in the aviation/manufacturing industry, specializing in the areas of CAD/CAM systems, 3-D modeling, materials engineering, and tool design.
+      
+      
+      
+        
+        Professional Experience
+      
+        
+        
+          
+            Owner
+            
+              03/2010 to 
+              Current
+            
+          
+          
+            Fabritech Development LLC
+            
+              Worden, 
+              IL
+            
+          
+          
+            Negotiated multiple lease agreementsCommunicated daily with both residential and industrial tenantsNegotiated lease buy-out
+          
+        
+      
+        
+        
+          
+            Manufacturing Engineer/Production Manager
+            
+              01/2006 to 
+              02/2010
+            
+          
+          
+            Fabritech inc.
+            
+              East Alton, 
+              IL
+            
+          
+          
+            Project manager of potential building addition to double the size of the facilityConstructed the plant layout of the finished facilityManaged 30+ employees and learned a great deal about how to communicate with all types of employeesManaged the preventative maintenance for the entire plant
+          
+        
+      
+        
+        
+          
+            Director of Operations
+            
+              02/2005 to 
+              12/2005
+            
+          
+          
+            Still-Walter Tool & Manufacturing Company Inc
+            
+              Orangeburg, 
+              SC
+            
+          
+          
+            Spearheaded successful implementation of $12M Department of Defense manufacturing contract involving very complex and high precision parts while implementing a second shift to accommodate increased workloadInitiated implementation of ISO 9000:2005 and AS9100 Quality SystemsPut Plant Manager in placeHad a lot of flexibility and learned to not only work with a team, but also to make decisions independently while continuing my college education
+          
+        
+      
+        
+        
+          
+            Mechanic, Machinist, Manufacturing Engineer
+            
+              06/1999 to 
+              01/2004
+            
+          
+          
+            Fabritech Inc
+            
+              East Alton, 
+              IL
+            
+          
+          
+            Gained valuable experience at every level of the company starting at the ground floorDeveloped and implemented the use of a CNC router in the manufacturing process of multi-layered AH-64 seat cushionsDesigned a tool for AH-64 seat cushions that saved 50% of labor time and Greatly reduced the amount of errorDid research and was involved in the acquisition of machine shop
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+            B.S.: 
+            Manufacturing Engineering
+            
+              2007
+            
+          
+          
+            Southern Illinois University at Edwardsville
+            
+              Edwardsville, 
+              IL
+            
+            
+          
+          
+          
+            Relavent Projects:Reverse engineer, 3-D model, and CAM setup for small engineDesign team leader for Automated Material Handling System for Beall Manufacturing in East Alton, ILRelevant Courses:Materials Engineering, Computer-Integrated Design and Manufacturing I & II, Manufacturing Processes, Quantitative Methods in Engineering, Design and Control of Manufacturing Systems, Manufacturing Engineering Design, Manufacturing Systems, Total Quality and Taguchi Methods, Tool Engineering, Production Planning and Control, Knowledge Based Systems, Integrated Engineering Desing(Senior Design Project) 
+          
+        
+      
+        
+        
+          
+            
+            Computer Science
+            
+          
+          
+            Southern Illinois University at Edwardsville
+            
+              Edwardsville, 
+              IL
+            
+            
+          
+          
+          
+            Relevant Courses:  Concepts of Computer Science, Intro to Computing for Engineers, Intro to Computing I, Intro to Computing II, Intro to Computing III, Computer Organization and Architecture, Operating Systems, Human-Computer Interaction, Software Engineering, Programming Languages, Algorithms and Data Structures, Discrete Mathematics
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        macOS, iOS, Java, C, C++, Prolog, Scheme, Software Engineering, Operating Systems, 5S, 6 Sigma, Lean Manufacturing, Microsoft Office, Quality Engineering, CAD, CAM, CNC Programming, Lathe Operation, Milling Machine Operation, CNC Grinder Operation, G-Code Programming, Preventative Maintenance, Tool Design, Plant Layout, Project Management, Business Operations, Engineering Design, Manufacturing Engineering, Manufacturing Processes, Material Handling, Materials Engineering, Production Planning, Quantitative Methods, Scheduling, ISO 9000
+      
+      
+    

@@ -1,43 +1,171 @@
 
- customer services
- summary
- processes and results oriented professional with over 13 years of experience in organizations operating within
-complex environments. proven experience on managing internal and external stakeholders involved in projects
-and operational work activities, highly skilled on negotiation and conflicts resolution. capability to complete
-activities related to collection of data, processing of information and reporting. 
- skills
- proactiveteam managementrisk managementproficiency in ms office. collaborativeable to self-prioritize tasks works under general direction languages: english – spanish. 
- data center environmentanalyticsdesign and developmentsoftware development lifecycletools customizationconfiguration managementweb applicationsteam leadershipsystem administrationusage scenariosmilestone assessment and achievement experience
- customer services
- january 2017
- think pink bows － saratoga springs, utah
- recommended and helped customers select merchandise based on their needs.exchanged returned merchandise for customers quickly and efficiently.described use and operation of merchandise to customers. received and processed cash and credit payments for in-store purchases. placed special merchandise orders for customers. worked as a team member to provide the highest level of service to customers. maintained friendly and professional customer interactions. confirmed that appropriate changes were made to resolve customers' problems. exercises sound judgment in issuing credits and making exceptions to customer policies to maintain high levels of customer satisfaction. informed customers about sales and promotions in a friendly and engaging manner. processed up to 300 customer orders per day. managed wide variety of customer service and administrative tasks to resolve customer issues quickly and efficiently. analytical specialist
- august 2008 to february 2016
- bod － maracaibo, zulia
-  collaborated with team members to create and integrate high availability solutions for mission-critical applications. took on the role of point-of-contact for project management staff. oversaw all testing and troubleshooting techniques and documented issue resolutions in the system. created and implemented tracking software with modules for inventory monitoring, staff administration, customer relationship management and report generation. assisted customers in resolving issues in the most effective manner.verify the infrastructure of intel environments and directories. installation of passes of production of the intel platform (ultimus, fide and other app)include, modify and delete the scheduled of job in the schedule robot. configure the reports in the robot report tool for the distribution from as400.configure the data transfers file from as400 to intel.recover reports deleted in the ibs.restorations on the data servers of the intel platform. participate and execute the integrity tests in the distributed platform.perform support in production pass certifications that merit stress testing and / or closing simulation.collected and analyzed data to evaluate operational issues and make process improvement recommendations.trained and explained complex processes to end users in a clear and concise manner.compiled and presented reports on findings to senior management teams. verify the infrastructure of intel environments and directoriesverify the infrastructure of intel environments and directoriesverify the infrastructure of intel environments and directoriesverify the infrastructure of intel environments and directoriesinclude, modify and / or delete the scheduled jobs in the schedule robot.
- webmaster
- june 2007 to july 2008
- diario la verdad － maracaibo, zulia
- cooperated with other project partners to create application's system analysis based on client specifications. oversaw all testing and troubleshooting techniques and documented issue resolutions in the system. created and implemented tracking software with modules for inventory monitoring, staff administration, customer relationship management and report generation. devised test cases ensuring that the application could be tested in a legitimate environment. created a dynamic team of software engineers that became experts in their field and boosted the overall success of the organization. compiled statistical information for special reports.assisted customers in resolving issues in the most effective mannerdeveloped and created a more effective filing system to accelerate paperwork processing.
- developer consultant
- october 2004 to april 2007
- megagroup c.a － maracaibo, zulia
- analyzed customer and stakeholder needs, generated requirements, perform functional analyses and implemented requirements management plans. defined technical integration strategy and developed integration plans. maintained security, backup, and redundancy strategies. assisted with designing information and operational support systems. developed and implemented risk and opportunity management plans. collected, analyzed, and reported program metrics, including product technical performance measures and key performance parameters. updated and managed existing website properties for diario la verdad company. presented pros and cons of various design approaches to design teams and management. created clear icons, messaging, buttons and other ui elements for smartphones, tablets and web applications. considered localization, escalability and ease of maintenance in all solutions. worked closely with product managers, visual designers and development team to appropriately evolve designs from concept to launch. revised user flows and designs based on design reviews, usability testing, a/b testing and other analytics, customer support feedback and other sources of input.streamlined and optimized monthly reports by converting from access to sql and writing crystal reports, significantly reducing lead-time and increasing data integrity in the as400.worked closely with several cross-functional teams including business solution architects, customer operations, support and training teams and engineering to maximize product efficacy. 3 years experience in the maintenance and troubleshooting of complex infrastructure. developed and maintained company style guide(banco provincial, banesco). 
- education
- informatics engineering
- : 2004
- university rafael belloso chacin
- － maracaibo, zulia, venezuela
- high school diploma
- : science, 1999
- u.e.p. juan bosco
- － ciudad ojeda, zulia, venezuela
- metodología de optimización de procesos. *formalización y optimización de procesos de todas las áreas funcionales de la organización.
-*diagnóstico de situación actual y levantamiento de información.
-*detección de necesidades de mejora en los procesos de
- : 1982
- la organización, identificando los actores del negocio, inputs y outputs. elaboración de un plan de optimización de procesos, con indicadores de gestión asociados para la medición del progreso. desarrollar capacidades en las áreas dueñas de procesos, a fin de garantizar que la gestión de la calidad y mejora continua forme parte de la cultura de la empresa. gestión y planificación de procesos que deben ser ejecutados en ambientes de producción en plataformas como ibm iseries e intel. datos personales: cedula de identidad: 15.808.419 lugar de nacimiento: ciudad ojeda,zulia fecha de nacimiento: 14 de julio de estado civil: 		 casada nacionalidad: venezolana. technical skills
- windows (98, 2000,xp, windows vista, server 2008, windows 7)desktop publishing software: photoshop, illustrator, html, microsoft office suitevisual basic.net, html, sql, asp, asp.net, crystal report, java microsoft sql server 2005, mysql 5.5.29,  adobe photoshopsales software: dalai comercial, saint enterprise(sql), emc documentum 5.2.5, 5.3, profit plus, a2 softway, application xtender
- certifications
- english level i y ii centro de idiomas, ciudad ojeda, year 1998english  koes of venezuela level 7object-oriented programming(visual basic).cedic year 2004object-oriented programming (visual basic level ii).cedic, year 2004documentum wdk, dfc, eroom (maracaibo, venezuela 2006)documentum web publisher, bpm (maracaibo, venezuela 2006)documentum technical fundamentals, system administration (maracaibo, venezuela 2006)dalai comercial v 1.04.dalai (maracaibo, venezuela - 2005)web technologies php y mysql (maracaibo, venezuela - 2008)help system (robot schedule, robot alert, enterprise manager(maracaibo, venezuela 2013)team concert y object control (maracaibo, venezuela2013)bankbu open card (maracaibo, venezuela 2014)
- 
+      
+        
+        
+           LEAD FIRMWARE ENGINEER
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Embedded Systems Engineer developing disruptive Mixed Reality technologies at a Silicon Valley startup.  Recognized expert at delivering Mission Control quality Firmware for world's most sought after smartphones and wearables. 
+      
+      
+      
+        
+        Skills
+      
+        
+        
+          
+            
+              Software Engineering LeadershipBare Metal as well as Applications ProgrammingContinuous Integration and TestRapid PrototypingDevelopment Board Bring-up 
+              Managing Enterprise Customer Expectations Standards Compliance Agile Project Management Conducting Technical Presentations, Workshops Factory Processes (EVT, DVT, PVT)
+            
+          
+        
+      
+      
+      
+        
+        Accomplishments
+      
+        
+        Avegant Glyph: Led Firmware Development on CES award winning Near-eye Head Mounted Display.iPhone 5S, 6, 6S Qualcomm MDM and RF: Developed Algorithms for controlling Smartphone Receiver Amplifiers in 4G LTE Advanced. Saving 15mA current per amplifier during frequent inactive periods in LTE connection. iPhone6S: Led development of "Dynamic Auto RF Path selection Algorithms" critical for truly world-mode 4G LTE Carrier Aggregation (CA). iPad3, iPhone4: Developed Average Power Tracking (APT) proof of concept for Power Amplifiers. Resulted in over 30% savings in battery life during data/voice connection. APT is used in over 90% of world's mobile devicesPrimary inventor in US Granted Patent. Invented a Signal processing technique to search for un-used terrestrial TV spectrum and to utilize the found spectrum for high speed wireless tech usage i.e. Cognitive RadioHave been promoted thrice during tenure at Qualcomm. Recognized for Expert level debugging, rapid prototyping for proof-of-concepts and managing expectations of enterprize partner
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          06/2016
+           to 
+          Current
+        
+        
+          
+            Lead Firmware Engineer
+          
+          
+            Avegant － 
+            Belmont, 
+            CA
+          
+          
+            Developed Firmware for 2-time CES award winning, Oprah's favorite thing 2016, Near Eye Head Mounted Display(HMD) "Avegant Glyph". Developed I2C, SPI drivers, Algorithms in C++ over TI ARM Cortex M4 platform. Implemented proprietary Packet Protocol as serial GATT service over Bluetooth Low Energy.Prototyped Liquid Crystal on Silicon based Head Mounted Display with ST ARM Cortex M4, FreeRTOS. Drivers abstracting peripherals such as Timers, PWM generators, DMA, DAC. Implemented Tasks for HDMI for automatic switching of 3D, 2D video formats, On-screen Display with 3-buttons. Interfaced Invensense 6DOF IMU for VR applications. Implemented State Machine for overall system in C++. Developed Mac Python Application for BLE interactions with HMD based on Adafruit's BlueFruitLE package 
+          
+        
+      
+        
+        
+          11/2006
+           to 
+          06/2016
+        
+        
+          
+            Staff Embedded Software Engineer
+          
+          
+            Qualcomm － 
+            Santa Clara, 
+            CA
+          
+          
+            Led Board bring-ups for upcoming smart devices that contain Qualcomm 4G LTE chipsets constrained by extremely tiny form-factor. Developed proprietary Single Antenna LTE solution.  (2015, 2016)Developed Algorithms that have helped significantly reduce Power Consumption on Receiver Amplifiers during 4G LTE micro-Sleep states. Saving current of 15 mA per Amp. The algorithms run in time-constrained Receiver Automatic Gain Control timeline, ensuring Signal level changes are 3GPP compliant and take place under a mili-second. Resolved multiple feature interaction issues with Assembly level debug of MIPI scripts that are programmed by ARM Cortex M. (2015, 2016)Provided Configurable TX Duty Cycle for Factory Test Mode LTE, helped cut customer operations costs by eliminating need for expensive test equipment (2015)Led development of "Dynamic Auto RF Path selection Algorithms" that enabled World-mode aka International Roaming 4G LTE Advanced Carrier Aggregation that could support multiple RF Frontend combinations on the same Smartphone. Used C Inheritance concept to abstract device details from LTE firmware. Improved Sensitivity and Accuracy by up to 4 dBs. Got promoted for introduction and successful commercialization of LTE and LTE Carrier Aggregation on key design wins for Qualcomm (2014)    Developed 4G and 3G Transmitter DAC Calibration and Configuration Drivers that helped save 100s of microseconds of warm up time during packet transmissions. Delved into Mixed-Signal register sequences, executing in minimum amount of cycles to save boot time (2013)Introduced LTE on a very sought after Tablet\'s Cellular variant. Working in a very small team, did ground floor work, debugging, improving all aspects of RF through Factory EVT, DVT, PVT (2011, 2012)Developed Algorithms that use on-chip Transceiver Power Detector(HDET) for LTE Max Power Limiting(MTPL). Developed ISRs for a strict, micro-second level timeline (2012)Developed Factory Test Mode Capability for transmitting CW Tone in LTE bands. Enabled characterization of TX Frequency Response over the entire Bandwidth, saving equipment costs and technician time otherwise needed with conventional RF analysis. (2012)Developed Average Power Tracking (APT) proof of concept for Power Amplifiers. Developed microsecond level execution time constrained Embedded Software in C for Linear Interpolation of data-points from Transmitter power measurements, and low-level programming of DC-DC converters aka SMPS for Power Amplifiers. APT saved over 30% of battery and is used in 90% of all mobile devices (2010, 2011)Provided many improvements to Modem ADC Clock Sourcing and Switching for Spur Mitigation in CDMA GPS. Improved GPS receiver sensitivity significantly. Used fixed-point math for calculating spurs and transceiver PLL programming codes. Got promoted for Expert level JTAG debug of multiple RF Frontend issues.  (2010)Driver Development for Single Chip Modem RF Transceiver CDMA Implementation. Used C for encapsulating Transceiver key features. Provided a proof of concept for re-purposing WCDMA Transceiver for CDMA usage, delving into low-level ASIC blocks. This enabled a China customer for faster time-to-market (2009)Fine-tuned and mainlined a dormant algorithm design for supporting CDMA Receiver Diversity Dynamic Switching for multi-antenna devices. Simulated the IIR filters in Matlab. Provided corrections to fixed point C arithmetic. Algorithm improves battery life significantly while improving voice quality (2008)As a Systems Engineer, provided multiple improvements to CDMA IS98 Compliance standard test sequences, catching multiple field issues during lab prototype tests thus avoiding device returns. Evaluated potential standard improvements, got promoted for significantly altering Compliance Test approaches (2006, 2007)​
+          
+        
+      
+        
+        
+          01/2006
+           to 
+          10/2006
+        
+        
+          
+            Software Test Engineer
+          
+          
+            Nokia Mobile Phones － 
+            Mumbai, 
+            India
+          
+          
+            Protocol R&D Systems Test Engineer for Nokia Mobile phone prototypes. Developed tests in C for verification of IS98 verification, Mobile Assisted Hard-handoff. Left Nokia for an opportunity to work on core signal processing and RF algorithms at Qualcomm
+          
+        
+      
+      
+      
+        
+        Publications
+      
+        
+        US Patent US8594121 B2Patent Title "Cognitive radio spectrum sensor employing peak-to-average ratio as the signal feature"Inventors: Sushant Thakur (Primary), SaiDhiraj Amuru, Vollala CAbstract: A white space sensing method includes measuring a peak to average power ratio (PAPR) of a signal of a channel in a spectrum band. The method also includes determining whether a ratio of the measured  PAPR to a predetermined  PAPR of a modulation scheme associated with the signal meets a predetermined threshold. The method further includes indicating the channel is available for use by an unlicensed user when the ratio meets the predetermined threshold
+      
+      
+      
+        
+        Skills
+      
+        
+        Fluent in C/C++, ARM Assembly. ARM, ARM Cortex and Hexagon DSP Micro-controllers. Real Time Operating Systems, Linux, Bare Metal. Scripting and Data Analysis using Python, Numpy, Matlab. Developing Firmware for Fixed-point and Floating-point computations. Interface programming over I2C, SPI, USB, UART, MIPI, GPIO. Mixed signal interfaces ADC, DAC, PWM. Developing physical layer for LTE, Cellular, GSM, 3G, WiFi, BLE, NFC. Schematic analysis using Cadence Allegra. In-Circuit Debugging using Lauterbach Trace32 JTAG. Spectrum analysis, Digital Logic Analysis on PCB using Salae, Digital Phosphor Oscilloscope, Rhode and Schwartz CMW500, Anritsu 8820C, Litepoint
+      
+      
+      
+        
+        Education
+      
+        
+        
+          2013
+        
+        
+          
+            Project Management Certificate (Project Management Institute approved)
+            
+          
+          
+            University of California
+             － 
+            Berkeley
+            
+            
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          2005
+        
+        
+          
+            Bachelor of Engineering: 
+            Electronics and Telecommunication,
+          
+          
+            University of Mumbai
+             － 
+            Mumbai
+            
+            India
+          
+          
+          
+            
+          
+        
+      
+      
+    
