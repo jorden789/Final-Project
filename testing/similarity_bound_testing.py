@@ -38,7 +38,7 @@ import cv_match_word_vectors
 import fileinput
 
 with open('/home/jallcock/environments/Final-Project/testing/similarity_bounds_test.txt', 'a') as log_file:
-    for x in range (1):
+    for x in range (100):
         similarity_bound = x * 0.01
         print('Test [' + str(x) + '] - Similarity Bound [' + str(similarity_bound) + ']')
 
