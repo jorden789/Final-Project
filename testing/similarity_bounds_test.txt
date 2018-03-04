@@ -1,0 +1,2 @@
+Test [0] - Similarity Bound [0.0]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
