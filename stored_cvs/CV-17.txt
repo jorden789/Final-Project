@@ -1,160 +1,46 @@
 
-      
-        
-        
-          
-          ELECTRICAL ENGINEER
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Hardware-Software Engineer/Manager with outstanding ability to solve problems quickly and  an eye to deliver bottom line results . Extensive experience in: leading electronic hardware and software development projects.
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              Micro-controller and sensor application design.LoRAWAN,sigfox,Wifi,cellular,BT.PCB product development.software -SQL, C,C++,C#RESTFUL,SOAP,MQTT
-              Internet of Things (IoT).Electronics engineering innovation.Project management.Product cost reduction.Vendor management.Quality improvement.
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Electrical Engineer
-            
-              Oct 2015 to 
-              Dec 2017
-            
-          
-          
-            Oasis International － 
-            Columbus, 
-            OH
-          
-          - Led the  PCB product specification, architecture and design for Internet of Things .- Developed IoT products with wireless protocols - LoRAWAN,cellular,Wifi,BT.- Developed  IoT platforms, solutions  and prototypes including phone app, PCB, cloud  for new  products- drinking water fountains and pet feeder .- Developed firmware  using  Microchip MPLAB and arduino .- Developed phone app and cloud dashboard specifications  for IoT .- Managed projects and PCB design vendors and suppliers  to deliver high quality functional product within aggressive schedules.- Implemented failure analysis, quality improvement and cost reduction on mature products post production phase.- Attended trade shows to showcase innovative prototypes of connected water solutions.
-        
-      
-        
-        
-          
-            Senior Electrical Engineering Lead
-            
-              Jun 2014 to 
-              Dec 2014
-            
-          
-          
-            ACLARA RF SYSTEMS － 
-            SOLON, 
-            OHIO
-          
-          Led manufacturing and operations engineering team in hardware and software development for PCB testing of Gas and Water RF metering transmission products and also data collector products.Managed   production software projects in Visual C#, SQL for PCB manufacturing     of complex electronic product with micro-controller, RF , firmware, metering interface.Supervised the daily tasks of engineers and technicians to implement technical    solutions for offshore and onsite manufacturing and test. Travelled offshore to Mexico to supervise  the deployment of software and hardware test platforms to contract manufacturing houses-Jabil and Flextronics.Planned and budgeted capital expense for test hardware equipment.
-        
-      
-        
-        
-          
-            Senior Product Development Engineer
-            
-              Nov 2002 to 
-              Dec 2013
-            
-          
-          
-            QUALCOMM － 
-            SAN DIEGO, 
-            CALIFORNIA
-          
-          Developed RF products for wireless system applications by interfacing with cross functional teams - fab, design, applications, process, customers. Managed engineering teams tasked with  release to production of new prototype 3G/4G RF devices for CDMA,WCDMA,LTE, Wifi, GSM,  bluetooth systems.Managed engineering team for  Yield enhancement and Test time reduction of mature RF devices  in sustaining role which saved the company 10  to 20 %  in production cost.Managed a team for customer RF-RMA evaluation and customer defect  reduction.Managed engineering  team tasked with database programming using VB,SQL, Python and report generation using crystal reports.Managed engineering team responsible for Wifi systems, software  and protocol optimization  using FMEA techniques and MATLAB.Planned and budgeted the resource allocation  for RF projects.Improved overall team performance by driving innovative technical solutions .
-        
-      
-        
-        
-          
-            Intern
-            
-              Feb 2001 to 
-              Feb 2001
-            
-          
-          
-            Texas Instruments － 
-            Dallas, 
-            TX
-          
-          Developed Bluetooth transceiver in RFCMOS process and optimized firmware.Schematic Capture and Layout for PCB design.
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            MS, 
-            Electrical Engineering
-            
-              2002
-            
-          
-          
-            University of Texas － 
-            El Paso, 
-            TX, 
-            USA
-          
-          
-          Electrical Engineering Digital communications, VLSI design, Fiber Optic communications, Image Processing,
-RF microelectronics, Digital Design, Windows programming ,Data communications.
-        
-      
-        
-        
-          
-            BE, 
-            Electrical Engineering
-            
-              2000
-            
-          
-          
-            University of Mumbai
-            
-            
-            India
-          
-          
-          Electrical Engineering Digital signal Processing, Object oriented programming, Microprocessor Applications
-        
-      
-      
-      
-      
-        
-        Skills
-      
-        
-        PCB, semiconductor, RF, wireless, embedded, sensors,RESTFUL, SOAP,MQTT, HTTP, C #, MS Office, Object oriented programming, Sigfox ,3G,4G,Lora, Wifi, production management, Project management, Python, quality management, software development, SPC, SQL, Statistics, test equipment,Design of Experiments, AWS, Java, HTML, .NET, ASP.NET, Labview ,Failure analysis.
-      
-      
-    
+ technical engineer
+ summary
+ produced technical benchmarks vs veritas competitors to enhance product positioning.
+*built competitive intelligence documents that were presented at company sales conferences.
+*presented competitive intelligence data at monthly sales calls and tech talks.
+*collaborated with vendors to produce marketing white papers utilizing benchmark results.
+*established the competitive intelligence testing lab at veritas that allowed the competitive intelligence team to perform benchmarks faster and more cost effective.
+ skills
+ solaris, linux, windows os, amazon aws, and microsoft azurelanguages:perl, and power shell scriptingapplications:veritas netbackup, veeam software, commvault, emc avamar, oracle, vmware esx servers, microsoft hyper-v servers, and zerto
+ experience
+ 01/2016
+ to current
+ technical engineer
+ veritas technologies llc － roseville, minnesota
+ working in the strategy and planning group at veritas.primarily responsible for testing competitive products for veritas in the areas of cloud, software-defined storage and disaster recovery.work closely with product and sales team performing technical product benchmarks which support product differentiation.deliver technical results to executive staff which are utilized to identify market opportunities.collaborate with vendors to produce white papers that are published for marketing and sales use.support sales engineers with sales opportunities against veritas competitors.
+ 01/2010
+ to 01/2016
+ principal performance engineer
+ veritas technologies llc － roseville, minnesota
+ work in an agile development environment, collaborating with the team to deliver quality software iteratively.configure and monitor complex performance test environments that simulate enterprise level customer environments running backup, duplication, and database applications.correlate and interpret performance statistics.design and implement automated tools & scripts to assist with testing, monitoring, and reporting performance/scalability results.author detailed reports from testing results that are consumed by many different groups within veritas.collaborate within and across groups in scoping performance requirements and developing performance measurement plans.
+ 01/2000
+ to 01/2010
+ principal backline support engineer
+ veritas/symantec software － roseville, minnesota
+ work with symantec customers assuring business continuity by providing disaster recovery solutions.resolve very complex or previously unknown problems requiring high level technical expertise.stay current on industry developments and market trends incorporating those technologies into customer solutions.
+ 01/1996
+ to 01/2000
+ technical consultant
+ uptime computer services － minneapolis, minnesota
+ able to take extremely complex problems to manageable solutions.worked with customers scheduling and implementing solutions.provided pre-sales assistance for sales group with technical customer solutions.
+ education and training
+ 1993
+ bachelor of science: accounting computer science
+ bemidji state university
+ － bemidji, minnesota
+ accounting computer science
+ 2016
+ oracle 12c performance management and tuning
+ 2017
+ oracle 12c rman
+ 2017
+ hp 3par administration course
+ skills
+ agile, backup, c, competitive, database applications, disaster recovery, hp, linux, market trends, market, marketing and sales, windows os, enterprise, oracle, performance management, perl, quality, reporting, sales, scheduling, servers, scripts, shell scripting, solaris, statistics, strategy and planning, symantec, white papers, veritas, veritas netbackup, author
+ 

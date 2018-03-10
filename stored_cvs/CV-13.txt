@@ -1,141 +1,34 @@
 
-      
-        
-        
-           SOFTWARE ENGINEER
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Software engineer with a focus on writing highly maintainable, robust, object oriented code. Diverse experience of languages with majority C++ background. 
-      
-      
-      
-        
-        Skills
-      
-        
-        Languages: C++, C#, Java, PHP (Zend), Javascript, perl, SQL Operating Systems (developed on): Linux, Unix, WindowsConcepts: OO, IPC (threads, locking mechanisms, shared memory, message queues), databases, OSI Model, TCP, UML, XML, serialization, COM, STL
-      
-      
-      
-        
-        Certifications
-      
-        
-        Secret Clearance Security+ Certification, 10/12  
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          August 2004
-           to 
-          Current
-        
-        
-          
-            Lockheed Martin - THAAD - Systems Integration Lab
-            
-              Sunnyvale, 
-              CA
-            
-          
-          
-            Software Engineer
-          
-          
-            Designed and developed the majority of the software used to visualize the THAAD missile interception system in real time for the purposes of analysis and demonstration to interested customers, including U.S. and foreign government dignitaries. Wrote 7 applications for Linux and Windows platforms to collect real time THAAD message data over IP, parse it, and turn it into a visual and interactive experienceIn addition to being used for demonstrations, served as an analysis tool for engineers performing testing of the THAAD systemNotable applications (as main developer):MsgForwarder (C++, Linux): Responsible for capturing and parsing all of the THAAD IP data. Capable of parsing over 1,000 TCP/IP packets per second according to TCP, IP, and application level protocols. Re-forms them into their original messages, which can be sent to interested parties. DVRTFileWriter (C++, Linux): Multi-threaded application receives messages from MsgForwarder and other data sources, parses them, and puts them into shared memory database.  EventNotify (C++, Linux): Reads messages from shared memory database and uses them to extract relevant data and form human readable strings of important events, which get sent to interested parties.LMAnimator (C#, Windows): Receives real time data on UDP and TCP sockets to create an interactive display of the THAAD weapons system using a Satellite ToolKit ActiveX Object embedded into a Windows Form. Can display hundreds of STK objects in real time, and is user interactive, thus making thread synchronization critical.Skills used: C++, STL, C#, Java, Perl, XML, UML, IPC (threads, locking mechanisms, shared memory, message queues), databases, OSI Model, TCP,  serialization, COM, Unit Testing 
-          
-        
-      
-        
-        
-          April 2002
-           to 
-          August 2004
-        
-        
-          
-            Lockheed Martin - THAAD - System Test and Evaluation
-            
-              Sunnyvale, 
-              CA
-            
-          
-          
-            Software Engineer
-          
-          
-            Worked on a small team to develop the Launch and Test Support Software (Visual C++, Windows), which is used to test communication between the 4 tactical components of the THAAD system: Launcher, Missile, Radar, and Battle Manager. This software served as a "launcher simulator" for multiple flight tests, performing the software used to launch the THAAD missile. Designed, coded, unit tested, and wrote documentation for the software products.Skills: Visual C++, UML, Unit testing, software process, use of APIs to interact with hardware, IPC 
-          
-        
-      
-        
-        
-          July 2001
-           to 
-          March 2002
-        
-        
-          
-            Lockheed Martin - NPOESS
-            
-              Sunnyvale, 
-              CA
-            
-          
-          
-            Software Engineer
-          
-          
-            Developed various analysis scripts and applications for a Weather Satellite proposal. 
-          
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          2001
-        
-        
-          
-            University of Virginia
-            
-              Charlottesville, 
-              VA
-            
-            
-          
-          
-            Bachelor of Science: 
-            Computer Science
-          
-          
-          
-            GPA: 3.562, Class Rank: 140/744 
-          
-        
-      
-      
-      
-        
-        Personal Projects
-      
-        
-        Web mash-up of Google Maps, wikipedia, Google ImagesWeb survey application: Zend PHPWeb application to organize household objects
-      
-      
-    
+ associate systems test engineer
+ summary
+ developed and implemented an automated regression test database program for calix networks inc. this program allows the user to retrieve test data based on a myriad of criteria and compare against previous firmware loads and test cases.
+ * experienced with troubleshooting fiber expansion boards for umc1000 telephony system.
+ * assisted engineering staff with troubleshooting and repair of prototype and pilot circuit designs.
+ * developed automation scripts for regression testing
+ * experienced with working in fast-paced start-up environments.
+ skills
+ organization: microsoft office projectsoftware development: microsoft visual basic 6/2005, excel vba, c++, java, familiarity with tcl/tkdatabase management: microsoft access, oracle sqldata entry\reporting: sql, oracle, accessoffice correspondence: microsoft word, star office, openoffice.org, microsoft outlook/express
+ experience
+ associate systems test engineer
+ calix networks － petaluma, ca
+ directly responsible for testing and troubleshooting of new firmware and management software for calix dslams by simulating different real-world configurations using spirent adsl2+ and vdsl2 line simulators, smartbits, and real wire loops.performed rate/reach, throughput, and ringtrip testing for modem verification against dslam.developed and maintained automated testing, reporting and database solution for atm regression testing of various modemsmaintained test scripts for and performed tests on triple play test automation testbed utilizing diversifeye and ameritech bulk call generators. 
+ senior technician
+ agilent technologies － rohnert park, ca
+ tested and repaired spectrum analyzers through the prototype and pilot stages of development.coordinated with design and production engineers to facilitate a smooth product introduction.updated and corrected troubleshooting database for new and existing products.worked in multiple departments during down-sizing to support areas affected most by the downturn while maintaining my role in engineering support.
+ systems test technician
+ nokia － petaluma, ca
+ performed testing and troubleshooting of fiber optic shelf controllers and subscriber line cards used in nokia's dslam.
+ compliance test engineer
+ advanced fibre communications － petaluma, ca
+ ensured compliance of digital loop carrier systems to bellcore, fcc, and itu k.20 specifications by designing, building, and testing environmental scenario tests.provided computer support for the engineering group to offset the workload of our understaffed it department.provided training for new technicians and assisted in the interviewing process.recognized for role in creating an efficient flow of information between design engineering, qa, test engineering and production.
+ education and training
+ associate of science, computer science
+ dec. 2005
+ santa rosa junior college sonoma state university － santa rosa, ca
+ computer science
+ computer science
+ sonoma state university － rohnert park, ca
+ completed approximately 75% of course work
+ skills
+ adsl2, automation, c++, data entry, database management, engineering support, help desk, java, lightwave, microsoft access, excel, microsoft word, oracle sql, qa, software development, spectrum analyzer, star office, cisco switches, tcl/tk, technician, microsoft visual basic for applications
+ 

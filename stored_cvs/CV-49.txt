@@ -1,107 +1,40 @@
 
-      
-        
-        
-          
-          BACK-END DEVELOPER, DEVOPS
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        To secure a position in IT where extensive technical experience and commitment contribute toward actively supporting a progressive organization in achieving its IT goals.
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              PHP, PHP UnitLaravelJavaScript, jQuery HTML, CSS AWS RDS, S3, EC2 SQL, Stored ProceduresWindows, Linux (Ubuntu)Jenkins, Git, JiraApache 2.4, Nginx OOP, PRS-2, TDD
-              
-            
-          
-        
-      
-      
-      
-        
-        Languages
-      
-        
-        English (native)
-Spanish (fluent)
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Back-End Developer, DevOps
-            
-              Jan 2017 to 
-              Current
-            
-          
-          
-            4Patriots, LLC. － 
-            Nashville, 
-            TN
-          
-          Developed and supported queue based API that handles sales, conversion tracking, analytics and fulfillment using Laravel Framework.Setup cloud-based lamp servers for front-end sales funnel websites.Assisted in migration to AWS from Rackspace for web servers and database servers.Added Paypal checkout support using Paypal REST SDK for front-end sales sites.Setup Jenkins Code Pipeline deployment for a 3 tier environment.Developed using OOP, PSR-2, Composer, Git, Jira, PHP Unit (Integration and Unit Tests)
-        
-      
-        
-        
-          
-            PHP Developer
-            
-              Sep 2015 to 
-              Jan 2017
-            
-          
-          
-            Dart PHP, MySQL, JS, XML － 
-            Nashville, 
-            TN
-          
-          Upgraded Music Distribution Platform by using asynchronous Iron.IO workers to FTP large WAV files and create XML files for Ingestion by DSP's such as Apple Music, Google Play,.Created SOA Web Services to be used internally and externally for automated music distribution and data collection.Helped create an asynchronous metadata cleanup platform, aimed at correcting mistakes and missing information in Metadata for Books, Music and other forms of Media.
-        
-      
-        
-        
-          
-            Asst. Director of Software Development PHP
-            
-              Apr 2013 to 
-              Aug 2015
-            
-          
-          
-            Applied Health － 
-            Nashville, 
-            TN
-          
-          Expanded Benefactor IQ suite with an interface to allow for uploading Biometric Data in both CSV and Excel formats with the ability to auto identify columns and perform data cleanup before being placed into our staging table.Optimized and added paging ability to a piece of the software that lists members of a population group increasing page loading speeds in excess of 800%.Facilitated the integration of HL7 data using Mirth 2.0, created dynamically generated Lab Report in PDF format from that data, created a windows application that served as a fax server converting the PDF to TIFF and updating the database with the status result code of the fax attempt.Expanded member portal to allow single sign on using SAML(Secure Assertion Markup Language).
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        Application Development, Automation, Data Collection, Database Administration, ECommerce, Office Equipment, HTML, PHP, JavaScript, Networking, Web Development, Photoshop.
-      
-      
-    
+ undergraduate researcher
+ summary
+ electrical engineering and computer science student with a strong interest in economics and the application of software engineering to data, economics, and finance. interested not just in making the world an easier place to live in, but also a kinder and more compassionate place. 
+ experience
+ 06/2015
+ to 09/2015
+ undergraduate researcher
+ massachusetts institute of technology － cambridge, ma
+ analysis and modeling of gps data collected in large snowfall regions.
+ 09/2014
+ to 11/2014
+ member services
+ massachusetts institute of technology － cambridge, ma
+ signed people in, leased and kept track of sporting equipment.​​cpr aed certification.(november 2014) 
+ 11/2013
+ to 08/2014
+ member
+ change100 gh － accra, ghana
+ youth social group that sought to tackle local problems like proper waste management and access to quality healthcare and education for children and the youth. collaborated with few schools and another humanitarian groups to solve environmental problems and support social justice causes.
+ education
+ 2018
+ massachusetts institute of technology
+ － cambridge, ma, usa
+ sb, electrical engineering and computer science activities and societies: african students association, expediting access to standard education(ease)
+ 2013
+ achimota school
+ － accra,
+ ghana
+ wassce​general science: math, physics, chemistry, biology​activities and societies: national science and math quiz team, inter-house singing
+competition, intramural soccer. 
+					
+				
+			
+		 after high school competitive colleges club, ghana.(ccc)2014college application counseling, test prep, writing and review of college application essays.
+ languages
+ english (native or bilingual proficiency) , french (limited working proficiency) , twi (native or bilingual proficiency)
+ skills
+ research, data analysis, microsoft office, data modeling, python, java, matlab
+ 

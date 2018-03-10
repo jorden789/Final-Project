@@ -1,162 +1,138 @@
 
-      
-        
-        
-           SENIOR SOFTWARE ENGINEER
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        I am seeking a challenging career in the IT industry as a Senior Software Engineer where I can utilize my programming,
-analyst, and leadership skills. I am extremely dependable, a quick learner, and love a challenge
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              Windows, UNIX, MQ Series, Batch Scripts, Python,programming languages, concepts and technologies,    Jython, Linux, Informatica, Functional Testing,including:    Performance and Load testing, Exploratory testingJava, JavaScript, HTML, JSP, PL/SQL, JIBX, XML,    JBOSS, Weblogic, Tomcat, CVS, SVN, Eclipse IDE,Web Services, JAXB, Spring, Angular 2 , Angular JS,    STS, RAD, Websphere, Clearcase, ClearQuest,CSS, Bamboo, Spring, Hibernate    Crucible, Fisheye, Cucumber/Selenium, New Relic,Oracle, DB2, MyBatis, MongoDB, SQL Server,    Postman, Junit, SonarSDLC, Data Mapping, Data Analysis, Estimating,Design, Agile Agile, Analyst, Ant, automate, billing, catalog, Clearcase, CSS, clients, CVS, Data Analysis, database, Documentation,Eclipse, Estimating, XML, Functional, HTML, DB2, IDE, Informatica, Java, JSP, JavaScript, JBOSS, Linux, Mainframe,Mentor, Windows, migration, MongoDB, MQ Series, Oracle, PL/SQL, performance reviews, coding, programming, PVCS,Python, RAD, Requirement, SDLC, Scripts, Soap, Software Engineer, SQL Server, Struts, Tomcat, UNIX, websites,Weblogic, Websphere
-              
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Senior Software Engineer
-            
-              10/2017 to 
-              12/2017
-            
-          
-          
-            BROOKSOURCE/THRIVENT FINANCIAL
-            
-              Appleton, 
-              WI
-            
-          
-          
-            Migrate billing payment applications from WAS to Tomcat.Update services and methods for migration.Update documentation and process.Agile.
-          
-        
-      
-        
-        
-          
-            Fulltime Software Engineer
-            
-              08/2012 to 
-              10/2017
-            
-          
-          
-            LIBERTY MUTUAL INSURANCE
-            
-              Wausau, 
-              WI
-            
-          
-          
-            Created Web Services.New Development for several product and policy and claims applications.Utilize ETM for ref data.Utilize our spec model to add/reuse properties and specs to be used in the data that we pass in AMXML.Data Mapping to target state.Worked on ACORD projects to transform our AMXML to ACORD.Mentor other Developers and Analysts.Exceeded expectations on performance reviews.Researched and wrote cucumber/selenium tests to automate our testing.Mentor new developers that have gone through out 12 week go for code program.Have worked in all aspects of our policy system whether new development or enhancements that the business
-prioritizes/work closely with the business.
-          
-        
-      
-        
-        
-          
-            Software Engineer
-            
-              12/2011 to 
-              08/2012
-            
-          
-          
-            TEKSYSTEMS/AMERICAN FAMILY INSURANCE
-            
-              Madison, 
-              WI
-            
-          
-          
-            Coded several enhancements for online billing and payment manager.Assist clients with web issues.Analyze issues to determine the appropriate resolution ü  Write requirements and designs and estimates.Update Documentation and process.Unit, system, and Integration testing.Maintained existing websites.
-          
-        
-      
-        
-        
-          
-            Software Engineer/Analyst
-            
-              10/2006 to 
-              12/2011
-            
-          
-          
-            INTERWEST TECHNOLOGY GROUP
-            
-              Grand Blanc, 
-              MI
-            
-          
-          
-            Analysis of large scale systems and interactions within those systems.Update documentation and process.Coded several projects and enhancements for General Motors ACDelco part ordering site.SDLC- Analysis, wrote requirements, estimates and technical designs.Provided unit, system and integration testing of all code changes
-Created UNIX batch scripts to load the data from the mainframe to the application database utilizing MQ Series.Technical lead for 3 years.Worked on General Motors part catalog website providing analysis, review, coding, all phases of testing.
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            Business Management CST Computer Applications: 
-            BUSINESS MANAGEMENT CST COMPUTER APPLICATIONS
-            
-              2005
-            
-          
-          
-            Delta College University
-            
-              Center, 
-              Michigan
-            
-            
-          
-          
-          
-            BUSINESS MANAGEMENT CST COMPUTER APPLICATIONS
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        Agile, Analyst, Ant, automate, billing, Business Management, catalog, Clearcase, Computer Applications, CSS, clients, CVS, Data Analysis, database, Documentation, Eclipse, Estimating, XML, Functional, HTML, DB2, IDE, Informatica, Java, JSP, JavaScript, JBOSS, Linux, Mainframe, Mentor, Windows, migration, MongoDB, MQ Series, Oracle, PL/SQL, performance reviews, coding, programming, PVCS, Python, RAD, Requirement, SDLC, Scripts, Soap, Software Engineer, SQL Server, Struts, Tomcat, UNIX, website, websites, Weblogic, Websphere
-      
-      
-      
-    
+ sr. automation engineer
+ summary
+ seeking a position of an automation engineer in a progressive organization where i can utilize my
+experience in software engineering, quality assurance processes and procedures. priority driven, time manager, self-motivated candidate capable of working solo or in team by
+collaborating with development, business and qa team.​
+5 years of it experience in software quality automation
+expert in designing and developing automation test script using selenium webdriver & java, mvc approach.
+expert in testing life cycle (tlc), sdlc: including risk analysis, planning process, test design,
+performing test, defect tracking, management and test reporting.strong verbal and written communication skillscapable of communicating effectively with peers and non-technical personnel.
+experience with agile scrum, waterfall and tdd, bdd methodology.experience in implementation of test plans, designing & developing the test procedures and
+test cases for the projects.writing test
+scripts for client/server, web applications. experience in functionality, user interface, unit, integration, black box, user acceptance,
+regression and performance testing, documentation and reporting.
+experience in reviewing business requirement and design documentation for completeness
+and test feasibility.
+hands on experience in preparing test plan, test strategy, test cases and scenarios, test data
+and test execution.
+experience in database query manipulation, sql statements, stored procedures and triggers.
+ability to execute and manage test cases; enter and manage defects for completion.
+takes ownership of assigned jobs and projects, provides status updates on a timely fashion to
+management and stakeholders.
+ highlights
+ language: java, html, csstest framework: junit, testng, mavenide: eclipseperfromance testing tool: jmeteros: linux, windows, mac
+ functional test automation tools: selenium ide, selenium rc, selenium webdriver, selenium griddatabase: mysqlapplication: ms office, photoshopweb debugging tool: firebug, firepath, xpath
+ experience
+ 04/2016
+ to 02/2017
+ sr. automation engineer
+ department of education － washington, dc
+ designed and developed automation script using selenium and webdriver.automation of functional testing framework for all modules using selenium and webdriver.verified requirements coverage by conducting walkthrough meetings of test plan and
+scenarios with business analysts, project manager and test supervisors.created master test plan, test strategy, critical scenarios and test scripts and schedule for
+testing.performed necessary requirements inspection, design inspection, test plan and case creation,
+test environment / data setup, testing and reporting during various phases of the testing life
+cycle.created traceability matrix and mapped requirements to test cases.executed test cases manually to verify the expected results worked with technical designers
+and architects to understand the requirements for a test environment setup.created scripts for regression, security, gui, integration and database testing.interacted with developers and management to identify and resolve technical issues.conducted gui, functional, front end back end testing and reviewed pages for content
+problems, graphics problems and link verifications.performed smoke testing to make sure all the test channels and test environment is working as
+desired.performed back end testing using sql queries in oracle database.created sql scripts to test the stored procedures by sending different sets of input parameters.ran sql queries to performed database validation according to the business logic.developed integration and system test cases using quality center.tracked and reported defects into quality center and notified management with details.written, executed test cases, and documented defects in the quality center.solved day to day problems of the team arising due to functionality and validation issues.analyzed root cause for defects and documented.partnered with the software development and program management teams to investigate
+and resolve product defects.    managed software defect information, interacted with business users to fix severity and priority
+of issues.attended daily scrum meetings.participated in weekly project status meeting and updated the testing progress.
+ 11/2009
+ to 01/2011
+ automation engineer
+ citi group － jersey city, nj
+ reviewed business requirements and technical specification documents.analyzed use cases, functional requirements to writing detailed test plans and test cases.performed specification analysis, created test cases, test plans, tested software applications,
+and logged defects, worked with development team in resolving defects and assisted in
+production issues resolution & re testing.collaborated with business analysts to understand and help clarify requirements and assess
+testability.reviewed and walked through high level requirements, detailed requirements and design
+documents.designed high level test cases or scenarios that map back to high level requirements and
+use cases.designed detailed functional, integration, and system test cases that map back to detailed
+requirements.searched for, collected, and organized test data referenced from test cases.conducted test case walkthroughs to achieve consensus on test case correctness &
+completeness.executed and managed functional, integration, and system test cases.recorded and managed defects.assisted ba by providing test cases for use at the user acceptance test level.regression test cases were automated using selenium, webdriver, webdriverbackedselenium.defect testing and exploratory testing/adhoc testing was performed after each build.performed ui testing, database testing after reviewing the story cards and database diagram.provided back end testing for data validation using sql.extensively executed sql queries on database tables to verify the database.involved in testing the database and data validation using sql queries.performed back end testing, database table manipulations of relational database systems by
+writing complex sql queries manually.created and enhanced numerous test scripts to handle changes in the objects, in the tested
+application's gui and in the testing environment using selenium.took part in triage meetings with the required parties after defect analysis to prioritize defect
+resolution.test cases were executed in trac.utilized trac for tracking test requirements, test plans, defects and communicating them
+among the team members and developers.reported the coverage status of test performed on the daily/weekly basis.run the automated regression suite and analyzed results and file bugs.
+ 10/2007
+ to 11/2009
+ qa analyst
+ cigna － hartford, ct
+ analyzed business requirements, business rules, created test plan and detailed test cases for
+projects.reviewed and updated requirements traceability matrices (rtm) that satisfy all required
+project's test conditions.executed test cases and participated actively in system testing and regression testing for the
+web based application as well as the windows based application.worked with the qa manager in developing responsibility matrices for the team members
+periodically.attended business reviews and functional walkthroughs and identified the functional problems
+in the application under test.distributed work amongst the team and coordinated the team.validated the data in the database by using sql quarries.performed backend testing by executing sql queries against oracle and sql database.extensively used sql to perform data integrity testing and checking the integrity of ui data
+with database data.used sql and pl/sql query to test the database updates and modifications.responsible for creating automation script with qtp using vb script for conducting functional
+and regression testing on saelsforce.com and various other projects.used descriptive programming of qtp to code the operation of objects that appear in
+dynamic data frames, whose property changes and not always matches.enhanced the script by inserting checkpoints for checking objects, pages, text and tables in
+the website using qtp.executed regression test suite on each build and for different states using qtp.developed user defined function, check points, datasheets, and object repository using qtp.guided the team for their day to day activities and preparing them to reach the deadlines.preparation and review of end to end test scenarios/test cases, coverage matrix and test
+data.used clear case as configuration management tool to track the status of the requirement.created test cases and executed different releases using rational test manager and
+validated the actual results against the expected results.documented project related work and new findings for future reference and to make the new
+comers and junior members' job easier.actively participated in teleconferencing with the clients, sponsors and end users every week
+regarding the progress of the project.led the team to perform user acceptance test.managed the project activities on a daily basis and conducted meetings with the managers
+on a weekly or bi weekly basis.responsible for the team performance, and preparing & submitting the graphs and metrics to
+the higher management.participated in uat support and interacted with clients to help to do theirs testing done in uat.
+ education
+ 2012
+ bachelor of science: computer and information system
+ east west university
+ － chicago, il
+ computer and information system
+ accomplishments
+ coffeeguff 2012 - now
+https://coffeeguff.com
+i started coffeeguff back in 2012 as a personal blog, where i actively wrote about my daily
+thoughts and commentary on various subjects like, technology, policies, fashion, recipes and etc.after the explosion of social media, daily visitors went down and plummeted in 2016.since then, i
+have turned coffeeguff into a digital platform for nepali people living here in us.technical:
+built an engaging platforms using wordpress cms, php, html, css and lots of stack overflow
+scavenging.maintains user interface, front end development
+maintains the hosting server (aws lamp stack), sql database using workbench
+munchbench 2015 - 2016
+https://www.munchbench.com
+on-demand food delivery service that got lots local restaurants excited but failed to attract actual
+paying customer regularly.technicals:
+built a robust and pixel perfect front-end user interface using php, javascript, html, css
+configured and maintained aws server, mysql database
+designed hybrid mobile app user interface using phonegap, onsen ui.
+ personal information
+ i actively participate and engage with organisations board, community
+members and advise them in formulating new projects and brainstorm best ways to achieve
+desired goals.
+by being active in this organisation, i was able to meet and connect with people from various
+walks of life. it has helped me learn, better understand us as human being, identify the
+bottleneck of first generation immigrants.
+by learning about their problems, i have to come to understand that regardless of ones
+background people have different and unique approach and methods in solving similar
+problems, their desire to succeed, their fear of unknowns. it is one of the most humbling
+experience that made me who i am in terms of social activism, our common struggle for
+opportunities.
+personal projects
+ interests
+ chicagoland nepali friendship society (cnfs)
+active member of cnfs since its foundation in 2007, a 501(c)(3) non-profit organisation in
+chicago that helps people of nepal preserve their cultural identity while at the same time
+helping them to assimilate in american society.
+as a member,
+ skills
+ photoshop, ant, automation, automation tools, ba, bi, clarify, com, configuration management, content, css, clients, data validation, database, debugging, eclipse, functional, graphics, gui, graphs, hp, html, db2, ide, inspection, java, linux, logic, meetings, access, ms office, windows, operating systems, oracle, oracle database, pl/sql, oracle and sql, program management, programming, progress, qtp, quality, qa, relational database, reporting, requirement, scrum, scripts, script, software development, specification, sql, sql server, strategy, tables, triage, validation, vb script, website, written
+ additional information
+ volunteer work
+chicagoland nepali friendship society (cnfs)
+active member of cnfs since its foundation in 2007, a 501(c)(3) non-profit organisation in
+chicago that helps people of nepal preserve their cultural identity while at the same time
+helping them to assimilate in american society.
+as a member, i actively participate and engage with organisations board, community
+members and advise them in formulating new projects and brainstorm best ways to achieve
+desired goals.
+by being active in this organisation, i was able to meet and connect with people from various
+walks of life. it has helped me learn, better understand us as human being, identify the
+bottleneck of first generation immigrants.
+by learning about their problems, i have to come to understand that regardless of ones
+background people have different and unique approach and methods in solving similar
+problems, their desire to succeed, their fear of unknowns. it is one of the most humbling
+experience that made me who i am in terms of social activism, our common struggle for
+opportunities.
+personal projects
+ 

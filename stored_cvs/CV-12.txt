@@ -1,121 +1,45 @@
 
-      
-        
-        
-           SENIOR SECURITY ENGINEER / ARCHITECT
-        
-        
-        
-      
-      
-      
-      
-        
-        Profile
-      
-        
-        Results-driven Security Engineer with over 14 years of experience in digital security drawing on experience from Pharmaceutical, Telecommunications, and individual engagements.
-      
-      
-      
-        
-        Core Qualifications
-      
-        
-        
-          
-            
-              Mobile Cloud SolutionsEndpoint SecurityCloud SecurityApplication Security
-              Threat ManagementRisk and Compliance ManagementSEIM IntergtrationIncident Response 
-            
-          
-        
-      
-      
-      
-        
-        Technical Skills
-      
-        
-        In depth experience with Mobile Cloud and MDM solutions to include Fiberlink MaaS360, Citrix XenMobile, and Airwatch.In depth experience with internal, external, network, & application vulnerability assessments utilizing QualysGuard, Damballa, and FireEye.Experience with Check Point R75-40 SmartDashboard, Anti-bot/Anti-Virus, IDS/IPS and Threat cloud Managed Security service (SOC).In-depth expertise with McAfee ePO, endpoint protection suite, secure email gateway (SaaS) & DLP.Experience in Accelops & ArcSight SIEM solutions (Security Incident Event Management)  for analytic driven IT operations management including performance and availability monitoring.Excellent understanding of secure data storage and transport implementations (E.g. PGP, SSH, SSL, IPSEC etc)In depth knowledge of TCP/IP, IEEE 802.11, wireless, & routing protocolsExperienced in Compliance Standards (SO/IEC 27001, HIPAA, SOX, etc.)Strong Windows system administration and security assessment skills including Active DirectoryExperience analyzing network traffic captures and network mapping using WireShark, Nstat, ZenMap, AirCrack, NetStalker, etc....Knowledge of email and web filtering Proofpoint, Websense & McAfee Site Adviser.Strong organizational, problem-solving, written and communication skills
-      
-      
-      
-        
-        Professional Experience
-      
-        
-        
-          
-            Accuvant
-            
-              March 2012 to 
-              Current
-            
-          
-          
-            Senior Security Engineer / Architect
-            Denver, 
-            CO
-          
-          
-            Design and implement Vulnerability assessment solution QualysGuard for multiple data center locations including PCI compliance and threat management coordination. Integrated WAS (Web Application scanning) for internal/external web sites, developing road maps and remediation plansDesigned, built, and implemented McAfee ePO servers to accommodate large enterprise endpoint and server communities, including endpoint protection suite, DLP, HIPS, site adviser, device control, full disk encryption, etc.. Designed all reporting and automation to accommodate.Integrated Mobile device management (MDM) strategies to enterprise level environments utilizing Fiberlink MaaS360, Citrix Xenmoblle, and Airwatch solutions including integrating Blackberry BES. Designed all policies to accommodate, iOS, Android and Windows mobile platforms.Integral part in vendor integration of Accelops SIEM (security incident event management) into existing enterprise logging solutions, developing dashboards, reporting, event logging, and performance monitoring.Due diligence threat management and incident response exercises incorporating multiple business and informatics groups. Design and implement security processes and procedures performing cost benefit analysis on all recommended strategies.Collaborate with external auditors to conduct in-depth compliance audits and penetration testing, presenting results to senior management. Develop curricula and facilitate security awareness training including social engineering education.Instrumental in developing and implementing Business continuity and disaster recovery ( BCP & DRP) plans utilizing authored Business impact analysis (BIA).
-          
-        
-      
-        
-        
-          
-            Forest Laboratories, inc.
-            
-              September 2003 to 
-              March 2012
-            
-          
-          
-            Security Analyst/Engineer
-            Commack, 
-            NY
-          
-          
-            Initiated Malware Threat Assessment project utilizing Damballa, FireEye, and McAfee ePO. Developing Incident response strategies based upon prioritizing highest risk devices and advanced targeted attacks (APT).Technical lead for McAfee MOVE integration into virtualization technologies VMware ESX/ESX1 4.1/5.0, Citrix XenServer 5.5 (lab only)Technical lead for McAfee ePO server upgrades, all endpoint product deployments, and HIPS IPS/firewall to 4000 sales systems.Security analyst on CheckPoint (R75.40) Smart dashboard project, utilizing Firewall, anti-bot/virus, IPS/IDS, and threat emulation software blades. Reporting administrator for URL filtering Triton WebSense providing insight to infected systems missed by AV. Assisted in developing policies based on endpoint activity.Assisted in developing Email security policies with ProofPoint enterprise and to discover social engineering through Phishing attacks.Experienced with Solorwinds Orion Platform 2013.1.0Experience with ArcSight Connector/Logger 5.3.0. - ePO integration.Supported VMware environments vSphere, Hypervisor, Horizon, workstation & server.  Technical lead for integrating Trend Micro (anti-virus, control manager 5.5 & server protect) into EMC CAVA for NAS on-access protection/scheduled full scans - designed all reporting.
-          
-        
-      
-        
-        
-          
-            Networks by Design
-            
-              April 2000 to 
-              September 2003
-            
-          
-          
-            System/Network engineer
-            Long Beach, 
-            NY
-          
-          
-            WAN configurations involving T1, ISDN, DSL, POTS, with Cisco RoutersNetwork maintenance and support for Windows 2000 servers as well as XP/NT/98 desktops, & Netware networksBuilding and configuring PDC, BDC, file, DHCP, WINS, DNS servers as well as Backup and Replication on Enterprise level serversCreate and Maintain user accounts for Microsoft Exchange Server using MS Active DirectoryMigrations from Exchange Server 5.5 to Exchange Server 2000 Configuring Cisco catalyst 1900, 5000 Switches & 2500, 3600 series Routers (GPRS, OSPF, IGRP, RIP, etc.)Daily documenting and logging of statistical events, evolving from performed tasksCreated detailed Network Documentation using Sniffer pro, what's up Gold and Cisco Works. Netware to WinNT /2K Migrations as well as Win NT to WIN 2K TCP/IP sub-netting and super-netting including Cisco VLSM'sConfigure wireless networks / access points with layer 2 security as well as WEP & PKI
-          
-        
-      
-      
-      
-        
-        ACCREDATIONS/PROFESSIONAL CERTIFICATIONS
-      
-        
-        
-          
-          
-          
-          
-          
-            CISSP (ISC2 Certified Information System Security Professional)CEH (EC-Council Certified Ethical Hacker)CCNA (Cisco Certified Network Associate)MCSE (Microsoft Certified Systems Engineer)MCP (Microsoft Certified Professional)CNA (Certified Novell Associate)McAfee Certified Product SpecialistQualysGuard Certified Specialist ITIL V3Nassau Community CollegeCCC Computer Career Center
-          
-        
-      
-      
-    
+ senior software engineer
+ summary
+ senior software engineer with a strong scientific background and over 16 years of professional experience. skilled in test-driven development with a passion for producing high-quality clean code. highly adept at application design and development, testing and optimization. excels at java application development, including coordinating ground-up planning, programming and implementation for core modules.
+ experience
+ senior software engineer
+ december 2016 to current
+ somalogic inc － boulder, co
+ ported key infrastructure to amazon web services (aws) for deployment to chinamigrated components of existing monolith to containerized microservicesevaluated angular and react as a replacement for existing front-endpresented team tech talks on new technologies (docker, kibana, kubernetes)evaluated single sign on (sso) solutionactive participant in group learning (machine learning, evolutionary architectures)completed architecting on aws training course
+ senior software engineer
+ november 2005 to november 2016
+ las cumbres observatory － santa barbara, ca
+ designed and developed core control software for network of worldwide telescopes
+ prototyped satellite tracking algorithm software
+ championed a team scrum/agile methodology, including introducing unit testing and continuous integration team-wide
+ software lead on mission-critical instrument design
+ created a junit test infrastructure for full-system validation pre-shipping
+ refactoring legacy code systems to make them testable and easier to maintain
+ mentored junior software engineers and scientists in good coding practices
+ interfaced with operations team and customers to determine root cause problems and define new requirements
+ instrumental in creating metric-based dashboards for system-wide monitoring
+
+ senior software engineer
+ january 2004 to november 2005
+ diamond light source ltd － oxfordshire, uk
+ designed and developed control software for world-class facility capable of researching cutting-edge disciplinesworked closely with customer to define software and hardware requirementsevaluated motion control systems for use in laboratoriescontract management of outsourced turn-key components
+ software engineer
+ january 2002 to january 2004
+ telescope technologies ltd. － liverpool, uk
+ key member of a small team which developed highly robust code for the world's first fully robotic telescopedeveloped autoguider software and algorithms used for closed-loop telescope trackingdeveloped mirror support software for maintaining consistent optical collimationembedded software development, configuration and programmingresponsible for integrating hardware and software systems before handover to customer   
+
+ education
+ ph.d.
+ : astrophysics
+ the universitory of manchester
+ － manchester, uk
+ thesis title: observations and mass models of class
+gravitational lenses
+ master of science
+ : physics with astrophysics
+ the university of birmingham
+ － birmingham, uk
+ skills
+ languages: java, python, c. novice at go, groovymethodologies: agile, pair programming, continuous integration, test-driven developmentquality: junit, mockito, dbunit, checkstyle, pmd, findbugs, clover, cobertura, sonartools: intellij, eclipse, git, svn, jvisualvm, maven, docker, wireshark, kibana, graphiteframeworks: guice, spring, google guava, gwt, dropwizard, django, celery, numpy, scipy, rabbitmqinfrastructure: aws, kubernetes, spring cloud, netflix oss
+ 

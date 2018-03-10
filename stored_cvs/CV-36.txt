@@ -1,142 +1,68 @@
 
-        B            
-            
-               WEBTRITION BUSINESS/FUNCTIONAL ANALYST
-            
-          
-      
-        
-          Summary
-        
-        
-          Over 20 years in technical and analytical roles within public, private and non-profit organizations. Knowledgeable in in agile and project management methodologies. Advanced computer proficiency with Networking and database experience. Self-motivated professional with superior research and complex problem solving skills
-        
-      
-        
-          Highlights
-        
-        
-          
-            
-              
-                Experienced in Business and Functional requirementsOffer effective Requirement tracing and User acceptance testing  Proficient in project development. 
-                Technical Support Representative skilled at resolving complex customer service issues in a timely manner.Effective in identifying issues and effective in resolutions.
-              
-            
-          
-        
-      
-        
-          Experience
-        
-        
-          
-            
-              Webtrition Business/Functional Analyst
-              Charlotte, 
-              NC
-            
+ senior software engineer
+ summary
+ senior software engineer with 13 years experience in a wide range of technologies and project types. expert in java-based development and web service design and development. 
+ highlights
+ enterprise and web developmentfull-stack developer
+ ​fluent in oo/javaapi development
+ experience
+ booz allen hamilton (sparc agile hub)
+ november 2014 to current
+ senior software engineer
+ charleston, sc
+ helped design and implement multiple soap and rest-based web services and apishelped design and implement multiple spring-based web applicationsimplemented oauth2 token-based authorization for client web applications and rest servicesimplemented and maintained integrated hsm (hardware security module) solution for ultra-secure data transmission and storage for web services and applicationswork with customer to define requirements of the web services and applications that are requestedmentor software developers and qa engineers
+ sparc
+ march 2012 to november 2014
+ team technical lead/senior software engineer
+ charleston, sc
+ led agile development team in the full development lifecycle for document-based (soap) web service design, development, and maintenancedefined, documented, and supported apis and api documentation for external service consumers
+		
+	
+	
+		
 			
-              Compass Group/
-              
-                Jun 2015 to 
-                Jan 2018
-              
-            
-            
-              Participated in Webtrition application activities, including design, documentation, configuration, application testing, as well as some project management and internal communication activities as needed.Documented process flows and developed requirements for functional improvements and enhancements. Conducted analysis, assessments, and recommendations that offer workable, efficient options to users.Generated business requirements, procedural documentation, operational and process flow documents, and use cases.Ensured that requirements and specifications documentation reach sign off and validated to specifications.Provided status updates to management, project managers and project teams.    ​
-            
-          
-        
-        
-          
-            
-              Lead Application Support Engineer
-              Charlotte, 
-              NC
-            
+				
+					utilized jpa
+(hibernate), spring (mvc, core, integration, and batch), jquery, jax-ws ri, apache cxf, and
+other frameworks for production code and jmockit, junit, and soapui for developing tests designed, implemented, and managed xacml-based policies within java enterprise applications​mentored fellow team members
+ icf international
+ december 2003 to march 2012
+ software engineer
+ charleston, sc
+ 		
+	
+	
+		
 			
-              American Red Cross/
-              
-                Oct 2013 to 
-                Feb 2015
-              
-            
-            
-              Provided support for moderate and complex issues concerning Mission Critical applications.Reviewed and updated system documentation and internal working procedures Responsibilities included management and administration of all training and testing environments.Primary contact for computer hardware and software problems, as well as network emergencies.Participated in changes to infrastructure to increase performance and resolve problems/issues.Diagnosed network problems involving a combination of hardware, software, power and communications issues.      ​
-            
-          
-        
-        
-          
-            
-              Requirements Analyst III
-              Charlotte, 
-              NC
-            
+				
+					
+						designed and developed custom java-based content management system with magnolia cms
+and ckeditor to manage item descriptions and media
+
+					
+				
 			
-              American Red Cross/
-              
-                Aug 2003 to 
-                Oct 2013
-              
-            
-            
-              Supported and monitored FDA regulated systems that are responsible for the successful completion of the blood donation process.Responded to all client requests for technical support by phone, email and the inter- office chat service.Validated changes within of FDA compliance.Responsible for defining requirements and have been successfully completed, documented and approved.Worked with Configuration Management and Quality Assurance teams to process requests from customers to make sure all changes are in FDA compliance.Responsibilities included reporting, investigating and documenting potential hazards in compliance with the Code of Federal Regulations for FDA.
-            
-          
-        
-        
-          
-            
-              Business / Systems Analyst
-              Mclean, 
-              VA
-            
+		 designed and implemented aws-based system which automated the transcoding of the uploaded videos to a format
+compatible with flash-based video streaming within an external web site. maintained iphone application code for an international annual arts festival, providing fixes and enhancementshelped design, develop and maintain several java enterprise applications for a major us dod procurement website
+ skills
+ languages:   java (1.4-1.8), c, javascript, objective-c, visual basicoperating systems: mac os x, windows, linux​java standards:   ejb, jsp/jstl, jpa, jax-ws, jax-rs, java content repository apijava frameworks:   spring (core, boot, mvc, integration, batch, security), thymeleaf, hibernate, jax-ws ri, apache cxf, apache jackrabbit, liquibasetesting frameworks: ​junit, jmockit, selenium, spring testbuild/dependency management: 
+		
+	
+	
+		
 			
-              Advanced Technology Systems/
-              
-                May 2000 to 
-                Jul 2003
-              
-            
-            
-              Supported requirements for the Department of Housing and Urban Developments (HUD) web based application, Real Estate Management Systems (REMS), which used to monitor financing and effectiveness of properties.Captured requirements from client and user groups in order to create requirements that comply with FHA and HUD commercial and consumer accounts.Designed documents and developed data conversion plans/documents for system upgrades.Tested and troubleshot new versions of software.
-            
-          
-        
-      
-        
-          Education
-        
-        
-          
-            
-              Bachelor of Science: 
-              Information Systems / Networking
-            
-			
-              Strayer University
-              
-                2003
-              
-            
-            
-              Sterling, 
-              VA
-              
-            
-            
-            
-              
-            
-          
-        
-      
-        
-          Skills
-        
-        
-          Completed DDL CertificationRequirements / Business AnalystRequirement GatheringQuality AssuranceApplication Support EngineeringKnowledgeable of Project Management process Software Development Life Cycle (SDLC)SharePointSQL
-        
-      
+				
+					
+						maven, ant, ivyui: html, css, javascript/ajax, jqueryapplication servers:   oracle weblogic server, apache tomcatdatabases:   oracle database (10g-12c), microsoft sql serverweb services:   rest, oauth 2.0, soap, wsdl, mtom, xacml, ws-security third-party services:   amazon (s3, ec2, hsm, sqs)miscellanous: docker, asc (ansi) x12 standards
+ education
+ college of charleston
+ 2003
+ bachelor of science: computer science
+ charleston, sc, usa
+ co-authored published computer science paper on applying the zipf-mandelbrot law to music
+ college of charleston
+ 1995
+ bachelor of arts: music composition/theory
+ charleston, sc, usa
+ won 1995 lowcountry music award for an orchestral composition
+ 

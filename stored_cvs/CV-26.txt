@@ -1,121 +1,44 @@
 
-      
-        
-        
-          
-          STATIONARY ENGINEER
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Dedicated and skilled Engineer offering over 13 years of experience within the HVAC and Building trades. Dynamic leader
-capable of managing teams and providing training to ensure optimal work products, timely delivery and continued customer
-satisfaction. Self-motivated professional recognized as a team player, insightful problem solver and capable strategic planner.
-      
-      
-      
-        
-        Highlights
-      
-        
-        
-          
-            
-              IUOE Local 39 Training, UA Local 342 Training, 13+ years Experience
-              MS Office, Angus Anywhere, Net Facilities
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Stationary Engineer
-            
-              Jun 2016 to 
-              Current
-            
-          
-          
-            Sunset Development Co － 
-            San Ramon, 
-            CA
-          
-          Play a key role on an Engineering team covering 30 buildings, over 10MM square feet of Class 1A office space.Perform mechanical maintenance and repair on HVAC equipment ranging form pumps, boilers, chillers and cooling towers.Carry out routine maintenance on all building equipment and operate heavy machinery.Manage workloads and execute jobs in a timely manner.Assist in the training of apprentices and utility Engineers.Implement different strategies to help with productivity and efficiency.Oversee work performed by outside contractors.
-        
-      
-        
-        
-          
-            Lead Stationary Engineer
-            
-              Oct 2010 to 
-              Jun 2016
-            
-          
-          
-            Able Engineering － 
-            San Francisco, 
-            CA
-          
-          Serve as acting Chief Engineer to five Class 1A mid-rise buildings totaling over 550K square feet.  Serve as the lead engineer for two Class 1A office buildings comprised of 130K square feet.Supervising teams and acting as the crew manager during managerial absences.Manage building master key systems.Perform maintenance and repair on BMS, Delta and Andover Controls.Oversee lighting control and door access control systems.Perform mechanical maintenance and repair on equipment ranging form pumps, boilers, cooling towers and box car units.Carry out routine maintenance on all building equipment and operate heavy machinery.Manage workloads and execute jobs in a timely manner.Play a key role on the engineering crew covering over 1.5MM square feet of Class 1A mixed space, including offices, a school campus, retail stores and restaurants.Train apprentices and new crew members in mechanical, locksmithing and direct digital control. Oversee work performed by outside contractors and attend construction meetings.    
-        
-      
-        
-        
-          
-            Service Technician
-            
-              Jul 2004 to 
-              Oct 2010
-            
-          
-          
-            Carrier Corporation － 
-            Concord, 
-            CA
-          
-          Respond to service calls and perform various types of repairs on units ranging from water source heat pumps, pneumatic systems, small package units to large boxcars.Install rooftop equipment and split systems.Maintained equipment, providing service recommendations and quotes.Independently managed workloads and scheduled repairs in a timely manner.
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-          
-          
-          IUOE 39 Journeyman Level courses. In-depth training in Chief Supervision, Locksmithing, Fire Life Safety, U.A. Local 342 Apprenticeship Program. In-depth electrical and troubleshooting courses as related to HVAC, Controls and Mechanical Systems.
-        
-      
-      
-      
-        
-        Certifications
-      
-        
-        Chief Supervision, HVAC          Mechanical Systems, Locksmithing, Building Controls, Building Maintenance,          Electrical, Troubleshooting, Fire Life Safety
-      
-      
-      
-        
-        Skills
-      
-        
-        Team Leadership, Customer Service, HVAC, Controls, Boilers, Lighting, MS Office, Safety, Problem Solving
-      
-      
-    
+ web and report developer (.net c#, ssrs)
+ summary
+ i am looking to work on challenging projects in a company with room for growth and excellent compensation. strong professional and educational background in designing and implementing object-oriented database-driven applications
+*exceptional ability to learn and apply new skills successfully
+*proven capacity to work creatively and effectively singly and in a team environment
+*skills in point of sales, accounting, retail, medical, and inventory control, mortgage, return authorization industry
+*experienced with sql replication
+*experienced with web application using delphi and webhub
+*strong knowledge of front end and back end development
+*good team player
+*experienced with agile scrum methodologies
+*strong experience with ssrs
+senior software engineer with 10+ years in analysis, design, development, testing and implementation of various internet-based applications. skills
+ c#, mvc, .net, delphi 2-2010, vb.net,sql server 2000/2016, xml, html, java script, pascal html/dhtml, css, javascript, xml, jquery, bootstrap, microsoft .net.graphic tools: adobe photoshopreporting tools: crystal report 5 through 9, report builder, microsoft reporting services ssrsdatabase: access, mysql,sql server 2000-2016, ado, ado.net, oracleoperating systems: windows 95/98/nt/me/xp/2000/7 server, windows 2003, solaris, unixproject roles: data architect, dba designer, programmer, project manager, team leader, testing    version control: vss, tfsbug tracking tool: salesforce, jirasql fluent in c, c++, c#mysqlvisual sourcesafe
+ excellent communicatorcomplex problem solver
+ experience
+ 08/2013
+ to current
+ web and report developer (.net c#, ssrs)
+ the retail equation － irvine, ca
+ collaborated with designers to create clean interfaces and simple, intuitive interactions and experiences. full stack web developer.responsible for the design and maintain the existing software which is a service for point of sales to track return authorization using .net, mvc, c# technology.responsible for design report using ssrs.implemented ssrs subsubscription manager like the existing ms product to do custom jobs of incorporating delivery methods to fit company needs.designed and developed complex functions and stored procedures using mssql.troubleshot and resolved production problems.worked on client side of the product using jquery, javascript, razor, bootstrap, ajax.
+ 10/2010
+ to 07/2013
+ senior lead software developer (.net and delphi)
+ resnet － lake forest, ca
+ lead of delphi team.responsible for the design and implementation of a mortgage system using delphi/web hub, vs 2010, c#, asp.net, mvc, and mysql/mssql 2008.worked with business users and analysts on gathering business requirements and design specifications.designed and developed functions and stored procedures using mysql/mssql.    troubleshot and resolved production problems.developed portals for agents to connect to homeowners, buyers, asset managers, short sale servicers.worked on client side of the product using jquery, javascript, razor.
+ 07/1996
+ to 09/2010
+ senior lead software developer (.net and delphi)
+ comcash － irvine, ca
+ project manager of a development team and supervised delivery and integration cycles.analyzed and developed pos system using delphi 2010 and sql server.developed a client server system that provided end user a way to do unlimited real time inventory control; manage customer data, bar coding, sales ringing up, credit card processing.developed a touch screen system with unlimited drill-down menu for convenient stores and restaurants.developed the back end system that consisted of data access, and data maintenance tools for end user to control their inventory at ease.developed an online shopping cart using .net technology so that customers can take advantage of the same database on point of sales side and sell products on the web.participated in the production, expansion, and maintenance of the sql server database that stored all the end of day data.participated in test cycles and debug applications.developed datasync, a middle tier to update and poll data from web and windows application using delphi, asp.net, c#, and soap.built an enterprise solution to bring data from other locations to central via sql replication technology and delphi programming.developed comcash qbi, the first automated xml interface to quickbooks, generating massive market exposure and expanding target market using delphi.
+ education and training
+ b.s: information and computer science
+ university of california
+ － irvine, ca
+ information and computer science
+ activities and honors
+ microsoft .net certification from university of california, irvine (uci) in 2003
+ skills
+ .net, microsoft .net, vb.net, asp.net, ado, adobe photoshop, ajax, architect, client server, credit, crystal report 5, css, client, version control, dba, database, delivery, delphi, delphi 2, dhtml, xml, graphic, html, hub, inventory, inventory control, javascript, java script, jquery, team leader, market, access, c#, sql server 2000, windows, 2000, windows 95, 98, nt, mvc, mysql, enterprise, operating systems, oracle, pascal, pos, coding, programmer, programming, quickbooks, real time, reporting, sales, soap, solaris, mssql, sql, sql server, unix, web developer
+ additional information
+ computers (programming, building, using), handheld technology, music, theology, webpage design, charity work, marathons
+ 

@@ -1,141 +1,32 @@
 
-      
-        
-        
-          
-          CUSTOMER SERVICE ENGINEER IN DEFECT METROLOGY.
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Solution-oriented,
-self-motivated Field Service Engineer with over 10  years of experience with well round of knowledge in the areas of electronics, pneumatic, networking, mechanical, vacuum, laser and optical system.
-      
-      
-      
-        
-        Professional Experience
-      
-        
-        
-          
-            Customer service engineer in Defect metrology.
-            
-              Jan 2013 to 
-              Current
-            
-          
-          
-            Applied Materials, Inc － 
-            Hillsboro, 
-            Oregon
-          
-          Install, upgrade, calibrated and repair at client's siteInteract with clients and their manager and take feedbackEnsure safety norms are followed during installation and maintenance
-        
-      
-        
-        
-          
-            Customer service engineer in EPI
-            
-              Sep 2006 to 
-              Dec 2012
-            
-          
-          
-            Applied Materials, Inc － 
-            Hillsboro, 
-            Oregon
-          
-          Installation and repair complex electronic, network, mechanical and vacuum system
-        
-      
-        
-        
-          
-            Grinding machine technician and operator
-            
-              May 2006 to 
-              Sep 2006
-            
-          
-          
-            Sumitomo Electric Semiconductor Materials, Inc － 
-            Hillsboro, 
-            Oregon
-          
-          
-        
-      
-        
-        
-          
-            Thin-film Equipment Maintenance Technician Intern
-            
-              Jun 1997 to 
-              Jun 1998
-            
-          
-          
-            Fujitsu Microelectronics Inc － 
-            Gresham, 
-            Oregon
-          
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            Bachelor of Science, 
-            Automated Manufacturing Technology
-            
-          
-          
-            ITT Technical Institute － 
-            Portland, 
-            Oregon
-            
-          
-          
-          
-        
-      
-        
-        
-          
-            Associate of Science, 
-            Electronics Engineering Technology
-            
-          
-          
-            ITT Technical Institute － 
-            Portland, 
-            OR
-            
-          
-          
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        Experience with complex electronic, mechanical, vacuum, laser and optic system.Strong analytical, diagnosis, and problem solving skills.Ability to work with blueprints, schematic drawings.Setup and troubleshooting networking using NETBEUI, IPX/SPX, TCP/IP, and TelnetProficient with Microsoft Operating system and Microsoft OfficeFamiliar with PLC ladder diagram and CNC programs.Improving customer service based on client feedback through the development of new policies and procedures.Work well as individual and/or team environment.Flexible with Travel (Domestic or International)Bilingual
-in Thai & English
-      
-      
-    
+ software engineer of iot cloud
+ professional experience
+ 06/2014
+ to current
+ software engineer of iot cloud
+ salesforce － san franiciso, ca
+ i work on the salesforce iot cloud, a massively scalable event processing engine for realtime engagement and analytics. my main focus is that design and implement clusters provision and management for iot cloud. 1. provision and manage aws and heroku resource, heavily involving cloudformation, ec2, auto-scaling and elb, etc.2. deploy micro-services, manage versioning, upgrading iot platform properly, scale up and scale down micro-services when necessary. micro-services that we support use kafka, storm, spark, cassandra, kubernetes and so on. 3. find the best practice to store sensitive and critical information, for example, auth token, client secret. 4. customize platform when business needs dynamically, involving database migration, kafka migration, cloudformation infrastructure update. we are now co-hosting workloads across 10k customers, batch transforming ~100mm rows of user data daily and real-time ingests 7 tb of events daily, ~80 mb/s sustained.
+ 03/2014
+ to 06/2014
+ software engineer
+ locket － san francisco, ca
+ locket is lock screen app that will display image, content based your interests. it was selected by google as one of "best apps of 2014".i was mainly focusing on backend development, including intelligent content generation and display. 
+ 06/2013
+ to 09/2013
+ machine learning developer (intern)
+ british broadcasting corporation (bbc) － london, uk
+ 1. developed a face detection and recognition program in java, implementing machine learning algorithms,e.g., eigenfaces (pca) and fisherfaces (lda);2. applied text mining techniques to subtitles to assist the facial identification of actors in tv programs;3. achieved up to 98% accuracy rate on standard face databases, e.g., orl.
+ education
+ 2013
+ master of science: computational statistics & machine learning
+ university college london
+ － london
+ uk
+ jun 2010
+ bachelor of science: electronic commerce computing
+ university of liverpool
+ － liverpool
+ uk
+ technical skills
+ programming: java, python, javascriptbuilding tool: gradle, mavenops related: puppet, ansible, saltstack, docker, kubernetes, jenkins, bashothers: aws, hibernate, postgres
+ 

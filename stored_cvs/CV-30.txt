@@ -1,197 +1,43 @@
 
-      
-        
-        
-           INFORMATION TECHNOLOGY INTERN (TEST AUTOMATION ENGINEER)
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Over 3 years of experience serving as a key contributor across all software development life cycle phases including analysis, architectural design, prototyping, development, and testing of application using Java/J2EE technologies in various domains.Very good understanding of Object Oriented Programming, Data Structure, Algorithms, Design Patterns and Distributed Systems.Excellent working experience in backend development using different Spring modules like Spring Core Container Module, AOP, MVC, Security, Data, Transaction Management etc.Experienced in developing Microservices with Spring Boot, Spring REST, Spring Cloud, etc.Extensive experience in developing Web interfaces using HTML5, CSS3, Bootstrap, SASS, LESS, JavaScript, jQuery, AngularJS, ReactJS and BackboneJS.Experienced in working with SQL databases like MySQL, PostgreSQL, Oracle and have some knowledge of NoSQL databases like MongoDB.Expertise working in Agile methodology environments like Scrum.Experienced in working with Version Control Tools like SVN and Git.Experienced in performing automation using Selenium, Java and performing Behavioral driven testing using Cucumber.Experienced in build tools like Ant, Maven, Gradle and using them with continuous integration tools like Jenkins.A proactive learner with exceptional analytical, design and problem-solving capabilities.Excellent communication skills including formal presentations and technical documentation.Productive in both team-based and self-managed projects.
-      
-      
-      
-        
-        Skills
-      
-        
-        Programming Languages: Java/J2EE, JavaScript, Android, HTML, CSS, SQL, C, CFrameworks and Libraries: Spring, Restful-Web Services, Hibernate, AngularJS, ReactJS, jQuery, Bootstrap, Selenium WebDriver, CucumberDatabases: MySQL, PostgreSQL, Oracle, MongoDB, H2Build Tools: Gradle, Maven, AntPractices: Agile/Scrum, Waterfall, TDD, Clean Coding, Continuous DeliveryArchitectures: Microservices, Single Page Application, REST, Client/ServerVersion Control: SVN, GitCloud Application Platform: AWSOthers: Bower, Grunt, Npm, Node, JSON, XML, JenkinsIDE: Eclipse, IntelliJ, Android StudioOperating Systems: Linux, Windows
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Information Technology Intern (Test Automation Engineer)
-            
-              05/2017 to 
-              08/2017
-            
-          
-          
-            ExtremeTix Inc.
-            
-              Houston, 
-              TX
-            
-          
-          
-            Created nicely baked ‘Test Automation Framework' to provide an execution environment for the automation test scripts. The framework allowed automated regression testing of ‘WebTix', frontend/web interface that ExtremeTix's (Ticketing Solution Company) clients use to access web services.Extensively used Selenium WebDriver and Spring Boot combined to write automation scripts for dynamic pages of ‘WebTix' written on AngularJS Framework. Modularized web components as Java objects following Page Object Model i.e created Object repository for all locators which can be easily automated.Leveraged the benefits of both data-driven and behavior-driven approaches and built the framework that is maintainable and reusable. Integrated automated tests with Cucumber (behavior-driven testing framework) to allow Quality Assurance team write high-level use cases in plain text.Leveraged Jenkins to build automated tests project and use Selenium Grid to run parallel tests across multiple browsers and platforms. Automated reports generation and distribution.Interpreted and converted manual test cases into automation smoke and regression suites.Trained and supported the QA team with automation framework and script issues.Collaborated with the QA team and went through an evolutionary approach in writing concise documentation to help configure the framework and add new automated tests as required.Worked on JIRA tool to create and track new project/issue.
-          
-        
-      
-        
-        
-          
-            Java Full Stack Developer
-            
-              05/2014 to 
-              06/2016
-            
-          
-          
-            Real Time Solutions Pvt. Ltd.
-            
-              Patan, 
-              CDR, Nepal
-            
-          
-          
-            Worked on varied aspects of application development including requirement analysis, design, implementation, and testing.Coded and debugged multi-tiered Java-based applications to provide enterprise and embedded solutions using Java and Spring framework APIs like MVC, AOP, DAO, JDBC, Transaction, Validation, Annotation, JSON, XML, Maven and JUnit Test.Involved in implementation of applications using conventional design practices (SOA - Service Oriented Architecture).Developed database access layers using Spring Data JPA and Hibernate.Developed REST web services
-for external application integration.Developed a Java-based SDK and driver software for making the card reader, PUA-310V-0/M2U2/Y4 to work on Linux environment.Did extensive research on smart card technology (NFC, Mifare, DESFire, etc.) for projects like VMS (Visitor Management System) and SCBTIMS (Smart Card Based Trekkers' Information Management System).Was responsible for writing core software logic for QMS (Queue Management System) in Java, developing plugin architecture and implementing RS485, TCP & HTTP channels as plugins for interfacing QMS hardware devices.Worked as a development coordinator for projects like VMS (Visitors Management System), QMS (Queue Management System), SCBTIMS (Smart Card Based Trekkers' Information Management System).Worked with JS, JSP, HTML, CSS, Bootstrap, AngularJS and ReactJS to design and develop interactive user interfaces and HMI (Human Machine Interface) for real-time data monitoring and interactions.Built multiple mobile applications (Android and iOS) for real-time monitoring of hydrologic parameters and alert dissemination during floods and glacial lake outburst risks.Gained experience in multi-platform mobile application development technologies like PhoneGap and Titanium.Fixed bugs and implemented improvement features using Java and J2EE on large scale projects through reviews of codes and test cases, analysis of change requests and enhancements, investing alternate configurations and implementing better solutions.Leveraged an array of tools to optimize efficiency, including OpenERP for project management, Git for source control and versioning, sophisticated IDEs such as IntelliJ and many other.Was responsible for client interactions and handling technical aspects in a sales pitch.
-          
-        
-      
-        
-        
-          
-            Java Developer Intern
-            
-              03/2014 to 
-              05/2014
-            
-          
-          
-            Bajra Technologies Pvt. Ltd.
-            
-              Kathmandu, 
-              CDR, Nepal
-            
-          
-          
-            Core Java programming with Multithreading Exception Handling, File Handling, IO, Generics, and Java Collections. Developed the entire MRP (Machine Readable Passport) Reading Module both backend and frontend by utilizing Java 1.7 and Java Swing.Used JDBC for database connectivity to SQL Server.Involved in backend development and optimizing the search engine for Nepal Tourism Board (NTB)'s website.Involved in bug fixing, code enhancements, and maintenance activities.Prepared test plans for unit testing and implemented test cases using JUnit.
-          
-        
-      
-        
-        
-          
-            Software Developer Intern
-            
-              01/2013 to 
-              10/2013
-            
-          
-          
-            Real Time Solutions Pvt. Ltd.
-            
-              Patan, 
-              CDR, Nepal
-            
-          
-          
-            Designed and developed applications using Scrum, an iterative and incremental Agile Software Development methodology.Performed back-end development using PHP (CodeIgniter MVC Framework).Developed CMS like system majorly based on PHP and MYSQL.Built a file-crawler app in CodeIgniter for sorting and removing duplicates and redundant files.Created data entry forms in HTML embedded with PHP.Trained in effectively utilizing agile methodologies and Object Oriented Programming practices.Maintained project documentation.Trained in utilizing version control system like Git and managing project timeline by use of OpenERP, a comprehensive suite of business applications.Responsible for writing User and Administrator Modules of PHP MySQL applications as per the technical specifications.Responsible for implementing and hosting of prototype systems on test servers.Attended seminars and workshops about SQL (Structured Query Language) and Database Design.
-          
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-            Master of Science: 
-            Computer Science
-            
-              2017
-            
-          
-          
-            Lamar University
-            
-              Beaumont, 
-              Texas, 
-            United States of America
-            
-          
-          
-          
-            GPA: 4.0/4.0
-          
-        
-      
-        
-        
-          
-            Bachelor of Engineering: 
-            Electronics and Communication Engineering
-            
-              2013
-            
-          
-          
-            Tribhuvan University
-            
-              Kathmandu, 
-              CDR, 
-            Nepal
-            
-          
-          
-          
-            GPA: 3.94/4.0
-          
-        
-      
-      
-      
-        
-        Honours and Distinction
-      
-        
-        Winner of National Robotics Competition, 'Yantra 1.0' organized by Robotics Association of Nepal (RAN): July 2012Outstanding Student Award, Lamar University: Fall 2017 
-      
-      
-      
-        
-        Extra-Curricular Activities
-      
-        
-        Resource Manager in Robotics Club, Kathmandu Engineering College, Tribhuvan University (2013 - 2013).Twice the winner of National Robotics Competition organized by Robotics Association of Nepal (RAN).Conducted and mentored 'Microcontroller Workshop (13th January 2013)', and 'Circuit Synthesis Training Program (14th June 2013)' at Kathmandu Engineering College.Presented ideas and project based on Android controlled robot in Locus 2013, Annual Technological Festival, NepalGave a presentation to Nepal Army Club on the application of robotics in safety and security (during Tech Exhibition 2013).Treasurer and Event Organizer in Nepalese Student Association (NSA) at Lamar University (2016 - 2017).
-      
-      
-      
-        
-            Website and Links
-        
-        
-            
-                
-                    Website: www.sagunpandey.com
-                    LinkedIn: www.linkedin.com/in/sagunpandey
-                    GitHub: www.github.com/sagunpandey
-                
-            
-        
-      
-    
+ consultant
+ summary
+ in-depth knowledge and understanding of numerous software packages and operating systems.
+ skilled in database administrator, network administration, web developer. providing customer and
+ end-user help desk support. easily identify and resolve technical issues and concerns. excellent
+ communication and presentation capabilities
+ experience
+ consultant mar 2014 to may 2017
+ image pillar － greenville, sc
+ provided object-oriented design, programming and implementation support to the customer
+ billing system written in java
+ design database system for e-commerce website with persistence ejb platform
+ prepared test plans and data, and user documentation for customer billing system.problem-solved hardware issues with fault -tolerant hard drives.
+ database administrator
+ dec 2009 to feb 2017
+ t&s brass － travelers rest, sc
+ working with database management systems, determining and storing data. identify user needs and set up new computer database. integrate data from outdated systems to new system.
+ machinist, cnc programmer
+ jun 2001 to dec 2009
+ t&s brass － travelers rest, sc
+ setup fixtures, program cnc
+machines for plumbing equipment
+
+
+ education and training
+ bachelor of science, computer science/ information technology
+ may 2013
+ limestone college － gaffney, south carolina
+ computer science/ information technology
+ bachelor of science, business administration
+ dec. 2011
+ limestone college － gaffney, south carolina
+ business administration
+ bachelor of science, computer science software/programming
+ dec. 2011
+ limestone college － gaffney, south carolina
+ computer science software/programming
+ master's degree information technology(mit)
+ university of virginia tech present
+ skills
+ api, billing system, c, c++, hardware, database, dns, e-commerce, eclipse, ejb, xml, ftp, hard drives, html, hubs, ide, information technology, java, jsp, javascript, memory, access, microsoft access, c#, excel, office, outlook, powerpoint, microsoft visio professional, windows 7, windows 8, microsoft windows xp, ms word, mysql, network, networks, object-oriented design, oracle, peripherals, coding, programming, raid, router, servers, servlet, microsoft sql server, sql server, cisco switches, system design, tcp/ip, team work, user documentation, uml, vpn, microsoft visual basic, visual studio, website, written, xhtml
+ 

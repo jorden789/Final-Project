@@ -1,2 +1,299 @@
 Test [0] - Similarity Bound [0.0]
 ['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [1] - Similarity Bound [0.01]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [2] - Similarity Bound [0.02]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [3] - Similarity Bound [0.03]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [4] - Similarity Bound [0.04]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [5] - Similarity Bound [0.05]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [6] - Similarity Bound [0.06]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [7] - Similarity Bound [0.07]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [8] - Similarity Bound [0.08]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [9] - Similarity Bound [0.09]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [10] - Similarity Bound [0.1]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [11] - Similarity Bound [0.11]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [12] - Similarity Bound [0.12]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [13] - Similarity Bound [0.13]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [14] - Similarity Bound [0.14]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [15] - Similarity Bound [0.15]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [16] - Similarity Bound [0.16]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [17] - Similarity Bound [0.17]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [18] - Similarity Bound [0.18]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [19] - Similarity Bound [0.19]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [20] - Similarity Bound [0.2]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [21] - Similarity Bound [0.21]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [22] - Similarity Bound [0.22]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [23] - Similarity Bound [0.23]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [24] - Similarity Bound [0.24]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [25] - Similarity Bound [0.25]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [26] - Similarity Bound [0.26]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [27] - Similarity Bound [0.27]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [28] - Similarity Bound [0.28]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [29] - Similarity Bound [0.29]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [30] - Similarity Bound [0.3]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [31] - Similarity Bound [0.31]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [32] - Similarity Bound [0.32]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [33] - Similarity Bound [0.33]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [34] - Similarity Bound [0.34]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [35] - Similarity Bound [0.35]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [36] - Similarity Bound [0.36]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [37] - Similarity Bound [0.37]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [38] - Similarity Bound [0.38]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [39] - Similarity Bound [0.39]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [40] - Similarity Bound [0.4]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [41] - Similarity Bound [0.41]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [42] - Similarity Bound [0.42]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [43] - Similarity Bound [0.43]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [44] - Similarity Bound [0.44]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [45] - Similarity Bound [0.45]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [46] - Similarity Bound [0.46]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [47] - Similarity Bound [0.47]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [48] - Similarity Bound [0.48]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [49] - Similarity Bound [0.49]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [50] - Similarity Bound [0.5]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [51] - Similarity Bound [0.51]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [52] - Similarity Bound [0.52]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [53] - Similarity Bound [0.53]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [54] - Similarity Bound [0.54]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [55] - Similarity Bound [0.55]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [56] - Similarity Bound [0.56]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [57] - Similarity Bound [0.57]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [58] - Similarity Bound [0.58]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [59] - Similarity Bound [0.59]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [60] - Similarity Bound [0.6]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [61] - Similarity Bound [0.61]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [62] - Similarity Bound [0.62]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [63] - Similarity Bound [0.63]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [64] - Similarity Bound [0.64]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [65] - Similarity Bound [0.65]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [66] - Similarity Bound [0.66]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [67] - Similarity Bound [0.67]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [68] - Similarity Bound [0.68]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [69] - Similarity Bound [0.69]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [70] - Similarity Bound [0.7]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [71] - Similarity Bound [0.71]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [72] - Similarity Bound [0.72]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [73] - Similarity Bound [0.73]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [74] - Similarity Bound [0.74]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [75] - Similarity Bound [0.75]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [76] - Similarity Bound [0.76]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [77] - Similarity Bound [0.77]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [78] - Similarity Bound [0.78]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [79] - Similarity Bound [0.79]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [80] - Similarity Bound [0.8]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [81] - Similarity Bound [0.81]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [82] - Similarity Bound [0.82]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [83] - Similarity Bound [0.83]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [84] - Similarity Bound [0.84]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [85] - Similarity Bound [0.85]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [86] - Similarity Bound [0.86]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [87] - Similarity Bound [0.87]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [88] - Similarity Bound [0.88]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [89] - Similarity Bound [0.89]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [90] - Similarity Bound [0.9]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [91] - Similarity Bound [0.91]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [92] - Similarity Bound [0.92]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [93] - Similarity Bound [0.93]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [94] - Similarity Bound [0.94]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [95] - Similarity Bound [0.95]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [96] - Similarity Bound [0.96]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [97] - Similarity Bound [0.97]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [98] - Similarity Bound [0.98]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']
+
+Test [99] - Similarity Bound [0.99]
+['CV-36.txt', 'CV-31.txt', 'CV-17.txt', 'CV-7.txt', 'CV-4.txt']

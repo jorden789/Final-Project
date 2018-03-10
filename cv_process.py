@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 
 ####################################################################################################
-# Name: CV Format Routine
+# Name: CV Process
 # Author: Jorden Allcock
 # 
 # Description: File is not essential to core processing, however is designed to assist in formatt-

@@ -1,115 +1,34 @@
 
-      
-        
-        
-           PATIENT SERVICE ADVOCATE AND SOFTWARE SUPPORT SPECIALIST
-        
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        I am looking for a challenging position that allows me to utilize the core skills I have developed in a professional environment as well as achieve growth, both in my career and as a individual.
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              Proficient in both Windows and Mac operation systemsExperience in personnel management.
-              Versed in Microsoft Office, Remote Desktop and IT management
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            PATIENT SERVICE ADVOCATE and SOFTWARE SUPPORT SPECIALIST, 
-            01/2010 to 
-            01/2014
-          
-          
-            Cornerstone Healthcare － 
-            High Point, 
-            NC
-          
-          
-            Provided patients with procedural and privacy instructions to assure a high quality resultTook necessary measures to perform duties associated with basic medical office procedures such as data entry, filing, examination of charts for accuracy and completeness while actively participating as a team memberDelivered support to end users within the organization on how to utilize various types of software programs efficiently and effectively to enhance workflow and patient care
-          
-        
-      
-        
-        
-          
-            TAX PREPARATION ASSISTANT, 
-            01/2010 to 
-            01/2011
-          
-          
-            Cornerstone Healthcare － 
-            High Point, 
-            NC
-          
-          
-            Assisted in tax preparation, customer service and office duties.
-          
-        
-      
-        
-        
-          
-            OPERATIONS MANAGER, 
-            01/1993 to 
-            01/2010
-          
-          
-            Tom Keener, Inc － 
-            Thomasville, 
-            NC
-          
-          
-            Managed daily operation and duties of a commercial and residential paint contracting company.Managed scheduling contracted jobs, managed accounts payable, accounts receivable, payroll and accounts for workers compensation, general liability and health insurance.
-          
-        
-      
-        
-        
-          
-            CREDIT MANAGER/ASSISTANT OPERATIONS MANAGER/CUSTOMER SERVICE REPRESENTATIVE, 
-            01/1990 to 
-            01/2003
-          
-          
-            Hunter and Company, Inc － 
-            High Point, 
-            NC
-          
-          
-            Oversaw operations for the distributor from initial call to customer service, through the warehouse, until departure from bay doorSet up and maintained over 3,800 accounts including collection of past due accounts.Monitored computer and phone systems and daily duties of accounts payable, accounts receivable, customer service manager and warehouse manager.
-          
-        
-      
-      
-      
-        
-        Additional Skills
-      
-        
-        Filing, IT management, patient care, personnel management, phone systems, scheduling, tax preparation
-      
-      
-    
+ senior software engineer / lead design engineer
+ summary
+ software professional with 30+ year proven record of achievement and advancement in various industries including power system controls, gis, and networking subsystems. able to move effortlessly through and adapt readily to ever changing technologies. expertise encompasses software development, database design, object-oriented analysis and design, user training and support, and system troubleshooting.
+ skills
+ c#, c, c++, fortrannet core and frameworkasp.net coredata distribution service (dds)zeromq (zmq)xml, xsltwix installer toolsetswagger, openapi, jsonsql servervisual studio 2010 - 2017bash, powershellwindows, linuxteamcity, continuous integrationsubversion (svn)ndepend
+ experience
+ senior software engineer / lead design engineer
+ august 2011 to november 2017
+ spirae llc － fort collins, co
+ senior member of small development team delivering advanced distributed power system control software for distributed energy resource management systems (derms) and microgrids, with high penetrations of renewable energy and storage:.architected adapter infrastructure that enabled full upper level decoupling and easy replacement of key system infrastructure components, including communication and database middleware, and energy asset controllers.initial communications layer implemented using zeromq.    migration to rti connext dds required zero application level changes proving successful decoupling.designed and implemented distributed request/response subsystem with automatic registration of command handlers with type-checked parameter and response data marshalling.created methodology and data-driven processes for reducing time and expense by up to 90% for taking a power system model to operation against simulated and real power assets, with model to simulation time in as little as 30 minutes.build and source control manager for continuous integration of multiple simultaneous product release lines.mentor for 5 new software engineers and interns.
+ software engineer
+ january 2004 to april 2011
+ cartopac international － fort collins, co
+ joined small spatial data technologies startup that grew to become cartopac international, an industry leader in gis field data collection and field asset management:.solely designed and developed first of its kind fully relational spatial sql database for the windows mobile platform.designed and implemented dynamic cartographic projection and geodetic datum conversion architecture utilizing proj4, nadcon, and htdp.
+ training consultant
+ september 2001 to december 2003
+ ridgeview enterprises inc － windsor, co
+ owned and operated product training consulting firm with clients throughout the us:.development and delivery of world-wide training for fortune 500 computer products.scripting and production of training videos for computer hardware support.
+ software engineer / engineer scientist / project manager / it manager
+ january 1987 to august 2001
+ hewlett-packard company － cupertino fort collins mountain view, co ca
+ education and training
+ m.s
+ : computer science, 1987
+ kansas state university
+ computer science
+ b.s
+ : computer science, 1985
+ kansas state university
+ computer science
+ skills
+ .net, asp.net, asset management, bash, c, c++, computer hardware, consulting, conversion, clients, data collection, dds, database, delivery, xml, fortran, gis, json, linux, mentor, c#, windows, middleware, migration, processes, scripting, simulation, sql, sql server, type, visual studio, xslt
+ 

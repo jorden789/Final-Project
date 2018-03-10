@@ -1,171 +1,37 @@
 
-      
-        
-        
-           LEAD FIRMWARE ENGINEER
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Embedded Systems Engineer developing disruptive Mixed Reality technologies at a Silicon Valley startup.  Recognized expert at delivering Mission Control quality Firmware for world's most sought after smartphones and wearables. 
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              Software Engineering LeadershipBare Metal as well as Applications ProgrammingContinuous Integration and TestRapid PrototypingDevelopment Board Bring-up 
-              Managing Enterprise Customer Expectations Standards Compliance Agile Project Management Conducting Technical Presentations, Workshops Factory Processes (EVT, DVT, PVT)
-            
-          
-        
-      
-      
-      
-        
-        Accomplishments
-      
-        
-        Avegant Glyph: Led Firmware Development on CES award winning Near-eye Head Mounted Display.iPhone 5S, 6, 6S Qualcomm MDM and RF: Developed Algorithms for controlling Smartphone Receiver Amplifiers in 4G LTE Advanced. Saving 15mA current per amplifier during frequent inactive periods in LTE connection. iPhone6S: Led development of "Dynamic Auto RF Path selection Algorithms" critical for truly world-mode 4G LTE Carrier Aggregation (CA). iPad3, iPhone4: Developed Average Power Tracking (APT) proof of concept for Power Amplifiers. Resulted in over 30% savings in battery life during data/voice connection. APT is used in over 90% of world's mobile devicesPrimary inventor in US Granted Patent. Invented a Signal processing technique to search for un-used terrestrial TV spectrum and to utilize the found spectrum for high speed wireless tech usage i.e. Cognitive RadioHave been promoted thrice during tenure at Qualcomm. Recognized for Expert level debugging, rapid prototyping for proof-of-concepts and managing expectations of enterprize partner
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          06/2016
-           to 
-          Current
-        
-        
-          
-            Lead Firmware Engineer
-          
-          
-            Avegant － 
-            Belmont, 
-            CA
-          
-          
-            Developed Firmware for 2-time CES award winning, Oprah's favorite thing 2016, Near Eye Head Mounted Display(HMD) "Avegant Glyph". Developed I2C, SPI drivers, Algorithms in C++ over TI ARM Cortex M4 platform. Implemented proprietary Packet Protocol as serial GATT service over Bluetooth Low Energy.Prototyped Liquid Crystal on Silicon based Head Mounted Display with ST ARM Cortex M4, FreeRTOS. Drivers abstracting peripherals such as Timers, PWM generators, DMA, DAC. Implemented Tasks for HDMI for automatic switching of 3D, 2D video formats, On-screen Display with 3-buttons. Interfaced Invensense 6DOF IMU for VR applications. Implemented State Machine for overall system in C++. Developed Mac Python Application for BLE interactions with HMD based on Adafruit's BlueFruitLE package 
-          
-        
-      
-        
-        
-          11/2006
-           to 
-          06/2016
-        
-        
-          
-            Staff Embedded Software Engineer
-          
-          
-            Qualcomm － 
-            Santa Clara, 
-            CA
-          
-          
-            Led Board bring-ups for upcoming smart devices that contain Qualcomm 4G LTE chipsets constrained by extremely tiny form-factor. Developed proprietary Single Antenna LTE solution.  (2015, 2016)Developed Algorithms that have helped significantly reduce Power Consumption on Receiver Amplifiers during 4G LTE micro-Sleep states. Saving current of 15 mA per Amp. The algorithms run in time-constrained Receiver Automatic Gain Control timeline, ensuring Signal level changes are 3GPP compliant and take place under a mili-second. Resolved multiple feature interaction issues with Assembly level debug of MIPI scripts that are programmed by ARM Cortex M. (2015, 2016)Provided Configurable TX Duty Cycle for Factory Test Mode LTE, helped cut customer operations costs by eliminating need for expensive test equipment (2015)Led development of "Dynamic Auto RF Path selection Algorithms" that enabled World-mode aka International Roaming 4G LTE Advanced Carrier Aggregation that could support multiple RF Frontend combinations on the same Smartphone. Used C Inheritance concept to abstract device details from LTE firmware. Improved Sensitivity and Accuracy by up to 4 dBs. Got promoted for introduction and successful commercialization of LTE and LTE Carrier Aggregation on key design wins for Qualcomm (2014)    Developed 4G and 3G Transmitter DAC Calibration and Configuration Drivers that helped save 100s of microseconds of warm up time during packet transmissions. Delved into Mixed-Signal register sequences, executing in minimum amount of cycles to save boot time (2013)Introduced LTE on a very sought after Tablet\'s Cellular variant. Working in a very small team, did ground floor work, debugging, improving all aspects of RF through Factory EVT, DVT, PVT (2011, 2012)Developed Algorithms that use on-chip Transceiver Power Detector(HDET) for LTE Max Power Limiting(MTPL). Developed ISRs for a strict, micro-second level timeline (2012)Developed Factory Test Mode Capability for transmitting CW Tone in LTE bands. Enabled characterization of TX Frequency Response over the entire Bandwidth, saving equipment costs and technician time otherwise needed with conventional RF analysis. (2012)Developed Average Power Tracking (APT) proof of concept for Power Amplifiers. Developed microsecond level execution time constrained Embedded Software in C for Linear Interpolation of data-points from Transmitter power measurements, and low-level programming of DC-DC converters aka SMPS for Power Amplifiers. APT saved over 30% of battery and is used in 90% of all mobile devices (2010, 2011)Provided many improvements to Modem ADC Clock Sourcing and Switching for Spur Mitigation in CDMA GPS. Improved GPS receiver sensitivity significantly. Used fixed-point math for calculating spurs and transceiver PLL programming codes. Got promoted for Expert level JTAG debug of multiple RF Frontend issues.  (2010)Driver Development for Single Chip Modem RF Transceiver CDMA Implementation. Used C for encapsulating Transceiver key features. Provided a proof of concept for re-purposing WCDMA Transceiver for CDMA usage, delving into low-level ASIC blocks. This enabled a China customer for faster time-to-market (2009)Fine-tuned and mainlined a dormant algorithm design for supporting CDMA Receiver Diversity Dynamic Switching for multi-antenna devices. Simulated the IIR filters in Matlab. Provided corrections to fixed point C arithmetic. Algorithm improves battery life significantly while improving voice quality (2008)As a Systems Engineer, provided multiple improvements to CDMA IS98 Compliance standard test sequences, catching multiple field issues during lab prototype tests thus avoiding device returns. Evaluated potential standard improvements, got promoted for significantly altering Compliance Test approaches (2006, 2007)​
-          
-        
-      
-        
-        
-          01/2006
-           to 
-          10/2006
-        
-        
-          
-            Software Test Engineer
-          
-          
-            Nokia Mobile Phones － 
-            Mumbai, 
-            India
-          
-          
-            Protocol R&D Systems Test Engineer for Nokia Mobile phone prototypes. Developed tests in C for verification of IS98 verification, Mobile Assisted Hard-handoff. Left Nokia for an opportunity to work on core signal processing and RF algorithms at Qualcomm
-          
-        
-      
-      
-      
-        
-        Publications
-      
-        
-        US Patent US8594121 B2Patent Title "Cognitive radio spectrum sensor employing peak-to-average ratio as the signal feature"Inventors: Sushant Thakur (Primary), SaiDhiraj Amuru, Vollala CAbstract: A white space sensing method includes measuring a peak to average power ratio (PAPR) of a signal of a channel in a spectrum band. The method also includes determining whether a ratio of the measured  PAPR to a predetermined  PAPR of a modulation scheme associated with the signal meets a predetermined threshold. The method further includes indicating the channel is available for use by an unlicensed user when the ratio meets the predetermined threshold
-      
-      
-      
-        
-        Skills
-      
-        
-        Fluent in C/C++, ARM Assembly. ARM, ARM Cortex and Hexagon DSP Micro-controllers. Real Time Operating Systems, Linux, Bare Metal. Scripting and Data Analysis using Python, Numpy, Matlab. Developing Firmware for Fixed-point and Floating-point computations. Interface programming over I2C, SPI, USB, UART, MIPI, GPIO. Mixed signal interfaces ADC, DAC, PWM. Developing physical layer for LTE, Cellular, GSM, 3G, WiFi, BLE, NFC. Schematic analysis using Cadence Allegra. In-Circuit Debugging using Lauterbach Trace32 JTAG. Spectrum analysis, Digital Logic Analysis on PCB using Salae, Digital Phosphor Oscilloscope, Rhode and Schwartz CMW500, Anritsu 8820C, Litepoint
-      
-      
-      
-        
-        Education
-      
-        
-        
-          2013
-        
-        
-          
-            Project Management Certificate (Project Management Institute approved)
-            
-          
-          
-            University of California
-             － 
-            Berkeley
-            
-            
-          
-          
-          
-            
-          
-        
-      
-        
-        
-          2005
-        
-        
-          
-            Bachelor of Engineering: 
-            Electronics and Telecommunication,
-          
-          
-            University of Mumbai
-             － 
-            Mumbai
-            
-            India
-          
-          
-          
-            
-          
-        
-      
-      
-    
+ ground systems engineer
+ summary
+ highly skilled professional in instructional, evaluation, and development of training/evaluation programs encompassing with 27 years of experience combined.  professional system engineer/operator with 16 years of space based infrared systems (sbirs) with extensive ground system architecture and infrastructure knowledge while training/evaluating hundreds of system operators both air force and civilians. top secret/sci and nato secret clearance. thorough hands-on experience in all levels of training, evaluating, performance, functional, integrations, regression, and user acceptance. experienced with both hardware and software for sbirs systems, which includes multiple platforms within the sbirs program. strong instructional, analytical, troubleshooting, communication, and leaderships skills throughout entire career with air force schooling and system engineering experience.
+ highlights
+ dod top secret clearance single scope background investigation sensitive compartment information (adjudicated dec 2011, under pr)expert instructor, evaluator and instructional system developerskilled managerial and leadership experience rhel, unix, linux, aix, irix, ietm, cknet, ssnsoftware: perl, c shell highly knowledgeable in sbirs ground systems, it/waa and spacecrafts 
+ architectural understanding of mission mgmt and itw/aasystems operator for sbirs satellite launchesengineer for 4 sbirs satellite launchesretired air forcestrong troubleshooting and analytical techniques excellent communicatorstrong decision maker
+ experience
+ ground systems engineer
+ apr 2012 to current
+ northrop grumman corporation/crgt inc － aurora, co
+ experienced in developing, revamping and maintaining training/evaluation programssystem engineer for 4 sbirs satellite launches expertly performed 24/7 operational support utilizing sbirs current and legacy ground control software to air force customers strong instructional, analytical and troubleshooting skills in all facets of software and hardware. diversified in sbirs communication and networkbuilt data communications for mission processingcreated/trained numerous of system engineers on previous and existing sbirs software/hardwareefficiently managed multiple servers and maintained 24/7/365 operations identified and corrected system software and hardware issues and provided resolution in a timely manner. advised customers regarding maintenance and actions on sbirs ground control problems highly knowledgeable in all facets sbirs of software and hardware architecture. developed/revamped engineering checklist, procedures, and technical notes great interpersonal skills with air force customers, leadership and managers, and contractors.     
+ superintendent (manager)
+ aug 2009 to apr 2012
+ united states air force － aurora, co
+ professionally managed team of 10 - 30 during sustainment, training/evaluation development, regression testing, and inspections. complete understanding of air force instructional system development
+	
+		developed, coordinated and reviewed over 500 training and evaluation products for air force crew members ensuring 100% compliant with
+		developmental and higher headquarters instructional guidance.worked directly for group commander to ensure strict guidancecontinually established clear operational requirements and specifications leading to several successful inspectionsmanaged multi-million dollar program programs bench marking procedures across the u.s. air forcementored and managed high morale and cohesive teams ensuring company goals were metrevamped declining sbirs programs while maintaining program integrity and guidelines
+ ground and satellite systems operator
+ sep 2002 to apr 2012
+ united states air force － colorado springs/aurora, co
+ supervised numerous personnel leading to awards and 100% mission accomplishmentperformed 2 defense support program satellite launches.coordinated launch and early orbit ground systems various remote ground stationsdiverse in satellite orbital mechanics on sbirs program.expert in training, testing and evaluation on sbirs ground and satellite systemscomplete understanding of air force satellite network and supporting operating systems and ground stations
+ tactical air command and control specialist (special operations)
+ jan 1991 to jan 2002
+ united states air force － multiple locations, co
+ trained/evaluated 200+ personnel on special operations procedures managed teams of 5 during air force and army exercises accomplishing higher headquarters objectives coordinated and conducted multi-service missions achieving superior results during highly visible exercises and inspectionshighly skilled in radio frequency principles, telecommunications technology, and broadcast information systems and managementhighly experienced in multi-uniformed services planning and coordination
+ education
+ bachelor of science degree, space studies
+ 2012
+ american military university － charles town, west virginia
+ associate, applied science, air and space operations technology
+ 2010
+ community college of the air force, maxwell afb － montgomery, alabama
+ certifications
+ air force leadership schools and courses sbirs systems operator course, vandenberg afb, casbirs fundamental of orbital mechanics dsp satellite systems operator course, vandenberg afb, caspace 200, colorado springs, coinstructor/evaluator training course enlisted space operations training, vandenberg afb, cacommand and control technical school, hurlbert field, fl enlisted terminal attack controller course, hurlbert field, fl unix operating systems microsoft office products skills
+ leadership and managerial skills, superior interpersonal skills, process improvement process. excellent troubleshooting techniques, sbirs unix, aix, irix, linux, and sgi platforms. sbirs data communication structures, data processing, audio/visual, and communication and network subsystems. sbirs software and hardware. perl and c shell scripting. hp openview. transfer protocols. microsoft office products, 

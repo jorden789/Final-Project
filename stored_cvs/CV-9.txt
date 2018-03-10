@@ -1,152 +1,73 @@
 
-      
-        
-        
-           DESKTOP SUPPORT ENGINEER
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Highly motivated IT professional with a broad range of technical support, customer service experience and a demonstrated ability to provide highest levels of support by phone and email. Proven ability to communicate and collaborate with cross-functional teams and explain highly technical information in an easily understandable manner at all levels. Demonstrated commitment to superior customer service through positive attitude, leadership, and teamwork. Resourceful, creative thinker able to multi-task and prioritize deadlines. 
-KEY STRENGTHS
-* Troubleshooting *Customer Service *Problem Solving *Technical Support *Bug Tracking *Beta Testing 
-*Leadership & Training *Customer Training *Help Desk *Cloud Based Telephony Systems*Video Conference
-      
-      
-      
-        
-        Highlights
-      
-        
-        
-          
-            
-              Windows 7 *Windows 8.1 *Macintosh OS X *CitrixHardwareCisco Routers/Switches *Finisar's Network Splitters & Taps *Finisar's LAN, SAN & WAN Hardware Analyzers *Net Optics Taps 10/100/1000 *ShoreTel IP Phone *Shoregear IPBX Switch & Shoregear T-1 Switch *HP     ProCurve switch *Sharp Copier *HP Printer ServerWindows Server 2008 Active Directory * Microsoft Exchange ServerTicketing Software ApplicationService Desk*Service-Now*Clarify*Remedy*Microsoft CRM*Peregrin
-              
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          January 2008
-           to 
-          Current
-        
-        
-          
-            Satellite HealthCare
-            
-              Redwood City, 
-              CA
-            
-          
-          
-            Desktop Support Engineer
-          
-          
-            Provide phone support to doctors, nurses, clinical managers, administrative supervisors and facility technicians.Administrate adds, moves, and changes of HP Compaq computers, laptops, printers, and monitors for 87 internal medical facilities within a Citrix environment.Utilize Citrix Director to reset Citrix profiles and restart Citrix sessions.Create new user accounts within Windows Server 2008 Active Directory.Create new email accounts using Microsoft Exchange.Reset passwords using McAfee Endpoint Encryption Manager on all assigned company laptops.Assist development with bug tracking by reporting problems discovered by medical professionals using Satellite Healthcare's proprietary software.Provide desktop support on locally assigned corporate office computers.Utilize VNC & Remote Desktop to access computers remotely.Utilize SolarWinds for network monitoring for all HP Procurve switches, SonicWall firewalls and Cisco video codecs.Administrator of cloud based InContact telephony system & Service Now ticketing system.Key Achievements: Coordinated the InContact cloud base telephony system project from inception to completion.Successfully trained 114 corporate employees on the Cisco Telepresence SX10 video conference system.Coordinated training for patient medication tracking system for all home training dialysis centers.Trained Medical Assistants on how to use Sharp Copiers to scan patient documentation into proprietary.software system Trained Medical Assistance on how to inventory medication using proprietary medication inventory system.
-          
-        
-      
-        
-        
-          January 2007
-           to 
-          January 2008
-        
-        
-          
-            ResMae Mortgage Corporation
-            
-              Brea, 
-              CA
-            
-          
-          
-            Telecommunications Engineer
-          
-          
-            Managed installation and configuration of ShoreTel VoIP system.Provided first level support to Servicing, Account Executives and Senior Management with respect to adds, moves, and changes.Processed daily detail Workgroup reports for Servicing.Performed monthly maintenance on all ShoreTel servers, Shoregear switches, and IP phones.Configured backup Shoretel server with Double-Take software for disaster recovery.Key Achievements: Managed all local and remote telecommunication projects from project inception to completion.Trained Help Desk personnel on Shoretel hardware and software products.Ordered all telecom circuits; upgraded Headquarters server and all remote servers with ShoreTel software.
-          
-        
-      
-        
-        
-          January 2006
-          
-          
-            
-        
-        
-          
-            ShoreTel Communications
-            
-              Sunnyvale, 
-              CA
-            
-          
-          
-            Technical Support Engineer
-          
-          
-            Provided technical support to ShoreTel Resellers, Field Engineers and fortune 500 customers in the United States and the United Kingdom.Delivered support on ShoreTel's VoIP Shoregear voice switches and IP phones.Responsible for managing Windows 2003 servers, Service Pack 1 and providing support on all DVM servers, Personal Call Managers & Director software.Key Achievements: Top customer satisfactory performer in 1st & 2nd quarter of the year with a 90% rating.Generated weekly, monthly & quarterly reports reflecting Call Center call metrics.Adjusted to graveyard shift to support United Kingdom & Hawaii.
-          
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-        
-        
-          
-            Associated Technical College
-            
-              
-              
-            
-            
-          
-          
-            A.A: 
-            Telecommunication
-          
-          
-          
-            Telecommunication
-          
-        
-      
-      
-      
-        
-        Professional Affiliations
-      
-        
-        Protocol Analysis *Pine Mountain Group *802.11 Wireless *Global Knowledge
-      
-      
-      
-        
-        Skills
-      
-        
-        Active Directory, administrative, backup, Call Center, Cisco, Cisco Routers, Citrix, Clarify, Compaq, Hardware, CRM, Encryption, dialysis, disaster recovery, documentation, email, Senior Management, firewalls, phone support, Help Desk, HP, inventory, IP, LAN, laptops, Macintosh OS, Director, managing, McAfee, Medical Assistance, access, Microsoft Exchange Server, Microsoft Exchange, office, Windows 7, Windows, Windows 8.1, monitors, NEC, Network, Networking, Operating Systems, personnel, Copier, Copiers, Printer, printers, reporting, SAN, servers, Siebel, Switches, Switch, T-1, technical support, desktop support, telecom, telecommunication, telephony, phones, Phone, Utilities, video, VoIP, WAN, Windows Server
-      
-      
-    
+ software engineering analyst
+ summary
+ trained in customer service. high energy and outgoing with a dedication to positive guest relations. i am working as software engineer now and want to obtain a part time job 
+ experience
+ software engineering analyst
+ 12/2017 to current
+ doubleverify inc
+ new york, ny
+ 
+
+
+
+
+
+
+·  contributed
+to the development of an online payment website with several thousands customers
+
+
+·  focused on
+back-end development using java springmvc framework ·  used hibernate
+to interact with mysql database ensuring the consistence of transaction data
+and implement crud operations on backend database. 
+
+
+ assistant librarian
+ 08/2016 to 08/2017
+ cornell university loin library
+ ithaca, ny
+ 
+
+
+
+
+
+
+·  worked as a part
+time student receptionist ·  assisted with technical,
+directional and information problems related with library servcies 
+
+
+ graduate research assistant
+ 08/2016 to 08/2017
+ cornell univerity
+ ithaca, ny
+ 
+
+
+
+
+
+
+·  built inception-resnet,
+resnet, and vggnet models on tensorflow, training and fine-tuning from scratch
+to classify pollutes images, achieved 80% top-5 accuracy on dataset with 200
+classes ·  collected,
+analyzed and visualized the daily research data set using numpy, pandas and matplotlib
+in python
+
+
+ education and training
+ master of science: civil engineering
+ 2017
+ cornell univerisity
+ ithaca, ny
+ bachelor of science: environment engineering
+ 2015
+ nankai university
+ tianjin, china
+ skills
+ languages: english, mandarincomputer skills : java, python, microsoft office
+ 

@@ -1,219 +1,34 @@
 
-      
-        
-        
-           ENGINEER 4
-        
-      
-      
-      
-      
-        
-        Professional Overview
-      
-        
-        Results-driven software developer and engineering professional with 10 years of experience leading diverse teams and devising innovate solutions in the aerospace industry. Possess strong communication, research and analysis skills, and team leadership abilities. Team player who excels in fast-paced and challenging environments.
-      
-      
-      
-        
-        Core Qualifications
-      
-        
-        
-          
-            
-              Experienced in Big Data, algorithms & collaborationsPhD in Experimental Particle PhysicsExpert in Government mission-level models 
-              20 years programming experience in many disciplines and languagesGraphic design hobbyistCertified in Aerospace Project Management
-            
-          
-        
-      
-      
-      
-        
-        Accomplishments
-      
-        
-        Top 10% Performer (AIP Award) 2016-2017.Quality Award 2016 - Tools created for classified analysis used in successful customer acquisition.Lead operations analysis software developer on U.C.L.A.S.S Navy drone program 2008-2010.Started weekly series of voluntary software and tools development meetings to encourage collaboration.Co-author of several Large Hadron Collider papers written while working at CERN, Switzerland from 2001-2006.  Full list available upon request.
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          09/2008
-           to 
-          Current
-        
-        
-          
-            Engineer 4
-          
-          
-            Northrop Grumman, Aerospace Systems － 
-            El Segundo, 
-            CA
-          
-          
-            Lead developer of tools used in program execution including UAV search algorithms, electronic jamming, and low-observables.Subject matter expert on variety of government mission-level models including SUPPRESSOR, AFSIM, JIMM, and RADGUNS.Authored Monte-Carlo study on effectiveness of fighters teams with unmanned drones.Mentored new hires and initiated weekly collaborative meetings to discuss software tools, ideas, and problems.
-          
-        
-      
-        
-        
-          05/2006
-           to 
-          09/2008
-        
-        
-          
-            Engineer 3
-          
-          
-            Northrop Grumman, Electronic Systems － 
-            Azusa, 
-            CA
-          
-          
-            Analyst for thermal vacuum test in support of the GEO satellites which are part of the nuclear launch monitoring program called SBIRS.Author of gyroscope calibration software.
-          
-        
-      
-        
-        
-          04/2001
-           to 
-          10/2005
-        
-        
-          
-            PhD Student
-          
-          
-            Large Hadron Collider － 
-            Geneva, 
-            Switzerland
-          
-          
-            
-
-
- Authored study using Neyman-Pearson hypothesis
-     testing to measure the effectiveness of forward-backward asymmetry as a
-     tool to distinguish among various types of theoretical neutral-gauge
-     bosons.
- Authored Monte-Carlo study of quark-anti-quark pairs in
-     the Large Hadron Collider (LHC).
- Created algorithm to optimize Kalman filtering and reconstruction of
-     high-momentum particles.Author of muon-chamber calibration analysis using high-energy cosmic rays.
-          
-        
-      
-      
-      
-        
-        Fellowships and Awards
-      
-        
-        Northrop Grumman Top 10% Performer AIP Award, 2017Northrop Grumman Bravo Award, 2016 SMC Agraria Package Redesign Award (3rd place), 2015
-      
-      
-      
-        
-        Education
-      
-        
-        
-          2006
-        
-        
-          
-            
-            Experimental Particle Physics
-          
-          
-            University California Los Angeles
-            
-            
-            
-            
-          
-          
-          
-            3.79/4.00
-          
-        
-      
-        
-        
-          1998
-        
-        
-          
-            
-            Physics
-          
-          
-            Brigham Young University
-            
-            
-            
-            
-          
-          
-          
-            3.75/4.00
-          
-        
-      
-        
-        
-          
-        
-        
-          
-            
-            Graphic Design
-          
-          
-            Santa Monica College
-             － 
-            
-            CA
-            
-          
-          
-          
-            
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        Software Development: Visual Studio, Emacs, Vi, Cmake, svn, Tortoise Code: Matlab, Python, C++, Fortran, C#, PERLGraphic Design: Adobe Illustrator, Photoshop, Dreamweaver, After EffectsMusic: Ableton Live, Reason, Absynth, Vinyl DJLanguage: Fluent in Spanish, Proficient in French
-      
-      
-      
-        
-        Certifications
-      
-        
-        Aerospace Project Management - California Institute of Technology 2012
-      
-      
-      
-        
-        Interests
-      
-        
-        Big Science, Big Data, Graphic Design, Statistics, Branding, Scripting, Rapid Prototyping, Physics, Monte-Carlo, Simulations, Electronic Music, User Experience, Collaborations, Biking, Lifting
-      
-      
-    
+ software engineer
+ summary
+ software engineer with a focus on writing highly maintainable, robust, object oriented code. diverse experience of languages with majority c++ background. 
+ skills
+ languages: c++, c#, java, php (zend), javascript, perl, sql operating systems (developed on): linux, unix, windowsconcepts: oo, ipc (threads, locking mechanisms, shared memory, message queues), databases, osi model, tcp, uml, xml, serialization, com, stl
+ certifications
+ secret clearance security+ certification, 10/12  
+ experience
+ august 2004
+ to current
+ lockheed martin - thaad - systems integration lab
+ sunnyvale, ca
+ software engineer
+ designed and developed the majority of the software used to visualize the thaad missile interception system in real time for the purposes of analysis and demonstration to interested customers, including u.s. and foreign government dignitaries. wrote 7 applications for linux and windows platforms to collect real time thaad message data over ip, parse it, and turn it into a visual and interactive experiencein addition to being used for demonstrations, served as an analysis tool for engineers performing testing of the thaad systemnotable applications (as main developer):msgforwarder (c++, linux): responsible for capturing and parsing all of the thaad ip data. capable of parsing over 1,000 tcp/ip packets per second according to tcp, ip, and application level protocols. re-forms them into their original messages, which can be sent to interested parties. dvrtfilewriter (c++, linux): multi-threaded application receives messages from msgforwarder and other data sources, parses them, and puts them into shared memory database. eventnotify (c++, linux): reads messages from shared memory database and uses them to extract relevant data and form human readable strings of important events, which get sent to interested parties.lmanimator (c#, windows): receives real time data on udp and tcp sockets to create an interactive display of the thaad weapons system using a satellite toolkit activex object embedded into a windows form. can display hundreds of stk objects in real time, and is user interactive, thus making thread synchronization critical.skills used: c++, stl, c#, java, perl, xml, uml, ipc (threads, locking mechanisms, shared memory, message queues), databases, osi model, tcp, serialization, com, unit testing april 2002
+ to august 2004
+ lockheed martin - thaad - system test and evaluation
+ sunnyvale, ca
+ software engineer
+ worked on a small team to develop the launch and test support software (visual c++, windows), which is used to test communication between the 4 tactical components of the thaad system: launcher, missile, radar, and battle manager. this software served as a "launcher simulator" for multiple flight tests, performing the software used to launch the thaad missile. designed, coded, unit tested, and wrote documentation for the software products.skills: visual c++, uml, unit testing, software process, use of apis to interact with hardware, ipc july 2001
+ to march 2002
+ lockheed martin - npoess
+ sunnyvale, ca
+ software engineer
+ developed various analysis scripts and applications for a weather satellite proposal. 
+ education
+ 2001
+ university of virginia
+ charlottesville, va
+ bachelor of science: computer science
+ gpa: 3.562, class rank: 140/744 
+ personal projects
+ web mash-up of google maps, wikipedia, google imagesweb survey application: zend phpweb application to organize household objects
+ 

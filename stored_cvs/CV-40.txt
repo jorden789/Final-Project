@@ -1,218 +1,40 @@
 
-      
-        
-        
-           ENGINEERING LAB TECHNICIAN
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Actively seeking an entry level civil engineer opportunity where I can efficiently contribute my design, estimation and project management experience and abilities to the growth of the organization and build my professional career.
-      
-      
-      
-        
-        Accomplishments
-      
-        
-        Treasurer, Institute of transportation Engineer,          2015, University of Louisiana at Lafayette
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              Proficient in AutoCAD civil 3D, Synchro 7.1, SAP 2000, MS Office, JMPFamiliar with Micro station, ArcGIS, AASTHO, HSM, HCMKnowledge of Estimation and valuation, pavement design and report writing
-              Good interpersonal and multi-tasking skills with leadership qualitiesAble to work effectively with individuals and group at all organizational level
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          September 2017
-           to 
-          January 2018
-        
-        
-          
-            ECS Limited
-            
-              Carrollton, 
-              Texas
-            
-          
-          
-            Engineering Lab Technician
-          
-          
-            Conducted the resistivity, conductivity, corrosivity of soils along with Sulphur and lime series test.Tested routine laboratory materials like soil, concrete and masonry.Calibrated and maintained laboratory equipment.
-          
-        
-      
-        
-        
-          August 2015
-           to 
-          May 2017
-        
-        
-          
-            University of Louisiana at Lafayette
-            
-              Lafayette, 
-              LA
-            
-          
-          
-            Graduate Research Assistant
-          
-          
-            Performed research activates related to Highway Safety Analysis in cooperation with LTRC (Louisiana Transportation Research Center) using Arc-GIS, Synchro, Microsoft office.20% of intersection crashes was eliminated in intersection safety effective analysis of Louisiana with the introduction of RCUT using Empirical Bayes method and its detail design.    Bond strength of geopolymer with various aggregates was computed using MTS.
-          
-        
-      
-        
-        
-          January 2015
-           to 
-          July 2015
-        
-        
-          
-            Metro Engineering consultancy
-            
-              Pokhara, 
-              Nepal
-            
-          
-          
-            Design Engineer 
-          
-          
-            Designed, estimated and valuated and constructed residential and commercial buildings.Prepared the report of illegal raised buildings after detailed survey of Pokhara municipality area.Conducted the post-earthquake assess management after the massive 2015 earthquake for governmental educational institutes and local communities.
-          
-        
-      
-        
-        
-          June 2013
-           to 
-          December 2014
-        
-        
-          
-            Himal Engineering consultancy
-            
-              Pokhara, 
-              Nepal
-            
-          
-          
-            Consultant Engineer 
-          
-          
-            Prepared civil plans and designed several key government projects in roadway, buildings and drainage Monitored cost-of-materials estimations, report and document tracking, project documentation Inspected project sites to monitor progress and adherence to design specifications, safety protocols Conducted testing of material, managed and participated meetings and agreement Performed Office management, developed Work break-down Structure, Estimation and valuation.
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          May 2017
-        
-        
-          
-            University of Louisiana
-            
-              Lafayette          Lafayette, 
-              LA
-            
-            
-          
-          
-            Masters of Science: 
-            Engineering, Civil Engineering
-          
-          
-          
-            Engineering, Civil Engineering GPA: 3.61/4
-          
-        
-      
-        
-        
-          
-        
-        
-          
-          
-            Course includes: Transportation Planning and Design, Traffic flow design, Pavement Design,
-Highway Safety, Pavement materials, Surveying, Project management
-            
-          
-          
-          
-            Safety effective analysis of RCUT intersection in Louisiana
-          
-        
-      
-        
-        
-          April 2013
-        
-        
-          
-            Pokhara Engineering College
-            
-              
-              
-            Nepal
-            
-          
-          
-            Bachelor of Civil Engineering
-            
-          
-          
-          
-            GPA: 3.94/4
-          
-        
-      
-      
-      
-        
-        Activities and Honors
-      
-        
-        Treasurer, ITE Lafayette Chapter, 2015Member, NEpal Engineering CouncilMember, American society of Nepalese Engineers​
-      
-      
-      
-        
-        Skills
-      
-        
-        AutoCAD, Office management, SAP 2000, Synchro7, Report writing, MicroStation, Engineering, Leadership
-      
-      
-    
+ senior software engineer
+ summary
+ senior software engineer with over three years' success in designing, developing, implementing, and testing software solutions and applications for mobile and real-time embedded systems and high-performance large-scale distributed systems. expertise in all facets of software development lifecycle with a solid background in system architecture planning, software performance analysis, scripting, and automation. proven leadership with achievements in designing key software optimizations.
+ highlights
+ software performance optimizationobject-oriented design device driver developmentcapacity planning, performance tuning and load testing
+ agile development methodology architecture modeling and simulation real-time software stability analysis
+ accomplishments
+ promoted to manage processor and bus performance benchmarking/regression for all high-tier 4g modem chipsets after one year of employment at qualcomm.developed comprehensive toolset, characterizing and profiling the dynamic multithreading performance of real-time software for hexagon dsps used in qualcomm snapdragon chipsets.earned qualstar awards to conceptualizing, developing, and initiating key software optimizations, improving modem and audio performance.
+ experience
+ bloomberg lp
+ december 2016 to current
+ senior software engineer
+ new york city, new york
+ responsible for the system design and development of high-performance distributed systems with an agile development methodology and test-driven developmentresponsible for the full software lifecycle including participation in requirements analysis, system architecture planning and software testing/debugging and performance/scalability analysisutilize an object-oriented design approach to designing and implementing the middleware services and backend infrastructure and implement some client-facing ui features in javascriptevaluate and identify new open-source technologies and techniques for implementation and their integrationutilize the cutting edge big data technologies like redis, cassandra, apache spark, storm
+ qualcomm technologies inc.
+ february 2013 to december 2016
+ senior software engineer, qct modem architecture / performance team
+ san diego, ca
+ designed and implemented end-to-end platform, including software driver and tools development, for hardware acceleration of legacy diagnostic message and logging framework.introduced optimized inter-process message router framework for high volume messages exchanged per ms between software and firmware threads during lte calls.developed and tested lightweight performance monitoring algorithm for qos scheduling and dynamic clock-voltage scaling in real-time multitasking system.drove major architecture modeling/simulations including cache/tcm sizing experiments and worked on clock plan budgeting for future soc designs.extensive experience with debugging software stability problems including timeline-miss crashes and investigating latency/throughput issues
+ university of minnesota
+ august 2012 to december 2012
+ graduate research assistant, aerospace engineering and mechanics lab
+ minneapolis, mn
+ contributed to development of miniature rotorcraft simulator at interactive guidance and control lab, umnfocused on vehicle dynamics simulation and response to joystick input in real-time.used openscenegraph library (c++) for rendering and ros modules relating to message passing interface.
+ education
+ university of minnesota
+ 2013
+ master of science: computer science minneapolis, mn, usa
+ college of engineering guindy, anna university
+ 2011
+ electronics and communications engineering
+ chennai, india
+ key academic projects
+ used openstack to experiment with dynamic resource management for private cloud-based platform.implemented complete unix v7 file system simulator in c++developed android application prototype “open or closed” with user-centric design approach.
+ coursework
+ advanced algorithms and data structures, operating systems, cloud computing and big data, computer networking, user interface design principles, distributed systems, digital signal and image processing, wireless and mobile communication
+ technical skills
+ programming langugages: c++, c, python, javascriptplatforms: linux, unix, windows, openstack cloud, robot operating systemnetworking: tcp/ip, socket programming, multithreadingtools: eclipse, perforce, git, gdb, trace-32/jtag, etm, wireshark, rhapsody, totalview
+ 

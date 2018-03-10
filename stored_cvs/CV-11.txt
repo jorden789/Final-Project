@@ -1,160 +1,32 @@
 
-      
-        
-        
-          
-          MANUFACTURING PROJECT ENGINEER
-        
-      
-      
-      
-      
-        
-        Profile
-      
-        
-        Manufacturing Project Engineer with over four years of experience. Innovative, collaborative and motivated, with proven skills in manufacturing, QA and CAD design. Experience with start-ups and problem-solving. Well-versed in imperial and metric systems. Fluent in English/Spanish.  Committed to continuous improvement and growth.
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              Project and Material ManagementProcess Engineering & QA ManagementTrained in Six Sigma and Lean Manufacturing techniquesFamiliar with ISO 9001
-              Effective communication and focusCritical thinkerTeam builder and calm in stressful work environmentsAvailability to travel
-            
-          
-        
-      
-      
-      
-        
-        Professional Experience
-      
-        
-        
-          
-            Manufacturing Project Engineer
-            
-              Dec 2012 to 
-              Jan 2016
-            
-          
-          
-            SIC Lazaro US Inc - 
-            Milwaukee, 
-            Wisconsin
-          
-          Managed CAD/CAM Drawings, CNC programs, BOMs, ECRs, PPAPs, RFQs. Stabilized new US branch operations resulting in increased monthly sales from $70,000 to over $1,000,000.Determined and Implemented the Weld Inspection Process, reducing rework by over 50% over the course of 6 months.Derived and led the implementation to our Counterweight Cataloging System and Final QA process—reducing the cycle time of preparing and loading trucks by over 33%.Developed flow process documentation and support installation of ERP database management system.
-        
-      
-        
-        
-          
-            Manufacturing Assistant Engineer
-            
-              Mar 2012 to 
-              Dec 2012
-            
-          
-          
-            SIC Lazaro US Inc - 
-            Milwaukee, 
-            Wisconsin
-          
-          Developed prototypes and first series of production in the new facility in US.Designed multiple fixtures, simultaneously reducing rework and cycle time in multiple manufacturing cells.
-        
-      
-        
-        
-          
-            Manufacturing Assistant Engineer
-            
-              Sep 2011 to 
-              Mar 2012
-            
-          
-          
-            KYB Europe Headquarters GMBH - 
-            Ororbia , 
-            Navarre, Spain
-          
-          Collaborated with engineers and project managers regarding design parameters for the process of relocating two production lines. 
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            Final Year Project, 
-            Industrial Engineering
-            
-              2011
-            
-          
-          
-            Erasmushogeschool Brussel (Ehb) - 
-            Brussels, 
-            
-            Belgium
-          
-          
-          Thesis Title: “Design and Implementation of silicon board circuits for the rotational speed control of AC electro motors.”
-        
-      
-        
-        
-          
-            M.S, 
-            Industrial Engineering
-            
-              2011
-            
-          
-          
-            Public University of Navarre (UPNA) - 
-            Pamplona, 
-            Navarre, 
-            Spain
-          
-          
-          
-        
-      
-        
-        
-          
-            B.S, 
-            Electrical Engineering
-            
-              2008
-            
-          
-          
-            Public University of Navarre (UPNA) - 
-            Pamplona, 
-            Navarre, 
-            Spain
-          
-          
-          
-        
-      
-      
-      
-        
-        Technical Skills
-      
-        
-        Proficient using: SolidWorks and Microsoft OfficeOracle JD Edwards, Business Intelligence.VBA, LANTEK, CATIA, AUTOCAD, MATLABKnowledge in AWS D1.1 structural welding code
-      
-      
-    
+ computer science tutor
+ objective
+ an hourly part-time position until completion of undergraduate degree.
+ education and training
+ 2018
+ bachelor of science:
+ university of texas at san antonio - computer science
+ san antonio, tx
+ independent research in artificial intelligencemember of association of computing machineryconcentration in data science and software engineering
+ core competencies
+ c/c++/python/javabash/awk/perl/ia32numpy/pandas/matlab
+ database systemsartificial intelligencedata science
+ skills
+ team cohesion• led physical training for 811sfs as unit physical training leader• conducted one-on-one training with high risk unit members communication• developed relations with various aircraft contractors as liaison for the usaf• handled high stress situations as a base defense controller and dispatcher leadership• currently tutor undergraduate students in both group and individual settings• organized a book drive from usaf to barnes & nobles for kids in need​
+ experience
+ computer science tutor
+ 08/2017
+ university of texas at san antonio
+ san antonio, tx
+ working one on one with studentspresented course material to intro students in small group exercises. primary focus on students in data structures
+ presidential security/ response force leader
+ 09/2012 － 02/2016
+ united states air force
+ andrews, md
+ •    provided direct security for air force one•    conducted fly away security missions as a fast member
+ tactical automated security sensor operator
+ 08/2010 － 08/2012
+ united states air force
+ osan ab, south korea
+ maintained security and accountability of all combat aircraft on the base.commanded forces as a controller and monitored security of ts/sci level scifs.
+ 

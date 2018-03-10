@@ -1,164 +1,43 @@
 
-      
-        
-        
-           OWNER
-        
-      
-      
-      
-      
-        
-        Profile
-      
-        
-        Team-oriented Manufacturing Engineer with 10+ years experience in the aviation/manufacturing industry, specializing in the areas of CAD/CAM systems, 3-D modeling, materials engineering, and tool design.
-      
-      
-      
-        
-        Professional Experience
-      
-        
-        
-          
-            Owner
-            
-              03/2010 to 
-              Current
-            
-          
-          
-            Fabritech Development LLC
-            
-              Worden, 
-              IL
-            
-          
-          
-            Negotiated multiple lease agreementsCommunicated daily with both residential and industrial tenantsNegotiated lease buy-out
-          
-        
-      
-        
-        
-          
-            Manufacturing Engineer/Production Manager
-            
-              01/2006 to 
-              02/2010
-            
-          
-          
-            Fabritech inc.
-            
-              East Alton, 
-              IL
-            
-          
-          
-            Project manager of potential building addition to double the size of the facilityConstructed the plant layout of the finished facilityManaged 30+ employees and learned a great deal about how to communicate with all types of employeesManaged the preventative maintenance for the entire plant
-          
-        
-      
-        
-        
-          
-            Director of Operations
-            
-              02/2005 to 
-              12/2005
-            
-          
-          
-            Still-Walter Tool & Manufacturing Company Inc
-            
-              Orangeburg, 
-              SC
-            
-          
-          
-            Spearheaded successful implementation of $12M Department of Defense manufacturing contract involving very complex and high precision parts while implementing a second shift to accommodate increased workloadInitiated implementation of ISO 9000:2005 and AS9100 Quality SystemsPut Plant Manager in placeHad a lot of flexibility and learned to not only work with a team, but also to make decisions independently while continuing my college education
-          
-        
-      
-        
-        
-          
-            Mechanic, Machinist, Manufacturing Engineer
-            
-              06/1999 to 
-              01/2004
-            
-          
-          
-            Fabritech Inc
-            
-              East Alton, 
-              IL
-            
-          
-          
-            Gained valuable experience at every level of the company starting at the ground floorDeveloped and implemented the use of a CNC router in the manufacturing process of multi-layered AH-64 seat cushionsDesigned a tool for AH-64 seat cushions that saved 50% of labor time and Greatly reduced the amount of errorDid research and was involved in the acquisition of machine shop
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            B.S.: 
-            Manufacturing Engineering
-            
-              2007
-            
-          
-          
-            Southern Illinois University at Edwardsville
-            
-              Edwardsville, 
-              IL
-            
-            
-          
-          
-          
-            Relavent Projects:Reverse engineer, 3-D model, and CAM setup for small engineDesign team leader for Automated Material Handling System for Beall Manufacturing in East Alton, ILRelevant Courses:Materials Engineering, Computer-Integrated Design and Manufacturing I & II, Manufacturing Processes, Quantitative Methods in Engineering, Design and Control of Manufacturing Systems, Manufacturing Engineering Design, Manufacturing Systems, Total Quality and Taguchi Methods, Tool Engineering, Production Planning and Control, Knowledge Based Systems, Integrated Engineering Desing(Senior Design Project) 
-          
-        
-      
-        
-        
-          
-            
-            Computer Science
-            
-          
-          
-            Southern Illinois University at Edwardsville
-            
-              Edwardsville, 
-              IL
-            
-            
-          
-          
-          
-            Relevant Courses:  Concepts of Computer Science, Intro to Computing for Engineers, Intro to Computing I, Intro to Computing II, Intro to Computing III, Computer Organization and Architecture, Operating Systems, Human-Computer Interaction, Software Engineering, Programming Languages, Algorithms and Data Structures, Discrete Mathematics
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        macOS, iOS, Java, C, C++, Prolog, Scheme, Software Engineering, Operating Systems, 5S, 6 Sigma, Lean Manufacturing, Microsoft Office, Quality Engineering, CAD, CAM, CNC Programming, Lathe Operation, Milling Machine Operation, CNC Grinder Operation, G-Code Programming, Preventative Maintenance, Tool Design, Plant Layout, Project Management, Business Operations, Engineering Design, Manufacturing Engineering, Manufacturing Processes, Material Handling, Materials Engineering, Production Planning, Quantitative Methods, Scheduling, ISO 9000
-      
-      
-    
+ customer services
+ summary
+ processes and results oriented professional with over 13 years of experience in organizations operating within
+complex environments. proven experience on managing internal and external stakeholders involved in projects
+and operational work activities, highly skilled on negotiation and conflicts resolution. capability to complete
+activities related to collection of data, processing of information and reporting. 
+ skills
+ proactiveteam managementrisk managementproficiency in ms office. collaborativeable to self-prioritize tasks works under general direction languages: english – spanish. 
+ data center environmentanalyticsdesign and developmentsoftware development lifecycletools customizationconfiguration managementweb applicationsteam leadershipsystem administrationusage scenariosmilestone assessment and achievement experience
+ customer services
+ january 2017
+ think pink bows － saratoga springs, utah
+ recommended and helped customers select merchandise based on their needs.exchanged returned merchandise for customers quickly and efficiently.described use and operation of merchandise to customers. received and processed cash and credit payments for in-store purchases. placed special merchandise orders for customers. worked as a team member to provide the highest level of service to customers. maintained friendly and professional customer interactions. confirmed that appropriate changes were made to resolve customers' problems. exercises sound judgment in issuing credits and making exceptions to customer policies to maintain high levels of customer satisfaction. informed customers about sales and promotions in a friendly and engaging manner. processed up to 300 customer orders per day. managed wide variety of customer service and administrative tasks to resolve customer issues quickly and efficiently. analytical specialist
+ august 2008 to february 2016
+ bod － maracaibo, zulia
+  collaborated with team members to create and integrate high availability solutions for mission-critical applications. took on the role of point-of-contact for project management staff. oversaw all testing and troubleshooting techniques and documented issue resolutions in the system. created and implemented tracking software with modules for inventory monitoring, staff administration, customer relationship management and report generation. assisted customers in resolving issues in the most effective manner.verify the infrastructure of intel environments and directories. installation of passes of production of the intel platform (ultimus, fide and other app)include, modify and delete the scheduled of job in the schedule robot. configure the reports in the robot report tool for the distribution from as400.configure the data transfers file from as400 to intel.recover reports deleted in the ibs.restorations on the data servers of the intel platform. participate and execute the integrity tests in the distributed platform.perform support in production pass certifications that merit stress testing and / or closing simulation.collected and analyzed data to evaluate operational issues and make process improvement recommendations.trained and explained complex processes to end users in a clear and concise manner.compiled and presented reports on findings to senior management teams. verify the infrastructure of intel environments and directoriesverify the infrastructure of intel environments and directoriesverify the infrastructure of intel environments and directoriesverify the infrastructure of intel environments and directoriesinclude, modify and / or delete the scheduled jobs in the schedule robot.
+ webmaster
+ june 2007 to july 2008
+ diario la verdad － maracaibo, zulia
+ cooperated with other project partners to create application's system analysis based on client specifications. oversaw all testing and troubleshooting techniques and documented issue resolutions in the system. created and implemented tracking software with modules for inventory monitoring, staff administration, customer relationship management and report generation. devised test cases ensuring that the application could be tested in a legitimate environment. created a dynamic team of software engineers that became experts in their field and boosted the overall success of the organization. compiled statistical information for special reports.assisted customers in resolving issues in the most effective mannerdeveloped and created a more effective filing system to accelerate paperwork processing.
+ developer consultant
+ october 2004 to april 2007
+ megagroup c.a － maracaibo, zulia
+ analyzed customer and stakeholder needs, generated requirements, perform functional analyses and implemented requirements management plans. defined technical integration strategy and developed integration plans. maintained security, backup, and redundancy strategies. assisted with designing information and operational support systems. developed and implemented risk and opportunity management plans. collected, analyzed, and reported program metrics, including product technical performance measures and key performance parameters. updated and managed existing website properties for diario la verdad company. presented pros and cons of various design approaches to design teams and management. created clear icons, messaging, buttons and other ui elements for smartphones, tablets and web applications. considered localization, escalability and ease of maintenance in all solutions. worked closely with product managers, visual designers and development team to appropriately evolve designs from concept to launch. revised user flows and designs based on design reviews, usability testing, a/b testing and other analytics, customer support feedback and other sources of input.streamlined and optimized monthly reports by converting from access to sql and writing crystal reports, significantly reducing lead-time and increasing data integrity in the as400.worked closely with several cross-functional teams including business solution architects, customer operations, support and training teams and engineering to maximize product efficacy. 3 years experience in the maintenance and troubleshooting of complex infrastructure. developed and maintained company style guide(banco provincial, banesco). 
+ education
+ informatics engineering
+ : 2004
+ university rafael belloso chacin
+ － maracaibo, zulia, venezuela
+ high school diploma
+ : science, 1999
+ u.e.p. juan bosco
+ － ciudad ojeda, zulia, venezuela
+ metodología de optimización de procesos. *formalización y optimización de procesos de todas las áreas funcionales de la organización.
+*diagnóstico de situación actual y levantamiento de información.
+*detección de necesidades de mejora en los procesos de
+ : 1982
+ la organización, identificando los actores del negocio, inputs y outputs. elaboración de un plan de optimización de procesos, con indicadores de gestión asociados para la medición del progreso. desarrollar capacidades en las áreas dueñas de procesos, a fin de garantizar que la gestión de la calidad y mejora continua forme parte de la cultura de la empresa. gestión y planificación de procesos que deben ser ejecutados en ambientes de producción en plataformas como ibm iseries e intel. datos personales: cedula de identidad: 15.808.419 lugar de nacimiento: ciudad ojeda,zulia fecha de nacimiento: 14 de julio de estado civil: 		 casada nacionalidad: venezolana. technical skills
+ windows (98, 2000,xp, windows vista, server 2008, windows 7)desktop publishing software: photoshop, illustrator, html, microsoft office suitevisual basic.net, html, sql, asp, asp.net, crystal report, java microsoft sql server 2005, mysql 5.5.29,  adobe photoshopsales software: dalai comercial, saint enterprise(sql), emc documentum 5.2.5, 5.3, profit plus, a2 softway, application xtender
+ certifications
+ english level i y ii centro de idiomas, ciudad ojeda, year 1998english  koes of venezuela level 7object-oriented programming(visual basic).cedic year 2004object-oriented programming (visual basic level ii).cedic, year 2004documentum wdk, dfc, eroom (maracaibo, venezuela 2006)documentum web publisher, bpm (maracaibo, venezuela 2006)documentum technical fundamentals, system administration (maracaibo, venezuela 2006)dalai comercial v 1.04.dalai (maracaibo, venezuela - 2005)web technologies php y mysql (maracaibo, venezuela - 2008)help system (robot schedule, robot alert, enterprise manager(maracaibo, venezuela 2013)team concert y object control (maracaibo, venezuela2013)bankbu open card (maracaibo, venezuela 2014)
+ 

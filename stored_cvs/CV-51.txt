@@ -1,106 +1,42 @@
 
-      
-        
-        
-          
-          PROCESS TECHNICIAN/ASSISTANT PROBE OPERATIONS ENGINEER
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        PROCESS TECHNICIAN
-Provided Operations Engineering Support to the Probe test area (Wafer Sort). Identified issues and implementing solutions affecting the yield in probe. Changed the yields from 45% to greater than 90%. Developed software to display data collected for statistical controls. Converted from inked die to electronic maps Assembled to determine die to be assembled. Development of a team to review a visual representation of a wafer yield patterns for fabrication process issues. Provided guidance and support for quality issues in a production environment.
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Process Technician/Assistant Probe Operations Engineer
-            
-              Jan 2015 to 
-              Jan 2017
-            
-          
-          
-            Allegro MicroSystems LLC － 
-            Worcester, 
-            MA
-          
-          Developed and documented improved procedures for new processes in Probe (Cold and Hot).Communicated with Quality Engineers to determine course of action on quality incidents.Identified Root Cause and corrective action, created engineering Change Notifications.Assisted production in identifying and communication testing issues to Manufacturing Engineers.
-        
-      
-        
-        
-          
-            Assistant Probe Operations Engineer
-            
-              Jan 1988 to 
-              Jan 2015
-            
-          
-          
-            Allegro MicroSystems LLC － 
-            Worcester, 
-            MA
-          
-          Followed strict protocols for Clean Room Environment.Instrumental in transferring Discrete Probe from Concord, NH facility to the Worcester, MA facility.Trained operators and technicians to support the probe operation while maintaining the quality of workmanship.Learned Sensor Probe to write operating procedures and troubleshooting protocols for use by Operators and Technicians as procedural specifications.Studied IC Probe to write operating procedures and troubleshooting protocols for use by Operators and Technicians as procedural specifications.Trained Techs and Operators for Discrete Probe and wrote operating procedures and troubleshooting protocols for use as procedural specifications.Self-taught RS1 programming to write data collection software to record statistical data for post probe inspection.Wrote software to generate weekly/monthly graphs based on the data.Plotted Pareto charts to identify issues needing focus for improvements.Changed the prober platforms from Rucker & Kolls 1032, EG 1034 and KLA 1007 to TEL P8/P8XL/Precio Octo platforms.
-        
-      
-        
-        
-          
-            Probe Technician
-            
-              Sep 1983 to 
-              Jan 1988
-            
-          
-          
-            Allegro MicroSystems LLC － 
-            Concord, 
-            NH
-          
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            Certificate with Honors in Analog and Digital Electronics
-            
-            
-          
-          
-            New England Trade & Technical Institute － 
-            Manchester, 
-            NH
-            
-          
-          
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        Adobe Acrobat Reader, charts, data collection, Digital Electronics, focus, graphs, HTML, inspection, MA, Excel, Microsoft Office, Outlook, Power Point, Microsoft Windows, Word, processes, programming, protocols, Quality, troubleshooting
-      
-      
-    
+ teaching assistant
+ summary
+ i'm a computer science student with a focus on machine learning and computer vision. i am leaving the phd program and actively seeking promising software engineering opportunities in the industry. starting date dec 2016.
+ skill highlights
+ machine learning and computer visionfamiliar with sql/nosql, spark etc.occasional kaggler using scikit-learn, caffe etc.
+ proficient in c++, python and matlabwindows, linux, cmake, git, jira etc.occasional contributions to pcl, pystruct etc.
+ experience
+ teaching assistant
+ 08/2014 to 12/2016
+ university of southern california
+ los angeles, ca
+ involved in the design of a popular advanced course in machine learning (ee660).​led discussion sessions with deep insights and extensive materials, received great feedback.
+ software engineer
+ 08/2014 to 12/2015
+ department of pediatrics, usc keck school of medicine
+ los angeles, ca
+ designed and managed vets4d, a full-fledged echocardiogram training systems for medical training.achieved real time sensor tracking and 3d dicom volume slicing using vtk in c++.implemented an interactive system to measure medical statistics from echo videos in c#.the system has been released to keck school for teaching purposes.
+ r&d 3d software engineer intern
+ 05/2014 to 08/2014
+ align technology
+ san jose, ca
+ designed and implemented a 3d mesh cutting and stitching algorithm in c++ that lowered cutting failure rate of invisalign clear braces from 5% to virtually zero.developed a design tool as a solidworks plugin that allows automatic placement and merging of components, which reduced time cost of a 3d model design routine from hours to under a minute.
+ research assistant
+ 08/2012 to 12/2016
+ university of southern california
+ los angeles, ca
+ conducted original machine learning based research in computer vision.publication(s) using probabilistic graphical model to detect shadows on rgb-d images.
+ selected coursework
+ database systems | machine learning |  pattern recognition | estimation theory | digital image processing | analysis of algorithms | convex optimization | computer graphics | multimedia data compression
+ education
+ m.s.: computer science (2016) / electrical engineering (2012)
+ 2016
+ university of southern california
+ los angeles, ca
+ b.s.: electrical engineering
+ 2010
+ dalian university of technology
+ dalian, china
+ publications
+ shuyang sheng and b. keith jenkins, "shadow detection on 3d point cloud", electronic imaging 2016.shuyang sheng and b. keith jenkins, "cast shadow detection using illumination-direction inference in 3d" (in preparation).
+ 

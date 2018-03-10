@@ -1,157 +1,64 @@
 
-      
-        
-        
-           SERVICE AND COMMISSIONING MANAGER
-        
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Seeking a position in a results-oriented company that seeks an ambitious and career-conscious person, where acquired skills and education will be utilized toward continued growth and advancement. I have been involved in several areas of business from being on the front line working on the final product with the customer to insure that it meets their needs, to working in management roles to insure that both the product and the support team behind the product will meet and exceed the customers' expectations.
-      
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Horiba Automotive Test Systems
-          
-          
-            Troy, 
-            MI
-          
-          
-            Service and Commissioning Manager
-            
-              11/2011 to 
-              Current
-            
-          
-          
-            Effective management, technical, and supervisory skills.Commended for dedicated work ethic and rewarded by steady promotions and training in all aspects of work.As first point of contact for the project, met weekly with vendors, conducted site visits and communicated daily with technicians facilitating the change.Successfully managed client accounts and support, ensuring proper and effective handling of requests, as well as problem resolution and customer service issues.Interviewed and evaluated personnel Managed all activities of the service and commissioning department, with responsibility for developing the service and commissioning strategy Participated on a sales team providing support and consultation in the area of service and commissioning as well as over all system performance and capabilities Managed a group of mechanical and electrical engineers that were responsible for starting up and troubleshooting new equipment and diagnosing problems with old equipment Communicated with the company president, information technology manager, human resource manager, and quality assurance manager to explain department performance and needs Responsible for creating department budget and forecasting future needs including capital equipment purchases.
-          
-        
-      
-        
-        
-          
-            Horiba Automotive Test Systems
-          
-          
-            Troy, 
-            MI
-          
-          
-            Project Manager
-            
-              07/2011 to 
-              11/2011
-            
-          
-          
-            Closely coordinated job schedules and needs with all departments to ensure smooth operation Tracked and reported on financial aspects of program Reviewed status reports submitted by project personnel Proven experience as an effective negotiator and problem solver Projected and forecasted labor requirements and resources Managed product teams ensuring project deadlines and budgets were met or exceeded Closely managed project scope and financials to make sure project was delivered on time and within budget.
-          
-        
-      
-        
-        
-          
-            Horiba Automotive Test Systems
-          
-          
-            Troy, 
-            MI
-          
-          
-            Commissioning Engineer
-            
-              11/2007 to 
-              07/2011
-            
-          
-          
-            Responsible for start-up and commissioning of dynamometer test systems.Including Engine, Chassis, E-motor, and driveline test systems.Experience with the use and implementation of PID controllers Extensive experience with variable frequency drives Siemens PLC experience Experience with complex control and automation systems that involved the integration and coordination of multiple systems Experience with hybrid test stands including interlocking of controls and safety systems Was considered a go to person in the commissioning department and was routinely given the most difficult projects.
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            Bachelor of Science:
-            Mechanical Engineering
-            
-              MAY 2007
-            
-          
-          
-            Saginaw Valley State University, 
-            Saginaw, 
-            MI
-            
-          
-          
-          
-            Mechanical Engineering
-          
-        
-      
-        
-        
-          
-            Master of Business Administration
-            
-            
-              MAY 2014
-            
-          
-          
-            Oakland University, 
-            Rochester, 
-            MI
-            
-          
-          
-          
-            
-          
-        
-      
-        
-        
-          
-            M.B.A:
-            Finance
-            
-          
-          
-          
-          
-            Finance
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        forecasting, human resource manager, sales, Siemens
-      
-      
-    
+ principal engineer
+ summary
+ software engineer with extensive experience
+in all phases of software development; concept through maintenance. software/firmware developed for medical imaging/communications,
+enterprise storage and telecommunications. firmware/software development under
+regulatory constraints (fda). widely varied experience and a
+demonstrated ability to learn new technologies quickly. real-time data
+acquisition systems for enterprise data as well as image acquisition and processing (2d/3d).  systems architect as
+well as individual contributor. front end gui development. solaris and linux
+kernel, driver and application development. scripting (bash/perl/etc.). multi-threaded / multi-tasking applications. highly
+available applications (oracle cluster). distributed and
+grid computing.
+ skills
+ extensive linux / solaris / unix experiencesolaris and linux kernel and device driver developmentembedded systemsmulti-threaded / multi-tasking applicationshigh availability, multi-node clustered systems (oracle/sun ha cluster)distributed data and grid computing (oracle coherence)strong c(c ), comfortable with java as well as several scripting languages (bash, perl, shell).source code control with svn, clearcase, cvsagile development (rally)real-time data acquisition, dsp, device drivers, embedded systemsgui (flash/html/direct graphics/vga/open gl)image acquisition and reconstruction (2d/3d)
+ experience
+ oracle / sun / storagetek
+ louisville, co
+ principal engineer
+ 07/2005 to 01/2017
+ system software
+architect for oracle open attach virtual tape library system, a high speed,
+multi-threaded "embedded" disk
+cache for tape clients. in
+addition to the core system, a vm (virtual machine / solaris ldom) was
+implemented to
+host a third party
+applicationrefactor,
+troubleshoot and port a set of linux kernel modules/drivers from linux to
+solarisimplemented buffer/memory
+management kernel modules to allocate and manage kernel dma buffers for
+multiple
+user space processes
+allowing fora zero copy data pathdesigned
+and implemented a multi-node grid computing environment using oracle coherencetechnical lead for a team of
+5-15 engineers. lead role includes defining designs, assisting
+management with hiring, scheduling and task allocation as well as monitoring
+and mentoring individual engineers developed modules for fiber channel device driver and command/data routing, dma
+buffer allocation and
+management, tape drive emulation, and backend storagemember
+of cross functional architecture team tasked with design and concept and proposal of future products
+ hei, inc. / colorado medtech, inc
+ boulder, co
+ principal software engineer
+ 06/2000 to 06/2005
+ lead development of an embedded net+arm/uclinux product which operates within a self-forming grid acting as an acquisition application and gateway between medical devices and hospital information systemsdesign included customization of the linux kernel and all associated device driverslead development of a linux-based mri biopsy device (real-time fluoroscopic imaging, needle tracking, target verification) built using gtk/gtk gui libraries and idl for image analysisguided a team of six software engineers to redesign the control software for a hitachi 1.5t mri system  developed software for pulse generation hardware, mri pulse sequence control module, front-end control systems, image reconstruction, and data capture and display (qt/opengl/idl)extensive direct customer contact including planning, design, reviews, and project updatesinitial design and proof of concept of mri guided real-time biopsy and tissue harvesting systemport of uclinux os to a net arm architecture, including drivers and protocol stacks
+ direct radiography corp sterling diagnostic imaging
+ newark, de
+ senior software engineer
+ 06/1997 to 06/2000
+ developed embedded image acquisition and processing system allowing oem customers to interface to the directray line of productssoftware consists of an api, image-processing library, and proprietary device interface (scsi driver)initial target platform was linux, but required cross-platform compatibility between linux/nt/solariscompleted several applications designed to acquire, display and transmit(dicom) medical images produced by a direct digital x-ray detector (linux, solaris, windows nt)
+ fischer imaging corporation
+ denver, co
+ senior software engineer
+ 02/1991 to 06/1997
+ lead software development of the senoscan digital mammography diagnostic imaging system (solaris)image acquisition and display gui (sun sparcworks builderxcessory)embedded 4-axis motion control sub-system (proprietary 680x0 real-time kernel)complete design, implementation and release of a digital stereotactic breast biopsy system (mammovision)ported os-9 rtos to a cardiac fluoroscopic imaging system, including drivers (parallel/serial ports, video, etc.)
+ accomplishments
+ us patentsdata deduplication method using file system constructsscsi device emulation in user space facilitating storage virtualizationfour time mentor in sun microsystem's seed (sun excellence in engineering development) program.
+ education
+ computer science
+ metropolitan state college, denver, co, usa
+ applications programming
+ computer sharing services institute, denver, co, usa
+ 

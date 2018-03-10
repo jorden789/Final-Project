@@ -1,148 +1,37 @@
 
-      
-        
-        
-           QUALITY ASSURANCE TECHNICIAN
-        
-      
-      
-      
-      
-        
-        Profile
-      
-        
-        Experienced Quality Assurance Engineer with experience in automation scripting using testing tools. Create, implement, and maintain changes to test cases, test procedures and instructions, and produce evaluation processes. Work with developers and project managers in defining and designing performance test tools and infrastructures. Experienced in JIRA Test Planning, execution, tracking tool. Experienced in general-purpose programming language including Java, and with a Unix/Linux environment. Excellent analytical and troubleshooting skills. Perform system builds and maintenance. Proficient with various bug tracking and test case management systems. 
-      
-      
-      
-        
-        Core Qualifications
-      
-        
-        
-          
-            
-              Excellent Problem Solving SkillsSystem Issue ResolutionManual / Automated Performance TestingStrong Collaborative SkillsUNIX/Linux/WindowsMobile Quality AssuranceBug Tracking Systems
-              Custom ScriptsTest Planning and ExecutionAutomation CodeRegression TestingAutomation Testing ToolsProcess Improvement InitiativesProof of Concept
-            
-          
-        
-      
-      
-      
-        
-        Professional Experience
-      
-        
-        
-          
-            Quality Assurance Technician
-            
-              08/2012 to 
-              Current
-            
-          
-          
-            Grass Valley, (a Belden Brand)
-            
-              Hillsboro, 
-              OR
-            
-          
-          
-            Quality Assurance engineer for a family of brands consisting of a comprehensive portfolio of cable, connectivity and networking products for the transmission of signals for data, sound and video applications. Ensure quality products that enable the company to offer end-to-end signal transmission solutions that meet the most demanding standards for data, sound, and video applications.Performed quality assurance on Grass Valley's Broadcast Video Servers and various software suites. Executed test cases via automated and manual testing methodologies. Logged bugs when found using the JIRA bug tracking system.Executed and created test cases via TestRail based on User Stories and Requirements.Performed system imaging using Acronis disk imaging software.
-          
-        
-      
-        
-        
-          
-            Quality Assurance Engineer / Lab System Administrator
-            
-              03/2006 to 
-              04/2012
-            
-          
-          
-            Motorola Mobility
-            
-              Beaverton, 
-              OR
-            
-          
-          
-            Performed quality assurance on Motorola branded IP video encoders.Analyzed raw video using various video quality software analyzers per documented specification.Logged bugs using various bug tracking management systems (Bugzilla)Provided Wiki content and maintaining quality assurance's web servers.Maintained Quality Assurance's Cisco switches, IP set-top boxes, satellite dishes, receivers, and transcoders.
-          
-        
-      
-        
-        
-          
-            Quality Assurance Engineer / Migration Content Developer
-            
-              01/2001 to 
-              02/2006
-            
-          
-          
-            Tranxition Corporation
-            
-              Beaverton, 
-              OR
-            
-          
-          
-            Developed content to be used in Tranxition's migration engine.Member of Tranxition's 24/7 product support team.Performed quality assurance on Tranxition's migration software validating enhancements and regression testing.Located bugs using automated and manual testing methods.Wrote applets for automation testing.Wrote customized DOS batch files for advanced migration testing.
-          
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-            Bachelor of Science degree: 
-            Information Technology
-            
-          
-          
-            The University of Phoenix
-            
-          
-          
-          
-            
-          
-        
-      
-        
-        
-          
-            Associate of Arts: 
-            Information Technology
-            
-          
-          
-            Axia College of the University of Phoenix
-            
-          
-          
-          
-            
-          
-        
-      
-      
-      
-        
-        Technical Skills
-      
-        
-        UNIX, Linux, Windows, Bash Shell Scripting, Microsoft PowerShell, Batch Files, Applets, Automation, Broadcast Video, Content, DOS, Disk Imaging, Migration, Servers, Scripts, Stories, Video Servers, Web Servers, VMware, Virtual Machines, Video Editing Software, Final Cut Pro 7.x, Adobe Premiere CC (2015.3), Grass Valley Edius, Video Test Equipment, Tektronix WFM 8300,  Tektronix TG700, Apantac multi-viewers. Remote Desktop Manager, VNC, Microsoft Remote Desktop.
-      
-      
-    
+ senior engineer
+ heading
+ seasoned full stack developer with 10+ years of experience developing enterprise web apps. well-versed in the design and development of mission critical enterprise apps using java and oracle technologies. sun certified java developer and oracle certified professional.
+ skills
+ languages:java/j2ee/python/groovyj2ee technologies:struts/spring/grails/mvc/jsf/ajax/hibernate/jpa/jmsweb servies/soa/xml/rest​esb:mule,oracle service busdb:oracle,sql server,mongodb/no sql,apache solrsoftware process:agile/scrum,tdd,ci,maven,jiraui :knockout js,ajax,jquery,bootstraptools:eclipsesdk,python idle,weblogic,websphere,subversion,git,tomcat
+ education
+ master of science: computer science
+ 2000
+ mumbai university , india
+ full stack web developer nanodegree
+ 2017
+ udacity
+ projects
+ neighborhood map :developed a single-page web application, built using the knockout & bootstrap framework, that displays a google map of an area and various restaurants nearby.integrated lookup of additional restaurant information via foursquare. linux server configuration :installed and configured all required software to turn a baseline ubuntu amazon web services server into a fully functional web application server, including apache web server and postgresql database server.added security using ssh.
+ experience
+ senior engineer
+ 10/2013 to 04/2015
+ multiplan inc
+ naperville, il
+ involved in the design/development of etl module to extract and load claims and provider data from the database into apache solr.provided much faster claim and provider searches from web portals.
+ engineer - payment solutions division
+ 03/2011 to 09/2012
+ intuit
+ los angeles, california
+ worked with product management teams to deliver critical payment processing attach initiative for various intuit products like quick books online, quick books desktop, go mobile payment etc.directly involved in product release cycles for intuit and delivered under strict timelines.
+ consultant-business tech integration
+ 04/2007 to 05/2010
+ bank of america
+ los angeles, california
+ participated in the development of servicer accounting web application module for the mortgage servicing business division.involved in servicer accounting system migration from countrywide systems to bank of america.
+ knowledge engineer
+ 03/2004 to 04/2007
+ mindbox
+ los angeles, california
+ developed a web enabled loan origination system(los) using java/j2ee framework for one of the clients.improved pre-approval time within sla for the business client.
+ 

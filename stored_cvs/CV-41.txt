@@ -1,178 +1,39 @@
 
-      
-        
-        
-           VSOC ENGINEER
-        
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Immediately Available: Experienced Business Manager with a Passion for Organizational Leadership
-A result-oriented business professional with over 20 years of experience controlling expenditures, total profit and
-loss responsibility, boosting sales, growing team performance, ensuring compliance with established practices,
-policies and developing exceptional customer rapport.
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              AND COMPETENCIESManaged accounts receivable and coordinate accounts payable, projected costs over long-term projects, handledaccount setup and customer relations. Tracked all employee hours and expenses for appropriate contracts billing,computed employee payroll, progress billing, and collections. Managed employee work assignments, organized andlogged client contracts and deliverables, tracked projects' status. Managed multiple phases of project work,organized all backup required at billing including reimbursable expense receipts and completion reports. Crystal Reports, Lotus 1-2-3, Turbo Tax, Quicken, PeopleSoft, Proprietary accounting programs with Oracleinterface including NxGen/Service Connect and Interactive Business Services; Citrix-based Service Alliance; INDUSscheduling software, Contract Alignment Tool; multiple emailing clients, online parts ordering software andclient-based online billing tools.
-              
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            XCEEED
-          
-          
-            San Diego, 
-            CA
-          
-          
-            vSOC Engineer
-            
-              11/2016 to 
-              Current
-            
-          
-          
-            Responsible for assisting technical engineers and managers with processing incidents, proactive service calls, and
-tracking of service management queues.Determine and resolve issues with various technologies (storage, backup,
-server, and networking).Utilizing exceptional customer service skills along with technical skills and expertise to
-resolve SAN, Fiber infrastructure and hardware issues.
-          
-        
-      
-        
-        
-          
-            JOHNSON CONTROLS INC
-          
-          
-            San Diego, 
-            CA
-          
-          
-            Service Operations Agent
-            
-              01/2007 to 
-              12/2013
-            
-          
-          
-            Oversaw 2.5 million-dollar service contract portfolio with 207 business clients, analyzing and assessing
-      service contract performance.Prepared 150 electrical-related scope documents, exhibits, budgets, specifications, schedules and Requests
-      for Proposal (RFPs) reduced raw material requisitions that led to approximately a 30% boost in the production
-      margin.Developed and implemented employee a training program, improving performance and cost reduction from
-      $10,000 to $3,500 in seven months.Reviewed, managed, and reduce miscellaneous losses in warranty cost from $750,000 down to $280,000
-      in six months.Contribute to driving branch growth and corporate goals to work in close collaboration with a
-      Service Foreman / Chiller Team Manager to prepare yearly, monthly and weekly execution plans for scheduled
-      service visits, aligning front-line skill levels to task increasing productivity by 33%.Conducted a thorough
-      assessment of executing warranty work completed over a two-year period, saving the branch over
-      $400,000 in recuperated cost.
-          
-        
-      
-        
-        
-          
-            UNITED STATES NAVY
-          
-          
-            San Diego, 
-            CA
-          
-          
-            Electrical/ Electronic Department Manager
-            
-              06/2000 to 
-              12/2006
-            
-          
-          
-            Managed a department of 134 personnel, performing, intermediate maintenance on 5000 pieces of
-       communication and navigation equipment.Designed and implemented deployment readiness program for 65 personnel and managed a $2.5 million
-       dollars military support budget.Directed maintenance actions for 13 work centers, involving 1500 pieces of electrical and electronic
-       equipment increasing the operational capability to 95%.Created an electronic tracking and reporting method to streamline the monitoring of 350 critical monthly
-       maintenance evolutions.This innovative database significantly enhanced scheduling, repairs, manpower, and
-       directly boosted productivity by 50%.
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            M.A:
-            Organizational Leadership
-            
-              08/2015
-            
-          
-          
-            Brandman University, 
-            San Diego, 
-            CA.
-            
-          
-          
-          
-            Organizational Leadership 3.93
-          
-        
-      
-        
-        
-          
-            B.A:
-            Organizational Leadership
-            
-              10/2014
-            
-          
-          
-            Brandman University, 
-            San Diego, 
-            CA.
-            
-          
-          
-          
-            Organizational Leadership 3.50
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        accounting, accounts payable, accounts receivable, streamline, backup, billing, budgets, budget, Citrix, hardware, contracts, cost reduction, Crystal Reports, client, clients, customer relations, customer service skills, database, driving, Lotus 1-2-3, navigation, networking, Oracle, payroll, PeopleSoft, personnel, progress, Proposal, Quicken, repairs, reporting, SAN, scheduling, Turbo Tax
-      
-      
-      
-    
+ instructional assistant
+ summary
+ i am a
+recent graduate of nau. after school, i have been working as a teacher as my
+other
+passion is helping others
+understand mathematics. while continuing to apply to apply for engineering
+positions and keep my skills up with programming projects at home. my best qualities are my
+desire to learn and my willingness to help my team. seen when i jumped right into teaching after graduation and it has been a learning experience every day. i was also the team leader on my senior capstone project, doing many of the jobs no other member wanted to do. my best skills are
+programming in c, c++, and vhdl.
+ accomplishments
+ capstone-interactive wi-fi mapping http://www.cefns.nau.edu/capstone/projects/ee/2015/wifimapping/i worked in a team of three individuals. on this team, i was the team leader, website programmer, and treasurer. i mainly researched gps and communication signals. we used android programming to develop an application that tracked users and allowed them to communicate, within their group. at the end of the year, the team presented our final project to cobham aerospace.  ​undergrad researchconstruction and programming of quad-helicopter i worked directly under an instructor at nau. i had to conduct individual research on python programming and helicopter construction. i researched the best way to communicate between the helicopter and a computer, finally settling on bluetooth.  
+ skills
+ programmed and connected computer together in vhdl alu, memory registers, controller  counters, case statements, 7 segment displays, multiplexers in vhdl serial to parallel converter in vhdlparallel to serial converter in vhdlfpga boardsmodel simquartuseclipse, pspice, mentor graphic, pyxis, design architect, eldo
+ experience
+ instructional assistant
+ sep 2016 to current
+ mesa public schools － mesa, az
+ enforced both classroom and administration policies and rules at all times. established positive relationships with students, parents, colleagues, and administrators. kept accurate records of student performance, maintaining the confidentiality of student records and information at all times. taught more than 60 students each semester. substitute teacher
+ feb 2016 to aug 2016
+ clark county school district － las vegas, nv
+ filled in for absent teachers for grades 4-12. quickly adapted to new environments and students. created detailed substitute teaching report at the end of each day. monitored students for destructive or unhealthy behavior and reported concerns to guidance counselors.
+ grader/teaching assistant
+ aug 2013 to dec 2015
+ northern arizona university － flagstaff, az
+ graded papers for students in freshman, sophomore, and junior level classes. assisted engineering students in comprehension of the course material. i.e. basic circuits, digital logic, and programming. demonstrated knowledge of digital logic, computer languages, basic computer logic, and proper application.hired back for 4 additional semesters.
+ desk assistant
+ feb 2012 to dec 2015
+ northern arizona university － flagstaff, az
+ executed a variety of office management skills. maintained department website, including changes to degree programs or personnel information. communicated with customers, employees, and other individuals to answer questions or explain information, and address complaints.
+ education
+ bachelor of science, electrical engineering
+ 2015
+ northern arizona university － flagstaff, arizona
+ gpa 2.96minor in mathematicsmember of ieee
+ relevant classes
+ ee 412 digital systems design\vhdlee 386c capstone 2 ee 484 power electronics mat 362 numerical analysisee 476c capstone 1ee 485 undergraduate research ee 325 engineering analysis ii ee 310 fundamentals of computer engineering\vhdl mat 316 linear algebra mat 239 differential equations ee 222 intermediate programming\c egr 386w engineering design: the methodcene 225 engineering analysis i
+ 

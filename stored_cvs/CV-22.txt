@@ -1,209 +1,33 @@
 
-      
-        
-        
-           CHIEF ENGINEER
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Mechanical Design Engineer experienced in the planning, design, testing and validation. Qualifications including Graduate certifications in Automotive , expertise in SolidWorks, Altair-Hyperworks, Adams and comprehensive knowledge of Lean Manufacturing and Kaizen principles.
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-            
-              2018
-            
-            Master of Science:
-            University Of Texas-Arlington - 
-            Mechanical Engineering
-          
-          
-            GPA 3.87/4.0
-            
-            
-          
-          
-          
-            Graduate certificate in Automotive Engineering. Awards: A.E. Petche father and Son award for contribution in UTA Racing FSAE.
-          
-        
-      
-        
-        
-          
-            
-              2015
-            
-            Bachelor of Science:
-            Mumbai University - 
-            Automotive Engineering
-          
-          
-            First Class
-            
-            
-          
-          
-          
-            
-          
-        
-      
-      
-      
-        
-        Dissertation
-      
-        
-        Dissertation: "Woods Tire Model"The purpose of this thesis is to develop a procedure and tools to produce a tire model that accurately represents a tire's behavior 
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Chief Engineer
-            
-              07/2017 － 
-              Current
-            
-          
-          
-            UTA Racing-FSAE
-            
-              Arlington, 
-              TX
-            
-          
-          
-            Collaborated with system engineers to implement operating procedures and resolve system malfunctions.Led cross-functional project teams of 30 team members to achieve deadlines and accomplish targets.​Designed and Manufactured Rear Uprights weighing 0.9 lbs using Solidworks.Designed and Developed Unsprung Aero Package to improve aerodynamic and suspension characteristics of the overall car.Assisted in designing and analyzing suspension kinematics of FSAE car.Non-linear dynamic FEA of Impact attenuator.
-          
-        
-      
-        
-        
-          
-            Chassis and Ergonomics Deputy Engineer
-            
-              08/2016 － 
-              07/2017
-            
-          
-          
-            UTA Racing-FSAE
-            
-              Arlington, 
-              TX
-            
-          
-          
-            Designed composite pedal box on Solidworks and analysed specific stiffness and ply schedule on Hyperworks.Assisted in F-17 chassis design and manufacturing with 10” wheels, higher Torsional Rigidity and lower weight targets .Assisted in designing an experiment for testing the torsional rigidity of Fsae chassis.Designed chassis in Solidworks & FEA for torsional rigidity, front impact & side impact in solidworks, Hypermesh & Ansys. Designed and manufactured chassis jig and suspension tabs within a 0.003” tolerance to reduce weight, cost and time.Designed and Manufactured the first ever Ergo Jig setup for UTA Racing and developed a cockpit mock up for better driver ergonomics. 
-          
-        
-      
-        
-        
-          
-            Graduate Teaching And Research Assistant
-            
-              01/2017 － 
-              Current
-            
-          
-          
-            The University of Texas at Arlington
-            
-              Arlington, 
-              TX
-            
-          
-          
-            Served as a Project Monitor for 80 undergraduate students each year for Capstone Senior Design Project.  Challenged and motivated students through in-depth lectures and discussions. Established course websites to make updated handouts and other resources available to students at all times. S
-          
-        
-      
-        
-        
-          
-            Engineering Intern
-            
-              04/2016 － 
-              07/2016
-            
-          
-          
-            TAG Motors
-            
-              Pune, 
-              India
-            
-          
-          
-            Designed and detailed mechanical parts and electronics assembly of a lightweight electric motorcycle using 3D CAD and FEA.Manufactured an ultralight spaceframe chassis using laser tube profiling and TIG welding.Designed a modular batterypack casing using solidworks.Maintained open and effective communications with project teams to increase productivity.
-          
-        
-      
-      
-      
-        
-        Memberships
-      
-        
-        SAE Membership to attend competitions like Formula Student Germany 2014,
-Formula Design Challenge 2015 and Formula SAE Lincoln 2017 & 2018.IMeche: Institution of mechanical engineers for Formula Student UK 2018.
-      
-      
-      
-        
-        Skills
-      
-        
-        Softwares:Solidworks, Altair-Hyperworks, Catia V5, MSC-Adams, Optimum Tyre, slice3D, Matalab & Simulink.Technical drawings using Solidworks and Autocad using GD&T.Machining: 3 years of experience using Manual & CNC lathes and mills. Familiars with various rapid prototyping machines including Stratasys fortis-450, makerbot, polyprinter-229.Professional experience in diagnosis and troubleshooting automotive design and manufacturing issues.
-      
-      
-      
-        
-        Projects
-      
-        
-        F-18
-Uprights (Fall-2107)
-
-Designed and
-Manufactured F-18 Suspension uprights weighing 0.9lbs achieving 50% weight
-reduction over previous years's design.
-
-Carried out
-assembly simulations of the corner assembly to find stiffnes of the entire
-corner assembly .Design and
-Analysis of Unsprung Mounting System for F-18 Aerodynamics Package: Fall-2017 Objectivedevelop a mounting system that would enable to send all aero loads to the wheel with minimum interaction to chassis. Innovative implementation
-of the system to minimize change in angle of attack of  the wings(less than 0.25 Deg) with motion of
-the wheels.   Honeycomb Impact Attenuator: Spring-2017 Modeling and Analysis of aluminum Honeycomb Impact Attenuator Using Radioss on Hyperworks. Successfully simulated Front impact of an fsae racecar using non linear FEA. ​​Composite
-Driveshaft concept: Summer-2017
-
-Was able to achieve
-composite driveshaft with same strength but 50% lighter.
-
-Designed and
-developed composite driveshaft for high specific strength and high endurance
-limit.​F-17 Composites pedal box and wheel: Fall-2016Designed and
-developed composite carbon fiber pedal box and 10in wheel for high specific
-stiffness and minimum compliance.​​streamlined the manufacturing process which reduced the production time by 30%.
-      
-      
-    
+ broadcaster/liner notes
+ summary
+ currently enrolled as a student at milwaukee area technical college for audio engineering. 
+ skills and accomplishments
+ federal communications commission license certifiedwrote and recorded radio ads that are still being played on my school station (wbsd)managed soundboards for multiple school plays and eventsworks well with othersdedicated to the task at handpositive attitude and high effortbasic office programs (excel, powerpoint, word)
+ experience
+ broadcaster/liner notes
+ 09/2015 to 06/2016
+ 89.1 wbsd - radio
+ burlington, wi
+ volunteered part time as a broadcaster at a high school radio station. learned a lot about how a radio station is run and how to record voice clips to be broadcasted.
+ maintenance
+ 04/2015 to 09/2015
+ alpine valley music ampitheatre
+ east troy, wi
+ preformed basic labor jobs such as lawn care, painting, and building projects such as doors and staircases. learned how to use power tools and other machinery.
+ maintenance
+ 05/2014 to 10/2014
+ great lakes dragaway
+ union grove, wi
+ preformed miscellaneous tasks, mostly repairing fixtures within the perimeter of the dragaway. also worked as a cook, learned to work well under pressure.
+ education and training
+ high school diploma
+ 2016
+ burlington high school
+ burlington, wi, united states
+ 3.5 gpa bachelor of science: audio engineering
+ 2021
+ milwaukee area technical college
+ milwaukee, wi, united states
+ expected to graduate 2021
+ 

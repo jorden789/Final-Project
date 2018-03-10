@@ -110,7 +110,7 @@ def main(p_resource_request_loc):
 
     cv_scores_matrix = {}
 
-    for file in os.listdir('/home/jallcock/environments/python_output'):
+    for file in os.listdir('/home/jallcock/environments/Final-Project/stored_cvs/'):
         with open('/home/jallcock/environments/python_output/' + file, 'r') as myfile:
             #print('File being processed: ' + file)
             data=myfile.read()
@@ -138,39 +138,8 @@ def main(p_resource_request_loc):
             print('File being processed: ' + file)
 
             cv_scores_matrix[file.encode('utf-8')] = cv_resource_score.main(resource_request_tokens, cv_tokens, file)
-            #print(cv_scores_matrix)
-            #print('Removing Resource Request Duplicate Tokens')
-            #resource_request_tokens = remove_duplicate_tokens(resource_request_tokens)
-        
-            #print('Removing CV Information Duplicate Tokens')
-            #cv_tokens = remove_duplicate_tokens(cv_tokens)
-            #print(cv_tokens)
 
-            #cv_token_similarities = collections.defaultdict(list)
-            #cv_token_similarity_score = 0
-
-            #for i, token1 in enumerate(resource_request_tokens):
-            #    for x, token2 in enumerate(cv_tokens):
-	    #        # Removes keywords not of focus, and removes non-similar and identical matches
-            #        if ((token1.pos_ == 'NOUN' or token1.pos_ == 'PROPN') 
-            #        and (token1.text != token2.text) and (token2.pos_ == 'NOUN' or token2.pos == 'PROPN') 
-            #        and abs(token1.similarity(token2)) > similarity_bound 
-            #        and (token1.pos_ == 'NOUN' or token1.pos_ == 'PROPN')):
-            #            try:
-                            #print(token1.text + '|' + token2.text + ' -> ' + str(token1.similarity(token2)))
-            #                cv_token_similarities[token1.text + '|' + token2.text].append(token1.similarity(token2))
-            #            except KeyError:
-            #                 cv_token_similarities[token1.text + '|' + token2.text] = token1.similarity(token2)
-            #            cv_token_similarity_score = cv_token_similarity_score + token1.similarity(token2)                
-
-            #print('Similarity Score [' + str(cv_token_similarity_score)  + ']')
-            #cv_scores_matrix[file.encode('utf-8')] = (cv_token_similarity_score)
-
-    #print('\nCV Scores Matrix')
-    #sorted_scores_matrix = sorted(cv_scores_matrix.items(), key=operator.itemgetter(1), reverse=True)
-    #print(sorted_scores_matrix)
-
-    print(cv_scores_matrix)
+    #print(cv_scores_matrix)
 
 ###################################################################################
 # Build up the Ranked List of Candidates using Hungarian Algorithm
@@ -193,6 +162,7 @@ def main(p_resource_request_loc):
         del cv_scores_matrix[value_to_remove]
 
     print(best_cvs)
+    return best_cvs
 
 ###################################################################################
 # Word2Vec Analysis

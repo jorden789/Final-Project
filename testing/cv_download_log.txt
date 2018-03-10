@@ -1,0 +1,57 @@
+Starting processing at 2018-03-10 17:36:55.106320
+
+Directory [/home/jallcock/environments/Final-Project/stored_cvs] Empty
+
+Running CV Link Pull script
+CV's downloaded into CV Repository
+CV-3.txt - 7857
+CV-4.txt - 10004
+CV-5.txt - 4838
+CV-6.txt - 7715
+CV-7.txt - 10636
+CV-8.txt - 11264
+CV-9.txt - 3105
+CV-10.txt - 6156
+CV-11.txt - 3102
+CV-12.txt - 5100
+CV-13.txt - 4796
+CV-14.txt - 5091
+CV-15.txt - 4084
+CV-16.txt - 3840
+CV-17.txt - 5596
+CV-18.txt - 9551
+CV-19.txt - 5295
+CV-20.txt - 2409
+CV-21.txt - 3631
+CV-22.txt - 2976
+CV-23.txt - 5216
+CV-24.txt - 4235
+CV-25.txt - 2910
+CV-26.txt - 6842
+CV-27.txt - 3998
+CV-28.txt - 7018
+CV-29.txt - 4550
+CV-30.txt - 4079
+CV-31.txt - 10273
+CV-32.txt - 12073
+CV-33.txt - 4467
+CV-34.txt - 6304
+CV-35.txt - 4063
+CV-36.txt - 5057
+CV-37.txt - 14944
+CV-38.txt - 4467
+CV-39.txt - 6954
+CV-40.txt - 6385
+CV-41.txt - 5299
+CV-42.txt - 4531
+CV-43.txt - 3012
+CV-44.txt - 4176
+CV-45.txt - 3156
+CV-46.txt - 3597
+CV-47.txt - 5412
+CV-48.txt - 3688
+CV-49.txt - 3327
+CV-50.txt - 4542
+CV-51.txt - 4572
+CV-52.txt - 8134
+Finished processing at 2018-03-10 17:37:11.337600

@@ -1,20 +1,12 @@
 #! /usr/bin/env python
-
+# -*- coding: utf-8 -*-
 ####################################################################################################
-# Name: CV Match Routin - Word Vectors on Keywords
+# Name: Similarity Bouds Testing
 # Author: Jorden Allcock
 #
 # Description: File is responsible for:
 #
-#	- Reading appropriate contents of specified resource request
-#	- Selecting appropriate information from CV (keywords)
-#	- Identifying similarity/match between CV elements and Resource Request elements
-#
-# Parameters:
-#
-#	- p_resource_request_loc        Directory/file location of specified resource request to be
-#                                       analysed
-#
+#	- 
 ####################################################################################################
 
 ###################################################################################
@@ -37,17 +29,21 @@ import cv_match_word_vectors
 
 import fileinput
 
-with open('/home/jallcock/environments/Final-Project/testing/similarity_bounds_test.txt', 'a') as log_file:
-    for x in range (100):
-        similarity_bound = x * 0.01
-        print('Test [' + str(x) + '] - Similarity Bound [' + str(similarity_bound) + ']')
+#with open('/home/jallcock/environments/Final-Project/testing/similarity_bounds_test.txt', 'a') as log_file:
+for x in range (100):
 
-        for line in fileinput.input('/home/jallcock/environments/Final-Project/cv_match_word_vectors.py', inplace=1):
-            if 'similarity_bound = ' in line:
-                line = 'similarity_bound = ' + str(similarity_bound) + '\n'
+    log_file = open('/home/jallcock/environments/Final-Project/testing/similarity_bounds_test.txt', 'a')
 
-            sys.stdout.write(line)
+    similarity_bound = x * 0.01
+    print('Test [' + str(x) + '] - Similarity Bound [' + str(similarity_bound) + ']')
 
-        log_file.write('Test [' + str(x) + '] - Similarity Bound [' + str(similarity_bound) + ']\n')
-        log_file.write(str(cv_match_word_vectors.main('/home/jallcock/environments/Final-Project/resource_requests/resource_request_1.xlsx')))
+    for line in fileinput.input('/home/jallcock/environments/Final-Project/cv_match_word_vectors.py', inplace=1):
+        if 'similarity_bound = ' in line:
+            line = 'similarity_bound = ' + str(similarity_bound) + '\n'
 
+        sys.stdout.write(line)
+
+    log_file.write('Test [' + str(x) + '] - Similarity Bound [' + str(similarity_bound) + ']\n')
+    log_file.write(str(cv_match_word_vectors.main('/home/jallcock/environments/Final-Project/resource_requests/resource_request_1.xlsx')))
+
+    log_file.close()

@@ -1,169 +1,35 @@
 
-      
-        
-        
-          
-          GROUND SYSTEMS ENGINEER
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Highly skilled professional in instructional, evaluation, and development of training/evaluation programs encompassing with 27 years of experience combined.  Professional system engineer/operator with 16 years of Space Based Infrared Systems (SBIRS) with extensive ground system architecture and infrastructure knowledge while training/evaluating hundreds of system operators both Air Force and civilians. Top Secret/SCI and NATO Secret clearance. Thorough hands-on experience in all levels of training, evaluating, performance, functional, integrations, regression, and user acceptance. Experienced with both hardware and software for SBIRS systems, which includes multiple platforms within the SBIRS program. Strong instructional, analytical, troubleshooting, communication, and leaderships skills throughout entire career with Air Force schooling and system engineering experience.
-      
-      
-      
-        
-        Highlights
-      
-        
-        
-          
-            
-              DoD Top Secret Clearance Single Scope Background Investigation Sensitive Compartment Information (adjudicated Dec 2011, under PR)Expert Instructor, Evaluator and Instructional System DeveloperSkilled Managerial and Leadership Experience RHEL, UNIX, Linux, AIX, IRIX, IETM, CKNet, SSNSoftware: Perl, C Shell Highly knowledgeable in SBIRS Ground Systems, IT/WAA and Spacecrafts 
-              Architectural understanding of mission mgmt and ITW/AASystems Operator for SBIRS satellite launchesEngineer for 4 SBIRS satellite launchesRetired Air ForceStrong Troubleshooting and Analytical Techniques Excellent CommunicatorStrong Decision Maker
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Ground Systems Engineer
-            
-              Apr 2012 to 
-              Current
-            
-          
-          
-            Northrop Grumman Corporation/CRGT Inc － 
-            Aurora, 
-            CO
-          
-          Experienced in developing, revamping and maintaining training/evaluation programsSystem engineer for 4 SBIRS satellite launches Expertly performed 24/7 operational support utilizing SBIRS current and legacy Ground Control software to Air Force customers Strong instructional, analytical and troubleshooting skills in all facets of software and hardware. Diversified in SBIRS Communication and NetworkBuilt Data Communications for mission processingCreated/trained numerous of system engineers on previous and existing SBIRS software/hardwareEfficiently managed multiple servers and maintained 24/7/365 operations Identified and corrected system software and hardware issues and provided resolution in a timely manner. Advised customers regarding maintenance and actions on SBIRS ground control problems Highly knowledgeable in all facets SBIRS of software and hardware architecture. Developed/revamped engineering checklist, procedures, and technical notes Great interpersonal skills with Air Force customers, leadership and managers, and contractors.     
-        
-      
-        
-        
-          
-            Superintendent (Manager)
-            
-              Aug 2009 to 
-              Apr 2012
-            
-          
-          
-            United States Air Force － 
-            Aurora, 
-            CO
-          
-          Professionally managed team of 10 - 30 during sustainment, training/evaluation development, regression testing, and inspections. Complete understanding of Air Force Instructional System Development
-	
-		Developed, coordinated and reviewed over 500 training and evaluation products for Air Force crew members ensuring 100% compliant with
-		developmental and higher headquarters instructional guidance.Worked directly for Group Commander to ensure strict guidanceContinually established clear operational requirements and specifications leading to several successful inspectionsManaged multi-million dollar program programs bench marking procedures across the U.S. Air ForceMentored and managed high morale and cohesive teams ensuring company goals were metRevamped declining SBIRS programs while maintaining program integrity and guidelines
-        
-      
-        
-        
-          
-            Ground and Satellite Systems Operator
-            
-              Sep 2002 to 
-              Apr 2012
-            
-          
-          
-            United States Air Force － 
-            Colorado Springs/Aurora, 
-            CO
-          
-          Supervised numerous personnel leading to awards and 100% mission accomplishmentPerformed 2 Defense Support Program Satellite launches.Coordinated launch and early orbit ground systems various remote ground stationsDiverse in satellite orbital mechanics on SBIRS program.Expert in training, testing and evaluation on SBIRS ground and satellite systemsComplete understanding of Air Force Satellite Network and supporting operating systems and ground stations
-        
-      
-        
-        
-          
-            Tactical Air Command and Control Specialist (Special Operations)
-            
-              Jan 1991 to 
-              Jan 2002
-            
-          
-          
-            United States Air Force － 
-            Multiple Locations, 
-            CO
-          
-          Trained/evaluated 200+ personnel on special operations procedures Managed teams of 5 during Air Force and Army exercises accomplishing higher headquarters objectives Coordinated and conducted multi-service missions achieving superior results during highly visible exercises and inspectionsHighly skilled in radio frequency principles, telecommunications technology, and broadcast information systems and managementHighly experienced in multi-uniformed services planning and coordination
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-            Bachelor of Science Degree, 
-            Space Studies
-            
-              2012
-            
-          
-          
-            American Military University － 
-            Charles Town, 
-            West Virginia
-            
-          
-          
-          
-        
-      
-        
-        
-          
-            Associate, 
-            Applied Science, Air and Space Operations Technology
-            
-              2010
-            
-          
-          
-            Community College of the Air Force, Maxwell AFB － 
-            Montgomery, 
-            Alabama
-            
-          
-          
-          
-        
-      
-      
-      
-        
-        Certifications
-      
-        
-        Air Force Leadership Schools and Courses SBIRS Systems Operator Course, Vandenberg AFB, CASBIRS Fundamental of Orbital Mechanics DSP Satellite Systems Operator Course, Vandenberg AFB, CASpace 200, Colorado Springs, COInstructor/Evaluator Training Course Enlisted Space Operations Training, Vandenberg AFB, CACommand and Control Technical School, Hurlbert Field, FL Enlisted Terminal Attack Controller Course, Hurlbert Field, FL UNIX Operating Systems Microsoft Office Products 
-      
-      
-      
-        
-        Skills
-      
-        
-        Leadership and Managerial Skills, Superior Interpersonal Skills, Process Improvement Process. Excellent Troubleshooting Techniques, SBIRS UNIX, AIX, IRIX, Linux, and SGI Platforms. SBIRS Data Communication Structures, Data Processing, Audio/Visual, and Communication and Network Subsystems. SBIRS Software and Hardware. Perl and C Shell scripting. HP Openview. Transfer Protocols. Microsoft Office Products, 
-      
-      
-    
+ engineering manager, quality assurance
+ summary
+ results-oriented qa engineering manager experienced with all stages of the development cycle and focused on quality testing of various internet-based applications.
+ java, selenium, agile, jira, zephyr, quality center, strong decision, maker, excellent communicator, microsoft excel, eclipse & intellij ide, moba xterm, microsoft teams, confluence wiki, oracle, complex problem solver, excellent multitasking 
+ experience
+ engineering manager, quality assurance
+ aug 2016 to current
+ american well － boston, ma
+ oversee 10 direct reports across 6 teams to ensure project test plans are executed properly, happy path automation is complete and product releases happen by or before deadlines. implemented and enforce qa engineer process for entire department when moving from waterfall methodologies to agile methodologies.implemented and enforce qa training guide for entire department new hires.monitor and report on automation progress each sprint.schedule and oversee sprint capacity and test case reviews each sprint.
+ quality assurance engineer
+ dec 2010 to aug 2016
+ american well － boston, ma
+ design test cycles and test cases, based off wireframes and visual design elements and work with visd, product management and developers to ensure the software is working as designedmanually test the software in ui, ios applications, android applications, database, as well as test integration of other software into our product.automate happy path test scripts in java using selenium
+ biopsychology research assistant
+ jan 2009 to dec 2009
+ harvard medical school and va boston healthcare system － brockton, ma
+ analyzed eegs, emgs, and eogs. implanted cannulas for administration of solutions, and performed perfusions. conducted psychomotor vigilance tasks and activity wheel tasks. performed brain slicing, staining and slide preparation.
+ education and training
+ bachelor of science, neuroscience
+ may 2010
+ stonehill college － easton, ma
+ neuroscience, biology, chemistry and physics courses
+ 2015
+ treehouse online training courses
+ java programming courses 2017
+ tulip management － boston, ma, 02109
+ performance management development programfeedback & accountability development program​
+ publications
+ christie, micheal,
+robert mccarley, and robert strecker. "twenty-four hours, or five days, of
+continuous sleep deprivation or experimental sleep fragmentation do not alter
+thirst or motivation for water reward in rats." behavioral brain research.
+print.
+ 

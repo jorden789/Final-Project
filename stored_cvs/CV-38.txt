@@ -1,136 +1,36 @@
 
-      
-        
-        
-           CUSTOMER SERVICE
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        I am a responsible person with a desire to work, to learn and willing to work as a team. To put into
-practice all the knowledge acquired during my university training and to be part of a team that allows me
-to grow personally and professionally.
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Customer Service
-            
-              01/2015 to 
-              Current
-            
-          
-          
-            BEL USA
-            
-              Miami, 
-              Florida
-            
-          
-          
-            BEL USA LLC, doing business as DiscountMugs.com, is engaged in the online retail of promotional and personalized products.My
- responsibility in the service department is to interact with the 
-clients of the company to provide them with information and answer the 
-questions related to the products and services. Also, try to help resolve their complaints.
-          
-        
-      
-        
-        
-          
-            Printing Press Operator
-            
-              01/2014 to 
-              02/2015
-            
-          
-          
-            Bullet Line
-            
-              Miami, 
-              Florida
-            
-          
-          
-            Bullet is a leading supplier of low-price promotional products, includes everything.In bullet my.responsibility was to print the design of each order in the promotion bags and check that each of them.came out with the required quality.    
-          
-        
-      
-        
-        
-          
-            Implementor the software 
-            
-              09/2009 to 
-              10/2013
-            
-          
-          
-            DESOFT
-            
-              La Habana, 
-              La Habana
-            
-          
-          
-            In 
-this job I learned how work in team, my co-workers and I were very 
-enthusiastic and communicative.I was responsible for 
-developing, verifying the software and testing components assigned to 
-it, in accordance with the standards established in the project for 
-integration into larger subsystems.Develop training materials and prepare the project closing.After the software was installed in the company we gave the training to the users.
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            
-            Information Technology Engineer
-            
-              2002 / 2008
-            
-          
-          
-            Higher Polytechnic Institute "Jose Antonio Echeverria
-            
-          
-          
-          
-            Information Technology Engineer
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        I have a good knowledge of Microsoft Operating System. I like to learn new things, I am proactive, responsible, intelligent and very analytical.I have facility for teamwork, and quick adaptation to the work environment.I am one of the people who can give their 100% under pressure; And I'm sure I can exceed yourexpectations.
-      
-      
-      
-        
-        Certifications
-      
-        
-        Computer machine architecture.​Microcomputer operator.Postgraduate Course: Development of applications on the Java Standard Edition platform.Postgraduate Course: Introduction to Web technology.
-      
-      
-    
+ analyst/programmer intermediate
+ summary
+ identity management specialist with 8 years of professional experience in identity management, and 13 total years in it. nonprofit president with 3 years of experience managing business operations.
+ highlights
+ microsoft ilmnetiq identity managerldapactive directory
+ javac#radiantone icsnovell edirectory
+ experience
+ 01/2012
+ - current
+ georgia state university － atlanta, ga
+ analyst/programmer intermediate
+ create and maintain identity data solutions, including identity data consolidation and synchronization with multiple sources and destinations.maintain ldap directory systems including synchronization between multiple server clusters.consolidate identity sources into central identity databaseprovision identity data from central identity database to multiple systems, including ldap, active directory, and office 365.implement encryption for internal password synchronization feeds.maintain security certificates for all identity feeds, including internal feeds.create custom identity feeds for internal and external customers. maintain password synchronization between multiple authentication systems.maintain legacy systems written in multiple languages, including pl/sql, c#, java, bash, and expect.create and maintain saml based single sign on systems for the university, including federated identitytroubleshoot identity issues and work with customers to reach a resolution.
+ 03/2013
+ - current
+ relationship equality foundation － fayetteville, ga
+ president
+ act as ceo of corporation.oversee day to day operations of nonprofit activities.balance project needs and budgetary concerns.approve corporate activities and projects based on directives and goals from board of directors.oversee officers and staff.
+ 09/2008
+ - 12/2011
+ booz allen hamilton － montgomery, al
+ senior consultant
+ created and maintained identity data solutions, including identity data consolidation and synchronization with multiple sources and destinations.developed identity solutions for air force directory services.developed identity and access management solutions using both java and c# based tools.rebuilt and maintained email for career system for us air force to improve reliability of processes.generated design, test and operational documents describing the design and operation of each package developed and deployed.
+ 03/2006
+ - 08/2008
+ general dynamics information technology － montgomery, al
+ programmer/analyst
+ maintained systems and software necessary for development and deployment of asset management software.traveled to customer premises to install software on customer systems.manged onsite and offsite backups of development systems.
+ education
+ auburn university
+ auburn, al
+ computer engineering
+ bachelor of science - computer engineering
+ skills
+ active directory, ldap, c#, java, netiq identity manager, microsoft identity lifecycle manager, microsoft office, oracle pl/sql, project management, unix, linux, windows
+ 

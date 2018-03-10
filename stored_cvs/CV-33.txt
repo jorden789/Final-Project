@@ -1,110 +1,36 @@
 
-      
-        
-        
-           QUALITY ENGINEER
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Work at Ford Plant doing diagnostics of cars and trouble shoot failures of steering gears using Green Studios,CANalyzer ,Ford Tools. Flash gears with new software when needed. work with Ford team during PTR trials to ensure the gears function properly.Dedicated Quality Engineer with excellent technical, analytical and communication skills demonstrated by 5 years of experience.  I worked building Prototype gears Flashing software and testing on the bench for setting to spec.Dedicated Prototype tech. with excellent technical, analytical and communication skills demonstrated by 1 years of experience.  Work relocating factories worldwide from point A to Point B  making sure that  everything was back working and running smoothly with there operations.Dedicated Supervisor Rigger with excellent technical, analytical and communication skills demonstrated by 15 years of experience. 
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          07/2013
-           to 
-          Current
-        
-        
-          
-            Quality Engineer
-          
-          
-            BOSCH AUTOMOTIVE STEERING － 
-            Florence, 
-            Kentucky
-          
-          
-            Conduct routine and non-routine analysis of in-process materials, raw materials, environmental samples, finished goods, or stability samples.Compile laboratory test data and perform appropriate analysis.Complete documentation needed to support testing procedures including data capture forms, equipment logbooks, or inventory forms.Identify quality problems and recommend solutions.Interpret test results, compare them to established specifications and control limits, and make recommendations on appropriateness of data for release.Investigate or report questionable test results.Participate in out-of-specification and failure investigations and recommend corrective actions.Receive and inspect raw materials.Write or revise standard quality control operating procedures.Identify and troubleshoot equipment problems.Participate in internal assessments and audits as required.
-          
-        
-      
-        
-        
-          05/2011
-           to 
-          Current
-        
-        
-          
-            Prototype Technician
-          
-          
-            Bosch Automotive Steering － 
-            Florence, 
-            Kentucky
-          
-          
-            Study blueprints, drawings, and sketches to determine material dimensions, required equipment, and operations sequences.Drill, countersink, and ream holes in parts and assemblies for bolts, screws, and other fasteners, using power tools.Rework or alter component model or parts as required to ensure that products meet standards.Align, fit, and join parts, using bolts and screws or by welding or gluing.Consult and confer with engineering personnel to discuss developmental problems and to recommend product modifications.Assemble mechanical, electrical, and electronic components into models or prototypes, using hand tools, power tools, and fabricating machines.Wire and solder electrical and electronic connections and components.
-          
-        
-      
-        
-        
-          01/1994
-           to 
-          05/2011
-        
-        
-          
-            Manager or Supervisor
-          
-          
-            Hosea Worldwide － 
-            Independence, 
-            kentucky
-          
-          
-            Signal or verbally direct workers engaged in hoisting and moving loads, in order to ensure safety of workers and materials.Test rigging to ensure safety and reliability.Attach loads to rigging to provide support or prepare them for moving, using hand and power tools.Select gear such as cables, pulleys, and winches, according to load weights and sizes, facilities, and work schedules.Control movement of heavy equipment through narrow openings or confined spaces, using chainfalls, gin poles, gallows frames, and other equipment.Tilt, dip, and turn suspended loads to maneuver over, under, and/or around obstacles, using multi-point suspension techniques.Align, level, and anchor machinery.Fabricate, set up, and repair rigging, supporting structures, hoists, and pulling gear, using hand and power tools.Manipulate rigging lines, hoists, and pulling gear to move or support materials such as heavy equipment, ships, or theatrical sets.Attach pulleys and blocks to fixed overhead structures such as beams, ceilings, and gin pole booms, using bolts and clamps.Dismantle and store rigging equipment after use.Install ground rigging for yarding lines, attaching chokers to logs and then to the lines.Clean and dress machine surfaces and component parts.
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-        
-        
-          
-          
-          
-          
-            Southern ohio college, cincinnati , Ohio
-associates degree in costumer service engineering
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        blueprints, cables, hand tools, hoists, inspect, power tools, power tools, solder, welding
-      
-      
-    
+ manufacturing engineer
+ summary
+ team-oriented computer engineer with over four years on aerospace production environment with an extensive background in software design and development.
+ highlights
+ my sql, sql server databases administration.c, c++, c# and php languages. aerospace production.knowledge in itc mk denial, xclass and gts systems and processes.
+ manufacturing products support.good oral and written fluency in english and spanish. knowledge in sap and solumina manufacturing softwaresknowledge in configuring manufacturing products.
+ accomplishments
+ itc gts system softwarethis application is used for itc (international trade compliance) team to
+capture any discrepancy that delayed or blocked the embark process with gts.issue tracking system software (its)this application is used for all members of the manufacturing process in which they can submit any concern related to manufacturing process that prevent proper flow of the process or delays. manufacturing product improvementproduct defects reduction through recommendations of machine adjustments and tooling design.
+ experience
+ manufacturing engineer
+ nov 2012 to current
+ utc aerospace systems － santa isabel, pr
+ provide support to manufacturing products such as stators for commercials and military customers.analyze and troubleshoot manufacturing products that need improvement in order to ensure product quality.configure and program existing manufacturing equipment for new and existing products.develop and optimize applications for manufacturing and administration purposes.
+ technology professor
+ aug 2012 to may 2013
+ school of sciences, math, technology and languages － carolina, pr
+ professor for the courses: computers fundamentals, computer programming and introduction of robotics.coach of the robotics team that participate in puerto rico institute of robotics (prior) vexrobotics competition advanced category.
+ computer and network technician
+ jun 2011 to nov 2012
+ netstep technologies － bayamon, pr
+ computer and network maintenance, troubleshooting and repair for different government agencies.
+ education
+ master, engineering management
+ 2017
+ polytechnic university of puerto rico － san juan, pr
+ bachelor of science, computer engineer
+ 2012
+ polytechnic university of puerto rico － san juan, pr
+ computer and network technician
+ 2008
+ instituto de banca y comercio － caguas, pr
+ skills
+ proficient c, c++, c# and ms visual studio.web based languages: html, php, javascript, jquery, asp.net and css.knowledge in windows and linux os, ms word, excel and powerpoint.knowledge in oracle sql, mysql, ms sql server.computer repair and troubleshooting.    ability to work on teams and with minimal or no supervision.knowledge on manufacturing production supervision.
+ 

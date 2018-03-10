@@ -1,122 +1,39 @@
 
-      
-        
-        
-           VICE PRESIDENT OF INFORMATION TECHNOLOGY
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Efficient Information Technology professional with 15 years of customer service experience and desktop support and over 10 years experience as an IT administrator. Expertise in analyzing and resolving complex issues with personal computer software, network and policy security, hardware and network connectivity, proven strengths in project management needs assessments, hardware and software deployment, a positive attitude in life and work, a punctual and dependable employee.
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              Operating Systems:  Windows OS (ALL), Window Server (ALL), AS400, Palm, BlackBerry, Android, iOS, NetscreenWeb Design:  Macromedia Suite (ALL), Cinema 4d, Swift 3D, Photoshop, MS Front PageProgramming:  Visual Basic, Action Script, HTML, PHP, XML, JavaScript, CSS
-              Miscellaneous: MAS 90, Barracuda Suite, MS Office Suite (ALL), Symantec Corporate, Real VNC, Symantec Ghost, MS Exchange Server, Active Directory, MS IIS, DNS, DHCP, Blackberry Enterprise Server, MCSE certification 2003, Remote Desktop, Sql Report Server, Crystal Reports, Sedona Server, Currently a sitting member and web designer for the Vancouver Mural Society Board, Currently studying to take test for Microsoft MCSE 2013 certification.
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          February 2006
-           to 
-          Current
-        
-        
-          
-            Global Technology
-          
-          
-            Vancouver, 
-            Washington
-          
-          
-            Vice President Of Information Technology
-          
-          
-            Work Duties - Administrated network of 50 plus components.Identified and resolved network connectivity and security issues.Provided support and problem resolution for peripherals, BlackBerry's, and wireless connectivity.Provided one-on-one end-user training as requested.Configured WAN with VPN tunneling for connectivity between different sites.Implemented a domain controller change over to a new domain and server.Designed new website and intranet.Administrated domain controller and network LAN/WAN.Keeping security at the highest level possible do to the client confidentiality of security systems.
-          
-        
-      
-        
-        
-          January 2005
-           to 
-          January 2006
-        
-        
-          
-            Day Wireless Systems
-          
-          
-            Milwaukie, 
-            Oregon
-          
-          
-            Information Technology Administrator
-          
-          
-            Work Duties - Administrated on-site and remote desktop support to three hundred employees.Resolved hardware and software problems.Identified and resolved network connectivity and security issues.Provided support and problem resolution for peripherals, BlackBerry's, and wireless connectivity.Provided one-on-one end-user training as requested.Supported and designed the Intranet site and Sharepoint portal.Worked on implementing a $200,000 microwave data system and $60,000 system upgrade.
-          
-        
-      
-        
-        
-          January 1999
-           to 
-          January 2005
-        
-        
-          
-            Paramount Hotel
-          
-          
-            Portland, 
-            Oregon
-          
-          
-            Chief Engineer
-          
-          
-            Work Duties - Troubleshot wired and wireless computer networks, desktop support, analyze software problems, install new software and operating systems, and maintained telecommunications networks.Repair work: drywall, plumbing, boilers, laundry equipment, structural, and electrical.Administrative Duties - Manage three employees, maintain vendor relations, solicit bids from contractors, purchase equipment and supplies, maintain a yearly budget, be on call 24 hours, head of the safety committee and maintain health/fire safety standards.Managed over 25 employees for six months.
-          
-        
-      
-      
-      
-      
-      
-        
-        Skills
-      
-        
-        4d, Active Directory, Administrative Duties, Photoshop, AS400, boilers, budget, hardware, computer networks, controller, Crystal Reports, CSS, client, DHCP, DNS, XML, MS Front Page, Ghost, HTML, PHP, MS IIS, JavaScript, LAN, laundry, Macromedia Suite, MAS 90, MCSE, MS Exchange Server, MS Office Suite, Windows OS, Sharepoint, Window, microwave, Enterprise, network, networks, Operating Systems, peripherals, plumbing, problem resolution, Programming, safety, Script, Sql Report, Swift 3, Symantec, desktop support, user training, telecommunications, upgrade, vendor relations, VPN, Visual Basic, web designer, Web Design, website, WAN
-      
-      
-      
-        
-        Additional Information
-      
-        
-          Citizen of United States
-      
-      
-    
+ tech assistant
+ summary
+ highly dependable, with an aim to pursue a successful career as a software engineer. supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues.
+ skills
+ • tech support • advanced computer programmer • strong decision maker• excellent communicator •tutor •knowledge in gaming
+ programming & languages
+ • java, smlnj, html, html5 • microsoft office • adobe photoshop• netbeans • knowledge of windows os (xp+) • knowledge of mac osx 10 or later • css/css3/javascript • api design • python • sql
+ education
+ 2018
+ bachelor of science: computer science
+ new york institute of technology
+ － new york, ny, usa
+ relevant courses
+ • java programming • data structures • discrete mathematics • algorithms • database management • intro to software eng 
+ experience
+ 09/2013
+ to current
+ tech assistant
+ nyit – academic computing services － new york, ny
+ • assist administration and maintenance of student computer labs• help and maintenance of distance learning classrooms• supervise administration in the lending of av equipment to professors to enhance the learning environment• resolve network issues associated with nyit account• improve system performance by identifying problems; recommending changes• maintain and assemble all machinery such as computers and plotters
+ 07/2015
+ to current
+ stock associate
+ banana republic － new york, ny
+ • encourage customers to select a broad selection of styles for fitting room• engage customers in conversation while completing cashwrap transaction
+ 12/2011
+ to 04/2012
+ tutor
+ read alliance (read) － new york, ny
+ • facilitated tutoring sessions for first grade and kindergarten students to improve academic performance
+ 07/2011
+ to 08/2011
+ internship
+ summer youth employment program － new york, ny
+ • created excel spreadsheets of prior court cases • used microsoft excel to divide court cases into categories of “successful” and “unsuccessful” which was then used for filing
+ projects
+ nyit | new york, ny​• developed a standard program software using java• designed and implemented a relational database using the sql programming language• created a powerpoint presentation using latex and sml programming
+ 
