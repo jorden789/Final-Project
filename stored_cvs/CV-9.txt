@@ -1,73 +1,222 @@
 
- software engineering analyst
- summary
- trained in customer service. high energy and outgoing with a dedication to positive guest relations. i am working as software engineer now and want to obtain a part time job 
- experience
- software engineering analyst
- 12/2017 to current
- doubleverify inc
- new york, ny
- 
+      
+        
+        
+           SOFTWARE ENGINEERING ANALYST
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Trained in customer service. High Energy and outgoing with a dedication to positive guest relations. I am Working as software Engineer now and want to obtain a part time job 
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Software Engineering Analyst
+            
+              12/2017 to 
+              Current
+            
+          
+          
+            Doubleverify Inc
+            
+              New York, 
+              NY
+            
+          
+          
+            
 
 
 
 
 
 
-·  contributed
+
+
+
+
+
+
+
+
+
+
+·  Contributed
 to the development of an online payment website with several thousands customers
 
 
-·  focused on
-back-end development using java springmvc framework ·  used hibernate
-to interact with mysql database ensuring the consistence of transaction data
-and implement crud operations on backend database. 
+·  Focused on
+back-end development using Java SpringMVC framework 
+
+·  Used Hibernate
+to interact with MySQL database ensuring the consistence of transaction data
+and implement CRUD operations on backend database. 
 
 
- assistant librarian
- 08/2016 to 08/2017
- cornell university loin library
- ithaca, ny
- 
+          
+        
+      
+        
+        
+          
+            Assistant Librarian
+            
+              08/2016 to 
+              08/2017
+            
+          
+          
+            Cornell University Loin Library
+            
+              Ithaca, 
+              NY
+            
+          
+          
+            
 
 
 
 
 
 
-·  worked as a part
-time student receptionist ·  assisted with technical,
+
+
+
+
+
+
+
+
+
+
+·  Worked as a part
+time student receptionist 
+
+·  Assisted with technical,
 directional and information problems related with library servcies 
 
 
- graduate research assistant
- 08/2016 to 08/2017
- cornell univerity
- ithaca, ny
- 
+          
+        
+      
+        
+        
+          
+            Graduate Research Assistant
+            
+              08/2016 to 
+              08/2017
+            
+          
+          
+            Cornell Univerity
+            
+              Ithaca, 
+              NY
+            
+          
+          
+            
 
 
 
 
 
 
-·  built inception-resnet,
-resnet, and vggnet models on tensorflow, training and fine-tuning from scratch
+
+
+
+
+
+
+
+
+
+
+·  Built Inception-ResNet,
+ResNet, and VGGNet models on Tensorflow, training and fine-tuning from scratch
 to classify pollutes images, achieved 80% top-5 accuracy on dataset with 200
-classes ·  collected,
-analyzed and visualized the daily research data set using numpy, pandas and matplotlib
-in python
+classes 
+
+·  Collected,
+analyzed and visualized the daily research data set using Numpy, Pandas and Matplotlib
+in Python
 
 
- education and training
- master of science: civil engineering
- 2017
- cornell univerisity
- ithaca, ny
- bachelor of science: environment engineering
- 2015
- nankai university
- tianjin, china
- skills
- languages: english, mandarincomputer skills : java, python, microsoft office
- 
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+            Master of Science: 
+            Civil Engineering
+            
+              2017
+            
+          
+          
+            Cornell Univerisity
+            
+              Ithaca, 
+              NY
+            
+            
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          
+            Bachelor of Science: 
+            Environment Engineering
+            
+              2015
+            
+          
+          
+            Nankai University
+            
+              Tianjin, 
+              
+            China
+            
+          
+          
+          
+            
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        Languages: English, MandarinComputer Skills : Java, Python, Microsoft Office
+      
+      
+    

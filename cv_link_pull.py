@@ -20,14 +20,14 @@
 ###################################################################################
 
 from bs4 import BeautifulSoup
-import urllib
+#from urllib.request import urlopen
 import re
 import spacy
 import sys
 from bs4.element import Comment
 
 if sys.version_info[0] == 3:
- from urllib import urlopen
+ from urllib.request import urlopen
 else:
  from urllib import urlopen
 
@@ -64,7 +64,7 @@ def main(p_cv_search_string):
 
     # Set search link for LiveCareer Website (currently for Software Engineering CVs)
     #html_page = urllib.request.urlopen("https://resumes.livecareer.com/search?jt=software%20engineering&p=1")
-    html_page = urllib.urlopen(p_cv_search_string)
+    html_page = urlopen(p_cv_search_string)
     soup = BeautifulSoup(html_page, "html5lib")
 
     # Find all list items in returned search results page
@@ -83,7 +83,7 @@ def main(p_cv_search_string):
         #url = "https://resumes.livecareer.com/search?jt=software%20engineering&pg=" + str(i + 1)
         url = p_cv_search_string + "&pg=" + str(i + 1)
     # Open specified page and process with specified html5 parser
-        html_page = urllib.urlopen(url)
+        html_page = urlopen(url)
         soup = BeautifulSoup(html_page, "html5lib")
 
     # Set variable n = 0 which will be used as distinguishing metric for CV file name when stored as text 
@@ -113,7 +113,7 @@ def main(p_cv_search_string):
                         print(path)
                         with open(path, 'a') as f:
                             article = cv_info_line_item.get_text()
-                            f.write(article.encode('utf-8'))
+                            f.write(article)
             except:
                 continue
 

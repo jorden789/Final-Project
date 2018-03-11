@@ -1,34 +1,141 @@
 
- software engineer
- summary
- software engineer with a focus on writing highly maintainable, robust, object oriented code. diverse experience of languages with majority c++ background. 
- skills
- languages: c++, c#, java, php (zend), javascript, perl, sql operating systems (developed on): linux, unix, windowsconcepts: oo, ipc (threads, locking mechanisms, shared memory, message queues), databases, osi model, tcp, uml, xml, serialization, com, stl
- certifications
- secret clearance security+ certification, 10/12  
- experience
- august 2004
- to current
- lockheed martin - thaad - systems integration lab
- sunnyvale, ca
- software engineer
- designed and developed the majority of the software used to visualize the thaad missile interception system in real time for the purposes of analysis and demonstration to interested customers, including u.s. and foreign government dignitaries. wrote 7 applications for linux and windows platforms to collect real time thaad message data over ip, parse it, and turn it into a visual and interactive experiencein addition to being used for demonstrations, served as an analysis tool for engineers performing testing of the thaad systemnotable applications (as main developer):msgforwarder (c++, linux): responsible for capturing and parsing all of the thaad ip data. capable of parsing over 1,000 tcp/ip packets per second according to tcp, ip, and application level protocols. re-forms them into their original messages, which can be sent to interested parties. dvrtfilewriter (c++, linux): multi-threaded application receives messages from msgforwarder and other data sources, parses them, and puts them into shared memory database. eventnotify (c++, linux): reads messages from shared memory database and uses them to extract relevant data and form human readable strings of important events, which get sent to interested parties.lmanimator (c#, windows): receives real time data on udp and tcp sockets to create an interactive display of the thaad weapons system using a satellite toolkit activex object embedded into a windows form. can display hundreds of stk objects in real time, and is user interactive, thus making thread synchronization critical.skills used: c++, stl, c#, java, perl, xml, uml, ipc (threads, locking mechanisms, shared memory, message queues), databases, osi model, tcp, serialization, com, unit testing april 2002
- to august 2004
- lockheed martin - thaad - system test and evaluation
- sunnyvale, ca
- software engineer
- worked on a small team to develop the launch and test support software (visual c++, windows), which is used to test communication between the 4 tactical components of the thaad system: launcher, missile, radar, and battle manager. this software served as a "launcher simulator" for multiple flight tests, performing the software used to launch the thaad missile. designed, coded, unit tested, and wrote documentation for the software products.skills: visual c++, uml, unit testing, software process, use of apis to interact with hardware, ipc july 2001
- to march 2002
- lockheed martin - npoess
- sunnyvale, ca
- software engineer
- developed various analysis scripts and applications for a weather satellite proposal. 
- education
- 2001
- university of virginia
- charlottesville, va
- bachelor of science: computer science
- gpa: 3.562, class rank: 140/744 
- personal projects
- web mash-up of google maps, wikipedia, google imagesweb survey application: zend phpweb application to organize household objects
- 
+      
+        
+        
+           SOFTWARE ENGINEER
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Software engineer with a focus on writing highly maintainable, robust, object oriented code. Diverse experience of languages with majority C++ background. 
+      
+      
+      
+        
+        Skills
+      
+        
+        Languages: C++, C#, Java, PHP (Zend), Javascript, perl, SQL Operating Systems (developed on): Linux, Unix, WindowsConcepts: OO, IPC (threads, locking mechanisms, shared memory, message queues), databases, OSI Model, TCP, UML, XML, serialization, COM, STL
+      
+      
+      
+        
+        Certifications
+      
+        
+        Secret Clearance Security+ Certification, 10/12  
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          August 2004
+           to 
+          Current
+        
+        
+          
+            Lockheed Martin - THAAD - Systems Integration Lab
+            
+              Sunnyvale, 
+              CA
+            
+          
+          
+            Software Engineer
+          
+          
+            Designed and developed the majority of the software used to visualize the THAAD missile interception system in real time for the purposes of analysis and demonstration to interested customers, including U.S. and foreign government dignitaries. Wrote 7 applications for Linux and Windows platforms to collect real time THAAD message data over IP, parse it, and turn it into a visual and interactive experienceIn addition to being used for demonstrations, served as an analysis tool for engineers performing testing of the THAAD systemNotable applications (as main developer):MsgForwarder (C++, Linux): Responsible for capturing and parsing all of the THAAD IP data. Capable of parsing over 1,000 TCP/IP packets per second according to TCP, IP, and application level protocols. Re-forms them into their original messages, which can be sent to interested parties. DVRTFileWriter (C++, Linux): Multi-threaded application receives messages from MsgForwarder and other data sources, parses them, and puts them into shared memory database.  EventNotify (C++, Linux): Reads messages from shared memory database and uses them to extract relevant data and form human readable strings of important events, which get sent to interested parties.LMAnimator (C#, Windows): Receives real time data on UDP and TCP sockets to create an interactive display of the THAAD weapons system using a Satellite ToolKit ActiveX Object embedded into a Windows Form. Can display hundreds of STK objects in real time, and is user interactive, thus making thread synchronization critical.Skills used: C++, STL, C#, Java, Perl, XML, UML, IPC (threads, locking mechanisms, shared memory, message queues), databases, OSI Model, TCP,  serialization, COM, Unit Testing 
+          
+        
+      
+        
+        
+          April 2002
+           to 
+          August 2004
+        
+        
+          
+            Lockheed Martin - THAAD - System Test and Evaluation
+            
+              Sunnyvale, 
+              CA
+            
+          
+          
+            Software Engineer
+          
+          
+            Worked on a small team to develop the Launch and Test Support Software (Visual C++, Windows), which is used to test communication between the 4 tactical components of the THAAD system: Launcher, Missile, Radar, and Battle Manager. This software served as a "launcher simulator" for multiple flight tests, performing the software used to launch the THAAD missile. Designed, coded, unit tested, and wrote documentation for the software products.Skills: Visual C++, UML, Unit testing, software process, use of APIs to interact with hardware, IPC 
+          
+        
+      
+        
+        
+          July 2001
+           to 
+          March 2002
+        
+        
+          
+            Lockheed Martin - NPOESS
+            
+              Sunnyvale, 
+              CA
+            
+          
+          
+            Software Engineer
+          
+          
+            Developed various analysis scripts and applications for a Weather Satellite proposal. 
+          
+        
+      
+      
+      
+        
+        Education
+      
+        
+        
+          2001
+        
+        
+          
+            University of Virginia
+            
+              Charlottesville, 
+              VA
+            
+            
+          
+          
+            Bachelor of Science: 
+            Computer Science
+          
+          
+          
+            GPA: 3.562, Class Rank: 140/744 
+          
+        
+      
+      
+      
+        
+        Personal Projects
+      
+        
+        Web mash-up of Google Maps, wikipedia, Google ImagesWeb survey application: Zend PHPWeb application to organize household objects
+      
+      
+    

@@ -1,64 +1,198 @@
 
- principal engineer
- summary
- software engineer with extensive experience
-in all phases of software development; concept through maintenance. software/firmware developed for medical imaging/communications,
-enterprise storage and telecommunications. firmware/software development under
-regulatory constraints (fda). widely varied experience and a
-demonstrated ability to learn new technologies quickly. real-time data
-acquisition systems for enterprise data as well as image acquisition and processing (2d/3d).  systems architect as
-well as individual contributor. front end gui development. solaris and linux
-kernel, driver and application development. scripting (bash/perl/etc.). multi-threaded / multi-tasking applications. highly
-available applications (oracle cluster). distributed and
+      
+        
+        
+           PRINCIPAL ENGINEER
+        
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Software Engineer with extensive experience
+in all phases of software development; concept through maintenance. Software/firmware developed for Medical Imaging/Communications,
+enterprise storage and telecommunications. Firmware/software development under
+regulatory constraints (FDA). Widely varied experience and a
+demonstrated ability to learn new technologies quickly. Real-time data
+acquisition systems for enterprise data as well as image acquisition and processing (2D/3D).  Systems architect as
+well as individual contributor. Front end GUI Development. Solaris and Linux
+kernel, driver and application development. Scripting (Bash/Perl/etc.). Multi-threaded / multi-tasking applications. Highly
+Available Applications (Oracle Cluster). Distributed and
 grid computing.
- skills
- extensive linux / solaris / unix experiencesolaris and linux kernel and device driver developmentembedded systemsmulti-threaded / multi-tasking applicationshigh availability, multi-node clustered systems (oracle/sun ha cluster)distributed data and grid computing (oracle coherence)strong c(c ), comfortable with java as well as several scripting languages (bash, perl, shell).source code control with svn, clearcase, cvsagile development (rally)real-time data acquisition, dsp, device drivers, embedded systemsgui (flash/html/direct graphics/vga/open gl)image acquisition and reconstruction (2d/3d)
- experience
- oracle / sun / storagetek
- louisville, co
- principal engineer
- 07/2005 to 01/2017
- system software
-architect for oracle open attach virtual tape library system, a high speed,
+      
+      
+      
+        
+        Skills
+      
+        
+        Extensive Linux / Solaris / Unix experienceSolaris and Linux kernel and device driver developmentEmbedded SystemsMulti-threaded / multi-tasking applicationsHigh availability, multi-node clustered systems (Oracle/Sun HA Cluster)Distributed data and grid computing (Oracle Coherence)Strong C(C  ), comfortable with Java as well as several scripting languages (bash, perl, shell).Source code control with SVN, ClearCase, CVSAgile development (Rally)Real-time data acquisition, DSP, device drivers, embedded systemsGUI (Flash/HTML/Direct graphics/VGA/Open GL)Image Acquisition and Reconstruction (2D/3D)
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Oracle / Sun / StorageTek
+          
+          
+            Louisville, 
+            CO
+          
+          
+            Principal Engineer
+            
+              07/2005 to 
+              01/2017
+            
+          
+          
+            
+
+System software
+architect for Oracle Open Attach Virtual Tape Library System, a high speed,
 multi-threaded "embedded" disk
-cache for tape clients. in
-addition to the core system, a vm (virtual machine / solaris ldom) was
+cache for tape clients. In
+addition to the core system, a VM (virtual machine / Solaris LDOM) was
 implemented to
 host a third party
-applicationrefactor,
-troubleshoot and port a set of linux kernel modules/drivers from linux to
-solarisimplemented buffer/memory
-management kernel modules to allocate and manage kernel dma buffers for
+applicationRefactor,
+troubleshoot and port a set of Linux kernel modules/drivers from Linux to
+SolarisImplemented buffer/memory
+management kernel modules to allocate and manage kernel DMA buffers for
 multiple
 user space processes
-allowing fora zero copy data pathdesigned
-and implemented a multi-node grid computing environment using oracle coherencetechnical lead for a team of
-5-15 engineers. lead role includes defining designs, assisting
+allowing fora zero copy data pathDesigned
+and implemented a multi-node grid computing environment using Oracle CoherenceTechnical lead for a team of
+5-15 engineers. Lead role includes defining designs, assisting
 management with hiring, scheduling and task allocation as well as monitoring
-and mentoring individual engineers developed modules for fiber channel device driver and command/data routing, dma
+and mentoring individual engineers Developed modules for fiber channel device driver and command/data routing, DMA
 buffer allocation and
-management, tape drive emulation, and backend storagemember
+management, tape drive emulation, and backend storageMember
 of cross functional architecture team tasked with design and concept and proposal of future products
- hei, inc. / colorado medtech, inc
- boulder, co
- principal software engineer
- 06/2000 to 06/2005
- lead development of an embedded net+arm/uclinux product which operates within a self-forming grid acting as an acquisition application and gateway between medical devices and hospital information systemsdesign included customization of the linux kernel and all associated device driverslead development of a linux-based mri biopsy device (real-time fluoroscopic imaging, needle tracking, target verification) built using gtk/gtk gui libraries and idl for image analysisguided a team of six software engineers to redesign the control software for a hitachi 1.5t mri system  developed software for pulse generation hardware, mri pulse sequence control module, front-end control systems, image reconstruction, and data capture and display (qt/opengl/idl)extensive direct customer contact including planning, design, reviews, and project updatesinitial design and proof of concept of mri guided real-time biopsy and tissue harvesting systemport of uclinux os to a net arm architecture, including drivers and protocol stacks
- direct radiography corp sterling diagnostic imaging
- newark, de
- senior software engineer
- 06/1997 to 06/2000
- developed embedded image acquisition and processing system allowing oem customers to interface to the directray line of productssoftware consists of an api, image-processing library, and proprietary device interface (scsi driver)initial target platform was linux, but required cross-platform compatibility between linux/nt/solariscompleted several applications designed to acquire, display and transmit(dicom) medical images produced by a direct digital x-ray detector (linux, solaris, windows nt)
- fischer imaging corporation
- denver, co
- senior software engineer
- 02/1991 to 06/1997
- lead software development of the senoscan digital mammography diagnostic imaging system (solaris)image acquisition and display gui (sun sparcworks builderxcessory)embedded 4-axis motion control sub-system (proprietary 680x0 real-time kernel)complete design, implementation and release of a digital stereotactic breast biopsy system (mammovision)ported os-9 rtos to a cardiac fluoroscopic imaging system, including drivers (parallel/serial ports, video, etc.)
- accomplishments
- us patentsdata deduplication method using file system constructsscsi device emulation in user space facilitating storage virtualizationfour time mentor in sun microsystem's seed (sun excellence in engineering development) program.
- education
- computer science
- metropolitan state college, denver, co, usa
- applications programming
- computer sharing services institute, denver, co, usa
- 
+          
+        
+      
+        
+        
+          
+            HEI, Inc. / Colorado MEDtech, Inc
+          
+          
+            Boulder, 
+            CO
+          
+          
+            Principal Software Engineer
+            
+              06/2000 to 
+              06/2005
+            
+          
+          
+            Lead development of an embedded NET+ARM/uClinux product which operates within a self-forming grid acting as an acquisition application and gateway between medical devices and hospital information systemsDesign included customization of the Linux kernel and all associated device driversLead development of a Linux-based MRI biopsy device (real-time fluoroscopic imaging, needle tracking, target verification) Built using GTK/GTK GUI libraries and IDL for image analysisGuided a team of six software engineers to redesign the control software for a Hitachi 1.5T MRI system  Developed software for pulse generation hardware, MRI pulse sequence control module, front-end control systems, image reconstruction, and data capture and display (Qt/OpenGL/IDL)Extensive direct customer contact including planning, design, reviews, and project updatesInitial design and proof of concept of MRI guided real-time biopsy and tissue harvesting systemPort of uClinux OS to a NET ARM architecture, including drivers and protocol stacks
+          
+        
+      
+        
+        
+          
+            Direct Radiography Corp Sterling Diagnostic Imaging
+          
+          
+            Newark, 
+            DE
+          
+          
+            Senior Software Engineer
+            
+              06/1997 to 
+              06/2000
+            
+          
+          
+            Developed embedded image acquisition and processing system allowing OEM customers to interface to the DirectRay line of productsSoftware consists of an API, image-processing library, and proprietary device interface (SCSI driver)Initial target platform was Linux, but required cross-platform compatibility between Linux/NT/SolarisCompleted several applications designed to acquire, display and transmit(DICOM) medical images produced by a direct digital x-ray detector (Linux, Solaris, Windows NT)
+          
+        
+      
+        
+        
+          
+            Fischer Imaging Corporation
+          
+          
+            Denver, 
+            CO
+          
+          
+            Senior Software Engineer
+            
+              02/1991 to 
+              06/1997
+            
+          
+          
+            Lead software development of the Senoscan digital mammography diagnostic imaging system (Solaris)Image acquisition and display GUI (Sun Sparcworks BuilderXcessory)Embedded 4-axis motion control sub-system (proprietary 680x0 real-time kernel)Complete design, implementation and release of a digital stereotactic breast biopsy system (Mammovision)Ported OS-9 RTOS to a cardiac fluoroscopic imaging system, including drivers (parallel/serial ports, video, etc.)
+          
+        
+      
+      
+      
+        
+        Accomplishments
+      
+        
+        US PatentsData Deduplication Method Using File System ConstructsSCSI device emulation in user space facilitating storage virtualizationFour time mentor in Sun Microsystem's SEED (Sun Excellence in Engineering Development) program.
+      
+      
+      
+        
+        Education
+      
+        
+        
+          
+            
+            Computer Science
+            
+          
+          
+            Metropolitan State College, 
+            Denver, 
+            CO, 
+            USA
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          
+            
+            Applications Programming
+            
+          
+          
+            Computer Sharing Services Institute, 
+            Denver, 
+            CO, 
+            USA
+          
+          
+          
+            
+          
+        
+      
+      
+    

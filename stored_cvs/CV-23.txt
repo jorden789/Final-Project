@@ -1,37 +1,161 @@
 
- senior support specialist
- summary
- accomplished, results-oriented professional with over 4 years of leadership and management experience in the military. highly skilled in troubleshooting hardware and software application issues. experienced in java and c++, with knowledge in sql, html, css, and javascript. 
- highlights
- team playerexcellent communication skillscustomer and goal orientedexceptional problem solving skills
- experienced in hl7 standardsinterface implementation, and troubleshootingproficient in linux command line
- accomplishments
- promoted to senior support specialist after 10 months of employment.awarded navy and marines corps achievement medal (nov 2014) for outstanding performance while serving as day shift supervisor and quality assurance inspector at vfa 137. earned aviation maintenance award (2013/2014) - best overall maintainer.
- experience
- 01/2016
- to current
- senior support specialist
- modernizing medicine － weston, fl
- supports clients by resolving complex application specific issues in a timely manner. possess excellent communication, technical skills, and empathy are key to understanding, resolving and/or escalating product issues and enhancements. become a trusted mentor to other tiers and a valued partner to our clients, providing the technical expertise that allows them to maximize the investment they've made in choosing gmed's software.  respond to and resolve tickets in a timely manner. provide hardware and software support/troubleshooting.analyze and troubleshoot computer peripherals, general network and application level issues. act as a point of escalation for 2nd tier for resolution of complex application-specific issues. ensure timely and professional communications with clients. develop and review documentation that includes but is not limited to product installation guides, use cases, business requirements, technical requirements, and programming specifications. mentor front line support members and share information to help improve overall knowledge amongst the team.
- 03/2015
- to 01/2016
- associate support specialist
- modernizing medicine － weston, fl
- deliver an exceptional client experience by identifying and documenting client needs and issues; answering incoming inquiries, effectively applying problem-solving techniques, educating clients and following issues through to their successful resolution.provide consistent, professional and high-quality client support, every day, all the time, no matter what.establish procedures to ensure client satisfaction and quality service delivery.communicate and collaborate across teams and departments to help solve issues.replicate and document issues for further escalation.
- 03/2011
- to 01/2015
- aviation electrician
- us navy － nas lemoore, ca
- supervisor for a work center with 4 workers, demonstrating proper accountability for personnel, tools, and support equipment.performed quality assurance inspections on electrical components on 12 aircraft.demonstrated proper documentation of maintenance and other inspections on 12 aircraft.performed testing, installation, and maintenance to a wide range of aircraft instruments and electrical equipment including generators, motors, and lighting systems.read electrical system diagrams.performed electrical troubleshooting operations by starting and operating aircraft in ground safely mode.
- 05/2017
- to 08/2017
- software developer intern
- modernizing medicine － boca raton, fl
- skills
- fast learnergithub experiencems sql experiencebilingual (english and spanish)
- education
- 2018
- bachelor of science: computer information systems
- nova southeastern university
- － davie, fl, us
- 
+      
+        
+        
+           SENIOR SUPPORT SPECIALIST
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Accomplished, results-oriented professional with over 4 years of leadership and management experience in the military. Highly skilled in troubleshooting hardware and software application issues. Experienced in Java and C++, with knowledge in SQL, HTML, CSS, and JavaScript. 
+      
+      
+      
+        
+        Highlights
+      
+        
+        
+          
+            
+              Team playerExcellent communication skillsCustomer and goal orientedExceptional problem solving skills
+              Experienced in HL7 standardsInterface implementation, and troubleshootingProficient in Linux command Line
+            
+          
+        
+      
+      
+      
+        
+        Accomplishments
+      
+        
+        Promoted to Senior Support Specialist after 10 months of employment.Awarded Navy and Marines Corps Achievement Medal (Nov 2014) for outstanding performance while serving as day shift supervisor and Quality Assurance Inspector at VFA 137. Earned Aviation Maintenance award (2013/2014) - Best overall maintainer.
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          01/2016
+           to 
+          Current
+        
+        
+          
+            Senior Support Specialist
+          
+          
+            Modernizing Medicine － 
+            Weston, 
+            FL
+          
+          
+            Supports clients by resolving complex application specific issues in a timely manner. Possess excellent communication, technical skills, and empathy are key to understanding, resolving and/or escalating product issues and enhancements. Become a trusted mentor to other tiers and a valued partner to our clients, providing the technical expertise that allows them to maximize the investment they've made in choosing gMed's software.  Respond to and resolve tickets in a timely manner. Provide hardware and software support/troubleshooting.Analyze and troubleshoot computer peripherals, general network and application level issues. Act as a point of escalation for 2nd Tier for resolution of complex application-specific issues. Ensure timely and professional communications with clients. Develop and review documentation that includes but is not limited to product Installation guides, use cases, business requirements, technical requirements, and programming specifications. Mentor front line support members and share information to help improve overall knowledge amongst the team.
+          
+        
+      
+        
+        
+          03/2015
+           to 
+          01/2016
+        
+        
+          
+            Associate Support Specialist
+          
+          
+            Modernizing Medicine － 
+            Weston, 
+            FL
+          
+          
+            Deliver an exceptional client experience by identifying and documenting client needs and issues; answering incoming inquiries, effectively applying problem-solving techniques, educating clients and following issues through to their successful resolution.Provide consistent, professional and high-quality client support, every day, all the time, no matter what.Establish procedures to ensure client satisfaction and quality service delivery.Communicate and collaborate across teams and departments to help solve issues.Replicate and document issues for further escalation.
+          
+        
+      
+        
+        
+          03/2011
+           to 
+          01/2015
+        
+        
+          
+            Aviation Electrician
+          
+          
+            US NAVY － 
+            NAS Lemoore, 
+            CA
+          
+          
+            Supervisor for a work center with 4 workers, demonstrating proper accountability for personnel, tools, and support equipment.Performed Quality Assurance inspections on electrical components on 12 aircraft.Demonstrated proper documentation of maintenance and other inspections on 12 aircraft.Performed testing, installation, and maintenance to a wide range of aircraft instruments and electrical equipment including generators, motors, and lighting systems.Read electrical system diagrams.Performed electrical troubleshooting operations by starting and operating aircraft in ground safely mode.
+          
+        
+      
+        
+        
+          05/2017
+           to 
+          08/2017
+        
+        
+          
+            Software Developer Intern
+          
+          
+            Modernizing Medicine － 
+            Boca Raton, 
+            FL
+          
+          
+            
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        Fast learnerGitHub experienceMS SQL experienceBilingual (English and Spanish)
+      
+      
+      
+        
+        Education
+      
+        
+        
+          2018
+        
+        
+          
+            Bachelor of Science: 
+            COMPUTER INFORMATION SYSTEMS
+          
+          
+            Nova Southeastern University
+             － 
+            Davie, 
+            FL, 
+            US
+          
+          
+          
+            
+          
+        
+      
+      
+    

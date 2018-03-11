@@ -1,83 +1,193 @@
 
- ui developer
- summary
- 4 years of experience in web development using web 2.0, jquery, html, css and oo javascript.strong knowledge in developing and designing web 2.0 and business application according to information
-architecture and usability standards using oo javascript framework, ajax, jquery, java, jsp, servlets, xml,
-dhtml, xhtml, css and mvc framework.
- extensive knowledge in oo javascript design pattern and javascript and ajax, json.
- good understanding of three column / bootstrap layout using css and xhtml and also experience of fixing
+      
+        
+        
+          
+          UI DEVELOPER
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        4 years of experience in web development using Web 2.0, jQuery, HTML, CSS and OO JavaScript.Strong knowledge in developing and designing web 2.0 and business application according to Information
+architecture and Usability standards using OO JavaScript framework, Ajax, jQuery, Java, JSP, Servlets, XML,
+DHTML, XHTML, CSS and MVC framework.
+ Extensive knowledge in OO JavaScript design pattern and JavaScript and Ajax, JSON.
+ Good understanding of Three column / Bootstrap Layout using CSS and XHTML and also experience of fixing
 cross-browser and cross-platform issues.
- experience in web application development, interface web design, designing/developing interfaces for
-multiple browsers, planning and implementing internet/intranet project, working with the jquery library, web
-technologies and integrated with jsp and jquery.
- expertise in all phases of the software development life cycle including requirements gathering, analysis, designing,
+ Experience in Web Application Development, Interface Web Design, Designing/developing Interfaces for
+multiple browsers, Planning and Implementing Internet/Intranet project, working with the jQuery Library, web
+technologies and integrated with JSP and jQuery.
+ Expertise in all phases of the software development life cycle including requirements gathering, analysis, designing,
 coding, testing, integration, and documentation.
- excellent knowledge of multi- tier web based application development.
- expert in using json (javascript object notation) a lightweight data-interchange format to build collection of
+ Excellent Knowledge of multi- tier Web Based application development.
+ Expert in using JSON (JavaScript Object Notation) a lightweight data-interchange format to build collection of
 name/value pairs and ordered list of values
- extensive experience in testing including accessibility, usability and ui regression testing. strong project planning and very detail oriented.
- excellent ability in communicating designs through scenarios, prototypes, and ui specs as well as liaising with
-business analysts, designers, and developers in order to create functional specifications.
- highly motivated, dedicated, fast learner and has proven my abilities in my projects both as a team player and an
+ Extensive experience in testing including Accessibility, Usability and UI Regression testing. Strong project planning and very detail oriented.
+ Excellent ability in communicating designs through scenarios, prototypes, and UI specs as well as Liaising with
+Business Analysts, Designers, and Developers in order to create functional specifications.
+ Highly motivated, dedicated, fast learner and has proven my abilities in my projects both as a team player and an
 individual.
- ability to excel at communicating with customers, teammates, and other internal organizations.
- excellent working knowledge and thorough exposure on compatibility issues with different versions
-browsers like safari, google chrome and mozilla firefox.  as a part of self learning have worked on couple of proof of concept in reactjs,babel,javascript es6.authorized to work in the us for any employer
- experience
- ui developer
- nov 2015 to jun 2016
- apple inc － sunnyvale, ca
- developed responsive user interface using javascript, jquery, html5, css3
- responsibilities included improving, implementing new features and maintaining existing application
- developed html5 interfaces with an understanding of user interface design principles and object-oriented
-program development.minified all css and js to set desired compression level and customize compression option.also used
-html-css-js prettify plugin for formatting.implemented code to fetch data from web services using jquery ajax via json response and hence update the
-web page.implemented tabular data using jquery plugin, jqgrid to load data and support features like sorting grid,
-pagination, multi-select rows, tool-tip and format cells depending on requirement.implemented directed graphs for data visualization using javascript library dagre-d3 which provides actual
-rendering using d3.js to help business measure current status of application.also supported interactive features like
-animations, scaling, events and transitions.parsed data using json to demonstrate data using dagre-d3.solved the padding effect differences among the various browsers i.e browser's compatibility.implemented javascript functionality for auto generation of initials during signature process in pdf document.utilized jquery library functions to increase the code re-usability and support standard coding practices.extensively used jquery ui widgets such as accordion, date-picker, dialog and jquery plugins like multi- select
-drop-down, tokenize auto-complete plugin with functionality to enhance the look and feel of web page.utilized css media queries to build responsive website optimized for ios multiple devices.used detailed wireframes and developed mock-up designs as per the requirements of business.worked with the team of architects and back-end developers to gather requirements and enhance the application
-functionality and add new featuresdeveloped cross-browser pages using css3, html5, javascript and jquery.worked on a single page application that uses twitter bootstrap and backbone for front end, that connects to
-internal and public restful api's.the application used backbone.js for routing, models and views.jquery was used
-for dom manipulation and ajax requests.built templates with an assortment of javascript micro- templating tools
-that include underscore.js, mustache.js and handlebar.js.installed and maintained packages and dependencies
-using nodejs npm.utilized backbone.marionette to improve the application architecture as well as enhance the user interface.implemented tabular data using datatables integrated with bootstrap 3.utilized grunt for build/deploy the application.debugged the common code platform to remove bugs from several features of the code using eclipse ide , safari
-developer tool, firebug, chrome developer tool.worked in an agile environment running morning scrums and bi-weekly sprint pattern
- used gitlab and svn for source version control.environment and technologies: javascript, ajax, css, xhtml, html5, xml, css3, java, jsp, jsp tag library, servlet, oracle, jquery, jboss, ant, eclipse, svn, gitlab, backbone.js, grunt/node.js, bootstrap,nodejs, npm package
- ui developer intern
- mar 2015 to oct 2015
- gigame － santa clara, ca
- developed a site-wide web 2.0 migration service using ajax framework using jquery, jsp, mvc and html5 leveraging bootstrap framework.used facebook sdk for javascript to implement client side functionality for adding social plugins, making api calls and implementing facebook login. developed ajax implementation for searching candidates/ jobs/ companies for different search criteria.  implemented autosuggest widget for different fields like location, job categories, skills etc. for user profile.  developed html5 interfaces with an understanding of ui design principles and object-oriented program development. implemented a html5 page to present the search box with javascript file to handle the ajax functionality and a server-side jsp page and javascript mvc to return a new-line separated list of suggested searches.  developed and migrated customer profile page to jquery isotope plug-in with ajax implementation, and extensively used jquery dom, traversing and selector api. developed a box model for padding, margins or borders on the playing fields or the draggable elements will cause them not to stay fully in the playing field so that they will overlap the region by the width of the margin/padding/border. debugged the common code platform to remove bugs from several features of the code using eclipse ide and firebug tool developed ui library functions to increase the code reusability and support standard coding practices. developed a customer profile area auto scroll with the messages to increase the usability of the chat. developed functionality for displaying values in tag style and implemented validations like null check for duplicate value check etc.designed expanded rows that will wiped out and restored when the datatable paginates or sorts, and to keep track of expanded rows and automatically restore them after each rendering of the datatable.implement tokeninput autocomplete plugin to make the integration and the data is saved on the database. implemented the fancy box to change the image of popup when link is clicked. developed sql statements to get fetch data and implemented pagination.used standard coding practices to debug the code and provide a general object oriented solution to support all other features.environment and technologies: javascript, ajax, css, xhtml, html5, bootstrap, xml, css3, java, jsp, jsp tag library, servlet, oracle, jquery, tomcat, ant, eclipse, svn, tomcat 
- project engineer
- nov 2010 to current
- wipro technologies － bangalore, india
- created web pages for each project using xhtml, css, and javascript. developed and implemented pure css-based page layouts.identifying and solving cross-browser compatibility issues relating to xhtml and css. creating new web pages from photoshop mockups using css and xhtml. worked on tools like home site, dream weaver, photoshop and image ready and also constructed and evaluated prototypes following standards.worked with css selectors, classes, ids, pseudo classes, inheritance and cascade concepts, box model with fixed width, fluid & elastic layouts implemented user interface using jsp and html, css.used the ajax technology for making asynchronous calls for the action classes for validating the data for the modify and add functionality of the application. used concurrent version system for version control system.constructed web wireframes and mock-ups by designing and building interaction, determined screen layouts, style, and color palettes.developed complex database objects like stored procedures, functions, packages, and triggers using sql and pl/sql developed java code for ui/business validations for owned use cases. involved in resolving production problems for the applications and ensured all support service level agreements are met. mentored junior engineers in the team and getting them productive quickly. effectively made use of tables, indexes, partitioning, collections, exception handling, constraints, index, views, ref cursor					environment and technologies: javascript, jquery, json, xml, html, css, java, tomcat, ajax, jsp, xml.
- education and training
- postgraduate certificate in software engineering
-university of california santa cruz extension silicon valley
- 2015
- ca
- bachelors, electrical and electronics engineering
- 2010
- m.g. university kerala
- electrical and electronics engineering
- other achievements
- wipro spark award 	2011-07
- awarded certificate for outstanding contribution, "wipro spark" in 2011 by wipro technologies as an appreciation
+ Ability to excel at communicating with customers, teammates, and other internal organizations.
+ Excellent working knowledge and thorough exposure on compatibility issues with different versions
+browsers like Safari, Google Chrome and Mozilla Firefox.  As a part of self learning have worked on couple of proof of concept in ReactJS,Babel,JavaScript Es6.Authorized to work in the US for any employer
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            UI Developer
+            
+              Nov 2015 to 
+              Jun 2016
+            
+          
+          
+            Apple Inc － 
+            Sunnyvale, 
+            CA
+          
+          Developed responsive User Interface using JavaScript, jQuery, HTML5, CSS3
+ Responsibilities included improving, implementing new features and maintaining existing application
+ Developed HTML5 interfaces with an understanding of User Interface design principles and object-oriented
+program development.Minified all CSS and JS to set desired compression level and customize compression option.Also used
+HTML-CSS-JS prettify plugin for formatting.Implemented code to fetch data from web services using jQuery AJAX via JSON response and hence update the
+web page.Implemented tabular data using jQuery plugin, jQgrid to load data and support features like sorting grid,
+pagination, multi-select rows, tool-tip and format cells depending on requirement.Implemented directed graphs for data visualization using JavaScript library Dagre-d3 which provides actual
+rendering using D3.js to help business measure current status of application.Also supported interactive features like
+animations, scaling, events and transitions.Parsed data using JSON to demonstrate data using Dagre-d3.Solved the padding effect differences among the various browsers i.e browser's compatibility.Implemented JavaScript functionality for auto generation of initials during signature process in pdf document.Utilized jQuery library functions to increase the code re-usability and support standard coding practices.Extensively used jQuery UI widgets such as Accordion, Date-picker, Dialog and jQuery plugins like multi- select
+drop-down, tokenize auto-complete plugin with functionality to enhance the look and feel of web page.Utilized CSS media queries to build responsive website optimized for IOS multiple devices.Used detailed wireframes and developed Mock-up designs as per the requirements of Business.Worked with the team of architects and back-end developers to gather requirements and enhance the application
+functionality and add new featuresDeveloped cross-browser pages using CSS3, HTML5, JavaScript and jQuery.Worked on a Single Page Application that uses twitter Bootstrap and Backbone for front end, that connects to
+internal and public Restful API's.The application used Backbone.js for routing, models and views.jQuery was used
+for DOM manipulation and ajax requests.Built Templates with an assortment of JavaScript micro- templating tools
+that include underscore.js, mustache.js and HandleBar.js.Installed and maintained packages and dependencies
+using nodeJs npm.Utilized Backbone.Marionette to improve the application architecture as well as enhance the user interface.Implemented tabular data using Datatables integrated with Bootstrap 3.Utilized Grunt for build/deploy the application.Debugged the common code platform to remove bugs from several features of the code using Eclipse IDE , Safari
+developer tool, Firebug, Chrome Developer tool.Worked in an Agile environment running morning scrums and bi-weekly sprint pattern
+ Used gitlab and SVN for source version control.Environment and Technologies: JavaScript, Ajax, CSS, XHTML, HTML5, XML, CSS3, Java, JSP, JSP Tag Library, Servlet, Oracle, jQuery, JBoss, Ant, Eclipse, SVN, gitlab, Backbone.js, Grunt/Node.js, Bootstrap,nodeJs, npm package
+        
+      
+        
+        
+          
+            UI Developer Intern
+            
+              Mar 2015 to 
+              Oct 2015
+            
+          
+          
+            Gigame － 
+            Santa Clara, 
+            CA
+          
+          Developed a site-wide web 2.0 migration service using Ajax framework using JQuery, JSP, MVC and HTML5 leveraging Bootstrap framework.Used Facebook SDK for JavaScript to implement client side functionality for adding social plugins, making API calls and implementing Facebook Login. Developed Ajax implementation for searching Candidates/ Jobs/ Companies for different search criteria.  Implemented autosuggest widget for different fields like location, job categories, skills etc. for user profile.  Developed HTML5 interfaces with an understanding of UI design principles and object-oriented program development. Implemented a HTML5 page to present the search box with JavaScript file to handle the AJAX functionality and a server-side JSP page and JavaScript MVC to return a new-line separated list of suggested searches.  Developed and migrated customer profile page to jQuery isotope plug-in with AJAX implementation, and extensively used jQuery Dom, traversing and selector API. Developed a box model for padding, margins or borders on the playing fields or the draggable elements will cause them not to stay fully in the playing field so that they will overlap the region by the width of the margin/padding/border. Debugged the common code platform to remove bugs from several features of the code using Eclipse IDE and Firebug Tool Developed UI library functions to increase the code reusability and support standard coding practices. Developed a Customer profile area auto scroll with the messages to increase the usability of the chat. Developed functionality for displaying values in tag style and implemented validations like null check for duplicate value check etc.Designed expanded rows that will wiped out and restored when the DataTable paginates or sorts, and to keep track of expanded rows and automatically restore them after each rendering of the DataTable.Implement tokeninput autocomplete plugin to make the integration and the data is saved on the database. Implemented the fancy box to Change the image of popup when link is clicked. Developed SQL statements to get fetch data and implemented pagination.Used standard coding practices to debug the code and provide a general object oriented solution to support all other features.Environment and Technologies: JavaScript, Ajax, CSS, XHTML, HTML5, Bootstrap, XML, CSS3, Java, JSP, JSP Tag Library, Servlet, Oracle, jQuery, Tomcat, Ant, Eclipse, SVN, Tomcat 
+        
+      
+        
+        
+          
+            Project Engineer
+            
+              Nov 2010 to 
+              Current
+            
+          
+          
+            Wipro Technologies － 
+            Bangalore, 
+            India
+          
+          Created web pages for each project using XHTML, CSS, and JavaScript. Developed and implemented pure CSS-based page layouts.Identifying and solving cross-browser compatibility issues relating to XHTML and CSS. Creating new web pages from Photoshop mockups using CSS and XHTML. Worked on tools like Home site, Dream Weaver, Photoshop and Image Ready and also constructed and evaluated prototypes following standards.Worked with CSS Selectors, classes, ids, pseudo classes, Inheritance and cascade concepts, Box model with fixed width, fluid & elastic layouts Implemented User Interface using JSP and HTML, CSS.Used the Ajax technology for making asynchronous calls for the Action classes for validating the data for the Modify and Add functionality of the Application. Used Concurrent Version System for Version Control System.Constructed Web Wireframes and Mock-ups by designing and building interaction, determined screen layouts, style, and color palettes.Developed Complex database objects like Stored Procedures, Functions, Packages, and Triggers using SQL and PL/SQL Developed Java code for UI/Business validations for owned use cases. Involved in resolving production problems for the applications and Ensured all support service level agreements are met. Mentored junior engineers in the team and getting them productive quickly. Effectively made use of Tables, Indexes, Partitioning, Collections, Exception Handling, Constraints, Index, Views, Ref cursor					Environment and Technologies: JavaScript, jQuery, JSON, XML, HTML, CSS, Java, Tomcat, Ajax, JSP, XML.
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+            Postgraduate Certificate in Software Engineering
+University Of California Santa Cruz Extension Silicon Valley
+            
+            
+              2015
+            
+          
+          
+            
+            
+            CA
+            
+          
+          
+          
+        
+      
+        
+        
+          
+            Bachelors, 
+            Electrical and Electronics Engineering
+            
+              2010
+            
+          
+          
+            M.G. University Kerala
+            
+            
+            
+          
+          
+          Electrical and Electronics Engineering
+        
+      
+      
+      
+        
+        Other Achievements
+      
+        
+        wipro spark award 	2011-07
+ Awarded certificate for outstanding contribution, "Wipro Spark" in 2011 by Wipro Technologies as an appreciation
 for hard work and dedication.
- skills
- operating system: windows 98/2k/nt/xp, unix, mac os x
-web technologies: css/css3, html/html5, xml, xhtml, responsive design, json, javascript, jsp, servlet,
-ajax, jquery, json, javascript es6,
-webpack
-framework: jquery, angular.js, react.js, backbone.js
-built tools grunt, gitlanguages: c, c , java, php.
-java ide's :eclipse ide, spring tool suite ide, aptana ide, netbeans ide
-web/app. servers apache tomcat, jboss application server
-database mysql, db2, oracle7.x/8.x/9.x/10
-other tools sql, sql plus, wamp
-tools & utilities: ant, junit,
-version mgmt. cvs , subversion, gitlab
- additional information
- github: https://github.com/taniatressa/tania-thomas-repository.git
- 
+      
+      
+      
+        
+        Skills
+      
+        
+        Operating System: Windows 98/2K/NT/XP, Unix, Mac OS X
+Web Technologies: CSS/CSS3, HTML/HTML5, XML, XHTML, Responsive Design, JSON, JavaScript, JSP, Servlet,
+AJAX, jQuery, JSON, JavaScript ES6,
+Webpack
+Framework: JQuery, Angular.js, React.js, Backbone.js
+Built Tools Grunt, GitLanguages: C, C  , JAVA, PHP.
+JAVA IDE's :Eclipse IDE, Spring Tool Suite IDE, Aptana IDE, Netbeans IDE
+Web/App. Servers Apache Tomcat, Jboss Application Server
+Database MySQL, DB2, Oracle7.x/8.x/9.x/10
+Other Tools SQL, SQL PLUS, WAMP
+Tools & Utilities: ANT, JUnit,
+Version Mgmt. CVS , Subversion, gitlab
+      
+      
+      
+        
+        Additional Information
+      
+        
+        GitHub: https://github.com/taniatressa/Tania-Thomas-repository.git
+      
+      
+    

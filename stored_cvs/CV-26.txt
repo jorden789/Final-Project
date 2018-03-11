@@ -1,44 +1,159 @@
 
- web and report developer (.net c#, ssrs)
- summary
- i am looking to work on challenging projects in a company with room for growth and excellent compensation. strong professional and educational background in designing and implementing object-oriented database-driven applications
-*exceptional ability to learn and apply new skills successfully
-*proven capacity to work creatively and effectively singly and in a team environment
-*skills in point of sales, accounting, retail, medical, and inventory control, mortgage, return authorization industry
-*experienced with sql replication
-*experienced with web application using delphi and webhub
-*strong knowledge of front end and back end development
-*good team player
-*experienced with agile scrum methodologies
-*strong experience with ssrs
-senior software engineer with 10+ years in analysis, design, development, testing and implementation of various internet-based applications. skills
- c#, mvc, .net, delphi 2-2010, vb.net,sql server 2000/2016, xml, html, java script, pascal html/dhtml, css, javascript, xml, jquery, bootstrap, microsoft .net.graphic tools: adobe photoshopreporting tools: crystal report 5 through 9, report builder, microsoft reporting services ssrsdatabase: access, mysql,sql server 2000-2016, ado, ado.net, oracleoperating systems: windows 95/98/nt/me/xp/2000/7 server, windows 2003, solaris, unixproject roles: data architect, dba designer, programmer, project manager, team leader, testing    version control: vss, tfsbug tracking tool: salesforce, jirasql fluent in c, c++, c#mysqlvisual sourcesafe
- excellent communicatorcomplex problem solver
- experience
- 08/2013
- to current
- web and report developer (.net c#, ssrs)
- the retail equation － irvine, ca
- collaborated with designers to create clean interfaces and simple, intuitive interactions and experiences. full stack web developer.responsible for the design and maintain the existing software which is a service for point of sales to track return authorization using .net, mvc, c# technology.responsible for design report using ssrs.implemented ssrs subsubscription manager like the existing ms product to do custom jobs of incorporating delivery methods to fit company needs.designed and developed complex functions and stored procedures using mssql.troubleshot and resolved production problems.worked on client side of the product using jquery, javascript, razor, bootstrap, ajax.
- 10/2010
- to 07/2013
- senior lead software developer (.net and delphi)
- resnet － lake forest, ca
- lead of delphi team.responsible for the design and implementation of a mortgage system using delphi/web hub, vs 2010, c#, asp.net, mvc, and mysql/mssql 2008.worked with business users and analysts on gathering business requirements and design specifications.designed and developed functions and stored procedures using mysql/mssql.    troubleshot and resolved production problems.developed portals for agents to connect to homeowners, buyers, asset managers, short sale servicers.worked on client side of the product using jquery, javascript, razor.
- 07/1996
- to 09/2010
- senior lead software developer (.net and delphi)
- comcash － irvine, ca
- project manager of a development team and supervised delivery and integration cycles.analyzed and developed pos system using delphi 2010 and sql server.developed a client server system that provided end user a way to do unlimited real time inventory control; manage customer data, bar coding, sales ringing up, credit card processing.developed a touch screen system with unlimited drill-down menu for convenient stores and restaurants.developed the back end system that consisted of data access, and data maintenance tools for end user to control their inventory at ease.developed an online shopping cart using .net technology so that customers can take advantage of the same database on point of sales side and sell products on the web.participated in the production, expansion, and maintenance of the sql server database that stored all the end of day data.participated in test cycles and debug applications.developed datasync, a middle tier to update and poll data from web and windows application using delphi, asp.net, c#, and soap.built an enterprise solution to bring data from other locations to central via sql replication technology and delphi programming.developed comcash qbi, the first automated xml interface to quickbooks, generating massive market exposure and expanding target market using delphi.
- education and training
- b.s: information and computer science
- university of california
- － irvine, ca
- information and computer science
- activities and honors
- microsoft .net certification from university of california, irvine (uci) in 2003
- skills
- .net, microsoft .net, vb.net, asp.net, ado, adobe photoshop, ajax, architect, client server, credit, crystal report 5, css, client, version control, dba, database, delivery, delphi, delphi 2, dhtml, xml, graphic, html, hub, inventory, inventory control, javascript, java script, jquery, team leader, market, access, c#, sql server 2000, windows, 2000, windows 95, 98, nt, mvc, mysql, enterprise, operating systems, oracle, pascal, pos, coding, programmer, programming, quickbooks, real time, reporting, sales, soap, solaris, mssql, sql, sql server, unix, web developer
- additional information
- computers (programming, building, using), handheld technology, music, theology, webpage design, charity work, marathons
- 
+      
+        
+        
+           WEB AND REPORT DEVELOPER (.NET C#, SSRS)
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        I am looking to work on challenging projects in a company with room for growth and excellent compensation. Strong professional and educational background in designing and implementing object-oriented database-driven applications
+*Exceptional ability to learn and apply new skills successfully
+*Proven capacity to work creatively and effectively singly and in a team environment
+*Skills in Point of Sales, accounting, retail, medical, and inventory control, mortgage, return authorization industry
+*Experienced with SQL replication
+*Experienced with web application using Delphi and Webhub
+*Strong knowledge of front end and back end development
+*Good team player
+*Experienced with agile scrum methodologies
+*Strong experience with SSRS
+Senior Software Engineer with 10+ years in analysis, design, development, testing and implementation of various internet-based applications. 
+      
+      
+      
+        
+        Skills
+      
+        
+        
+          
+            
+              C#, MVC, .NET, Delphi 2-2010, VB.NET,SQL Server 2000/2016, XML, HTML, Java Script, Pascal HTML/DHTML, CSS, JavaScript, XML, JQuery, Bootstrap, Microsoft .NET.Graphic Tools: Adobe PhotoshopReporting Tools: Crystal Report 5 through 9, Report Builder, Microsoft Reporting Services SSRSDatabase: Access, MySQL,SQL Server 2000-2016, ADO, ADO.NET, OracleOperating Systems: Windows 95/98/NT/ME/XP/2000/7 Server, Windows 2003, Solaris, UnixProject Roles: Data Architect, DBA Designer, Programmer, Project Manager, Team Leader, Testing    Version Control: VSS, TFSBug Tracking Tool: SalesForce, JIRASQL Fluent in C, C++, C#MySQLVisual SourceSafe
+              Excellent communicatorComplex problem solver
+            
+          
+        
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          08/2013
+           to 
+          Current
+        
+        
+          
+            Web and Report Developer (.NET C#, SSRS)
+          
+          
+            The Retail Equation － 
+            Irvine, 
+            CA
+          
+          
+            Collaborated with designers to create clean interfaces and simple, intuitive interactions and experiences. Full stack web developer.Responsible for the design and maintain the existing software which is a service for Point of Sales to track return authorization using .NET, MVC, C# technology.Responsible for design report using SSRS.Implemented SSRS Subsubscription Manager like the existing MS product to do custom jobs of incorporating delivery methods to fit company needs.Designed and developed complex functions and stored procedures using MSSQL.Troubleshot and resolved production problems.Worked on client side of the product using Jquery, Javascript, Razor, Bootstrap, Ajax.
+          
+        
+      
+        
+        
+          10/2010
+           to 
+          07/2013
+        
+        
+          
+            Senior Lead Software Developer (.NET and Delphi)
+          
+          
+            RESNET － 
+            Lake Forest, 
+            CA
+          
+          
+            Lead of Delphi team.Responsible for the design and implementation of a mortgage system using Delphi/Web Hub, VS 2010, C#, ASP.NET, MVC,  and MySQL/MSSQL 2008.Worked with business users and analysts on gathering business requirements and design specifications.Designed and developed functions and stored procedures using MySQL/MSSQL.    Troubleshot and resolved production problems.Developed portals for agents to connect to homeowners, buyers, asset managers, short sale servicers.Worked on client side of the product using Jquery, Javascript, Razor.
+          
+        
+      
+        
+        
+          07/1996
+           to 
+          09/2010
+        
+        
+          
+            Senior Lead Software Developer (.NET and Delphi)
+          
+          
+            COMCASH － 
+            Irvine, 
+            CA
+          
+          
+            Project Manager of a development team and supervised delivery and integration cycles.Analyzed and developed POS system using Delphi 2010 and SQL Server.Developed a client server system that provided end user a way to do unlimited real time inventory control; manage customer data, Bar coding, sales ringing up, credit card processing.Developed a touch screen system with unlimited drill-down menu for convenient stores and restaurants.Developed the back end system that consisted of Data access, and data maintenance tools for end user to control their inventory at ease.Developed an online shopping cart using .NET technology so that customers can take advantage of the same database on Point Of Sales side and sell products on the web.Participated in the production, expansion, and maintenance of the SQL Server database that stored all the end of day data.Participated in test cycles and debug applications.Developed DataSync, a middle tier to update and poll data from web and windows application using Delphi, ASP.NET, C#, and SOAP.Built an enterprise solution to bring data from other locations to central via SQL replication technology and Delphi programming.Developed COMCASH QBI, the first automated XML interface to QuickBooks, generating massive market exposure and expanding target market using Delphi.
+          
+        
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+        
+        
+          
+            B.S: 
+            Information and Computer Science
+          
+          
+            University of California
+             － 
+            Irvine, 
+            CA
+            
+          
+          
+          
+            Information and Computer Science
+          
+        
+      
+      
+      
+        
+        Activities and Honors
+      
+        
+        Microsoft .NET certification from University of California, Irvine (UCI) in 2003
+      
+      
+      
+        
+        Skills
+      
+        
+        .NET, Microsoft .NET, VB.NET, ASP.NET, ADO, Adobe Photoshop, Ajax, Architect, client server, credit, Crystal Report 5, CSS, client, Version Control, DBA, Database, delivery, Delphi, Delphi 2, DHTML, XML, Graphic, HTML, Hub, inventory, inventory control, JavaScript, Java Script, JQuery, Team Leader, market, Access, C#, SQL Server 2000, Windows, 2000, Windows 95, 98, NT, MVC, MySQL, enterprise, Operating Systems, Oracle, Pascal, POS, coding, Programmer, programming, QuickBooks, real time, Reporting, Sales, SOAP, Solaris, MSSQL, SQL, SQL Server, Unix, web developer
+      
+      
+      
+        
+        Additional Information
+      
+        
+        Computers (programming, building, using), handheld technology, music, theology, webpage design, charity work, marathons
+      
+      
+    

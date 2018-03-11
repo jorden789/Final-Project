@@ -1,44 +1,187 @@
 
- analyst
- summary
- software engineer offering almost 3 years in the it industry with a focus on product design and development. extensive knowledge working with government applications and the software development life cycle (sdlc).
- skills
- microsoft office: word, powerpoint, excel | basic skills in acl, quickbooks, and microsoft access | communication | team player | fast learner and detail orientated
-foreign language
- proficient in html |agile development methodologies |requirements analysis and design phases |analytical
- experience
- analyst
- 08/2015
- icf international
- rockville, md
- software
-development life cycle, software testing and product evaluation. ·       creating
-and updating documents for a release and tracking issues.test case/script
-creation (spanish/ english) after in depth reviews of requirements documents.performing a wide variety of positive and negative testing for system validations.black box testing to check the functionality of web, client server, and mainframe based applications. 
- computer operation assistant
- 05/2015 to 08/2015
- university of maryland
- college park, md
- monitoring and controlling the console of a multi-user computer system.responsible for loading media and performing routine media maintenance for computer operations. observing computer and peripheral equipment and learning to detect error message, faulty output, or machine stoppage. 
- call center representative
- 09/2012 to 01/2013
- the active network
- frostburg, md
- answering inquiries by clarifying desired information; researching, locating, and providing information.resolving problems by clarifying issues; researching and exploring answers and alternative solutions; implementing solutions; escalating unresolved problems.
- languages
- bilingual spanish/english education and training
- computer information systems
- 2014
- frostburg state university frostburg, md, usa
- cybersecurity
- 2018
- umbc
- rockville, md, usa
- skills
- java, htmlmicrosoft office products 	analytical skills systems analysis and design 
- activities and honors
- president of the latin
-american student organization l.a.s.o in frostburg state universitypresident
-of computer club montgomery
-college 
- 
+      
+        
+        
+           ANALYST
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Software Engineer offering almost 3 years in the IT industry with a focus on product design and development. Extensive knowledge working with government applications and the Software Development Life Cycle (SDLC).
+      
+      
+      
+        
+        Skills
+      
+        
+        
+          
+            
+              Microsoft Office: Word, PowerPoint, Excel | Basic Skills in ACL, QuickBooks, and Microsoft Access | Communication | Team Player | Fast Learner and detail orientated
+Foreign Language
+              Proficient in HTML |Agile development methodologies |Requirements analysis and design phases |Analytical
+            
+          
+        
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Analyst
+            
+              08/2015
+              
+            
+          
+          
+            ICF International
+            
+              Rockville, 
+              MD
+            
+          
+          
+            Software
+development life cycle, software testing and product evaluation. 
+
+·       Creating
+and updating documents for a release and tracking issues.Test case/script
+creation (Spanish/ English) after in depth reviews of requirements documents.Performing a wide variety of positive and negative testing for system validations.Black box testing to check the functionality of web, client server, and mainframe based applications. 
+          
+        
+      
+        
+        
+          
+            Computer Operation Assistant
+            
+              05/2015 to 
+              08/2015
+            
+          
+          
+            University of Maryland
+            
+              College Park, 
+              MD
+            
+          
+          
+            Monitoring and controlling the console of a multi-user computer system.Responsible for loading media and performing routine media maintenance for computer operations. Observing computer and peripheral equipment and learning to detect error message, faulty output, or machine stoppage. 
+          
+        
+      
+        
+        
+          
+            Call center representative
+            
+              09/2012 to 
+              01/2013
+            
+          
+          
+            The Active Network
+            
+              Frostburg, 
+              MD
+            
+          
+          
+            Answering inquiries by clarifying desired information; researching, locating, and providing information.Resolving problems by clarifying issues; researching and exploring answers and alternative solutions; implementing solutions; escalating unresolved problems.
+          
+        
+      
+      
+      
+        
+        Languages
+      
+        
+        Bilingual Spanish/English 
+      
+      
+      
+        
+        Education and Training
+      
+        
+        
+          
+            
+            Computer Information Systems
+            
+              2014
+            
+          
+          
+            Frostburg State University 
+            
+              Frostburg, 
+              MD, 
+            USA
+            
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          
+            
+            Cybersecurity
+            
+              2018
+            
+          
+          
+            UMBC
+            
+              Rockville, 
+              MD, 
+            USA
+            
+          
+          
+          
+            
+          
+        
+      
+      
+      
+        
+        Skills
+      
+        
+        Java, HTMLMicrosoft office products 	Analytical skills Systems Analysis and design 
+      
+      
+      
+        
+        Activities and Honors
+      
+        
+        President of the Latin
+American Student Organization L.A.S.O in Frostburg State UniversityPresident
+of Computer club 
+
+Montgomery
+College 
+      
+      
+    
