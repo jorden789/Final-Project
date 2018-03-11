@@ -1,52 +1,13 @@
 
-      
-        
-        
-           SOFTWARE ENGINEERING ANALYST
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Trained in customer service. High Energy and outgoing with a dedication to positive guest relations. I am Working as software Engineer now and want to obtain a part time job 
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Software Engineering Analyst
-            
-              12/2017 to 
-              Current
-            
-          
-          
-            Doubleverify Inc
-            
-              New York, 
-              NY
-            
-          
-          
-            
-
-
-
-
-
-
-
-
-
-
+ SOFTWARE ENGINEERING ANALYST
+ Summary
+ Trained in customer service. High Energy and outgoing with a dedication to positive guest relations. I am Working as software Engineer now and want to obtain a part time job 
+ Experience
+ Software Engineering Analyst
+ 12/2017 to Current
+ Doubleverify Inc
+ New York, NY
+ 
 
 
 
@@ -58,44 +19,16 @@ to the development of an online payment website with several thousands customers
 
 
 ·  Focused on
-back-end development using Java SpringMVC framework 
-
-·  Used Hibernate
+back-end development using Java SpringMVC framework ·  Used Hibernate
 to interact with MySQL database ensuring the consistence of transaction data
 and implement CRUD operations on backend database. 
 
 
-          
-        
-      
-        
-        
-          
-            Assistant Librarian
-            
-              08/2016 to 
-              08/2017
-            
-          
-          
-            Cornell University Loin Library
-            
-              Ithaca, 
-              NY
-            
-          
-          
-            
-
-
-
-
-
-
-
-
-
-
+ Assistant Librarian
+ 08/2016 to 08/2017
+ Cornell University Loin Library
+ Ithaca, NY
+ 
 
 
 
@@ -103,43 +36,15 @@ and implement CRUD operations on backend database. 
 
 
 ·  Worked as a part
-time student receptionist 
-
-·  Assisted with technical,
+time student receptionist ·  Assisted with technical,
 directional and information problems related with library servcies 
 
 
-          
-        
-      
-        
-        
-          
-            Graduate Research Assistant
-            
-              08/2016 to 
-              08/2017
-            
-          
-          
-            Cornell Univerity
-            
-              Ithaca, 
-              NY
-            
-          
-          
-            
-
-
-
-
-
-
-
-
-
-
+ Graduate Research Assistant
+ 08/2016 to 08/2017
+ Cornell Univerity
+ Ithaca, NY
+ 
 
 
 
@@ -149,74 +54,20 @@ directional and information problems related with library servcies 
 ·  Built Inception-ResNet,
 ResNet, and VGGNet models on Tensorflow, training and fine-tuning from scratch
 to classify pollutes images, achieved 80% top-5 accuracy on dataset with 200
-classes 
-
-·  Collected,
+classes ·  Collected,
 analyzed and visualized the daily research data set using Numpy, Pandas and Matplotlib
 in Python
 
 
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            Master of Science: 
-            Civil Engineering
-            
-              2017
-            
-          
-          
-            Cornell Univerisity
-            
-              Ithaca, 
-              NY
-            
-            
-          
-          
-          
-            
-          
-        
-      
-        
-        
-          
-            Bachelor of Science: 
-            Environment Engineering
-            
-              2015
-            
-          
-          
-            Nankai University
-            
-              Tianjin, 
-              
-            China
-            
-          
-          
-          
-            
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        Languages: English, MandarinComputer Skills : Java, Python, Microsoft Office
-      
-      
-    
+ Education and Training
+ Master of Science: Civil Engineering
+ 2017
+ Cornell Univerisity
+ Ithaca, NY
+ Bachelor of Science: Environment Engineering
+ 2015
+ Nankai University
+ Tianjin, China
+ Skills
+ Languages: English, MandarinComputer Skills : Java, Python, Microsoft Office
+ 

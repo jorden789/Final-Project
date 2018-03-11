@@ -1,151 +1,38 @@
 
-      
-        
-        
-           SOFTWARE INTERN
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Seeking an entry-level Data Scientist position
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              C++, C, Python, MATLAB, Linux, SQL, Microsoft Office
+ SOFTWARE INTERN
+ Summary
+ Seeking an entry-level Data Scientist position
+ Skills
+ C++, C, Python, MATLAB, Linux, SQL, Microsoft Office
 GitHub: https://github.com/kasimshah
-              
-            
-          
-        
-      
-      
-      
-        
-        Accomplishments
-      
-        
-        Machine Learning, Advance Data Base Systems, Big Data, Pattern Recognition and Data Mining, Web Search and Information Retrieval, Linear Algebra, Probability, Advanced Design and Analysis of Algorithms
-Projects:.Movie Recommendation System - Implemented in Python using NumPy Library.A recommendation system using a hybrid of K-Means Clustering and Collaborative Filtering.Home Price Predictions - Implemented in MATLAB.Created a Linear Regression model to predict home prices based upon their size.Classification of Flowers - Implemented in MATLAB.Classified flowers using Bayes Decision Theory to estimate the mean and covariance matrix for different flower types.Certificate of Achievement in Programming C/C++        August 2016
+ Accomplishments
+ Machine Learning, Advance Data Base Systems, Big Data, Pattern Recognition and Data Mining, Web Search and Information Retrieval, Linear Algebra, Probability, Advanced Design and Analysis of Algorithms
+Projects:.Movie Recommendation System - Implemented in Python using NumPy Library.A recommendation system using a hybrid of K-Means Clustering and Collaborative Filtering.Home Price Predictions - Implemented in MATLAB.Created a Linear Regression model to predict home prices based upon their size.Classification of Flowers - Implemented in MATLAB.Classified flowers using Bayes Decision Theory to estimate the mean and covariance matrix for different flower types.Certificate of Achievement in Programming C/C++ August 2016
 De Anza College, Cupertino, CA
 Courses: Data Abstraction and Structures, Advanced C & Advanced C++ Programming
-Master and Bachelor of Science in Biomedical Engineering          Design
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Software Intern
-            
-              06/2017 to 
-              Current
-            
-          
-          
-            D2S Inc
-            
-              San Jose, 
-              CA
-            
-          
-          
-            Supplier of GPU-accelerated computational design platform to maximize existing eBeam technology to reduce mask costs for semiconductor manufacturing.Developing TCL scripts for analyzing CAD shapes.Analyze shape alignment algorithm to optimized parameters for finer alignment, using Data Display Debugger on C++ code base.
-          
-        
-      
-        
-        
-          
-            Test Engineer
-            
-              09/2015 to 
-              06/2016
-            
-          
-          
-            Outset Medical Inc
-            
-              San Jose, 
-              CA
-            
-          
-          
-            Performed Quality and Reliability testing on miniaturize dialysis systems.
-          
-        
-      
-        
-        
-          
-            Associate Research Scientist 1 contractor
-            
-              08/2013 to 
-              02/2015
-            
-          
-          
-            Novartis Pharmaceuticals
-            
-              San Carlos, 
-              CA
-            
-          
-          
-            Performed data analysis,  prepared  and presented detail reports on laboratory tests.
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            Master of Science: 
-            Computer Science and Engineering Data Science
-            
-              June 2018
-            
-          
-          
-            Santa Clara University
-            
-              Santa Clara, 
-              CA
-            
-            
-          
-          
-          
-            Computer Science and Engineering Data Science
-          
-        
-      
-      
-      
-      
-        
-        Skills
-      
-        
-        C, C++, CAD, com, data analysis, dialysis, laboratory tests, Linux, MATLAB, Microsoft Office, Python, Quality, scripts, SQL, TCL
-      
-      
-    
+Master and Bachelor of Science in Biomedical Engineering Design
+ Experience
+ Software Intern
+ 06/2017 to Current
+ D2S Inc
+ San Jose, CA
+ Supplier of GPU-accelerated computational design platform to maximize existing eBeam technology to reduce mask costs for semiconductor manufacturing.Developing TCL scripts for analyzing CAD shapes.Analyze shape alignment algorithm to optimized parameters for finer alignment, using Data Display Debugger on C++ code base.
+ Test Engineer
+ 09/2015 to 06/2016
+ Outset Medical Inc
+ San Jose, CA
+ Performed Quality and Reliability testing on miniaturize dialysis systems.
+ Associate Research Scientist 1 contractor
+ 08/2013 to 02/2015
+ Novartis Pharmaceuticals
+ San Carlos, CA
+ Performed data analysis, prepared and presented detail reports on laboratory tests.
+ Education and Training
+ Master of Science: Computer Science and Engineering Data Science
+ June 2018
+ Santa Clara University
+ Santa Clara, CA
+ Computer Science and Engineering Data Science
+ Skills
+ C, C++, CAD, com, data analysis, dialysis, laboratory tests, Linux, MATLAB, Microsoft Office, Python, Quality, scripts, SQL, TCL
+ 

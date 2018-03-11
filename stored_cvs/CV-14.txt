@@ -1,140 +1,33 @@
 
-      
-        
-        
-          
-          SENIOR APPLICATIONS DEVELOPER
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Senior Application Developer with 7+ years in analysis, design, development, testing and implementation of various internet-based applications.
-      
-      
-      
-        
-        Languages
-      
-        
-        C#.NET, JavaScript, HTML5, CSS3
-      
-      
-      
-        
-        Technologies
-      
-        
-        ASP.NET, MVC, WCF, WEBAPI, LINQ, jQuery, AJAX, MS SQL 2008/2012, Entity Framework
-      
-      
-      
-        
-        Concepts
-      
-        
-        Service Oriented Architecture, Restful APIs, Single Page Applications, Object Oriented Javascript
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Senior Applications Developer
-            
-              Oct 2015 to 
-              Current
-            
-          
-          
-            D2 Creative － 
-            Somerset, 
-            NJ
-          
-          Develop new features and perform maintenance on an existing web application targeted for pharmaceutical sales representatives. Routinely mentor junior developers.Create data visualization and dashboard reports as well as the restful APIs that supply the data. Collaborated with designers to create clean interfaces and simple, intuitive interactions and experiences.Develop new public facing content driven websites using the Umbraco content management system. 
-        
-      
-        
-        
-          
-            Web Developer
-            
-              May 2015 to 
-              Oct 2015
-            
-          
-          
-            Brother International Corporation － 
-            Bridgewater, 
-            NJ
-          
-          Handle maintenance ticket requests for bugs/changes from twelve divisions of the business to over ten different websites.Work on medium sized projects (40-160 hours).Design and develop microsites for different areas of the business.Convert static pages into responsive design.Train and document Responsive Design best practices to other developers.
-        
-      
-        
-        
-          
-            Applications Developer
-            
-              Nov 2013 to 
-              Apr 2015
-            
-          
-          
-            O'Sullivan Communications － 
-            West Caldwell, 
-            NJ
-          
-          Develop new features for existing web applications using C#, Javascript, JQuery, HTML Collaborate with other developers in design sessions to problem solve Converted existing WCF services to WebAPIBuilt, modified and added webservices in both WCF and WebAPITrain internal and external users on use of new applications Support and troubleshoot user problems with applications Responsibility in every part of the SDLC process for new applications and projects.Developed new features for, and maintained a custom built Content Management System for Airline Menu Data.Converted webforms to a Single Page Application.Developed a weighted search system for the Content Management System using T-SQL stored procedures and a WCF web service.Helped design and develop a new resource management system for internal/external translators.This is utilized to increase efficiency in streamlining the customer cost estimates as well as managing external translators.
-        
-      
-        
-        
-          
-            Senior Applications Developer
-            
-              Jun 2009 to 
-              Nov 2013
-            
-          
-          
-            New York Life Insurance Co － 
-            Clinton, 
-            NJ
-          
-          Subject matter expert in New York Life's testing process, including Unit Testing, Integration Testing, Baseline Testing, Model Office Testing, Customer Acceptance Testing.Collaborating and communicating directly with business partners and other programmers throughout the organization.Personally managing the implementation process of moving code from release testing to the production environment.Mentoring and assisting junior programmers in coding and testingDesigned and implemented Web Automated Correspondence System for Customer Acceptance Testing. This project eliminated human errors on our correspondence emails.Designed and Implemented a web based Issue Tracking System for the QA Testing Team.Designed and Implemented a web based Task Management System for the QA Testing Team.Developed a web interface for creating test cases and scrubbing input data for Customer Acceptance Testing. Previously this process used MS Access. Implemented a new Model Office Testing environment from scratch. 
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-            
-            Computer Science- Information Systems
-            
-              2009
-            
-          
-          
-            College of Staten Island-CUNY － 
-            Staten Island, 
-            New York
-            
-          
-          
-          Dean's List 2008- 2009
-        
-      
-      
-    
+ SENIOR APPLICATIONS DEVELOPER
+ Summary
+ Senior Application Developer with 7+ years in analysis, design, development, testing and implementation of various internet-based applications.
+ Languages
+ C#.NET, JavaScript, HTML5, CSS3
+ Technologies
+ ASP.NET, MVC, WCF, WEBAPI, LINQ, jQuery, AJAX, MS SQL 2008/2012, Entity Framework
+ Concepts
+ Service Oriented Architecture, Restful APIs, Single Page Applications, Object Oriented Javascript
+ Experience
+ Senior Applications Developer
+ Oct 2015 to Current
+ D2 Creative Somerset, NJ
+ Develop new features and perform maintenance on an existing web application targeted for pharmaceutical sales representatives. Routinely mentor junior developers.Create data visualization and dashboard reports as well as the restful APIs that supply the data. Collaborated with designers to create clean interfaces and simple, intuitive interactions and experiences.Develop new public facing content driven websites using the Umbraco content management system. 
+ Web Developer
+ May 2015 to Oct 2015
+ Brother International Corporation Bridgewater, NJ
+ Handle maintenance ticket requests for bugs/changes from twelve divisions of the business to over ten different websites.Work on medium sized projects (40-160 hours).Design and develop microsites for different areas of the business.Convert static pages into responsive design.Train and document Responsive Design best practices to other developers.
+ Applications Developer
+ Nov 2013 to Apr 2015
+ O'Sullivan Communications West Caldwell, NJ
+ Develop new features for existing web applications using C#, Javascript, JQuery, HTML Collaborate with other developers in design sessions to problem solve Converted existing WCF services to WebAPIBuilt, modified and added webservices in both WCF and WebAPITrain internal and external users on use of new applications Support and troubleshoot user problems with applications Responsibility in every part of the SDLC process for new applications and projects.Developed new features for, and maintained a custom built Content Management System for Airline Menu Data.Converted webforms to a Single Page Application.Developed a weighted search system for the Content Management System using T-SQL stored procedures and a WCF web service.Helped design and develop a new resource management system for internal/external translators.This is utilized to increase efficiency in streamlining the customer cost estimates as well as managing external translators.
+ Senior Applications Developer
+ Jun 2009 to Nov 2013
+ New York Life Insurance Co Clinton, NJ
+ Subject matter expert in New York Life's testing process, including Unit Testing, Integration Testing, Baseline Testing, Model Office Testing, Customer Acceptance Testing.Collaborating and communicating directly with business partners and other programmers throughout the organization.Personally managing the implementation process of moving code from release testing to the production environment.Mentoring and assisting junior programmers in coding and testingDesigned and implemented Web Automated Correspondence System for Customer Acceptance Testing. This project eliminated human errors on our correspondence emails.Designed and Implemented a web based Issue Tracking System for the QA Testing Team.Designed and Implemented a web based Task Management System for the QA Testing Team.Developed a web interface for creating test cases and scrubbing input data for Customer Acceptance Testing. Previously this process used MS Access. Implemented a new Model Office Testing environment from scratch. 
+ Education
+ Computer Science- Information Systems
+ 2009
+ College of Staten Island-CUNY Staten Island, New York
+ Dean's List 2008- 2009
+ 

@@ -1,163 +1,37 @@
 
-      
-        
-        
-           DSI - TECHNICAL MANAGER
-        
-      
-      
-      
-      
-      
-        
-        Highlights
-      
-        
-        
-          
-            
-              Development environment software  Java/Java EESpringSQL(MySQL, PostgreSQL)PHPHTML/CSSJavaScriptIntelliJ IDEASublimTextGit 
-              Microsoft ToolsQuick learnerCollaborative team memberIssue resolutionEnergetic and organizedExcellent communicator 
-            
-          
-        
-      
-      
-      
-        
-        Accomplishments
-      
-        
-        Developped the web service of an ERP in Java EE for AirLab'Eau a company analysing air and water on different sites.  ​
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          04/2016
-           to 
-          Current
-        
-        
-          
-            DSI - Technical manager
-          
-          
-            Junior ISEP － 
-            Paris, 
-            France
-          
-          
-            Take care of document's technical validation, for documents realised by project managers.Dispense training, particularly Java programming training.Follow a study, project (being closer to consultants).
-          
-        
-      
-        
-        
-          12/2015
-           to 
-          Current
-        
-        
-          
-            Software Consultant
-          
-          
-            Junior ISEP － 
-            Paris, 
-            France
-          
-          
-            
-    Designed, developed and implemented a webservice of an ERP for AirLab'Eau company (analysing air and water).
-    Worked with a team composed of projet manager and three other consultants.
-    
-    
-
-          
-        
-      
-        
-        
-          06/2012
-           to 
-          08/2013
-        
-        
-          
-            Administrative manager (Legal department)
-          
-          
-            Siaci Saint Honoré － 
-            Paris, 
-            France
-          
-          
-            Opened, managed, and closed sinisters. Entried data on Excel Scanned documents to put into the company's Intranet​
-          
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          2012
-        
-        
-          
-            High School Diploma: 
-            Scientist
-          
-          
-            Saint Pierre Institute
-             － 
-            Brunoy
-            
-            France
-          
-          
-          
-            Specialised in mathematicsGraduated with distinction
-          
-        
-      
-        
-        
-          2015
-        
-        
-          
-            Two-Year University: 
-            Preparatory Class to Engineer School
-          
-          
-            Paris Diderot University
-             － 
-            Paris
-            
-            France
-          
-          
-          
-            Informatics option (Introduction to JAVA programming) 
-          
-        
-      
-      
-      
-        
-        Interests
-      
-        
-        Sport (ski, motorbike, fitness) Music (classical guitar)Modern-Jazz danceHip-hop Cinema/TheatreAnimals
-      
-      
-      
-      
-    
+ DSI - TECHNICAL MANAGER
+ Highlights
+ Development environment software  Java/Java EESpringSQL(MySQL, PostgreSQL)PHPHTML/CSSJavaScriptIntelliJ IDEASublimTextGit Microsoft ToolsQuick learnerCollaborative team memberIssue resolutionEnergetic and organizedExcellent communicator Accomplishments
+ Developped the web service of an ERP in Java EE for AirLab'Eau a company analysing air and water on different sites.  ​
+ Experience
+ 04/2016
+ to Current
+ DSI - Technical manager
+ Junior ISEP Paris, France
+ Take care of document's technical validation, for documents realised by project managers.Dispense training, particularly Java programming training.Follow a study, project (being closer to consultants).
+ 12/2015
+ to Current
+ Software Consultant
+ Junior ISEP Paris, France
+ Designed, developed and implemented a webservice of an ERP for AirLab'Eau company (analysing air and water).
+ Worked with a team composed of projet manager and three other consultants.
+ 06/2012
+ to 08/2013
+ Administrative manager (Legal department)
+ Siaci Saint Honoré Paris, France
+ Opened, managed, and closed sinisters. Entried data on Excel Scanned documents to put into the company's Intranet​
+ Education
+ 2012
+ High School Diploma: Scientist
+ Saint Pierre Institute
+ Brunoy
+ France
+ Specialised in mathematicsGraduated with distinction
+ 2015
+ Two-Year University: Preparatory Class to Engineer School
+ Paris Diderot University
+ Paris
+ France
+ Informatics option (Introduction to JAVA programming) Interests
+ Sport (ski, motorbike, fitness) Music (classical guitar)Modern-Jazz danceHip-hop Cinema/TheatreAnimals
+ 

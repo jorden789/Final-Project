@@ -1,189 +1,42 @@
 
-      
-        
-        
-           TEACHING ASSISTANT
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        I'm a computer science student with a focus on machine learning and computer vision. I am leaving the PhD program and actively seeking promising software engineering opportunities in the industry. Starting date Dec 2016.
-      
-      
-      
-        
-        Skill Highlights
-      
-        
-        
-          
-            
-              Machine Learning and Computer VisionFamiliar with SQL/NoSQL, Spark etc.Occasional Kaggler using scikit-learn, Caffe etc.
-              Proficient in C++, Python and  MatlabWindows, Linux, CMake, Git, JIRA etc.Occasional Contributions to PCL, pystruct etc.
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Teaching Assistant
-            
-              08/2014 to 
-              12/2016
-            
-          
-          
-            University of Southern California
-            
-              Los Angeles, 
-              CA
-            
-          
-          
-            Involved in the design of a popular advanced course in Machine Learning (EE660).​Led discussion sessions with deep insights and extensive materials, received great feedback.
-          
-        
-      
-        
-        
-          
-            Software Engineer
-            
-              08/2014 to 
-              12/2015
-            
-          
-          
-            Department of Pediatrics, USC Keck School of Medicine
-            
-              Los Angeles, 
-              CA
-            
-          
-          
-            Designed and managed VETS4D, a full-fledged echocardiogram training systems for medical training.Achieved real time sensor tracking and 3D DICOM volume slicing using VTK in C++.Implemented an interactive system to measure medical statistics from echo videos in C#.The system has been released to Keck school for teaching purposes.
-          
-        
-      
-        
-        
-          
-            R&D 3D Software Engineer Intern
-            
-              05/2014 to 
-              08/2014
-            
-          
-          
-            Align Technology
-            
-              San Jose, 
-              CA
-            
-          
-          
-            Designed and Implemented a 3D mesh cutting and stitching algorithm in C++ that lowered cutting failure rate of Invisalign clear braces from 5% to virtually zero.Developed a design tool as a Solidworks plugin that allows automatic placement and merging of components, which reduced  time cost of a 3D model design routine from hours to under a minute.
-          
-        
-      
-        
-        
-          
-            Research Assistant
-            
-              08/2012 to 
-              12/2016
-            
-          
-          
-            University of Southern California
-            
-              Los Angeles, 
-              CA
-            
-          
-          
-            Conducted original machine learning based research in computer vision.Publication(s) using Probabilistic Graphical Model to detect shadows on RGB-D images.
-          
-        
-      
-      
-      
-        
-        Selected Coursework
-      
-        
-        Database Systems | Machine Learning |  Pattern Recognition | Estimation Theory | Digital Image Processing | Analysis of Algorithms | Convex Optimization | Computer Graphics | Multimedia Data Compression
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-            M.S.: 
-            Computer Science (2016) / Electrical Engineering (2012)
-            
-              2016
-            
-          
-          
-            University of Southern California
-            
-              Los Angeles, 
-              CA
-            
-            
-          
-          
-          
-            
-          
-        
-      
-        
-        
-          
-            B.S.: 
-            Electrical Engineering
-            
-              2010
-            
-          
-          
-            Dalian University of Technology
-            
-              Dalian, 
-              
-            China
-            
-          
-          
-          
-            
-          
-        
-      
-      
-      
-        
-        Publications
-      
-        
-        Shuyang Sheng and B. Keith Jenkins, "Shadow Detection on 3D Point Cloud", Electronic Imaging 2016.Shuyang Sheng and B. Keith Jenkins, "Cast Shadow Detection Using Illumination-Direction Inference in 3D"  (In preparation).
-      
-      
-    
+ TEACHING ASSISTANT
+ Summary
+ I'm a computer science student with a focus on machine learning and computer vision. I am leaving the PhD program and actively seeking promising software engineering opportunities in the industry. Starting date Dec 2016.
+ Skill Highlights
+ Machine Learning and Computer VisionFamiliar with SQL/NoSQL, Spark etc.Occasional Kaggler using scikit-learn, Caffe etc.
+ Proficient in C++, Python and MatlabWindows, Linux, CMake, Git, JIRA etc.Occasional Contributions to PCL, pystruct etc.
+ Experience
+ Teaching Assistant
+ 08/2014 to 12/2016
+ University of Southern California
+ Los Angeles, CA
+ Involved in the design of a popular advanced course in Machine Learning (EE660).​Led discussion sessions with deep insights and extensive materials, received great feedback.
+ Software Engineer
+ 08/2014 to 12/2015
+ Department of Pediatrics, USC Keck School of Medicine
+ Los Angeles, CA
+ Designed and managed VETS4D, a full-fledged echocardiogram training systems for medical training.Achieved real time sensor tracking and 3D DICOM volume slicing using VTK in C++.Implemented an interactive system to measure medical statistics from echo videos in C#.The system has been released to Keck school for teaching purposes.
+ R&D 3D Software Engineer Intern
+ 05/2014 to 08/2014
+ Align Technology
+ San Jose, CA
+ Designed and Implemented a 3D mesh cutting and stitching algorithm in C++ that lowered cutting failure rate of Invisalign clear braces from 5% to virtually zero.Developed a design tool as a Solidworks plugin that allows automatic placement and merging of components, which reduced time cost of a 3D model design routine from hours to under a minute.
+ Research Assistant
+ 08/2012 to 12/2016
+ University of Southern California
+ Los Angeles, CA
+ Conducted original machine learning based research in computer vision.Publication(s) using Probabilistic Graphical Model to detect shadows on RGB-D images.
+ Selected Coursework
+ Database Systems | Machine Learning |  Pattern Recognition | Estimation Theory | Digital Image Processing | Analysis of Algorithms | Convex Optimization | Computer Graphics | Multimedia Data Compression
+ Education
+ M.S.: Computer Science (2016) / Electrical Engineering (2012)
+ 2016
+ University of Southern California
+ Los Angeles, CA
+ B.S.: Electrical Engineering
+ 2010
+ Dalian University of Technology
+ Dalian, China
+ Publications
+ Shuyang Sheng and B. Keith Jenkins, "Shadow Detection on 3D Point Cloud", Electronic Imaging 2016.Shuyang Sheng and B. Keith Jenkins, "Cast Shadow Detection Using Illumination-Direction Inference in 3D" (In preparation).
+ 

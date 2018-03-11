@@ -1,153 +1,31 @@
 
-      
-        
-        
-           APPLICATIONS ANALYST II (DOCUMENT MANAGEMENT SYSTEM)
-        
-        
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Motivated senior application administrator seeking opportunities in management of a dynamic Applications and Systems Analyst team. Focused and detail-oriented, offering exceptional troubleshooting skills and a talent for developing innovative solutions to unusual and difficult problems and motivating peers to do the same. Expert in iManage and related ancillary systems. Experienced in  IntApp Wallbuilder, Integration Builder and Open, Attunity Managed File Transfer, VisaTrax, Aternity end user experience, Microsoft SQL systems and other legal applications, as well as, some Ogletree custom applications.
-      
-      
-      
-        
-        Accomplishments
-      
-        
-        Successfully managed the planning and implementation of multiple projects related to the upgrade of tier 1 and tier 2 applications.Developed SQL scripts to automate tasks used by support and other administrators to streamline processes.Worked with Sharepoint team to establish a new attorney onboarding platform to track tasks and more effectively communicate with attorneys and legal secretaries making the onboarding process much smoother.  Manage team members and other peers on several on-going projects related to attorney onboarding.Mentor and provide guidance to new team members as well as those outside of the System Administration Group.Establish processes for the Help Desk for resolution and escalation of DMS issues.
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Applications Analyst II (Document Management System)
-            
-              February 2009 to 
-              Current
-            
-          
-          
-            Ogletree Deakins － 
-            Greenville, 
-            SC
-          
-          
-            Support of the full systems life cycle of applications as well as their related hardware and software.Managed systems specification and design, installation, integration, maintenance, upgrades, patch installation, configuration, trouble-shooting, continuous performance monitoring and over-site of backup operations and strategy.Provide guidance and assistance in developing and supporting related disaster recovery and business continuity strategies.Write SQL language queries to support  systems applications as needed, perform data analysis to facilitate identifying and resolving issues and problems, assist with data integrations and data migration activities.Assist DBA in the management and administration of DMS Microsoft SQL databases.Execute systems analysis to ensure that integrated systems work properly.Resolve systems issues, develop test plans and perform testing functions on all related systems.Function as project lead and technical liaison for Document Management Systems and related systems upgrade projects.Act as primary for the on-boarding and off-boarding process for attorneys as related to the DMS.  Managed peers and other teams in projects related to onboarding.    Support Aternity End User Monitoring System, Attunity Managed File Transfer system, IntApp Wallbuilder and Open, VisaTrax, Compulaw and various other systems.Create and maintain all documentation related to supported systems.Train peers in system processes.Organized and held meetings with stakeholders, contractor product teams and customers. Effectively manage and work with vendors, building and maintaining relationships. 
-          
-        
-      
-        
-        
-          
-            Trainer
-            
-              April 2008 to 
-              February 2009
-            
-          
-          
-            New Horizons Computer Learning Center － 
-            Jacksonville, 
-            FL
-          
-          
-            Conduct classes in numerous computer soft skills, including but not limited to Microsoft Office, A  Certification course,  MS Infopath, Adobe and Photoshop.
-          
-        
-      
-        
-        
-          
-            Applications Systems Integration Specialist
-            
-              May 1998 to 
-              March 2008
-            
-          
-          
-            McGuireWoods － 
-            Jacksonville, 
-            FL
-          
-          
-            Act as administrator for Interwoven Worksite document management system (DMS) and it's integration with other software in the firm, including Microsoft Office, WorkShare, Adobe and EMC software.Train peers in support and use of firm software.Tier 3 support for and assist with many of the firms primary software, including, but not limited to, Interwoven, Workshare Professional, Microsoft Office XP, SharePoint and practice manager software.Contact for and work closely with vendors for those software.
-          
-        
-      
-        
-        
-          
-            Senior On-Site  Support Technician
-            
-              February 1753
-              
-            
-          
-          
-            McGuireWoods － 
-            Jacksonville, 
-            FL
-          
-          
-            Responsible for supporting Jacksonville office dealing with and troubleshooting all day to day issues.  Supervise and train all incoming Site Support Technicians across the Midwest and East coast.
-          
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-            BA
-             : 
-            Criminal Justice, Political Science
-            
-          
-          
-            University of North Florida
-             － 
-            Jacksonville, 
-            FL
-            
-          
-          
-          
-            
-          
-        
-      
-        
-        
-          
-          
-          
-          
-            
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        iManage Certified System Engineer (v 8.5), System administration, backup/recovery,  hardware, data analysis, data migration, databases, disaster recovery, Document Management, Microsoft Office, project lead, Microsoft SQL,  strategy, systems analysis, troubleshooting, upgrades, Microsoft OS, virtualization, web apps
-      
-      
-    
+ APPLICATIONS ANALYST II (DOCUMENT MANAGEMENT SYSTEM)
+ Summary
+ Motivated senior application administrator seeking opportunities in management of a dynamic Applications and Systems Analyst team. Focused and detail-oriented, offering exceptional troubleshooting skills and a talent for developing innovative solutions to unusual and difficult problems and motivating peers to do the same. Expert in iManage and related ancillary systems. Experienced in IntApp Wallbuilder, Integration Builder and Open, Attunity Managed File Transfer, VisaTrax, Aternity end user experience, Microsoft SQL systems and other legal applications, as well as, some Ogletree custom applications.
+ Accomplishments
+ Successfully managed the planning and implementation of multiple projects related to the upgrade of tier 1 and tier 2 applications.Developed SQL scripts to automate tasks used by support and other administrators to streamline processes.Worked with Sharepoint team to establish a new attorney onboarding platform to track tasks and more effectively communicate with attorneys and legal secretaries making the onboarding process much smoother.  Manage team members and other peers on several on-going projects related to attorney onboarding.Mentor and provide guidance to new team members as well as those outside of the System Administration Group.Establish processes for the Help Desk for resolution and escalation of DMS issues.
+ Experience
+ Applications Analyst II (Document Management System)
+ February 2009 to Current
+ Ogletree Deakins Greenville, SC
+ Support of the full systems life cycle of applications as well as their related hardware and software.Managed systems specification and design, installation, integration, maintenance, upgrades, patch installation, configuration, trouble-shooting, continuous performance monitoring and over-site of backup operations and strategy.Provide guidance and assistance in developing and supporting related disaster recovery and business continuity strategies.Write SQL language queries to support  systems applications as needed, perform data analysis to facilitate identifying and resolving issues and problems, assist with data integrations and data migration activities.Assist DBA in the management and administration of DMS Microsoft SQL databases.Execute systems analysis to ensure that integrated systems work properly.Resolve systems issues, develop test plans and perform testing functions on all related systems.Function as project lead and technical liaison for Document Management Systems and related systems upgrade projects.Act as primary for the on-boarding and off-boarding process for attorneys as related to the DMS.  Managed peers and other teams in projects related to onboarding.    Support Aternity End User Monitoring System, Attunity Managed File Transfer system, IntApp Wallbuilder and Open, VisaTrax, Compulaw and various other systems.Create and maintain all documentation related to supported systems.Train peers in system processes.Organized and held meetings with stakeholders, contractor product teams and customers. Effectively manage and work with vendors, building and maintaining relationships. 
+ Trainer
+ April 2008 to February 2009
+ New Horizons Computer Learning Center Jacksonville, FL
+ Conduct classes in numerous computer soft skills, including but not limited to Microsoft Office, A Certification course, MS Infopath, Adobe and Photoshop.
+ Applications Systems Integration Specialist
+ May 1998 to March 2008
+ McGuireWoods Jacksonville, FL
+ Act as administrator for Interwoven Worksite document management system (DMS) and it's integration with other software in the firm, including Microsoft Office, WorkShare, Adobe and EMC software.Train peers in support and use of firm software.Tier 3 support for and assist with many of the firms primary software, including, but not limited to, Interwoven, Workshare Professional, Microsoft Office XP, SharePoint and practice manager software.Contact for and work closely with vendors for those software.
+ Senior On-Site Support Technician
+ February 1753
+ McGuireWoods Jacksonville, FL
+ Responsible for supporting Jacksonville office dealing with and troubleshooting all day to day issues.  Supervise and train all incoming Site Support Technicians across the Midwest and East coast.
+ Education
+ BA
+ : Criminal Justice, Political Science
+ University of North Florida
+ Jacksonville, FL
+ Skills
+ iManage Certified System Engineer (v 8.5), System administration, backup/recovery, hardware, data analysis, data migration, databases, disaster recovery, Document Management, Microsoft Office, project lead, Microsoft SQL, strategy, systems analysis, troubleshooting, upgrades, Microsoft OS, virtualization, web apps
+ 

@@ -1,158 +1,35 @@
 
-      
-        
-        
-          
-          ENGINEERING MANAGER, QUALITY ASSURANCE
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Results-oriented QA Engineering Manager experienced with all stages of the development cycle and focused on quality testing of various internet-based applications.
-      
-      
-      
-        
-        
-          
-      
-        
-        Java, Selenium, Agile, JIRA, Zephyr, Quality Center, Strong decision, maker, Excellent communicator, Microsoft Excel, Eclipse & IntelliJ IDE, Moba XTerm, Microsoft Teams, Confluence Wiki, Oracle, Complex problem solver, Excellent Multitasking 
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Engineering Manager, Quality Assurance
-            
-              Aug 2016 to 
-              Current
-            
-          
-          
-            American Well － 
-            Boston, 
-            MA
-          
-          Oversee 10 direct reports across 6 teams to ensure project test plans are executed properly, happy path automation is complete and product releases happen by or before deadlines. Implemented and enforce QA Engineer Process for entire department when moving from waterfall methodologies to Agile methodologies.Implemented and enforce QA Training Guide for entire department new hires.Monitor and report on Automation progress each sprint.Schedule and oversee sprint capacity and test case reviews each sprint.
-        
-      
-        
-        
-          
-            Quality Assurance Engineer
-            
-              Dec 2010 to 
-              Aug 2016
-            
-          
-          
-            American Well － 
-            Boston, 
-            MA
-          
-          Design test cycles and test cases, based off wireframes and visual design elements and work with VisD, Product Management and Developers to ensure the software is working as designedManually test the software in UI, iOS applications, Android applications, database, as well as test integration of other software into our product.Automate Happy path test scripts in Java using Selenium
-        
-      
-        
-        
-          
-            Biopsychology Research Assistant
-            
-              Jan 2009 to 
-              Dec 2009
-            
-          
-          
-            Harvard Medical School and VA Boston Healthcare System － 
-            Brockton, 
-            MA
-          
-          Analyzed EEGs, EMGs, and EOGs. Implanted cannulas for administration of solutions, and performed perfusions. Conducted Psychomotor Vigilance Tasks and Activity Wheel Tasks. Performed brain slicing, staining and slide preparation.
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            Bachelor of Science, 
-            Neuroscience
-            
-              May 2010
-            
-          
-          
-            Stonehill College － 
-            Easton, 
-            MA
-            
-          
-          
-          Neuroscience, Biology, Chemistry and Physics courses
-        
-      
-        
-        
-          
-            
-            
-            
-              2015
-            
-          
-          
-            Treehouse Online Training Courses
-            
-            
-            
-          
-          
-          Java Programming courses 
-        
-      
-        
-        
-          
-            
-            
-            
-              2017
-            
-          
-          
-            Tulip Management － 
-            Boston, 
-            MA, 
-            02109
-          
-          
-          Performance Management Development ProgramFeedback & Accountability Development Program​
-        
-      
-      
-      
-        
-        Publications
-      
-        
-        Christie, Micheal,
+ ENGINEERING MANAGER, QUALITY ASSURANCE
+ Summary
+ Results-oriented QA Engineering Manager experienced with all stages of the development cycle and focused on quality testing of various internet-based applications.
+ Java, Selenium, Agile, JIRA, Zephyr, Quality Center, Strong decision, maker, Excellent communicator, Microsoft Excel, Eclipse & IntelliJ IDE, Moba XTerm, Microsoft Teams, Confluence Wiki, Oracle, Complex problem solver, Excellent Multitasking 
+ Experience
+ Engineering Manager, Quality Assurance
+ Aug 2016 to Current
+ American Well Boston, MA
+ Oversee 10 direct reports across 6 teams to ensure project test plans are executed properly, happy path automation is complete and product releases happen by or before deadlines. Implemented and enforce QA Engineer Process for entire department when moving from waterfall methodologies to Agile methodologies.Implemented and enforce QA Training Guide for entire department new hires.Monitor and report on Automation progress each sprint.Schedule and oversee sprint capacity and test case reviews each sprint.
+ Quality Assurance Engineer
+ Dec 2010 to Aug 2016
+ American Well Boston, MA
+ Design test cycles and test cases, based off wireframes and visual design elements and work with VisD, Product Management and Developers to ensure the software is working as designedManually test the software in UI, iOS applications, Android applications, database, as well as test integration of other software into our product.Automate Happy path test scripts in Java using Selenium
+ Biopsychology Research Assistant
+ Jan 2009 to Dec 2009
+ Harvard Medical School and VA Boston Healthcare System Brockton, MA
+ Analyzed EEGs, EMGs, and EOGs. Implanted cannulas for administration of solutions, and performed perfusions. Conducted Psychomotor Vigilance Tasks and Activity Wheel Tasks. Performed brain slicing, staining and slide preparation.
+ Education and Training
+ Bachelor of Science, Neuroscience
+ May 2010
+ Stonehill College Easton, MA
+ Neuroscience, Biology, Chemistry and Physics courses
+ 2015
+ Treehouse Online Training Courses
+ Java Programming courses 2017
+ Tulip Management Boston, MA, 02109
+ Performance Management Development ProgramFeedback & Accountability Development Program​
+ Publications
+ Christie, Micheal,
 Robert McCarley, and Robert Strecker. "Twenty-four hours, or five days, of
 continuous sleep deprivation or experimental sleep fragmentation do not alter
 thirst or motivation for water reward in rats." Behavioral Brain Research.
 Print.
-      
-      
-    
+ 

@@ -1,162 +1,39 @@
 
-      
-        
-        
-           TECH  ASSISTANT
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Highly dependable, with an aim to pursue a successful career as a Software Engineer. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues.
-      
-      
-      
-        
-        Skills
-      
-        
-        • Tech Support • Advanced Computer Programmer • Strong decision maker• Excellent Communicator •Tutor •Knowledge in gaming
-      
-      
-      
-        
-        Programming & Languages
-      
-        
-        • Java, SMLNJ, HTML, HTML5 • Microsoft Office • Adobe Photoshop• NetBeans • Knowledge of Windows OS (XP+) • Knowledge of MAC OSX 10 or later • CSS/CSS3/JavaScript • API Design • Python • SQL
-      
-      
-      
-        
-        Education
-      
-        
-        
-          2018
-        
-        
-          
-            Bachelor of Science: 
-            Computer Science
-          
-          
-            New York Institute Of Technology
-             － 
-            New York, 
-            NY, 
-            USA
-          
-          
-          
-            
-          
-        
-      
-      
-      
-        
-        Relevant Courses
-      
-        
-        • Java Programming • Data Structures • Discrete Mathematics • Algorithms • Database Management • Intro to Software Eng 
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          09/2013
-           to 
-          Current
-        
-        
-          
-            Tech  Assistant
-          
-          
-            NYIT – Academic Computing Services － 
-            New York, 
-            NY
-          
-          
-            • Assist administration and maintenance of student computer labs• Help and maintenance of distance learning classrooms• Supervise administration in the lending of AV equipment to professors to enhance the learning environment• Resolve network issues associated with NYIT account• Improve system performance by identifying problems; recommending changes• Maintain and assemble all machinery such as Computers and Plotters
-          
-        
-      
-        
-        
-          07/2015
-           to 
-          Current
-        
-        
-          
-            Stock Associate
-          
-          
-            Banana Republic － 
-            New York, 
-            NY
-          
-          
-            • Encourage customers to select a broad selection of styles for fitting room• Engage customers in conversation while completing cashwrap transaction
-          
-        
-      
-        
-        
-          12/2011
-           to 
-          04/2012
-        
-        
-          
-            Tutor
-          
-          
-            Read Alliance (READ) － 
-            New York, 
-            NY
-          
-          
-            • Facilitated tutoring sessions for first grade and kindergarten students to improve academic performance
-          
-        
-      
-        
-        
-          07/2011
-           to 
-          08/2011
-        
-        
-          
-            Internship
-          
-          
-            Summer Youth Employment Program － 
-            New York, 
-            NY
-          
-          
-            • Created excel spreadsheets of prior court cases • Used Microsoft Excel to divide court cases into categories of “successful” and “unsuccessful” which was then used for filing
-          
-        
-      
-      
-      
-        
-        Projects
-      
-        
-        NYIT | New York, NY​• Developed a standard program software using Java• Designed and implemented a relational database using the SQL programming language• Created a PowerPoint presentation using LATEX and SML programming
-      
-      
-    
+ TECH ASSISTANT
+ Summary
+ Highly dependable, with an aim to pursue a successful career as a Software Engineer. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues.
+ Skills
+ Tech Support Advanced Computer Programmer Strong decision maker Excellent Communicator Tutor Knowledge in gaming
+ Programming & Languages
+ Java, SMLNJ, HTML, HTML5 Microsoft Office Adobe Photoshop NetBeans Knowledge of Windows OS (XP+) Knowledge of MAC OSX 10 or later CSS/CSS3/JavaScript API Design Python SQL
+ Education
+ 2018
+ Bachelor of Science: Computer Science
+ New York Institute Of Technology
+ New York, NY, USA
+ Relevant Courses
+ Java Programming Data Structures Discrete Mathematics Algorithms Database Management Intro to Software Eng 
+ Experience
+ 09/2013
+ to Current
+ Tech Assistant
+ NYIT – Academic Computing Services New York, NY
+ Assist administration and maintenance of student computer labs Help and maintenance of distance learning classrooms Supervise administration in the lending of AV equipment to professors to enhance the learning environment Resolve network issues associated with NYIT account Improve system performance by identifying problems; recommending changes Maintain and assemble all machinery such as Computers and Plotters
+ 07/2015
+ to Current
+ Stock Associate
+ Banana Republic New York, NY
+ Encourage customers to select a broad selection of styles for fitting room Engage customers in conversation while completing cashwrap transaction
+ 12/2011
+ to 04/2012
+ Tutor
+ Read Alliance (READ) New York, NY
+ Facilitated tutoring sessions for first grade and kindergarten students to improve academic performance
+ 07/2011
+ to 08/2011
+ Internship
+ Summer Youth Employment Program New York, NY
+ Created excel spreadsheets of prior court cases Used Microsoft Excel to divide court cases into categories of “successful” and “unsuccessful” which was then used for filing
+ Projects
+ NYIT | New York, NY​ Developed a standard program software using Java Designed and implemented a relational database using the SQL programming language Created a PowerPoint presentation using LATEX and SML programming
+ 

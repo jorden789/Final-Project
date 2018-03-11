@@ -1,166 +1,37 @@
 
-      
-        
-        
-           SENIOR ENGINEER
-        
-      
-      
-      
-      
-        
-        HEADING
-      
-        
-        Seasoned full stack developer with 10+ years of experience developing enterprise web apps. Well-versed in the design and development of mission critical enterprise apps using Java and Oracle technologies. Sun Certified Java developer and Oracle Certified Professional.
-      
-      
-      
-        
-        Skills
-      
-        
-        Languages:Java/J2EE/Python/GroovyJ2EE Technologies:Struts/Spring/Grails/MVC/JSF/AJAX/Hibernate/JPA/JMSWeb Servies/SOA/XML/REST​ESB:Mule,Oracle Service BusDB:Oracle,SQL Server,MongoDB/No SQL,Apache SolrSoftware Process:Agile/Scrum,TDD,CI,Maven,JIRAUI :Knockout JS,AJAX,JQuery,BootstrapTools:EclipseSDK,Python IDLE,Weblogic,Websphere,Subversion,GIT,Tomcat
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-            Master of Science: 
-            Computer Science
-            
-              2000
-            
-          
-          
-            Mumbai University , India
-            
-          
-          
-          
-            
-          
-        
-      
-        
-        
-          
-            
-            Full Stack Web Developer Nanodegree
-            
-              2017
-            
-          
-          
-            Udacity
-            
-          
-          
-          
-            
-          
-        
-      
-      
-      
-        
-        PROJECTS
-      
-        
-        Neighborhood Map :Developed a single-page web application, built using the Knockout & Bootstrap framework, that displays a Google Map of an area and various restaurants nearby.Integrated lookup of additional restaurant information via FourSquare. Linux Server Configuration :Installed and configured all required software to turn a baseline Ubuntu Amazon Web Services server into a fully functional web application server, including Apache Web Server and PostgreSQL database server.Added security using SSH.
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Senior Engineer
-            
-              10/2013 to 
-              04/2015
-            
-          
-          
-            MultiPlan Inc
-            
-              Naperville, 
-              IL
-            
-          
-          
-            Involved in the design/development of ETL module to extract and load claims and provider data from the database into Apache Solr.Provided much faster claim and provider searches from web portals.
-          
-        
-      
-        
-        
-          
-            Engineer - Payment Solutions Division
-            
-              03/2011 to 
-              09/2012
-            
-          
-          
-            Intuit
-            
-              Los Angeles, 
-              California
-            
-          
-          
-            Worked with product management teams to deliver critical payment processing attach initiative for various Intuit products like Quick Books Online, Quick Books Desktop, Go Mobile Payment etc.Directly involved in product release cycles for Intuit and delivered under strict timelines.
-          
-        
-      
-        
-        
-          
-            Consultant-Business Tech Integration
-            
-              04/2007 to 
-              05/2010
-            
-          
-          
-            Bank of America
-            
-              Los Angeles, 
-              California
-            
-          
-          
-            Participated in the development of Servicer Accounting web application module for the mortgage servicing business division.Involved in servicer accounting system migration from Countrywide systems to Bank of America.
-          
-        
-      
-        
-        
-          
-            Knowledge Engineer
-            
-              03/2004 to 
-              04/2007
-            
-          
-          
-            Mindbox
-            
-              Los Angeles, 
-              California
-            
-          
-          
-            Developed a web enabled Loan Origination System(LOS) using Java/J2EE framework for one of the clients.Improved pre-approval time within SLA for the business client.
-          
-        
-      
-      
-    
+ SENIOR ENGINEER
+ HEADING
+ Seasoned full stack developer with 10+ years of experience developing enterprise web apps. Well-versed in the design and development of mission critical enterprise apps using Java and Oracle technologies. Sun Certified Java developer and Oracle Certified Professional.
+ Skills
+ Languages:Java/J2EE/Python/GroovyJ2EE Technologies:Struts/Spring/Grails/MVC/JSF/AJAX/Hibernate/JPA/JMSWeb Servies/SOA/XML/REST​ESB:Mule,Oracle Service BusDB:Oracle,SQL Server,MongoDB/No SQL,Apache SolrSoftware Process:Agile/Scrum,TDD,CI,Maven,JIRAUI :Knockout JS,AJAX,JQuery,BootstrapTools:EclipseSDK,Python IDLE,Weblogic,Websphere,Subversion,GIT,Tomcat
+ Education
+ Master of Science: Computer Science
+ 2000
+ Mumbai University , India
+ Full Stack Web Developer Nanodegree
+ 2017
+ Udacity
+ PROJECTS
+ Neighborhood Map :Developed a single-page web application, built using the Knockout & Bootstrap framework, that displays a Google Map of an area and various restaurants nearby.Integrated lookup of additional restaurant information via FourSquare. Linux Server Configuration :Installed and configured all required software to turn a baseline Ubuntu Amazon Web Services server into a fully functional web application server, including Apache Web Server and PostgreSQL database server.Added security using SSH.
+ Experience
+ Senior Engineer
+ 10/2013 to 04/2015
+ MultiPlan Inc
+ Naperville, IL
+ Involved in the design/development of ETL module to extract and load claims and provider data from the database into Apache Solr.Provided much faster claim and provider searches from web portals.
+ Engineer - Payment Solutions Division
+ 03/2011 to 09/2012
+ Intuit
+ Los Angeles, California
+ Worked with product management teams to deliver critical payment processing attach initiative for various Intuit products like Quick Books Online, Quick Books Desktop, Go Mobile Payment etc.Directly involved in product release cycles for Intuit and delivered under strict timelines.
+ Consultant-Business Tech Integration
+ 04/2007 to 05/2010
+ Bank of America
+ Los Angeles, California
+ Participated in the development of Servicer Accounting web application module for the mortgage servicing business division.Involved in servicer accounting system migration from Countrywide systems to Bank of America.
+ Knowledge Engineer
+ 03/2004 to 04/2007
+ Mindbox
+ Los Angeles, California
+ Developed a web enabled Loan Origination System(LOS) using Java/J2EE framework for one of the clients.Improved pre-approval time within SLA for the business client.
+ 

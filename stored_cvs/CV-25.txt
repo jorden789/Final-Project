@@ -1,113 +1,26 @@
 
-      
-        
-        
-           FRONT END SOFTWARE ENGINEER
-        
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Dedicated Frontend Software Engineer experienced with all facets of the software development lifecycle including
-          requirements analysis, design, development, verification, deployment and support.
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              Javascript, Typescript, HTML, CSSLibraries/Frameworks: AngularJS, Angular, Ionic, React, RxJS, jQuery, Bootstrap, SassUnit Testing: Mocha, Chai, Sinon, JasmineVersion Control: Git, GitHub, BitBucketDependency Management: Node, BowerBuild Automation: GulpBackend: FirebaseAPIs: Google Maps, Stripe, TwilioPlatforms: Google Cloud Platform, Heroku, Xcode
-              
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            PENTA TECHNOLOGIES, INC
-          
-          
-            Brookfield, 
-            WI
-          
-          
-            Front End Software Engineer
-            
-              02/2016 to 
-              Current
-            
-          
-          
-            Implement design and logic to turn multiple legacy systems into modern web and mobile applications.Work with product managers, engineers and QA to see projects through, from conception to completion.Build reusable components and libraries for future use.Perform peer code reviews.
-          
-        
-      
-        
-        
-          
-            UDACITY
-          
-          
-            Mountain View, 
-            CA
-          
-          
-            Front End Team Guide
-            
-              09/2015 to 
-              12/2015
-            
-          
-          
-            Lead weekly meetings with students, developing positive group dynamics and weekly expectations.Built cohesive teams, leveraging group collaboration and independent research.Encouraged organizational skills, task assessment and requirement evaluations.
-          
-        
-      
-        
-        
-          
-            SSI TECHNICAL
-          
-          
-            Dallas, 
-            TX
-          
-          
-            Technical Recruiter
-            
-              05/2014 to 
-              10/2014
-            
-          
-          
-            Recruit candidates for Fortune 500 companies in the engineering / medical / financial sectors.Analyze and evaluate top candidates through background review and consultative interviews.Maintain a portfolio of candidates and requisitions, in all stages of the pipeline.
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        Automation, CSS, Version Control, financial, HTML, Javascript, jQuery, logic, meetings, organizational skills, Programming, QA, requirement, research, Chai
-      
-      
-      
-      
-    
+ FRONT END SOFTWARE ENGINEER
+ Summary
+ Dedicated Frontend Software Engineer experienced with all facets of the software development lifecycle including
+ requirements analysis, design, development, verification, deployment and support.
+ Skills
+ Javascript, Typescript, HTML, CSSLibraries/Frameworks: AngularJS, Angular, Ionic, React, RxJS, jQuery, Bootstrap, SassUnit Testing: Mocha, Chai, Sinon, JasmineVersion Control: Git, GitHub, BitBucketDependency Management: Node, BowerBuild Automation: GulpBackend: FirebaseAPIs: Google Maps, Stripe, TwilioPlatforms: Google Cloud Platform, Heroku, Xcode
+ Experience
+ PENTA TECHNOLOGIES, INC
+ Brookfield, WI
+ Front End Software Engineer
+ 02/2016 to Current
+ Implement design and logic to turn multiple legacy systems into modern web and mobile applications.Work with product managers, engineers and QA to see projects through, from conception to completion.Build reusable components and libraries for future use.Perform peer code reviews.
+ UDACITY
+ Mountain View, CA
+ Front End Team Guide
+ 09/2015 to 12/2015
+ Lead weekly meetings with students, developing positive group dynamics and weekly expectations.Built cohesive teams, leveraging group collaboration and independent research.Encouraged organizational skills, task assessment and requirement evaluations.
+ SSI TECHNICAL
+ Dallas, TX
+ Technical Recruiter
+ 05/2014 to 10/2014
+ Recruit candidates for Fortune 500 companies in the engineering / medical / financial sectors.Analyze and evaluate top candidates through background review and consultative interviews.Maintain a portfolio of candidates and requisitions, in all stages of the pipeline.
+ Skills
+ Automation, CSS, Version Control, financial, HTML, Javascript, jQuery, logic, meetings, organizational skills, Programming, QA, requirement, research, Chai
+ 

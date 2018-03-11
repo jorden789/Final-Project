@@ -1,164 +1,38 @@
 
-      
-        
-        
-           SOLUTION ARCHITECT
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Results-oriented Solution Architect comfortable switching between architecture, design and implementation disciplines. Comfortable talking high level concepts as well as the minute details of solution implementation.
-      
-      
-      
-        
-        Highlights
-      
-        
-        
-          
-            
-              Solves the core problemTranslates business needsAnalyzes the core questionsConceptualizes the solutionClearly communicates
-              Models the solutionFormalize a planCommunicates clearlyCreates solutions that workFacilitate professional growth
-            
-          
-        
-      
-      
-      
-        
-        Accomplishments
-      
-        
-        Nominated for Tom McDonald Award for Outstanding Innovation.Led effort to design and implement multi-factor authentication at DST.Responsible for architectural direction for applications that generate $50 million annually. 
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Solution Architect
-            
-              05/2008 to 
-              Current
-            
-          
-          
-            DST
-            
-              Kansas City, 
-              Missouri
-            
-          
-          
-            Lead architect for application suite that generates $50 million annually. Solution architect assigned to high visibility security project.Led issue resolution discussions with 3rd party vendors.Communicates frequently with client and project stakeholders.Engages with development lead and application analyst progress.Develops proof of concept examples for development teams.Engages with application teams for feedback on the lessons learned.Implemented first Blue / Green production environment to improve deployment / testing time. Led organizational effort to modernize code migration strategy.Led effort to replace "in house" batch system with Spring Batch solution.
-          
-        
-      
-        
-        
-          
-            Software Engineer II
-            
-              02/2005 to 
-              05/2008
-            
-          
-          
-            Embarq
-            
-              Overland Park, 
-              Kansas
-            
-          
-          
-            Lead engineer and supervisor of development team.Interacted with senior management about objectives and goals.Responsible for grooming business requirement into functional requirements.Defined test cases to evaluate business functionality.Collaborated with quality team to build testing scenarios.Provided professional development feedback to team members.
-          
-        
-      
-        
-        
-          
-            IT Architect/Specialist
-            
-              06/2003 to 
-              02/2005
-            
-          
-          
-            IBM
-            
-              Lenexa, 
-              Kansas
-            
-          
-          
-            Developed new application enhancement requests.Communicated with client about upcoming projects.Oversaw construction of new business functionality.Reviewed and prioritized enhancement requests.Designed and implemented enhancements to the application.Constructed business product documentation.
-          
-        
-      
-        
-        
-          
-            Software Engineer
-            
-              01/1998 to 
-              06/2003
-            
-          
-          
-            Sprint
-            
-              Overland Park, 
-              Kansas
-            
-          
-          
-            Interacted with application stakeholders to define business requirements. Responsible for designing, constructing and testing application updates.Engaged with lead engineer on status of current tasks.Developed project documentation.
-          
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-            
-            Computer Management Systems
-            
-          
-          
-            Northwest Missouri State University
-            
-              Maryville, 
-              MO
-            
-            
-          
-          
-          
-            Computer Management Systems
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        Languages: Java, C/C, PERL, AWK/KORN Shell, COBOL and PHPTools: Spring Tool Suite, Maven, GIT, Enterprise Architect, and VisioDatabase: Oracle and DB2
-      
-      
-    
+ SOLUTION ARCHITECT
+ Summary
+ Results-oriented Solution Architect comfortable switching between architecture, design and implementation disciplines. Comfortable talking high level concepts as well as the minute details of solution implementation.
+ Highlights
+ Solves the core problemTranslates business needsAnalyzes the core questionsConceptualizes the solutionClearly communicates
+ Models the solutionFormalize a planCommunicates clearlyCreates solutions that workFacilitate professional growth
+ Accomplishments
+ Nominated for Tom McDonald Award for Outstanding Innovation.Led effort to design and implement multi-factor authentication at DST.Responsible for architectural direction for applications that generate $50 million annually. 
+ Experience
+ Solution Architect
+ 05/2008 to Current
+ DST
+ Kansas City, Missouri
+ Lead architect for application suite that generates $50 million annually. Solution architect assigned to high visibility security project.Led issue resolution discussions with 3rd party vendors.Communicates frequently with client and project stakeholders.Engages with development lead and application analyst progress.Develops proof of concept examples for development teams.Engages with application teams for feedback on the lessons learned.Implemented first Blue / Green production environment to improve deployment / testing time. Led organizational effort to modernize code migration strategy.Led effort to replace "in house" batch system with Spring Batch solution.
+ Software Engineer II
+ 02/2005 to 05/2008
+ Embarq
+ Overland Park, Kansas
+ Lead engineer and supervisor of development team.Interacted with senior management about objectives and goals.Responsible for grooming business requirement into functional requirements.Defined test cases to evaluate business functionality.Collaborated with quality team to build testing scenarios.Provided professional development feedback to team members.
+ IT Architect/Specialist
+ 06/2003 to 02/2005
+ IBM
+ Lenexa, Kansas
+ Developed new application enhancement requests.Communicated with client about upcoming projects.Oversaw construction of new business functionality.Reviewed and prioritized enhancement requests.Designed and implemented enhancements to the application.Constructed business product documentation.
+ Software Engineer
+ 01/1998 to 06/2003
+ Sprint
+ Overland Park, Kansas
+ Interacted with application stakeholders to define business requirements. Responsible for designing, constructing and testing application updates.Engaged with lead engineer on status of current tasks.Developed project documentation.
+ Education
+ Computer Management Systems
+ Northwest Missouri State University
+ Maryville, MO
+ Computer Management Systems
+ Skills
+ Languages: Java, C/C, PERL, AWK/KORN Shell, COBOL and PHPTools: Spring Tool Suite, Maven, GIT, Enterprise Architect, and VisioDatabase: Oracle and DB2
+ 

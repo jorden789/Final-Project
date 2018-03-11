@@ -1,149 +1,34 @@
 
-      
-        
-        
-          
-          ASSOCIATE SYSTEMS TEST ENGINEER
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Developed and implemented an automated regression test database program for Calix Networks Inc. This program allows the user to retrieve test data based on a myriad of criteria and compare against previous firmware loads and test cases.
-    * Experienced with troubleshooting fiber expansion boards for UMC1000 telephony system.
-    * Assisted Engineering staff with troubleshooting and repair of prototype and pilot circuit designs.
-    * Developed automation scripts for regression testing
-    * Experienced with working in fast-paced start-up environments.
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              Organization: Microsoft Office ProjectSoftware Development: Microsoft Visual Basic 6/2005, Excel VBA, C++, Java, Familiarity with Tcl/TkDatabase Management: Microsoft Access, Oracle SQLData Entry\Reporting: SQL, Oracle, AccessOffice Correspondence: Microsoft Word, Star Office, OpenOffice.Org, Microsoft Outlook/Express
-              
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Associate Systems Test Engineer
-            
-          
-          
-            Calix Networks － 
-            Petaluma, 
-            CA
-          
-          Directly responsible for testing and troubleshooting of new firmware and management software for Calix DSLAMs by simulating different real-world configurations using Spirent ADSL2+ and VDSL2 Line Simulators, SmartBits, and real wire loops.Performed Rate/Reach, Throughput, and RingTrip testing for modem verification against DSLAM.Developed and maintained automated testing, reporting and database solution for ATM regression testing of various modemsMaintained test scripts for and performed tests on Triple Play Test Automation Testbed utilizing DiversifEye and Ameritech Bulk Call Generators. 
-        
-      
-        
-        
-          
-            Senior Technician
-            
-          
-          
-            Agilent Technologies － 
-            Rohnert Park, 
-            CA
-          
-          Tested and repaired spectrum analyzers through the prototype and pilot stages of development.Coordinated with design and production engineers to facilitate a smooth product introduction.Updated and corrected troubleshooting database for new and existing products.Worked in multiple departments during down-sizing to support areas affected most by the downturn while maintaining my role in Engineering Support.
-        
-      
-        
-        
-          
-            Systems Test Technician
-            
-          
-          
-            Nokia － 
-            Petaluma, 
-            CA
-          
-          Performed testing and troubleshooting of fiber optic shelf controllers and subscriber line cards used in Nokia's DSLAM.
-        
-      
-        
-        
-          
-            Compliance Test Engineer
-            
-          
-          
-            Advanced Fibre Communications － 
-            Petaluma, 
-            CA
-          
-          Ensured compliance of digital loop carrier systems to Bellcore, FCC, and ITU K.20 specifications by designing, building, and testing environmental scenario tests.Provided computer support for the engineering group to offset the workload of our understaffed IT department.Provided training for new technicians and assisted in the interviewing process.Recognized for role in creating an efficient flow of information between design engineering, QA, test engineering and production.
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            Associate of Science, 
-            Computer Science
-            
-              Dec. 2005
-            
-          
-          
-            Santa Rosa Junior College Sonoma State University － 
-            Santa Rosa, 
-            CA
-            
-          
-          
-          Computer Science
-        
-      
-        
-        
-          
-            
-            Computer Science
-            
-          
-          
-            Sonoma State University － 
-            Rohnert Park, 
-            CA
-            
-          
-          
-          Completed approximately 75% of course work
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        ADSL2, Automation, C++, Data Entry, Database Management, Engineering Support, Help Desk, Java, Lightwave, Microsoft Access, Excel, Microsoft Word, Oracle SQL, QA, Software Development, Spectrum Analyzer, Star Office, Cisco switches, Tcl/Tk, Technician, Microsoft Visual Basic for Applications
-      
-      
-      
-    
+ ASSOCIATE SYSTEMS TEST ENGINEER
+ Summary
+ Developed and implemented an automated regression test database program for Calix Networks Inc. This program allows the user to retrieve test data based on a myriad of criteria and compare against previous firmware loads and test cases.
+ * Experienced with troubleshooting fiber expansion boards for UMC1000 telephony system.
+ * Assisted Engineering staff with troubleshooting and repair of prototype and pilot circuit designs.
+ * Developed automation scripts for regression testing
+ * Experienced with working in fast-paced start-up environments.
+ Skills
+ Organization: Microsoft Office ProjectSoftware Development: Microsoft Visual Basic 6/2005, Excel VBA, C++, Java, Familiarity with Tcl/TkDatabase Management: Microsoft Access, Oracle SQLData Entry\Reporting: SQL, Oracle, AccessOffice Correspondence: Microsoft Word, Star Office, OpenOffice.Org, Microsoft Outlook/Express
+ Experience
+ Associate Systems Test Engineer
+ Calix Networks Petaluma, CA
+ Directly responsible for testing and troubleshooting of new firmware and management software for Calix DSLAMs by simulating different real-world configurations using Spirent ADSL2+ and VDSL2 Line Simulators, SmartBits, and real wire loops.Performed Rate/Reach, Throughput, and RingTrip testing for modem verification against DSLAM.Developed and maintained automated testing, reporting and database solution for ATM regression testing of various modemsMaintained test scripts for and performed tests on Triple Play Test Automation Testbed utilizing DiversifEye and Ameritech Bulk Call Generators. 
+ Senior Technician
+ Agilent Technologies Rohnert Park, CA
+ Tested and repaired spectrum analyzers through the prototype and pilot stages of development.Coordinated with design and production engineers to facilitate a smooth product introduction.Updated and corrected troubleshooting database for new and existing products.Worked in multiple departments during down-sizing to support areas affected most by the downturn while maintaining my role in Engineering Support.
+ Systems Test Technician
+ Nokia Petaluma, CA
+ Performed testing and troubleshooting of fiber optic shelf controllers and subscriber line cards used in Nokia's DSLAM.
+ Compliance Test Engineer
+ Advanced Fibre Communications Petaluma, CA
+ Ensured compliance of digital loop carrier systems to Bellcore, FCC, and ITU K.20 specifications by designing, building, and testing environmental scenario tests.Provided computer support for the engineering group to offset the workload of our understaffed IT department.Provided training for new technicians and assisted in the interviewing process.Recognized for role in creating an efficient flow of information between design engineering, QA, test engineering and production.
+ Education and Training
+ Associate of Science, Computer Science
+ Dec. 2005
+ Santa Rosa Junior College Sonoma State University Santa Rosa, CA
+ Computer Science
+ Computer Science
+ Sonoma State University Rohnert Park, CA
+ Completed approximately 75% of course work
+ Skills
+ ADSL2, Automation, C++, Data Entry, Database Management, Engineering Support, Help Desk, Java, Lightwave, Microsoft Access, Excel, Microsoft Word, Oracle SQL, QA, Software Development, Spectrum Analyzer, Star Office, Cisco switches, Tcl/Tk, Technician, Microsoft Visual Basic for Applications
+ 

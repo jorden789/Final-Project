@@ -1,152 +1,40 @@
 
-      
-        
-        
-           SOFTWARE DEVELOPER I
-        
-      
-      
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              Operating Systems          SoftwareWindows, Unix, Linux (CentOS, Linux Mint)          After Effects, PhotoShop, Flash, Sony Vegas, Word,Languages          Excel, PowerPointJava (5 years), C (4 years), C# (1.5 years), XML (1         Unity, NetBeans, Eclipse, SourceTree, Git,year), MySQL (6 months)          SubversionSome experience with Python, HTML, andActionScriptCOURSEWORKSystems Programming (CPE 357) - Spring 2015Learned low-level programming in C using the Unix environmentDeveloped complex programs that use the operating system architecture and system callsDesign and Analysis of Algorithms (CPE 349) - Fall 2015Developed problem-solving and analysis skills in order to find the most efficient algorithms for a given taskGained experience with divide and conquer algorithms as well as dynamic programmingSoftware Engineering I/II (CPE 308/309) - Fall/Winter 2015Working in a team to develop a multi-player, server-client version of the game Clue in JavaGained experience using Subversion and the NetBeans IDE
-              
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          06/2016
-           to 
-          11/2016
-        
-        
-          
-            Software Developer I
-          
-          
-            Tapestry Solutions, Inc － 
-            San Luis Obispo, 
-            CA
-          
-          
-            Developed, tested, and maintained code used in the TARGET (Transportability Analysis Report Generator)
-    application as a part of the ICODES application suite
-    Collaborated with the testing team to fix bugs and troubleshoot defects within the system.
-          
-        
-      
-        
-        
-          10/2015
-           to 
-          04/2016
-        
-        
-          
-            Intern Programmer
-          
-          
-            NeoCrux Ltd － 
-            San Diego, 
-            CA
-          
-          
-            Collaborated with a team of designers and senior programmers to create a videogame (GalaCollider)
-    Gained experience working in C# and the Unity game engine
-    Gained experience using Git and version control software (specifically SourceTree.
-          
-        
-      
-        
-        
-          08/2015
-           to 
-          01/2016
-        
-        
-          
-            Team Member
-          
-          
-            Dickey's Barbecue Pit － 
-            San Luis Obispo, 
-            CA
-          
-          
-            Worked in a team, providing excellent customer service and maintaining a clean and efficient environment
-    Learned how to manage time effectively while going to school full-time.
-          
-        
-      
-        
-        
-          05/2014
-           to 
-          08/2014
-        
-        
-          
-            Courtesy Clerk
-          
-          
-            Nob Hill Foods － 
-            San Jose, 
-            CA
-          
-          
-            Gained experience working in a team
-    Learned customer service skills.
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          June 2017
-        
-        
-          
-            Bachelor of Science: 
-            Software Engineering
-          
-          
-            California Polytechnic State University
-             － 
-            San Luis, 
-            Obispo
-            
-          
-          
-          
-            Software Engineering 387
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        ActionScript, After Effects, PhotoShop, C, client, excellent customer service, customer service skills, version control, Eclipse, XML, Flash, HTML, IDE, Java, Linux, C#, Excel, PowerPoint, Windows, Word, MySQL, Operating Systems, operating system, problem-solving, Programming, Python, Software Engineering I, troubleshoot, Unix
-      
-      
-    
+ SOFTWARE DEVELOPER I
+ Skills
+ Operating Systems SoftwareWindows, Unix, Linux (CentOS, Linux Mint) After Effects, PhotoShop, Flash, Sony Vegas, Word,Languages Excel, PowerPointJava (5 years), C (4 years), C# (1.5 years), XML (1 Unity, NetBeans, Eclipse, SourceTree, Git,year), MySQL (6 months) SubversionSome experience with Python, HTML, andActionScriptCOURSEWORKSystems Programming (CPE 357) - Spring 2015Learned low-level programming in C using the Unix environmentDeveloped complex programs that use the operating system architecture and system callsDesign and Analysis of Algorithms (CPE 349) - Fall 2015Developed problem-solving and analysis skills in order to find the most efficient algorithms for a given taskGained experience with divide and conquer algorithms as well as dynamic programmingSoftware Engineering I/II (CPE 308/309) - Fall/Winter 2015Working in a team to develop a multi-player, server-client version of the game Clue in JavaGained experience using Subversion and the NetBeans IDE
+ Experience
+ 06/2016
+ to 11/2016
+ Software Developer I
+ Tapestry Solutions, Inc San Luis Obispo, CA
+ Developed, tested, and maintained code used in the TARGET (Transportability Analysis Report Generator)
+ application as a part of the ICODES application suite
+ Collaborated with the testing team to fix bugs and troubleshoot defects within the system.
+ 10/2015
+ to 04/2016
+ Intern Programmer
+ NeoCrux Ltd San Diego, CA
+ Collaborated with a team of designers and senior programmers to create a videogame (GalaCollider)
+ Gained experience working in C# and the Unity game engine
+ Gained experience using Git and version control software (specifically SourceTree.
+ 08/2015
+ to 01/2016
+ Team Member
+ Dickey's Barbecue Pit San Luis Obispo, CA
+ Worked in a team, providing excellent customer service and maintaining a clean and efficient environment
+ Learned how to manage time effectively while going to school full-time.
+ 05/2014
+ to 08/2014
+ Courtesy Clerk
+ Nob Hill Foods San Jose, CA
+ Gained experience working in a team
+ Learned customer service skills.
+ Education and Training
+ June 2017
+ Bachelor of Science: Software Engineering
+ California Polytechnic State University
+ San Luis, Obispo
+ Software Engineering 387
+ Skills
+ ActionScript, After Effects, PhotoShop, C, client, excellent customer service, customer service skills, version control, Eclipse, XML, Flash, HTML, IDE, Java, Linux, C#, Excel, PowerPoint, Windows, Word, MySQL, Operating Systems, operating system, problem-solving, Programming, Python, Software Engineering I, troubleshoot, Unix
+ 

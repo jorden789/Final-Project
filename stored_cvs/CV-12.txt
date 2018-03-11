@@ -1,168 +1,45 @@
 
-      
-        
-        
-           SENIOR SOFTWARE ENGINEER
-        
-        
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Senior Software Engineer with a strong scientific background and over 16 years of professional experience. Skilled in test-driven development with a passion for producing high-quality clean code. Highly adept at application design and development, testing and optimization. Excels at Java application development, including coordinating ground-up planning, programming and implementation for core modules.
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Senior Software Engineer
-            
-              December 2016 to 
-              Current
-            
-          
-          
-            Somalogic Inc － 
-            Boulder, 
-            CO
-          
-          
-            Ported key infrastructure to Amazon Web Services (AWS) for deployment to ChinaMigrated components of existing monolith to containerized microservicesEvaluated Angular and React as a replacement for existing front-endPresented team tech talks on new technologies (Docker, Kibana, Kubernetes)Evaluated Single Sign On (SSO) solutionActive participant in group learning (machine learning, evolutionary architectures)Completed Architecting on AWS training course
-          
-        
-      
-        
-        
-          
-            Senior Software Engineer
-            
-              November 2005 to 
-              November 2016
-            
-          
-          
-            Las Cumbres Observatory － 
-            Santa Barbara, 
-            CA
-          
-          
-            
-    Designed and developed core control software for network of worldwide telescopes
-    Prototyped satellite tracking algorithm software
-    Championed a team scrum/agile methodology, including introducing unit testing and continuous integration team-wide
-    Software lead on mission-critical instrument design
-    Created a Junit test infrastructure for full-system validation pre-shipping
-    Refactoring legacy code systems to make them testable and easier to maintain
-    Mentored junior software engineers and scientists in good coding practices
-    Interfaced with operations team and customers to determine root cause problems and define new requirements
-    Instrumental in creating metric-based dashboards for system-wide monitoring
+ SENIOR SOFTWARE ENGINEER
+ Summary
+ Senior Software Engineer with a strong scientific background and over 16 years of professional experience. Skilled in test-driven development with a passion for producing high-quality clean code. Highly adept at application design and development, testing and optimization. Excels at Java application development, including coordinating ground-up planning, programming and implementation for core modules.
+ Experience
+ Senior Software Engineer
+ December 2016 to Current
+ Somalogic Inc Boulder, CO
+ Ported key infrastructure to Amazon Web Services (AWS) for deployment to ChinaMigrated components of existing monolith to containerized microservicesEvaluated Angular and React as a replacement for existing front-endPresented team tech talks on new technologies (Docker, Kibana, Kubernetes)Evaluated Single Sign On (SSO) solutionActive participant in group learning (machine learning, evolutionary architectures)Completed Architecting on AWS training course
+ Senior Software Engineer
+ November 2005 to November 2016
+ Las Cumbres Observatory Santa Barbara, CA
+ Designed and developed core control software for network of worldwide telescopes
+ Prototyped satellite tracking algorithm software
+ Championed a team scrum/agile methodology, including introducing unit testing and continuous integration team-wide
+ Software lead on mission-critical instrument design
+ Created a Junit test infrastructure for full-system validation pre-shipping
+ Refactoring legacy code systems to make them testable and easier to maintain
+ Mentored junior software engineers and scientists in good coding practices
+ Interfaced with operations team and customers to determine root cause problems and define new requirements
+ Instrumental in creating metric-based dashboards for system-wide monitoring
 
-          
-        
-      
-        
-        
-          
-            Senior Software Engineer
-            
-              January 2004 to 
-              November 2005
-            
-          
-          
-            Diamond Light Source Ltd － 
-            Oxfordshire, 
-            UK
-          
-          
-            Designed and developed control software for world-class facility capable of researching cutting-edge disciplinesWorked closely with customer to define software and hardware requirementsEvaluated motion control systems for use in laboratoriesContract management of outsourced turn-key components
-          
-        
-      
-        
-        
-          
-            Software Engineer
-            
-              January 2002 to 
-              January 2004
-            
-          
-          
-            Telescope Technologies Ltd. － 
-            Liverpool, 
-            UK
-          
-          
-            Key member of a small team which developed highly robust code for the world's first fully robotic telescopeDeveloped autoguider software and algorithms used for closed-loop telescope trackingDeveloped mirror support software for maintaining consistent optical collimationEmbedded software development, configuration and programmingResponsible for integrating hardware and software systems before handover to customer   
+ Senior Software Engineer
+ January 2004 to November 2005
+ Diamond Light Source Ltd Oxfordshire, UK
+ Designed and developed control software for world-class facility capable of researching cutting-edge disciplinesWorked closely with customer to define software and hardware requirementsEvaluated motion control systems for use in laboratoriesContract management of outsourced turn-key components
+ Software Engineer
+ January 2002 to January 2004
+ Telescope Technologies Ltd. Liverpool, UK
+ Key member of a small team which developed highly robust code for the world's first fully robotic telescopeDeveloped autoguider software and algorithms used for closed-loop telescope trackingDeveloped mirror support software for maintaining consistent optical collimationEmbedded software development, configuration and programmingResponsible for integrating hardware and software systems before handover to customer   
 
-          
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-            Ph.D.
-             : 
-            Astrophysics
-            
-          
-          
-            The Universitory Of Manchester
-             － 
-            Manchester, 
-            
-            UK
-          
-          
-          
-            Thesis Title: Observations And Mass Models Of CLASS
+ Education
+ Ph.D.
+ : Astrophysics
+ The Universitory Of Manchester
+ Manchester, UK
+ Thesis Title: Observations And Mass Models Of CLASS
 Gravitational Lenses
-          
-        
-      
-        
-        
-          
-            Master of Science
-             : 
-            Physics with Astrophysics
-            
-          
-          
-            The University Of Birmingham
-             － 
-            Birmingham, 
-            
-            UK
-          
-          
-          
-            
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        Languages: Java, Python, C. Novice at Go, GroovyMethodologies: Agile, Pair Programming, Continuous Integration, Test-Driven DevelopmentQuality: Junit, Mockito, DBUnit, Checkstyle, PMD, Findbugs, Clover, Cobertura, SonarTools: Intellij, Eclipse, Git, Svn, JVisualVM, Maven, Docker, Wireshark, Kibana, GraphiteFrameworks: Guice, Spring, Google Guava, GWT, Dropwizard, Django, Celery, Numpy, Scipy, RabbitMQInfrastructure: AWS, Kubernetes, Spring Cloud, Netflix OSS
-      
-      
-    
+ Master of Science
+ : Physics with Astrophysics
+ The University Of Birmingham
+ Birmingham, UK
+ Skills
+ Languages: Java, Python, C. Novice at Go, GroovyMethodologies: Agile, Pair Programming, Continuous Integration, Test-Driven DevelopmentQuality: Junit, Mockito, DBUnit, Checkstyle, PMD, Findbugs, Clover, Cobertura, SonarTools: Intellij, Eclipse, Git, Svn, JVisualVM, Maven, Docker, Wireshark, Kibana, GraphiteFrameworks: Guice, Spring, Google Guava, GWT, Dropwizard, Django, Celery, Numpy, Scipy, RabbitMQInfrastructure: AWS, Kubernetes, Spring Cloud, Netflix OSS
+ 

@@ -1,153 +1,36 @@
 
-      
-        
-        
-           ANALYST/PROGRAMMER INTERMEDIATE
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Identity management specialist with 8  years of professional experience in Identity Management, and 13  total years in IT.  Nonprofit President with 3  years of experience managing business operations.
-      
-      
-      
-        
-        Highlights
-      
-        
-        
-          
-            
-              Microsoft ILMNetIQ Identity ManagerLDAPActive Directory
-              JavaC#RadiantOne ICSNovell eDirectory
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          01/2012
-           - 
-          Current
-        
-        
-          
-            Georgia State University － 
-            Atlanta, 
-            GA
-          
-          
-            Analyst/programmer Intermediate
-          
-          
-            Create and maintain identity data solutions, including identity data consolidation and synchronization with multiple sources and destinations.Maintain LDAP directory systems including synchronization between multiple server clusters.Consolidate identity sources into central identity databaseProvision identity data from central identity database to multiple systems, including LDAP, Active Directory, and Office 365.Implement encryption for internal password synchronization feeds.Maintain security certificates for all identity feeds, including internal feeds.Create custom identity feeds for internal and external customers. Maintain password synchronization between multiple authentication systems.Maintain legacy systems written in multiple languages, including PL/SQL, C#, Java, bash, and expect.Create and maintain SAML based single sign on systems for the university, including federated identityTroubleshoot identity issues and work with customers to reach a resolution.
-          
-        
-      
-        
-        
-          03/2013
-           - 
-          Current
-        
-        
-          
-            Relationship Equality Foundation － 
-            Fayetteville, 
-            GA
-          
-          
-            President
-          
-          
-            Act as CEO of corporation.Oversee day to day operations of nonprofit activities.Balance project needs and budgetary concerns.Approve corporate activities and projects based on directives and goals from Board of Directors.Oversee officers and staff.
-          
-        
-      
-        
-        
-          09/2008
-           - 
-          12/2011
-        
-        
-          
-            Booz Allen Hamilton － 
-            Montgomery, 
-            AL
-          
-          
-            Senior Consultant
-          
-          
-            Created and maintained identity data solutions, including identity data consolidation and synchronization with multiple sources and destinations.Developed identity solutions for Air Force Directory Services.Developed identity and access management solutions using both Java and C# based tools.Rebuilt and maintained Email for Career system for US Air Force to improve reliability of processes.Generated design, test and operational documents describing the design and operation of each package developed and deployed.
-          
-        
-      
-        
-        
-          03/2006
-           - 
-          08/2008
-        
-        
-          
-            General Dynamics Information Technology － 
-            Montgomery, 
-            AL
-          
-          
-            Programmer/Analyst
-          
-          
-            Maintained systems and software necessary for development and deployment of asset management software.Traveled to customer premises to install software on customer systems.Manged onsite and offsite backups of development systems.
-          
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-        
-        
-          
-            Auburn University
-            
-            Auburn, 
-            AL
-            
-          
-          
-            
-            Computer Engineering
-          
-          
-          
-            Bachelor of Science - Computer Engineering
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        Active Directory, LDAP, C#, Java, NetIQ Identity Manager, Microsoft Identity Lifecycle Manager, Microsoft Office, Oracle PL/SQL, Project Management, Unix, Linux, Windows
-      
-      
-    
+ ANALYST/PROGRAMMER INTERMEDIATE
+ Summary
+ Identity management specialist with 8 years of professional experience in Identity Management, and 13 total years in IT. Nonprofit President with 3 years of experience managing business operations.
+ Highlights
+ Microsoft ILMNetIQ Identity ManagerLDAPActive Directory
+ JavaC#RadiantOne ICSNovell eDirectory
+ Experience
+ 01/2012
+ - Current
+ Georgia State University Atlanta, GA
+ Analyst/programmer Intermediate
+ Create and maintain identity data solutions, including identity data consolidation and synchronization with multiple sources and destinations.Maintain LDAP directory systems including synchronization between multiple server clusters.Consolidate identity sources into central identity databaseProvision identity data from central identity database to multiple systems, including LDAP, Active Directory, and Office 365.Implement encryption for internal password synchronization feeds.Maintain security certificates for all identity feeds, including internal feeds.Create custom identity feeds for internal and external customers. Maintain password synchronization between multiple authentication systems.Maintain legacy systems written in multiple languages, including PL/SQL, C#, Java, bash, and expect.Create and maintain SAML based single sign on systems for the university, including federated identityTroubleshoot identity issues and work with customers to reach a resolution.
+ 03/2013
+ - Current
+ Relationship Equality Foundation Fayetteville, GA
+ President
+ Act as CEO of corporation.Oversee day to day operations of nonprofit activities.Balance project needs and budgetary concerns.Approve corporate activities and projects based on directives and goals from Board of Directors.Oversee officers and staff.
+ 09/2008
+ - 12/2011
+ Booz Allen Hamilton Montgomery, AL
+ Senior Consultant
+ Created and maintained identity data solutions, including identity data consolidation and synchronization with multiple sources and destinations.Developed identity solutions for Air Force Directory Services.Developed identity and access management solutions using both Java and C# based tools.Rebuilt and maintained Email for Career system for US Air Force to improve reliability of processes.Generated design, test and operational documents describing the design and operation of each package developed and deployed.
+ 03/2006
+ - 08/2008
+ General Dynamics Information Technology Montgomery, AL
+ Programmer/Analyst
+ Maintained systems and software necessary for development and deployment of asset management software.Traveled to customer premises to install software on customer systems.Manged onsite and offsite backups of development systems.
+ Education
+ Auburn University
+ Auburn, AL
+ Computer Engineering
+ Bachelor of Science - Computer Engineering
+ Skills
+ Active Directory, LDAP, C#, Java, NetIQ Identity Manager, Microsoft Identity Lifecycle Manager, Microsoft Office, Oracle PL/SQL, Project Management, Unix, Linux, Windows
+ 

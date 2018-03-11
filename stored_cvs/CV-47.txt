@@ -1,144 +1,32 @@
 
-      
-        
-        
-           LEAD SOFTWARE ENGINEER
-        
-        
-        
-      
-      
-      
-      
-        
-        Objective
-      
-        
-        Seeking a challenging software engineering environment which utilizes the latest technologies and paradigms,
+ LEAD SOFTWARE ENGINEER
+ Objective
+ Seeking a challenging software engineering environment which utilizes the latest technologies and paradigms,
 dedicates time to research and focuses on core architectural aspects of software development.
-      
-      
-      
-        
-        Highlights
-      
-        
-        Design and implement frameworks and platform level enhancements in web applications.Provide technical leadership to dev teams. Provide guidance in new technical ventures. Conduct design review sessions with various teams.Extensive backend development experience in J2EE multi-tier web applicationsExtensive experience with Agile SDLC
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Lead software engineer
-            
-              April 2010 to 
-              Current
-            
-          
-          
-            SAP Successfactors － 
-            Reston, 
-            VA
-          
-          
-            Design and implement a new Spring Boot based application for automated provisioning of customers on a multi-tenant application. Plan application deployment and infrastructure with Ops.Design, implement and maintain various platform level frameworks for a multi-tenant web application. These include frameworks to support background jobs, event processing, session management, connection pooling, localization, deep linking and web security.Technical lead for transition of a mobile web application to native iOS and Android. Started with no prior iOS or Objective C experience.Design and implement various platform level aspects for a new iOS application.These include an entity driven sync framework to support a hybrid offline and online functionality. Creating an API authentication layer that allows iOS developers to make API calls with minimum boiler plate code.  Profile the iOS application for improved performance, memory consumption and detection of memory leaks.Total redesign of various outdated back-end layers of the application related to finance and course assignmentDesign and implement a framework to streamline the addition of a mobile extension to the web application. Implemented the ability to plugin a mobile flavor of the existing web UI and client layer with minimum boiler plate code. Design and maintain project dependency management.Troubleshoot issues related to JVM thread capacity, garbage collection and heap consumption.     ​
-          
-        
-      
-        
-        
-          
-            Software Engineer
-            
-              February 2007 to 
-              April 2010
-            
-          
-          
-            TriTek Solutions － 
-            Annandale, 
-            VA
-          
-          
-            Develop Enterprise Content Management and Business Process Management solutions.Prepare Design documents and develop Proof of Concept solutions. Interact and collaborate directly with the client.Develop and customize web applications based on the Model-View-Controller paradigm.Debug and monitor performance through JProfiler.Research, design and develop a highly customizable Event Handler framework. The framework supports event handlers that perform certain work based on events that are triggered upon committing or modifying documents.Develop JQuery and Ajax based UIs for indexing documents.
-          
-        
-      
-        
-        
-          
-            Software Engineer
-            
-              July 2006 to 
-              September 2006
-            
-          
-          
-            Freddie Mac － 
-            Vienna, 
-            VA
-          
-          
-            Development and Integration of Java and C based Applications.Enhancements to Report Processing Engines.Implement a suite-wide transition to encrypted communication for file transfers in C and Java Applications.
-          
-        
-      
-        
-        
-          
-            Intern Researcher
-            
-              February 2005 to 
-              August 2005
-            
-          
-          
-            Carnegie Mellon Robotics (Under the supervision of Professor Geoffrey J.  Gordon) － 
-            Pittsburgh, 
-            PA
-          
-          
-            Develop an engine using the Carmen C library to communicate with the sensors and wheels of a robot.Implement an online learning algorithm by combining Hedge and Brushfire (a variation of Dijkstra shorted path).
-          
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-            Bachelor of Science
-             : 
-            Computer Science/Mathmematics, 
-            December 2006
-          
-          
-            Carnegie Mellon University
-             － 
-            Pittsburgh, 
-            PA
-            
-          
-          
-          
-            
-          
-        
-      
-      
-      
-        
-        Technical Skills
-      
-        
-        Java 1.8, Objective C, C, Javascript, HTMLSpring Boot, Spring, Spring MVC, Hibernate, JPA, iBatis, Struts, JSP Tomcat, ApacheWeb Services, REST, JSON, ODataEclipse, Intellij, XCodeTestNG, JUnit, JMeter, JProfiler, VisualVM, GDBGit, Grade, SVN, Maven Oracle 11g, MS SQLAngularJS/Bootstrap, JQuery, JQuery Mobile UIUnix/Bash shell scripting, Regex. 
-      
-      
-    
+ Highlights
+ Design and implement frameworks and platform level enhancements in web applications.Provide technical leadership to dev teams. Provide guidance in new technical ventures. Conduct design review sessions with various teams.Extensive backend development experience in J2EE multi-tier web applicationsExtensive experience with Agile SDLC
+ Experience
+ Lead software engineer
+ April 2010 to Current
+ SAP Successfactors Reston, VA
+ Design and implement a new Spring Boot based application for automated provisioning of customers on a multi-tenant application. Plan application deployment and infrastructure with Ops.Design, implement and maintain various platform level frameworks for a multi-tenant web application. These include frameworks to support background jobs, event processing, session management, connection pooling, localization, deep linking and web security.Technical lead for transition of a mobile web application to native iOS and Android. Started with no prior iOS or Objective C experience.Design and implement various platform level aspects for a new iOS application.These include an entity driven sync framework to support a hybrid offline and online functionality. Creating an API authentication layer that allows iOS developers to make API calls with minimum boiler plate code.  Profile the iOS application for improved performance, memory consumption and detection of memory leaks.Total redesign of various outdated back-end layers of the application related to finance and course assignmentDesign and implement a framework to streamline the addition of a mobile extension to the web application. Implemented the ability to plugin a mobile flavor of the existing web UI and client layer with minimum boiler plate code. Design and maintain project dependency management.Troubleshoot issues related to JVM thread capacity, garbage collection and heap consumption.     ​
+ Software Engineer
+ February 2007 to April 2010
+ TriTek Solutions Annandale, VA
+ Develop Enterprise Content Management and Business Process Management solutions.Prepare Design documents and develop Proof of Concept solutions. Interact and collaborate directly with the client.Develop and customize web applications based on the Model-View-Controller paradigm.Debug and monitor performance through JProfiler.Research, design and develop a highly customizable Event Handler framework. The framework supports event handlers that perform certain work based on events that are triggered upon committing or modifying documents.Develop JQuery and Ajax based UIs for indexing documents.
+ Software Engineer
+ July 2006 to September 2006
+ Freddie Mac Vienna, VA
+ Development and Integration of Java and C based Applications.Enhancements to Report Processing Engines.Implement a suite-wide transition to encrypted communication for file transfers in C and Java Applications.
+ Intern Researcher
+ February 2005 to August 2005
+ Carnegie Mellon Robotics (Under the supervision of Professor Geoffrey J. Gordon) Pittsburgh, PA
+ Develop an engine using the Carmen C library to communicate with the sensors and wheels of a robot.Implement an online learning algorithm by combining Hedge and Brushfire (a variation of Dijkstra shorted path).
+ Education
+ Bachelor of Science
+ : Computer Science/Mathmematics, December 2006
+ Carnegie Mellon University
+ Pittsburgh, PA
+ Technical Skills
+ Java 1.8, Objective C, C, Javascript, HTMLSpring Boot, Spring, Spring MVC, Hibernate, JPA, iBatis, Struts, JSP Tomcat, ApacheWeb Services, REST, JSON, ODataEclipse, Intellij, XCodeTestNG, JUnit, JMeter, JProfiler, VisualVM, GDBGit, Grade, SVN, Maven Oracle 11g, MS SQLAngularJS/Bootstrap, JQuery, JQuery Mobile UIUnix/Bash shell scripting, Regex. 
+ 

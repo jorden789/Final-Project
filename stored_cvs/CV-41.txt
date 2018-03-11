@@ -1,19 +1,7 @@
 
-      
-        
-        
-          
-          INSTRUCTIONAL ASSISTANT
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        I am a
+ INSTRUCTIONAL ASSISTANT
+ Summary
+ I am a
 recent graduate of NAU. After school, I have been working as a teacher as my
 other
 passion is helping others
@@ -21,127 +9,31 @@ understand mathematics. While continuing to apply to apply for engineering
 positions and keep my skills up with programming projects at home. My best qualities are my
 desire to learn and my willingness to help my team. Seen when I jumped right into teaching after graduation and it has been a learning experience every day. I was also the team leader on my Senior Capstone project, doing many of the jobs no other member wanted to do. My best skills are
 programming in C, C++, and VHDL.
-      
-      
-      
-        
-        Accomplishments
-      
-        
-        Capstone-Interactive Wi-Fi Mapping http://www.cefns.nau.edu/capstone/projects/EE/2015/WifiMapping/I worked in a team of three individuals. On this team, I was the team leader, website programmer, and treasurer. I mainly researched GPS and communication signals. We used Android programming to develop an application that tracked users and allowed them to communicate, within their group. At the end of the year, the team presented our final project to Cobham Aerospace.  ​Undergrad ResearchConstruction and programming of Quad-Helicopter I worked directly under an instructor at NAU. I had to conduct individual research on Python programming and helicopter construction. I researched the best way to communicate between the helicopter and a computer, finally settling on Bluetooth.  
-      
-      
-      
-        
-        Skills
-      
-        
-        Programmed and connected Computer together in VHDL ALU, Memory registers, controller  Counters, Case Statements, 7 segment displays, Multiplexers in VHDL Serial to Parallel converter in VHDLParallel to Serial converter in VHDLFPGA BoardsModel SimQuartusEclipse, PSpice, Mentor Graphic, Pyxis, Design Architect, Eldo
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Instructional Assistant
-            
-              Sep 2016 to 
-              Current
-            
-          
-          
-            Mesa Public Schools － 
-            Mesa, 
-            AZ
-          
-          Enforced both classroom and administration policies and rules at all times. Established positive relationships with students, parents, colleagues, and administrators. Kept accurate records of student performance, maintaining the confidentiality of student records and information at all times. Taught more than 60 students each semester. 
-        
-      
-        
-        
-          
-            Substitute Teacher
-            
-              Feb 2016 to 
-              Aug 2016
-            
-          
-          
-            Clark County School District － 
-            Las Vegas, 
-            NV
-          
-          Filled in for absent teachers for grades 4-12. Quickly adapted to new environments and students. Created detailed substitute teaching report at the end of each day. Monitored students for destructive or unhealthy behavior and reported concerns to guidance counselors.
-        
-      
-        
-        
-          
-            Grader/Teaching Assistant
-            
-              Aug 2013 to 
-              Dec 2015
-            
-          
-          
-            Northern Arizona University － 
-            Flagstaff, 
-            AZ
-          
-          Graded papers for students in Freshman, Sophomore, and Junior level classes. Assisted engineering students in comprehension of the course material. i.e. basic circuits, digital logic, and programming. Demonstrated knowledge of digital logic, computer languages, basic computer logic, and proper application.Hired back for 4 additional semesters.
-        
-      
-        
-        
-          
-            Desk Assistant
-            
-              Feb 2012 to 
-              Dec 2015
-            
-          
-          
-            Northern Arizona University － 
-            Flagstaff, 
-            AZ
-          
-          Executed a variety of office management skills. Maintained department website, including changes to degree programs or personnel information. Communicated with customers, employees, and other individuals to answer questions or explain information, and address complaints.
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-            Bachelor of Science, 
-            Electrical Engineering
-            
-              2015
-            
-          
-          
-            Northern Arizona University － 
-            Flagstaff, 
-            Arizona
-            
-          
-          
-          GPA 2.96Minor in MathematicsMember of IEEE
-        
-      
-      
-      
-        
-        Relevant Classes
-      
-        
-        EE 412 Digital Systems Design\VHDLEE 386C Capstone 2 EE 484 Power Electronics MAT 362 Numerical AnalysisEE 476C Capstone 1EE 485 Undergraduate Research EE 325 Engineering Analysis II EE 310 Fundamentals of Computer Engineering\VHDL MAT 316 Linear Algebra MAT 239 Differential Equations EE 222 Intermediate Programming\C EGR 386W Engineering Design: The MethodCENE 225 Engineering Analysis I
-      
-      
-    
+ Accomplishments
+ Capstone-Interactive Wi-Fi Mapping http://www.cefns.nau.edu/capstone/projects/EE/2015/WifiMapping/I worked in a team of three individuals. On this team, I was the team leader, website programmer, and treasurer. I mainly researched GPS and communication signals. We used Android programming to develop an application that tracked users and allowed them to communicate, within their group. At the end of the year, the team presented our final project to Cobham Aerospace.  ​Undergrad ResearchConstruction and programming of Quad-Helicopter I worked directly under an instructor at NAU. I had to conduct individual research on Python programming and helicopter construction. I researched the best way to communicate between the helicopter and a computer, finally settling on Bluetooth.  
+ Skills
+ Programmed and connected Computer together in VHDL ALU, Memory registers, controller  Counters, Case Statements, 7 segment displays, Multiplexers in VHDL Serial to Parallel converter in VHDLParallel to Serial converter in VHDLFPGA BoardsModel SimQuartusEclipse, PSpice, Mentor Graphic, Pyxis, Design Architect, Eldo
+ Experience
+ Instructional Assistant
+ Sep 2016 to Current
+ Mesa Public Schools Mesa, AZ
+ Enforced both classroom and administration policies and rules at all times. Established positive relationships with students, parents, colleagues, and administrators. Kept accurate records of student performance, maintaining the confidentiality of student records and information at all times. Taught more than 60 students each semester. Substitute Teacher
+ Feb 2016 to Aug 2016
+ Clark County School District Las Vegas, NV
+ Filled in for absent teachers for grades 4-12. Quickly adapted to new environments and students. Created detailed substitute teaching report at the end of each day. Monitored students for destructive or unhealthy behavior and reported concerns to guidance counselors.
+ Grader/Teaching Assistant
+ Aug 2013 to Dec 2015
+ Northern Arizona University Flagstaff, AZ
+ Graded papers for students in Freshman, Sophomore, and Junior level classes. Assisted engineering students in comprehension of the course material. i.e. basic circuits, digital logic, and programming. Demonstrated knowledge of digital logic, computer languages, basic computer logic, and proper application.Hired back for 4 additional semesters.
+ Desk Assistant
+ Feb 2012 to Dec 2015
+ Northern Arizona University Flagstaff, AZ
+ Executed a variety of office management skills. Maintained department website, including changes to degree programs or personnel information. Communicated with customers, employees, and other individuals to answer questions or explain information, and address complaints.
+ Education
+ Bachelor of Science, Electrical Engineering
+ 2015
+ Northern Arizona University Flagstaff, Arizona
+ GPA 2.96Minor in MathematicsMember of IEEE
+ Relevant Classes
+ EE 412 Digital Systems Design\VHDLEE 386C Capstone 2 EE 484 Power Electronics MAT 362 Numerical AnalysisEE 476C Capstone 1EE 485 Undergraduate Research EE 325 Engineering Analysis II EE 310 Fundamentals of Computer Engineering\VHDL MAT 316 Linear Algebra MAT 239 Differential Equations EE 222 Intermediate Programming\C EGR 386W Engineering Design: The MethodCENE 225 Engineering Analysis I
+ 

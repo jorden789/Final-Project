@@ -1,214 +1,41 @@
 
-      
-        
-        
-           TECHNICAL SUPPORT ENGINEER
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Results-oriented technical professional with proven success applying analytical methods to deliver outstanding work results. Knowledge of software development life cycle (SDLC) from analysis and design through development, implementation, testing, documentation and user training. Exceptional communication skills employed to collaborate effectively with peer engineers and customers. Comfortable working both independently and in team environments.
+ TECHNICAL SUPPORT ENGINEER
+ Summary
+ Results-oriented technical professional with proven success applying analytical methods to deliver outstanding work results. Knowledge of software development life cycle (SDLC) from analysis and design through development, implementation, testing, documentation and user training. Exceptional communication skills employed to collaborate effectively with peer engineers and customers. Comfortable working both independently and in team environments.
 Code Development | Software Development Life Cycle | Libraries and Frameworks
 Integrated Development Environments | Version Control (Mercurial, Git) | Debugging
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Technical Support Engineer, 
-            01/2015 － 
-            01/2017
-          
-          
-            ALCATEL-LUCENT USA INC － 
-            Naperville, 
-            IL
-          
-          
-            Site assessment and design proposal for wireless installation at virtual site: as part of team effort, chose group of 5 students; recommended hardware and software to meet company's needs; helped to identify access points placement; provided drawing of bridging between facility and ISP; provided graphical presentation; presented group proposal to class.802.11ac standard: described WPA2 advantages and concerns.PHP project: developed HTML web pages that allowed user to add / update / display data from MySQL database.Network Security Assessment: as part of team effort, chose group of 6 students; read specification of company's resources; researched solutions to company's concerns; recommended hardware and software to meet company's needs; provided graphical presentation of proposed changes; presented group proposal to class.Java Editor: developed Java-based simple file editor.Python project: improved web program for product ordering.Open-source project: provided workaround for Apache JMeter bug #54784, created / contributed GUI UML diagram.Facility management system design project: created UML diagram, database schema and Postgres database tables from scratch; wrote java classes; built project utilizing Eclipse IDE; elaborated java project to use Spring and Hibernate frameworks.
-          
-        
-      
-        
-        
-          
-            Student Intern, 
-            01/2013 － 
-            01/2014
-          
-          
-            CME GROUP INC － 
-            Chicago, 
-            IL
-          
-          
-            Supported software development team.Installed, configured, tested and deployed Apache Derby database on remote Linux server.Modified, tested and deployed groovy scripts to take directory arguments and load data (.csv) into Apache Derby database.Educated and shared valuable, time-saving information with other developers by updating and validating developer training manual.Updated Confluence pages, helping internal users to see, track and reference changes associated with each software release.Utilized Sikuli IDE to test GUI functionality, identifying and reporting defects in drop-down menu, which led to subsequent resolution.Leveraged SimpleJMX package to collect data from remote Linux server, resulting in development of elaborated Java class based on SimpleJMX package.Monitored local and remote processes through JConsole GUI, ensuring applications were running smoothly and minimizing downtime.Followed team activity and created, tracked and supported issues through JIRA issues tracker tool.Improved code quality by utilizing Crucible review tool to create post-commit code reviews.
-          
-        
-      
-        
-        
-          
-            Student Intern, 
-            01/2013
-            
-          
-          
-            LOYOLA UNIVERSITY CHICAGO UISO － 
-            Chicago, 
-            IL
-          
-          
-            Performed system administration and development in University Information Security Office.Supported UISO lab servers, security applications and processes.Conducted mobile device policy research and created mobile security presentation.Completed Security Operation Center (SOC) physical setup.Supported email migration survey project and information security awareness program.Ensured proper adherence to DMCA University policies by utilizing NetFlow, Bradford Networks to investigate DMCA notifications.Kept track of key metrics by updating incidents report tracking document.Created weekly HEAT metrics and status reports (incidence response tracking, DMCA, VPN), providing data to team manager prior to weekly team meetings.Monitored TippingPoint Security Management System (SMS), maintaining awareness of number and type of incidents reported.Addressed user-related issues by creating helpdesk tickets (HEAT) as needed.Performed security research (including VPN solutions), delivering report to management for decision-making purposes.Completed research of video platform for businesses and universities for decision-making purposes, resulting in selection and implementation of platform that is still being utilized by university today.
-          
-        
-      
-        
-        
-          
-            Teaching Assistant, 
-            01/2013
-            
-          
-          
-            LOYOLA UNIVERSITY CHICAGO － 
-            Chicago, 
-            IL
-          
-          
-            Graded course assignments and provided tutoring help.Substituted for professor and delivered lectures when needed.Served as free coaching resource for students, leading to further understanding of subject matter and increasing readiness for exams.
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            May 2018 
-            Illinois Institute of Technology (IIT
-            
-            
-            
-          
-          
-            Advanced Certificate in Cyber Security Technology
-            
-          
-          
-          
-            
-          
-        
-      
-        
-        
-          
-            
-            Loyola University Chicago
-            
-            
-            
-          
-          
-            Master of Science
-             Software Engineering
-          
-          
-          
-            Software Engineering 3.564
-          
-        
-      
-        
-        
-          
-            
-            Ukrainian State Agroecology Academy － 
-            
-            
-            Ukraine
-          
-          
-            Master of Science (MS)
-             Ecology and Environmental Protection
-          
-          
-          
-            Ecology and Environmental Protection 3.2
-          
-        
-      
-        
-        
-          
-            May 2018 
-            Illinois Institute of Technology (IIT － 
-            Wheaton, 
-            IL, 
-            USA
-          
-          
-            
-             Cyber Security Technologies
-          
-          
-          
-            
-          
-        
-      
-        
-        
-          
-          
-            Relevant coursework and projects: Monitoring, Modeling and Forecasting, Scientific Research Methodology, Information Science and Systematization
+ Experience
+ Technical Support Engineer, 01/2015 01/2017
+ ALCATEL-LUCENT USA INC Naperville, IL
+ Site assessment and design proposal for wireless installation at virtual site: as part of team effort, chose group of 5 students; recommended hardware and software to meet company's needs; helped to identify access points placement; provided drawing of bridging between facility and ISP; provided graphical presentation; presented group proposal to class.802.11ac standard: described WPA2 advantages and concerns.PHP project: developed HTML web pages that allowed user to add / update / display data from MySQL database.Network Security Assessment: as part of team effort, chose group of 6 students; read specification of company's resources; researched solutions to company's concerns; recommended hardware and software to meet company's needs; provided graphical presentation of proposed changes; presented group proposal to class.Java Editor: developed Java-based simple file editor.Python project: improved web program for product ordering.Open-source project: provided workaround for Apache JMeter bug #54784, created / contributed GUI UML diagram.Facility management system design project: created UML diagram, database schema and Postgres database tables from scratch; wrote java classes; built project utilizing Eclipse IDE; elaborated java project to use Spring and Hibernate frameworks.
+ Student Intern, 01/2013 01/2014
+ CME GROUP INC Chicago, IL
+ Supported software development team.Installed, configured, tested and deployed Apache Derby database on remote Linux server.Modified, tested and deployed groovy scripts to take directory arguments and load data (.csv) into Apache Derby database.Educated and shared valuable, time-saving information with other developers by updating and validating developer training manual.Updated Confluence pages, helping internal users to see, track and reference changes associated with each software release.Utilized Sikuli IDE to test GUI functionality, identifying and reporting defects in drop-down menu, which led to subsequent resolution.Leveraged SimpleJMX package to collect data from remote Linux server, resulting in development of elaborated Java class based on SimpleJMX package.Monitored local and remote processes through JConsole GUI, ensuring applications were running smoothly and minimizing downtime.Followed team activity and created, tracked and supported issues through JIRA issues tracker tool.Improved code quality by utilizing Crucible review tool to create post-commit code reviews.
+ Student Intern, 01/2013
+ LOYOLA UNIVERSITY CHICAGO UISO Chicago, IL
+ Performed system administration and development in University Information Security Office.Supported UISO lab servers, security applications and processes.Conducted mobile device policy research and created mobile security presentation.Completed Security Operation Center (SOC) physical setup.Supported email migration survey project and information security awareness program.Ensured proper adherence to DMCA University policies by utilizing NetFlow, Bradford Networks to investigate DMCA notifications.Kept track of key metrics by updating incidents report tracking document.Created weekly HEAT metrics and status reports (incidence response tracking, DMCA, VPN), providing data to team manager prior to weekly team meetings.Monitored TippingPoint Security Management System (SMS), maintaining awareness of number and type of incidents reported.Addressed user-related issues by creating helpdesk tickets (HEAT) as needed.Performed security research (including VPN solutions), delivering report to management for decision-making purposes.Completed research of video platform for businesses and universities for decision-making purposes, resulting in selection and implementation of platform that is still being utilized by university today.
+ Teaching Assistant, 01/2013
+ LOYOLA UNIVERSITY CHICAGO Chicago, IL
+ Graded course assignments and provided tutoring help.Substituted for professor and delivered lectures when needed.Served as free coaching resource for students, leading to further understanding of subject matter and increasing readiness for exams.
+ Education and Training
+ May 2018 Illinois Institute of Technology (IIT
+ Advanced Certificate in Cyber Security Technology
+ Loyola University Chicago
+ Master of Science
+ Software Engineering
+ Software Engineering 3.564
+ Ukrainian State Agroecology Academy Ukraine
+ Master of Science (MS)
+ Ecology and Environmental Protection
+ Ecology and Environmental Protection 3.2
+ May 2018 Illinois Institute of Technology (IIT Wheaton, IL, USA
+ Cyber Security Technologies
+ Relevant coursework and projects: Monitoring, Modeling and Forecasting, Scientific Research Methodology, Information Science and Systematization
 *Additional areas of study: Theory of Economics, Ecological Certification of Areas and Enterprises, Environmental Engineering, Environmental Economics, Municipal Economics
-            
-          
-          
-          
-            
-          
-        
-      
-      
-      
-      
-        
-        Skills
-      
-        
-        Ant, Apache, Cisco, coaching, COM, hardware, addressing customer issues, database, Database Programming, decision-making, Eclipse, Economics, Editor, email, Engineer, Environmental Engineering, XML, Facility management, Forecasting, FTP, drawing, GUI, HTML, HTML editor, PHP, IDE, Information Security, ISP, Java, Linux, Mac, meetings, access, C#, Office, Win, 95/98, Windows NT, migration, Modeling, MySQL, Network Management, NFS, Network Security, Network, Networking, Networks, Object-Oriented Design, Object-Oriented Programming, Operating Systems, Oracle, developer, policies, Postgres, PostgreSQL, processes, product improvement, Product Management, proposal, Python, quality, read, reporting, Research, Scientific, SSH, servers, scripts, SMS, software development, specification, SQL, system administration, system design, tables, TCP/IP, technical support, technical documentation, TOAD, Tomcat, troubleshooting, tutoring, type, UML, upgrade, video, VPN, Vista, Microsoft Visual Studio, web pages, articles
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              C#, Python, Java, PHP, SQL
+ Skills
+ Ant, Apache, Cisco, coaching, COM, hardware, addressing customer issues, database, Database Programming, decision-making, Eclipse, Economics, Editor, email, Engineer, Environmental Engineering, XML, Facility management, Forecasting, FTP, drawing, GUI, HTML, HTML editor, PHP, IDE, Information Security, ISP, Java, Linux, Mac, meetings, access, C#, Office, Win, 95/98, Windows NT, migration, Modeling, MySQL, Network Management, NFS, Network Security, Network, Networking, Networks, Object-Oriented Design, Object-Oriented Programming, Operating Systems, Oracle, developer, policies, Postgres, PostgreSQL, processes, product improvement, Product Management, proposal, Python, quality, read, reporting, Research, Scientific, SSH, servers, scripts, SMS, software development, specification, SQL, system administration, system design, tables, TCP/IP, technical support, technical documentation, TOAD, Tomcat, troubleshooting, tutoring, type, UML, upgrade, video, VPN, Vista, Microsoft Visual Studio, web pages, articles
+ Skills
+ C#, Python, Java, PHP, SQL
 Software:	Integrated development environments (IDE): Eclipse, Android Studio, Xamarin Studio, IntelliJIDEA, JCreator, BlueJ, Microsoft Visual Studio, MonoDevelop, CodeBlocks (10.05); HTML editor: KompoZer; XML; SQuirreLSQL, Spring STS; Sikuli; Hibernate; WAMP; MySQL, Oracle, PostgreSQL, Apache Derby, TOAD; Tomcat; RapidMiner; TortoiseHg, TortoiseGit; Snort; WireShark; SIEM, Bradford Networks, Netflow, OpenNMS, Nmap/Zenmap; Atlassian JIRA, FishEye, Confluence, Crucible; Astah; BMC Remedy Action Request System; VMware Player; GitHub; Bitbucket; Maven, Ant, Groovy; UML;TCP/IP, SSH, FTP/SFTP, tcpdump; NFS; CloudBand; WebEx, Cisco Jabber
 Operating Systems:	Windows NT/95/98/Vista/7/10 (Win 32 and 64), Linux, Mac
-              
-            
-          
-        
-      
-      
-    
+ 

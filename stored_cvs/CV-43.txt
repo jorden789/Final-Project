@@ -1,140 +1,32 @@
 
-      
-        
-        
-           CERTIFIED IOS TECHNICIAN
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Versatile Software Engineer possessing comprehensive knowledge in algorithm design in Java, C, and Javascript. Full Stack Web developer proficient in HTML, CSS, Javascript, JQuery, SQL, and ReactJS with the ability of quickly adapting to new software packages and programming languages. Experienced in collaborative project-work from the implementation phase to the integration phase utilizing source control in an efficient manner.
-      
-      
-      
-        
-        Education
-      
-        
-        
-          Spring 2017
-        
-        
-          
-            Rutgers University
-            
-            New Brunswick, 
-            NJ
-            
-          
-          
-            Bachelor of Arts: 
-            Computer Science
-          
-          
-          
-            Computer Science
-          
-        
-      
-        
-        
-          
-        
-        
-          
-            Rutgers Coding Bootcamp
-            
-            Somerset, 
-            NJ
-            
-          
-          
-            
-            Full Stack Web Development
-          
-          
-          
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          06/2015
-           - 
-          Current
-        
-        
-          
-            Apple Inc － 
-            Freehold, 
-            NJ
-          
-          
-            Certified iOS Technician
-          
-          
-            Utilize diagnostic software and equipment to troubleshoot, diagnose, and solve hardware, software, or firmware complications with Apple iOS devices.
-          
-        
-      
-        
-        
-          05/2013
-           - 
-          08/2013
-        
-        
-          
-            Monmouth County Prosecutor's Office － 
-            Freehold, 
-            NJ
-          
-          
-            Intern
-          
-          
-            Shadowed the day-to-day duties of detectives in the Cyber Crime Division of the Monmouth County Prosecutor's Office.Used various surveillance software to analyze footage of an ongoing homicide investigation.
-          
-        
-      
-        
-        
-          10/2012
-           - 
-          04/2013
-        
-        
-          
-            WOW Work Out World － 
-            Red Bank, 
-            NJ
-          
-          
-            Personal Trainer
-          
-          
-            Designed detailed, long-term exercise routines for numerous clients; tracked client's long-term and short-term progress of nutrition and fitness goals.Demonstrated exercise variations and proper exercise form to clients.
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        Apple, C, hardware, CSS, client, clients, Database, HTML, Java, Javascript, Mathematics, Office, Coding, Programming, progress, SQL, troubleshoot, Website, x86 Assembly
-      
-      
-    
+ CERTIFIED IOS TECHNICIAN
+ Summary
+ Versatile Software Engineer possessing comprehensive knowledge in algorithm design in Java, C, and Javascript. Full Stack Web developer proficient in HTML, CSS, Javascript, JQuery, SQL, and ReactJS with the ability of quickly adapting to new software packages and programming languages. Experienced in collaborative project-work from the implementation phase to the integration phase utilizing source control in an efficient manner.
+ Education
+ Spring 2017
+ Rutgers University
+ New Brunswick, NJ
+ Bachelor of Arts: Computer Science
+ Computer Science
+ Rutgers Coding Bootcamp
+ Somerset, NJ
+ Full Stack Web Development
+ Experience
+ 06/2015
+ - Current
+ Apple Inc Freehold, NJ
+ Certified iOS Technician
+ Utilize diagnostic software and equipment to troubleshoot, diagnose, and solve hardware, software, or firmware complications with Apple iOS devices.
+ 05/2013
+ - 08/2013
+ Monmouth County Prosecutor's Office Freehold, NJ
+ Intern
+ Shadowed the day-to-day duties of detectives in the Cyber Crime Division of the Monmouth County Prosecutor's Office.Used various surveillance software to analyze footage of an ongoing homicide investigation.
+ 10/2012
+ - 04/2013
+ WOW Work Out World Red Bank, NJ
+ Personal Trainer
+ Designed detailed, long-term exercise routines for numerous clients; tracked client's long-term and short-term progress of nutrition and fitness goals.Demonstrated exercise variations and proper exercise form to clients.
+ Skills
+ Apple, C, hardware, CSS, client, clients, Database, HTML, Java, Javascript, Mathematics, Office, Coding, Programming, progress, SQL, troubleshoot, Website, x86 Assembly
+ 

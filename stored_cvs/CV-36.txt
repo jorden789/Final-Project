@@ -1,75 +1,21 @@
 
-      
-        
-        
-           SENIOR SOFTWARE ENGINEER
-        
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Senior Software Engineer with 13 years experience in a wide range of technologies and project types. Expert in Java-based development and web service design and development. 
-      
-      
-      
-        
-        Highlights
-      
-        
-        
-          
-            
-              Enterprise and web developmentFull-stack developer
-              ​Fluent in OO/JavaAPI development
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Booz Allen Hamilton (SPARC Agile Hub)
-            
-              November 2014 to 
-              Current
-            
-          
-          
-            Senior Software Engineer
-            Charleston, 
-            SC
-          
-          
-            Helped design and implement multiple SOAP and REST-based web services and APIsHelped design and implement multiple Spring-based web applicationsImplemented OAuth2 token-based authorization for client web applications and REST servicesImplemented and maintained integrated HSM (Hardware Security Module) solution for ultra-secure data transmission and storage for web services and applicationsWork with customer to define requirements of the web services and applications that are requestedMentor software developers and QA engineers
-          
-        
-      
-        
-        
-          
-            SPARC
-            
-              March 2012 to 
-              November 2014
-            
-          
-          
-            Team Technical Lead/Senior Software Engineer
-            Charleston, 
-            SC
-          
-          
-            Led agile development team in the full development lifecycle for document-based (SOAP) web service design, development, and maintenanceDefined, documented, and supported APIs and API documentation for external service consumers
+ SENIOR SOFTWARE ENGINEER
+ Summary
+ Senior Software Engineer with 13 years experience in a wide range of technologies and project types. Expert in Java-based development and web service design and development. 
+ Highlights
+ Enterprise and web developmentFull-stack developer
+ ​Fluent in OO/JavaAPI development
+ Experience
+ Booz Allen Hamilton (SPARC Agile Hub)
+ November 2014 to Current
+ Senior Software Engineer
+ Charleston, SC
+ Helped design and implement multiple SOAP and REST-based web services and APIsHelped design and implement multiple Spring-based web applicationsImplemented OAuth2 token-based authorization for client web applications and REST servicesImplemented and maintained integrated HSM (Hardware Security Module) solution for ultra-secure data transmission and storage for web services and applicationsWork with customer to define requirements of the web services and applications that are requestedMentor software developers and QA engineers
+ SPARC
+ March 2012 to November 2014
+ Team Technical Lead/Senior Software Engineer
+ Charleston, SC
+ Led agile development team in the full development lifecycle for document-based (SOAP) web service design, development, and maintenanceDefined, documented, and supported APIs and API documentation for external service consumers
 		
 	
 	
@@ -79,26 +25,11 @@
 					Utilized JPA
 (Hibernate), Spring (MVC, Core, Integration, and Batch), jQuery, JAX-WS RI, Apache CXF, and
 other frameworks for production code and jMockit, JUnit, and soapUI for developing tests Designed, implemented, and managed XACML-based policies within Java enterprise applications​Mentored fellow team members
-          
-        
-      
-        
-        
-          
-            ICF International
-            
-              December 2003 to 
-              March 2012
-            
-          
-          
-            Software Engineer
-            Charleston, 
-            SC
-          
-          
-            
-		
+ ICF International
+ December 2003 to March 2012
+ Software Engineer
+ Charleston, SC
+ 		
 	
 	
 		
@@ -113,16 +44,8 @@ and CKEditor to manage item descriptions and media
 			
 		 Designed and implemented AWS-based system which automated the transcoding of the uploaded videos to a format
 compatible with Flash-based video streaming within an external web site. Maintained iPhone application code for an international annual arts festival, providing fixes and enhancementsHelped design, develop and maintain several Java Enterprise applications for a major US DoD procurement website
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        Languages:   Java (1.4-1.8), C, JavaScript, Objective-C, Visual BasicOperating Systems: Mac OS X, Windows, Linux​Java standards:   EJB, JSP/JSTL, JPA, JAX-WS, JAX-RS, Java Content Repository APIJava Frameworks:   Spring (Core, Boot, MVC, Integration, Batch, Security), Thymeleaf, Hibernate, JAX-WS RI, Apache CXF, Apache Jackrabbit, LiquibaseTesting Frameworks: ​JUnit, jMockit, Selenium, Spring TestBuild/Dependency Management: 
+ Skills
+ Languages:   Java (1.4-1.8), C, JavaScript, Objective-C, Visual BasicOperating Systems: Mac OS X, Windows, Linux​Java standards:   EJB, JSP/JSTL, JPA, JAX-WS, JAX-RS, Java Content Repository APIJava Frameworks:   Spring (Core, Boot, MVC, Integration, Batch, Security), Thymeleaf, Hibernate, JAX-WS RI, Apache CXF, Apache Jackrabbit, LiquibaseTesting Frameworks: ​JUnit, jMockit, Selenium, Spring TestBuild/Dependency Management: 
 		
 	
 	
@@ -131,57 +54,15 @@ compatible with Flash-based video streaming within an external web site. Mainta
 				
 					
 						Maven, Ant, IvyUI: HTML, CSS, JavaScript/AJAX, jQueryApplication Servers:   Oracle WebLogic Server, Apache TomcatDatabases:   Oracle Database (10g-12c), Microsoft SQL ServerWeb Services:   REST, OAuth 2.0, SOAP, WSDL, MTOM, XACML, WS-Security Third-party services:   Amazon (S3, EC2, HSM, SQS)Miscellanous: Docker, ASC (ANSI) X12 standards
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-            College of Charleston
-            
-              2003
-            
-          
-          
-            Bachelor of Science: 
-            Computer Science
-          
-          
-            Charleston, 
-            SC, 
-            USA
-          
-          
-          
-            Co-authored published computer science paper on applying the Zipf-Mandelbrot law to music
-          
-        
-      
-        
-        
-          
-            College of Charleston
-            
-              1995
-            
-          
-          
-            Bachelor of Arts: 
-            Music Composition/Theory
-          
-          
-            Charleston, 
-            SC, 
-            USA
-          
-          
-          
-            Won 1995 Lowcountry Music Award for an orchestral composition
-          
-        
-      
-      
-    
+ Education
+ College of Charleston
+ 2003
+ Bachelor of Science: Computer Science
+ Charleston, SC, USA
+ Co-authored published computer science paper on applying the Zipf-Mandelbrot law to music
+ College of Charleston
+ 1995
+ Bachelor of Arts: Music Composition/Theory
+ Charleston, SC, USA
+ Won 1995 Lowcountry Music Award for an orchestral composition
+ 

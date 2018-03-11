@@ -1,192 +1,40 @@
 
-      
-        
-        
-           SENIOR SOFTWARE ENGINEER
-        
-        
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Senior Software Engineer with over three years' success in designing, developing, implementing, and testing software solutions and applications for mobile and real-time embedded systems and high-performance large-scale distributed systems. Expertise in all facets of software development lifecycle with a solid background in system architecture planning, software performance analysis, scripting, and automation. Proven leadership with achievements in designing key software optimizations.
-      
-      
-      
-        
-        Highlights
-      
-        
-        
-          
-            
-              Software Performance OptimizationObject-Oriented Design Device Driver DevelopmentCapacity Planning, Performance tuning and load testing
-              Agile Development Methodology Architecture Modeling and Simulation Real-Time Software Stability Analysis
-            
-          
-        
-      
-      
-      
-        
-        Accomplishments
-      
-        
-        Promoted to manage processor and bus performance benchmarking/regression for all high-tier 4G modem chipsets after one year of employment at Qualcomm.Developed comprehensive toolset, characterizing and profiling the dynamic multithreading performance of real-time software for Hexagon DSPs used in Qualcomm Snapdragon chipsets.Earned Qualstar Awards to conceptualizing, developing, and initiating key software optimizations, improving modem and audio performance.
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Bloomberg LP
-            
-              December 2016 to 
-              Current
-            
-          
-          
-            Senior Software Engineer
-            New York City, 
-            New York
-          
-          
-            Responsible for the system design and development of high-performance distributed systems with an agile development methodology and test-driven developmentResponsible for the full software lifecycle including participation in requirements analysis, system architecture planning and software testing/debugging and performance/scalability analysisUtilize an object-oriented design approach to designing and implementing the middleware services and backend infrastructure and implement some client-facing UI features in JavascriptEvaluate and identify new open-source technologies and techniques for implementation and their integrationUtilize the cutting edge big data technologies like Redis, Cassandra, Apache Spark, Storm
-          
-        
-      
-        
-        
-          
-            Qualcomm Technologies Inc.
-            
-              February 2013 to 
-              December 2016
-            
-          
-          
-            Senior Software Engineer, QCT Modem Architecture / Performance Team
-            San Diego, 
-            CA
-          
-          
-            Designed and implemented end-to-end platform, including software driver and tools development, for hardware acceleration of legacy diagnostic message and logging framework.Introduced optimized inter-process message router framework for high volume messages exchanged per ms between software and firmware threads during LTE calls.Developed and tested lightweight performance monitoring algorithm for QoS scheduling and dynamic clock-voltage scaling in real-time multitasking system.Drove major architecture modeling/simulations including cache/TCM sizing experiments and worked on clock plan budgeting for future SoC designs.Extensive experience with debugging software stability problems including timeline-miss crashes and investigating latency/throughput issues
-          
-        
-      
-        
-        
-          
-            University of Minnesota
-            
-              August 2012 to 
-              December 2012
-            
-          
-          
-            Graduate Research Assistant, Aerospace Engineering and Mechanics Lab
-            Minneapolis, 
-            MN
-          
-          
-            Contributed to development of miniature rotorcraft simulator at Interactive Guidance and Control Lab, UMNFocused on vehicle dynamics simulation and response to joystick input in real-time.Used OpenSceneGraph library (C++) for rendering and ROS modules relating to Message Passing Interface.
-          
-        
-      
-      
-      
-        
-        Education
-      
-        
-        
-          
-            University of Minnesota
-            
-              2013
-            
-          
-          
-            Master of Science: 
-            Computer Science 
-          
-          
-            Minneapolis, 
-            MN, 
-            USA
-          
-          
-          
-            
-          
-        
-      
-        
-        
-          
-            College of Engineering Guindy, Anna University
-            
-              2011
-            
-          
-          
-            
-            Electronics and Communications Engineering
-          
-          
-            Chennai, 
-            
-            India
-          
-          
-          
-            
-          
-        
-      
-        
-        
-          
-            Key Academic Projects
-            
-          
-          
-          
-          
-          
-            Used OpenStack to experiment with dynamic resource management for private cloud-based platform.Implemented complete UNIX V7 File System simulator in C++Developed Android application prototype “Open or Closed” with user-centric design approach.
-          
-        
-      
-        
-        
-          
-            Coursework
-            
-          
-          
-          
-          
-          
-            Advanced Algorithms and Data structures, Operating Systems, Cloud Computing and Big Data, Computer Networking, User Interface Design Principles, Distributed Systems, Digital Signal and Image Processing, Wireless and Mobile Communication
-          
-        
-      
-      
-      
-        
-        Technical Skills
-      
-        
-        Programming Langugages: C++, C, Python, JavascriptPlatforms: Linux, Unix, Windows, OpenStack Cloud, Robot Operating SystemNetworking: TCP/IP, Socket Programming, MultithreadingTools: Eclipse, Perforce, Git, GDB, Trace-32/JTAG, ETM, Wireshark, Rhapsody, TotalView
-      
-      
-    
+ SENIOR SOFTWARE ENGINEER
+ Summary
+ Senior Software Engineer with over three years' success in designing, developing, implementing, and testing software solutions and applications for mobile and real-time embedded systems and high-performance large-scale distributed systems. Expertise in all facets of software development lifecycle with a solid background in system architecture planning, software performance analysis, scripting, and automation. Proven leadership with achievements in designing key software optimizations.
+ Highlights
+ Software Performance OptimizationObject-Oriented Design Device Driver DevelopmentCapacity Planning, Performance tuning and load testing
+ Agile Development Methodology Architecture Modeling and Simulation Real-Time Software Stability Analysis
+ Accomplishments
+ Promoted to manage processor and bus performance benchmarking/regression for all high-tier 4G modem chipsets after one year of employment at Qualcomm.Developed comprehensive toolset, characterizing and profiling the dynamic multithreading performance of real-time software for Hexagon DSPs used in Qualcomm Snapdragon chipsets.Earned Qualstar Awards to conceptualizing, developing, and initiating key software optimizations, improving modem and audio performance.
+ Experience
+ Bloomberg LP
+ December 2016 to Current
+ Senior Software Engineer
+ New York City, New York
+ Responsible for the system design and development of high-performance distributed systems with an agile development methodology and test-driven developmentResponsible for the full software lifecycle including participation in requirements analysis, system architecture planning and software testing/debugging and performance/scalability analysisUtilize an object-oriented design approach to designing and implementing the middleware services and backend infrastructure and implement some client-facing UI features in JavascriptEvaluate and identify new open-source technologies and techniques for implementation and their integrationUtilize the cutting edge big data technologies like Redis, Cassandra, Apache Spark, Storm
+ Qualcomm Technologies Inc.
+ February 2013 to December 2016
+ Senior Software Engineer, QCT Modem Architecture / Performance Team
+ San Diego, CA
+ Designed and implemented end-to-end platform, including software driver and tools development, for hardware acceleration of legacy diagnostic message and logging framework.Introduced optimized inter-process message router framework for high volume messages exchanged per ms between software and firmware threads during LTE calls.Developed and tested lightweight performance monitoring algorithm for QoS scheduling and dynamic clock-voltage scaling in real-time multitasking system.Drove major architecture modeling/simulations including cache/TCM sizing experiments and worked on clock plan budgeting for future SoC designs.Extensive experience with debugging software stability problems including timeline-miss crashes and investigating latency/throughput issues
+ University of Minnesota
+ August 2012 to December 2012
+ Graduate Research Assistant, Aerospace Engineering and Mechanics Lab
+ Minneapolis, MN
+ Contributed to development of miniature rotorcraft simulator at Interactive Guidance and Control Lab, UMNFocused on vehicle dynamics simulation and response to joystick input in real-time.Used OpenSceneGraph library (C++) for rendering and ROS modules relating to Message Passing Interface.
+ Education
+ University of Minnesota
+ 2013
+ Master of Science: Computer Science Minneapolis, MN, USA
+ College of Engineering Guindy, Anna University
+ 2011
+ Electronics and Communications Engineering
+ Chennai, India
+ Key Academic Projects
+ Used OpenStack to experiment with dynamic resource management for private cloud-based platform.Implemented complete UNIX V7 File System simulator in C++Developed Android application prototype “Open or Closed” with user-centric design approach.
+ Coursework
+ Advanced Algorithms and Data structures, Operating Systems, Cloud Computing and Big Data, Computer Networking, User Interface Design Principles, Distributed Systems, Digital Signal and Image Processing, Wireless and Mobile Communication
+ Technical Skills
+ Programming Langugages: C++, C, Python, JavascriptPlatforms: Linux, Unix, Windows, OpenStack Cloud, Robot Operating SystemNetworking: TCP/IP, Socket Programming, MultithreadingTools: Eclipse, Perforce, Git, GDB, Trace-32/JTAG, ETM, Wireshark, Rhapsody, TotalView
+ 

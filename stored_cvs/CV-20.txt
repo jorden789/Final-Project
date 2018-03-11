@@ -1,107 +1,24 @@
 
-      
-        
-        
-          
-          SOFTWARE ENGINEER
-        
-      
-      
-      
-      
-        
-        Summary of Qualifications
-      
-        
-        Excellent foundation knowledge in developing and designing web applications using the .NET framework.​Function as a team player, as well as demonstrate a proven ability to work well independently.​Willingness and drive to learn new technologies and to grow as a developer.
-      
-      
-      
-        
-        Skills
-      
-        
-        Front End: HTML5, Javascript/jQuery, CSS3Middle Tier: C#, ASP.NET, MVC, Entity FrameworkBack End: SQL, SSMS
-      
-      
-      
-        
-        Professional Experience
-      
-        
-        
-          
-            Software Engineer
-            
-              Apr 2017 to 
-              Current
-            
-          
-          
-            Aptora － 
-            Lenexa, 
-            KS
-          
-          In charge of Mobile Application including:Bug Fixes, Optimizations, Enhancements, New FeaturesPushing pre-releases for testing as well as updates
-        
-      
-        
-        
-          
-            IT Administrator
-            
-              Sep 2015 to 
-              Jun 2016
-            
-          
-          
-            Cass Midway － 
-            Cleveland, 
-            MO
-          
-          Assembled, operated and repaired computers including; hardware and software installation.Performed data backups and disaster recovery operations.Configured, monitored and maintained email applications and virus protection software.
-        
-      
-        
-        
-          
-            Product Manager
-            
-              Jan 2012 to 
-              Aug 2016
-            
-          
-          
-            Cass Gazette － 
-            Belton, 
-            MO
-          
-          Managed work from small to large scale jobsMet all deadlines with products meeting certain expectationsExtensive cleaning at the end of the day to keep work place organized
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            C# .NET Application Developer Program, 
-            Web Development
-            
-              12/2016
-            
-          
-          
-            Centriq Training － 
-            Leawood, 
-            KS, 
-            Johnson
-          
-          
-          
-        
-      
-      
-    
+ SOFTWARE ENGINEER
+ Summary of Qualifications
+ Excellent foundation knowledge in developing and designing web applications using the .NET framework.​Function as a team player, as well as demonstrate a proven ability to work well independently.​Willingness and drive to learn new technologies and to grow as a developer.
+ Skills
+ Front End: HTML5, Javascript/jQuery, CSS3Middle Tier: C#, ASP.NET, MVC, Entity FrameworkBack End: SQL, SSMS
+ Professional Experience
+ Software Engineer
+ Apr 2017 to Current
+ Aptora Lenexa, KS
+ In charge of Mobile Application including:Bug Fixes, Optimizations, Enhancements, New FeaturesPushing pre-releases for testing as well as updates
+ IT Administrator
+ Sep 2015 to Jun 2016
+ Cass Midway Cleveland, MO
+ Assembled, operated and repaired computers including; hardware and software installation.Performed data backups and disaster recovery operations.Configured, monitored and maintained email applications and virus protection software.
+ Product Manager
+ Jan 2012 to Aug 2016
+ Cass Gazette Belton, MO
+ Managed work from small to large scale jobsMet all deadlines with products meeting certain expectationsExtensive cleaning at the end of the day to keep work place organized
+ Education and Training
+ C# .NET Application Developer Program, Web Development
+ 12/2016
+ Centriq Training Leawood, KS, Johnson
+ 

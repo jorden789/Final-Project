@@ -1,153 +1,34 @@
 
-      
-        
-        
-           SYSTEM ENGINEER
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        To obtain a challenging (IT) position with a dynamic organization where I could fully utilize my potential; develop strong interpersonal skills, demonstrate successful teamwork abilities, and become a more proficient engineer.
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              LAN \ WAN   Microsoft Server  Microsoft Active Directory   Microsoft Exchange   Microsoft SQL ServerMicrosoft Trend Corporate Edition   Windows 7 8 10   MS Dos   Cisco VPN    Dame Ware   Citrix  Linux OSAdaptec RAID Controllers  VMware Player    VMware Workstation   Acronis True image   Watchguard FireboxTCP/IP    Citrix ICA   NetBIOS   SMTP   HTTP  Wireshark Server Software InstallationBuilding RAID 1 Array and RAID 5 Array  HDD  SAS and SATAInstall Windows Server \ Install MSSQL Server Full or ExpressInstall Audiolog recording softwareConfigure recording software according to customer's equipment (Avaya, Cisco, Nortel, Mitel, Inter-Tel etc.)  (VOIP, Analog, Digital, Radio, etc.)Computer/Server Hardware TesterInterSol Groveport, Ohio          2008-2009Completed testing on refurbished motherboards; Configured and reimaged dell hard drivesHardware:Dell computer motherboard repair/testingDell server board repair/testingDell hard drive testingSoftware:Microsoft Windows 2000/XP          (Configuration)Norton Ghost          (Re-imaging hard drives)Microsoft Outlook          (Configuration)Microsoft Office          (Installation) Installed\Manage Microsoft ExchangeActive Directory ManagementAdministrate/ Manage Watch guard FireboxAdministrate / Manage Micro Trend Corporate EditionAny wireless router installation or troubleshootingNetworking protocols
-              
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          01/2009
-           to 
-          Current
-        
-        
-          
-            System Engineer
-          
-          
-            Sound Communications, Inc － 
-            Grove City, 
-            Ohio
-          
-          
-            Build and prepare new Audiolog custom server/systems for client installation; Provide troubleshooting and technical support to clients with existing systems via phone support, dial-in/remote access (Audiolog is an advanced, digital multimedia recording, retrieval, and quality assurance solution system)
-Server Hardware Installation/Replacement.Motherboards - Super Micro, Tyan.Raid Cards - Promise 2200, 2300,  Adaptec 3405, 3805, 4805, 5405, 5445.Power Supply    AI Logix NGX Smart Cards    Blu-Ray\DVD Ram Drives/Cable   NIC Cards/ Video Cards.Server and Rack set up.
-          
-        
-      
-        
-        
-          01/2006
-           to 
-          01/2007
-        
-        
-          
-            Field Engineer
-          
-          
-            Columbus Public Schools Insight Enterprises － 
-            Columbus, 
-            Ohio
-          
-          
-            Troubleshoot and on site replacement of any server, printer, and computer hardware within 109 Columbus City Schools
-Hardware Installation:  Computers/Laptop/Notebook.Hard Drive          NIC.Power Supply         Motherboard.Processor          Memory Replacement.Video Cards          LCD Replacement.Fan          Heat Sink.Bluetooth Module.Modem Board,       Infrared Board, etc.Hardware Installation:  Printers.Jet Direct Cards     Printer Maintance Kits.Fuser          Carousel drive Assembly.Pickup Roller         Feed Roller.Transfer Roller      Transfer belt.Paper Stopper        Cleaning Sensors.Engine boards, etc.
-          
-        
-      
-        
-        
-          01/2003
-           to 
-          01/2006
-        
-        
-          
-            LAN Administrator
-          
-          
-            Columbus Neighborhood Health Centers, Inc － 
-            Columbus, 
-            Ohio
-          
-          
-            Hands on experience in setup, maintenance, and administrating WANs and LANs Area networks; Responsible for eight different facilities; 5  Health Centers, 2  Administrative Offices and Dental Department.Supported, monitored, tested, and troubleshoot hardware and software problems pertaining to the LAN Cabling, T1 setup, Router set up, hub and switch installation and Hardware.Server Maintenance (HP Proliant 350 ML).Installed and maintained 3 Citrix servers.
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          2002
-        
-        
-          
-            B.A: 
-            Business Administration Information Technology
-          
-          
-            DeVry University
-             － 
-            Columbus, 
-            Ohio
-            
-          
-          
-          
-            Business Administration Information Technology
-          
-        
-      
-        
-        
-          
-        
-        
-          
-            Pursuing CCNA   (Cisco Certified Network Administrator)
-            
-          
-          
-          
-          
-            
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        Active Directory, Administrative, AI, Avaya, Cable, Cabling, CCNA, Cisco, Cisco Certified, Citrix, Hardware, computer hardware, Hardware Installation, client, clients, Dell, LCD, DVD, hard drives, Hard Drive, phone support, HP, HTTP, hub, image, imaging, LANs, LAN, Linux OS, Memory, access, Microsoft Exchange, Microsoft Office, Microsoft Outlook, Windows 7, Microsoft Windows 2000, Modem, Motherboards, Motherboard, MS Dos, multimedia, NetBIOS, Network Administrator, Networking, networks, NIC, NIC Cards, Nortel, Norton Ghost, Power Supply, Printer, Printers, Proliant, protocols, quality assurance, Express, Radio, RAID, RAID 1, RAID 5, Ram, recording, Router, SAS, servers, Smart Cards, SMTP, Software Installation, testing 
-Software, MSSQL, Microsoft SQL Server, switch, T1, TCP/IP, technical support, Trend, Troubleshoot, troubleshooting, Video Cards, VPN, VOIP, WAN, WANs, Windows Server
-      
-      
-      
-    
+ SYSTEM ENGINEER
+ Summary
+ To obtain a challenging (IT) position with a dynamic organization where I could fully utilize my potential; develop strong interpersonal skills, demonstrate successful teamwork abilities, and become a more proficient engineer.
+ Skills
+ LAN \ WAN Microsoft Server Microsoft Active Directory Microsoft Exchange Microsoft SQL ServerMicrosoft Trend Corporate Edition Windows 7 8 10 MS Dos Cisco VPN Dame Ware Citrix Linux OSAdaptec RAID Controllers VMware Player VMware Workstation Acronis True image Watchguard FireboxTCP/IP Citrix ICA NetBIOS SMTP HTTP Wireshark Server Software InstallationBuilding RAID 1 Array and RAID 5 Array HDD SAS and SATAInstall Windows Server \ Install MSSQL Server Full or ExpressInstall Audiolog recording softwareConfigure recording software according to customer's equipment (Avaya, Cisco, Nortel, Mitel, Inter-Tel etc.) (VOIP, Analog, Digital, Radio, etc.)Computer/Server Hardware TesterInterSol Groveport, Ohio 2008-2009Completed testing on refurbished motherboards; Configured and reimaged dell hard drivesHardware:Dell computer motherboard repair/testingDell server board repair/testingDell hard drive testingSoftware:Microsoft Windows 2000/XP (Configuration)Norton Ghost (Re-imaging hard drives)Microsoft Outlook (Configuration)Microsoft Office (Installation) Installed\Manage Microsoft ExchangeActive Directory ManagementAdministrate/ Manage Watch guard FireboxAdministrate / Manage Micro Trend Corporate EditionAny wireless router installation or troubleshootingNetworking protocols
+ Experience
+ 01/2009
+ to Current
+ System Engineer
+ Sound Communications, Inc Grove City, Ohio
+ Build and prepare new Audiolog custom server/systems for client installation; Provide troubleshooting and technical support to clients with existing systems via phone support, dial-in/remote access (Audiolog is an advanced, digital multimedia recording, retrieval, and quality assurance solution system)
+Server Hardware Installation/Replacement.Motherboards - Super Micro, Tyan.Raid Cards - Promise 2200, 2300, Adaptec 3405, 3805, 4805, 5405, 5445.Power Supply AI Logix NGX Smart Cards Blu-Ray\DVD Ram Drives/Cable NIC Cards/ Video Cards.Server and Rack set up.
+ 01/2006
+ to 01/2007
+ Field Engineer
+ Columbus Public Schools Insight Enterprises Columbus, Ohio
+ Troubleshoot and on site replacement of any server, printer, and computer hardware within 109 Columbus City Schools
+Hardware Installation: Computers/Laptop/Notebook.Hard Drive NIC.Power Supply Motherboard.Processor Memory Replacement.Video Cards LCD Replacement.Fan Heat Sink.Bluetooth Module.Modem Board, Infrared Board, etc.Hardware Installation: Printers.Jet Direct Cards Printer Maintance Kits.Fuser Carousel drive Assembly.Pickup Roller Feed Roller.Transfer Roller Transfer belt.Paper Stopper Cleaning Sensors.Engine boards, etc.
+ 01/2003
+ to 01/2006
+ LAN Administrator
+ Columbus Neighborhood Health Centers, Inc Columbus, Ohio
+ Hands on experience in setup, maintenance, and administrating WANs and LANs Area networks; Responsible for eight different facilities; 5 Health Centers, 2 Administrative Offices and Dental Department.Supported, monitored, tested, and troubleshoot hardware and software problems pertaining to the LAN Cabling, T1 setup, Router set up, hub and switch installation and Hardware.Server Maintenance (HP Proliant 350 ML).Installed and maintained 3 Citrix servers.
+ Education and Training
+ 2002
+ B.A: Business Administration Information Technology
+ DeVry University
+ Columbus, Ohio
+ Business Administration Information Technology
+ Pursuing CCNA (Cisco Certified Network Administrator)
+ Skills
+ Active Directory, Administrative, AI, Avaya, Cable, Cabling, CCNA, Cisco, Cisco Certified, Citrix, Hardware, computer hardware, Hardware Installation, client, clients, Dell, LCD, DVD, hard drives, Hard Drive, phone support, HP, HTTP, hub, image, imaging, LANs, LAN, Linux OS, Memory, access, Microsoft Exchange, Microsoft Office, Microsoft Outlook, Windows 7, Microsoft Windows 2000, Modem, Motherboards, Motherboard, MS Dos, multimedia, NetBIOS, Network Administrator, Networking, networks, NIC, NIC Cards, Nortel, Norton Ghost, Power Supply, Printer, Printers, Proliant, protocols, quality assurance, Express, Radio, RAID, RAID 1, RAID 5, Ram, recording, Router, SAS, servers, Smart Cards, SMTP, Software Installation, testing Software, MSSQL, Microsoft SQL Server, switch, T1, TCP/IP, technical support, Trend, Troubleshoot, troubleshooting, Video Cards, VPN, VOIP, WAN, WANs, Windows Server
+ 

@@ -1,43 +1,16 @@
 
-      
-        
-        
-           IOT FULL STACK DEVELOPER
-        
-      
-      
-      
-      
-        
-        PROFESSIONAL SUMMARY
-      
-        
-        Software Developer with over 6 years of extensive experience
-in Java/J2EE development technologies and with 2  years of  experience of IOT end to end solution. Hand on experience with Android application development. Solid
+ IOT FULL STACK DEVELOPER
+ PROFESSIONAL SUMMARY
+ Software Developer with over 6 years of extensive experience
+in Java/J2EE development technologies and with 2 years of  experience of IOT end to end solution. Hand on experience with Android application development. Solid
 knowledge of microcontroller, big data and cloud technology. Detail
 Oriented, Dedicated and Dependable team player who has strong analytical,
 organizational, problem solving, presentation, communication and project
 management skills, with ability to manage multiple
 tasks and work in a fast paced
 and aggressive schedule.   
-      
-      
-      
-        
-        SPECIFIC EXPERTISE
-      
-        
-        
-
-
-
-
-
-
-
-
-
-
+ SPECIFIC EXPERTISE
+ 
 
 
 
@@ -82,7 +55,7 @@ SOAP Web Services.Strong experience in all phases of Software Development Life C
 
 
 
-2  years experiences of end to end solutions for Internet of
+2 years experiences of end to end solutions for Internet of
 Things(IOT) including software and hardware.Strong experience with implementing Web Services both SOAP and RESTful in Web Applications using RESTful API.Good Experience with J2EE environment extensively in Model View Controller (MVC) architecture for development using Struts and Spring.
 
 
@@ -215,14 +188,8 @@ Good knowledge on Bid Data Ecosystem of Hadoop and MapReduce.
 
 
 Good experience on NoSQL database such as MongoDB.Good analytical, problem solving, debugging, documentation and communication skills. 
-      
-      
-      
-        
-        TECHNICAL EXPERTISE
-      
-        
-        
+ TECHNICAL EXPERTISE
+ 
 
 
 
@@ -230,112 +197,34 @@ Good experience on NoSQL database such as MongoDB.Good analytical, problem solvi
 
 
 
-
-
-
-
-
-
-
-
-
-
- 
-  
-  Programming
-  Language:Java, python, C++, HTML, JavaScript, CSS
-  
- 
- 
-  
-  Java
-  Related: J2EE, Servlet,
-  JSP,JDBC,JMS
-  
- 
- 
-  
-  Web Service
-  Related: Spring, Hibernate, SOAP, TomCat
-  
- 
- 
-  
-  Mobile
-  Related: Android, Android Studio
-  
- 
- 
-  
-  RDBMS:  MySQL, SQL
-  Server, Orable databaseOS:  Windows,
-  Linux, Mac 
-  
- 
- 
-  
-  IDE: Eclipse,
-  Netbeans, Android Studio, X-code, PyCharmNDBMS: NoSQL 
-  
-  
-  MangoDB
-  
- 
- 
-  
-  Wireless
-  Protocol: ZigBee,
-  MQTT, Bluetooth
-  
- 
- 
-  
-  Networking: TCP/IP, UDP
-  
-  
- 
- 
-  
-  Big Data
-  Related
-  
-  
-  Hadoop,
-  Mapreduce
-  
- 
- 
-  
-  Testing Tools: ReadyAPI
-  
- 
-
-
-
-      
-      
-      
-        
-        PROFESSIONAL EXPERIENCE
-      
-        
-        
-          
-            IoT Full Stack Developer
-            
-              09/2014 to 
-              06/2016
-            
-          
-          
-            EPRI
-            
-              Palo Alto, 
-              CA
-            
-          
-          
-            Project Description: The movement to create a smarter and
+ Programming
+ Language:Java, python, C++, HTML, JavaScript, CSS
+ Java
+ Related: J2EE, Servlet,
+ JSP,JDBC,JMS
+ Web Service
+ Related: Spring, Hibernate, SOAP, TomCat
+ Mobile
+ Related: Android, Android Studio
+ RDBMS:  MySQL, SQL
+ Server, Orable databaseOS:  Windows,
+ Linux, Mac IDE: Eclipse,
+ Netbeans, Android Studio, X-code, PyCharmNDBMS: NoSQL MangoDB
+ Wireless
+ Protocol: ZigBee,
+ MQTT, Bluetooth
+ Networking: TCP/IP, UDP
+ Big Data
+ Related
+ Hadoop,
+ Mapreduce
+ Testing Tools: ReadyAPI
+ PROFESSIONAL EXPERIENCE
+ IoT Full Stack Developer
+ 09/2014 to 06/2016
+ EPRI
+ Palo Alto, CA
+ Project Description: The movement to create a smarter and
 more efficient home increases daily, accelerated by
 the smartphones and tablets interacting with the myriad of connected home appliance.
 This project offers client end to end solution including hardware and software.
@@ -362,32 +251,14 @@ system with HTML, JavaScript, CSS.
 
 l Develop Android application of
 the system which allow users control the system from a remote place. Based on client feedback,
-maintenance the hardware and software system. 
-
- Technologies : Embedded C, Arduino , GSM Modem: SIM900 -
+maintenance the hardware and software system.  Technologies : Embedded C, Arduino , GSM Modem: SIM900 -
 Quad-band and UART, HTML,javaScript, CSS , Java, SQL, MySql and MongoDB,
 MQTT, OpenWrt, Eclipse IDE, Android Studio, Arduino IDE.​
-          
-        
-      
-        
-        
-          
-            Android Developer
-            
-              08/2013 to 
-              08/2014
-            
-          
-          
-            Nationwide
-            
-              Columbus, 
-              OH
-            
-          
-          
-            Project Description: Nationwide Insurance
+ Android Developer
+ 08/2013 to 08/2014
+ Nationwide
+ Columbus, OH
+ Project Description: Nationwide Insurance
 Android application helps you pay your bill on time and get your insurance card
 information. Users can also start a claim and find contact info for agent with the app. 
 
@@ -453,27 +324,11 @@ and Logcat for fixing bugs.
 
 Technologies: Java, JDBC, SQL, Oracle Database, XML, Android Studio, ADB, Logcat, Eclipse
 IDE, Android Studio.​
-          
-        
-      
-        
-        
-          
-            Software Developer
-            
-              06/2012 to 
-              05/2013
-            
-          
-          
-            CVG
-            
-              Columbus, 
-              OH
-            
-          
-          
-            Project Description: It will be safer and easier if vehicle
+ Software Developer
+ 06/2012 to 05/2013
+ CVG
+ Columbus, OH
+ Project Description: It will be safer and easier if vehicle
 can detect the object and warn the driver. This project focus on vehicle and
 object detectionand recover real time images. Responsibilities:
 
@@ -497,9 +352,7 @@ categorization for efficient training of classifier system.
 
 Implement object detection and recognition
 using cascade classifiers and feature detectors.Test system with
-noise and other image of similar shape as trained object. 
-
-Design algorithms and
+noise and other image of similar shape as trained object. Design algorithms and
 developed programs to do multiple objects tracking.
 
 Analysis the matching rate
@@ -526,27 +379,11 @@ and environment using OpenGL and recover the real time image.
 Technologies: OpenCV, OpenGL, C++, Image processing, XML,
 GLSL, ply model, X-code.
  ​​​
-          
-        
-      
-        
-        
-          
-            Java Developer
-            
-              09/2010 to 
-              05/2012
-            
-          
-          
-            Abercrombie & Fitch
-            
-              Columbus, 
-              OH
-            
-          
-          
-            Project Description:working
+ Java Developer
+ 09/2010 to 05/2012
+ Abercrombie & Fitch
+ Columbus, OH
+ Project Description:working
 on range of projects at Incite that included developing, testing and
 maintaining front end and back end functionalities of web sites for various
 purpose.Responsibilities:Developed robust and high availability web applications.Built the home page,
@@ -554,8 +391,4 @@ registration form, contact page for the website.Involved in development work in 
 JSP/Servlets.Used jQuery and JavaScript to build dynamic web pages.Responsible for deploying web applications in production.Created the Database Layer using JDBC to connect to MySQL database.Technologies:
 Java/J2EE, JDBC, Servlet, HTML, CSS,
 JavaScript, JSP, jQuery, MySQL, MySQL Workbench, Eclipse.
-          
-        
-      
-      
-    
+ 

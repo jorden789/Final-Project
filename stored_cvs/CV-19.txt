@@ -1,172 +1,34 @@
 
-      
-        
-        
-           SENIOR SOFTWARE ENGINEER / LEAD DESIGN ENGINEER
-        
-        
-        
-      
-      
-      
-      
-        
-        Summary
-      
-        
-        Software Professional with 30+ year proven record of achievement and advancement in various industries including power system controls, GIS, and networking subsystems.  Able to move effortlessly through and adapt readily to ever changing technologies.  Expertise encompasses software development, database design, object-oriented analysis and design, user training and support, and system troubleshooting.
-      
-      
-      
-        
-        Skills
-      
-        
-        
-          
-            
-              C#, C, C++, FORTRANNET Core and FrameworkASP.NET CoreData Distribution Service (DDS)ZeroMQ (ZMQ)XML, XSLTWiX Installer ToolsetSwagger, OpenAPI, JSONSQL ServerVisual Studio 2010 - 2017Bash, PowerShellWindows, LinuxTeamCity, Continuous IntegrationSubversion (SVN)nDepend
-              
-            
-          
-        
-      
-      
-      
-        
-        Experience
-      
-        
-        
-          
-            Senior Software Engineer / Lead Design Engineer
-            
-              August 2011 to 
-              November 2017
-            
-          
-          
-            Spirae LLC － 
-            Fort Collins, 
-            CO
-          
-          
-            Senior member of small development team delivering advanced distributed power system control software for Distributed Energy Resource Management Systems (DERMS) and Microgrids, with high penetrations of renewable energy and storage:.Architected adapter infrastructure that enabled full upper level decoupling and easy replacement of key system infrastructure components, including communication and database middleware, and energy asset controllers.Initial communications layer implemented using ZeroMQ.    Migration to RTI Connext DDS required zero application level changes proving successful decoupling.Designed and implemented distributed request/response subsystem with automatic registration of command handlers with type-checked parameter and response data marshalling.Created methodology and data-driven processes for reducing time and expense by up to 90% for taking a  power system model to operation against simulated and real power assets, with model to simulation time in as little as 30 minutes.Build and Source Control Manager for Continuous Integration of multiple simultaneous product release lines.Mentor for 5 new software engineers and interns.
-          
-        
-      
-        
-        
-          
-            Software Engineer
-            
-              January 2004 to 
-              April 2011
-            
-          
-          
-            CartoPac International － 
-            Fort Collins, 
-            CO
-          
-          
-            Joined small Spatial Data Technologies startup that grew to become CartoPac International, an industry leader in GIS Field Data Collection and Field Asset Management:.Solely designed and developed first of its kind fully relational spatial SQL database for the Windows Mobile platform.Designed and implemented dynamic cartographic projection and geodetic datum conversion architecture utilizing Proj4, NADCON, and HTDP.
-          
-        
-      
-        
-        
-          
-            Training Consultant
-            
-              September 2001 to 
-              December 2003
-            
-          
-          
-            RidgeView Enterprises Inc － 
-            Windsor, 
-            CO
-          
-          
-            Owned and operated product training consulting firm with clients throughout the US:.Development and delivery of world-wide training for Fortune 500 computer products.Scripting and production of training videos for computer hardware support.
-          
-        
-      
-        
-        
-          
-            Software Engineer / Engineer Scientist / Project Manager / IT Manager
-            
-              January 1987 to 
-              August 2001
-            
-          
-          
-            Hewlett-Packard Company － 
-            Cupertino Fort Collins Mountain View, 
-            CO CA
-          
-          
-            
-          
-        
-      
-      
-      
-        
-        Education and Training
-      
-        
-        
-          
-            M.S
-             : 
-            Computer Science, 
-            1987
-          
-          
-            Kansas State University
-            
-            
-            
-            
-          
-          
-          
-            Computer Science
-          
-        
-      
-        
-        
-          
-            B.S
-             : 
-            Computer Science, 
-            1985
-          
-          
-            Kansas State University
-            
-            
-            
-            
-          
-          
-          
-            Computer Science
-          
-        
-      
-      
-      
-        
-        Skills
-      
-        
-        .NET, ASP.NET, Asset Management, Bash, C, C++, computer hardware, consulting, conversion, clients, Data Collection, DDS, database, delivery, XML, FORTRAN, GIS, JSON, Linux, Mentor, C#, Windows, middleware, Migration, processes, Scripting, simulation, SQL, SQL Server, type, Visual Studio, XSLT
-      
-      
-      
-    
+ SENIOR SOFTWARE ENGINEER / LEAD DESIGN ENGINEER
+ Summary
+ Software Professional with 30+ year proven record of achievement and advancement in various industries including power system controls, GIS, and networking subsystems. Able to move effortlessly through and adapt readily to ever changing technologies. Expertise encompasses software development, database design, object-oriented analysis and design, user training and support, and system troubleshooting.
+ Skills
+ C#, C, C++, FORTRANNET Core and FrameworkASP.NET CoreData Distribution Service (DDS)ZeroMQ (ZMQ)XML, XSLTWiX Installer ToolsetSwagger, OpenAPI, JSONSQL ServerVisual Studio 2010 - 2017Bash, PowerShellWindows, LinuxTeamCity, Continuous IntegrationSubversion (SVN)nDepend
+ Experience
+ Senior Software Engineer / Lead Design Engineer
+ August 2011 to November 2017
+ Spirae LLC Fort Collins, CO
+ Senior member of small development team delivering advanced distributed power system control software for Distributed Energy Resource Management Systems (DERMS) and Microgrids, with high penetrations of renewable energy and storage:.Architected adapter infrastructure that enabled full upper level decoupling and easy replacement of key system infrastructure components, including communication and database middleware, and energy asset controllers.Initial communications layer implemented using ZeroMQ.    Migration to RTI Connext DDS required zero application level changes proving successful decoupling.Designed and implemented distributed request/response subsystem with automatic registration of command handlers with type-checked parameter and response data marshalling.Created methodology and data-driven processes for reducing time and expense by up to 90% for taking a power system model to operation against simulated and real power assets, with model to simulation time in as little as 30 minutes.Build and Source Control Manager for Continuous Integration of multiple simultaneous product release lines.Mentor for 5 new software engineers and interns.
+ Software Engineer
+ January 2004 to April 2011
+ CartoPac International Fort Collins, CO
+ Joined small Spatial Data Technologies startup that grew to become CartoPac International, an industry leader in GIS Field Data Collection and Field Asset Management:.Solely designed and developed first of its kind fully relational spatial SQL database for the Windows Mobile platform.Designed and implemented dynamic cartographic projection and geodetic datum conversion architecture utilizing Proj4, NADCON, and HTDP.
+ Training Consultant
+ September 2001 to December 2003
+ RidgeView Enterprises Inc Windsor, CO
+ Owned and operated product training consulting firm with clients throughout the US:.Development and delivery of world-wide training for Fortune 500 computer products.Scripting and production of training videos for computer hardware support.
+ Software Engineer / Engineer Scientist / Project Manager / IT Manager
+ January 1987 to August 2001
+ Hewlett-Packard Company Cupertino Fort Collins Mountain View, CO CA
+ Education and Training
+ M.S
+ : Computer Science, 1987
+ Kansas State University
+ Computer Science
+ B.S
+ : Computer Science, 1985
+ Kansas State University
+ Computer Science
+ Skills
+ .NET, ASP.NET, Asset Management, Bash, C, C++, computer hardware, consulting, conversion, clients, Data Collection, DDS, database, delivery, XML, FORTRAN, GIS, JSON, Linux, Mentor, C#, Windows, middleware, Migration, processes, Scripting, simulation, SQL, SQL Server, type, Visual Studio, XSLT
+ 
