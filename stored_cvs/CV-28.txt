@@ -1,37 +1,189 @@
 
- iconectiv( subsidiary of ericsson)
- summary
- innovative electrical engineer with 5+ years of experience focused on developing new methods and technologies in a networked society. expertise in all aspects of the software development life cycle, including requirements analysis, design, development and production support. dynamically skilled at developing complex solutions possessing strong creative thinking skills, high energy and integrity. dedicated to constantly improving tools and infrastructure to maximize productivity, minimize system downtime and quickly respond to the changing needs of the business. well-versed in creating test cases, as well as covering all test conditions and eliminating redundancy and duplications.
- highlights
- code reviews java ,agile, selenium html, xml ,silk test, javascript ,unix ,visual basic, c/c++ ,tcl, maven, jenkins, soapui, svn, rally, rational, testng, unit, spring, apachepoi
- experience
- iconectiv( subsidiary of ericsson)
- february 2015 to current
- software quality assurance engineer － piscataway, nj
- develop and maintain gui automation framework using java and selenium create test plans and test cases to validate broad solution and specific functional requirements in a continuous improvement environment. in addition to functionality ,accommodation for proactive identification of bugs, performance and reliability issues, as well as other potential failurescollaborate with system engineering and architecture, program management, and software development teams in all aspects of the development lifecycle from early design feedback, functional automation, reliability, stress, performance, integration testing, through to supporting production issues. analyze and report results, track defects, and participate in day to day qa support activities. generate test plans for industry testing and support configuration and system issues during this period.
- ericsson
- august 2014 to february 2015
- cloud manager qa - gui automation － piscataway, nj
- interfaced with business analysts, developers and technical support to determine the best requirement specifications.worked effectively with design teams to ensure software solutions elevated client side experience.wrote java code to automate testing of the front end gui of product.used smartgwt selenium client to test product feasibility.stored, retrieved and manipulated test cases using git for close analysis of system capabilities.automated test cases to provision items from openstack.
- ericsson
- september 2013 to september 2014
- software qa engineer intern － piscataway, nj
- collaborated successfully with cross-functional development teams to design and package testing needs.performed compatibility testing using silktest.rapidly prototyped new test cases to confirm feasibility of front end gui of telcordia product.    stored, retrieved and manipulated data using sccs and unix for close analysis of system capabilities.modified existing software module test scripts using mynah , tcl , and shell scripting to correct errors and improve performance.implemented designs, including experimentation and multiple iterations.worked closely with other team members to plan, design and develop robust solutions in a timely manner.wrote maintainable and extensible code in a team environment.
- sumashita group
- september 2012 to september 2013
- web design intern － east windsor, nj
- designed new on-brand visual elements to effectively convey concepts and messaging.worked with internal clients to determine strategy and design for annual marketing campaigns.presented projects to internal clients.liaised with internal clients in marketing to execute collateral creation projects.delivered production ready graphics in html and css for all marketing assets.researched current and emerging art and graphic design technologies.
- education
- master of science
- : electrical engineering, 2017
- new jersey institute of technology
- bachelor of science
- : electrical engineering, 2014
- new jersey institute of technology
- gpa: gpa: 3.2/4.00
- research experience
- furuta inverted pendulum using arduino microcontroller(project lead) rover control using arduino (project lead) reverse engineering of belt sander (project lead) solar power charging station for small electronic devices (project lead) geothermal hvac system concept (co project lead).
- accomplishments
- ericsson intern project showcase (1st place) ericsson intern of the week ieee student branch class representative at njit. women in engineering program seminar recipient. deans list njit. karr scholarship recipient. allentuch scholarship recipient. national student leadership conference nominee. student governement excellence in leadership award. ibm discover engineering student speaker. skills
- agile,  automation, c, c++, critical thinking, css, functional testing , graphic design, graphics, gui, html, java, javascript, marketing, matlab, messaging, requirements, sccs, scripts, shell scripting, silk, software development,  solidworks, tcl, technical support, unix, visual basic, xml,git, svn, jenkins, maven, spring
- 
+      
+        
+        
+           ICONECTIV( SUBSIDIARY OF ERICSSON)
+        
+        
+        
+      
+      
+      
+      
+        
+        Summary
+      
+        
+        Innovative Electrical Engineer with 5+ years of experience focused on developing new methods and technologies in a networked society. Expertise in all aspects of the software development life cycle, including requirements analysis, design, development and production support. Dynamically skilled at developing complex solutions possessing strong creative thinking skills, high energy and integrity. Dedicated to constantly improving tools and infrastructure to maximize productivity, minimize system downtime and quickly respond to the changing needs of the business. Well-versed in creating test cases, as well as covering all test conditions and eliminating redundancy and duplications.
+      
+      
+      
+        
+        Highlights
+      
+        
+        
+          
+            
+              Code reviews          JAVA ,Agile, Selenium HTML, XML ,Silk Test, Javascript ,UNIX ,Visual Basic, C/C++ ,TCL, MAVEN, Jenkins, SoapUI, SVN, Rally, Rational, TestNG, Unit, Spring, ApachePOI
+              
+            
+          
+        
+      
+      
+      
+        
+        Experience
+      
+        
+        
+          
+            Iconectiv( subsidiary of Ericsson)
+            
+              February 2015 to 
+              Current
+            
+          
+          
+            Software Quality Assurance Engineer － 
+            Piscataway, 
+            NJ
+          
+          
+            Develop and maintain GUI automation framework using JAVA and selenium Create test plans and test cases to validate broad solution and specific functional requirements in a continuous improvement environment. In addition to functionality ,accommodation for proactive identification of bugs, performance and reliability issues, as well as other potential failuresCollaborate with System Engineering and Architecture, Program Management, and Software Development teams in all aspects of the development lifecycle from early design feedback, functional automation, reliability, stress, performance, integration testing, through to supporting production issues. Analyze and report results, track defects, and participate in day to day QA support activities. Generate test plans for industry testing and support configuration and system issues during this period.
+          
+        
+      
+        
+        
+          
+            Ericsson
+            
+              August 2014 to 
+              February 2015
+            
+          
+          
+            Cloud Manager QA - GUI Automation － 
+            Piscataway, 
+            NJ
+          
+          
+            Interfaced with business analysts, developers and technical support to determine the best requirement specifications.Worked effectively with design teams to ensure software solutions elevated client side experience.Wrote JAVA code to automate testing of the front end GUI of product.Used SmartGWT selenium client to test product feasibility.Stored, retrieved and manipulated test cases using GIT for close analysis of system capabilities.Automated test cases to provision items from Openstack.
+          
+        
+      
+        
+        
+          
+            Ericsson
+            
+              September 2013 to 
+              September 2014
+            
+          
+          
+            Software QA Engineer Intern － 
+            Piscataway, 
+            NJ
+          
+          
+            Collaborated successfully with cross-functional development teams to design and package testing needs.Performed compatibility testing using SilkTest.Rapidly prototyped new test cases to confirm feasibility of front end GUI of Telcordia product.    Stored, retrieved and manipulated data using SCCS and UNIX for close analysis of system capabilities.Modified existing software module test scripts using MYNAH , TCL , and shell scripting to correct errors and improve performance.Implemented designs, including experimentation and multiple iterations.Worked closely with other team members to plan, design and develop robust solutions in a timely manner.Wrote maintainable and extensible code in a team environment.
+          
+        
+      
+        
+        
+          
+            Sumashita Group
+            
+              September 2012 to 
+              September 2013
+            
+          
+          
+            Web Design Intern － 
+            East Windsor, 
+            NJ
+          
+          
+            Designed new on-brand visual elements to effectively convey concepts and messaging.Worked with internal clients to determine strategy and design for annual marketing campaigns.Presented projects to internal clients.Liaised with internal clients in marketing to execute collateral creation projects.Delivered production ready graphics in HTML and CSS for all marketing assets.Researched current and emerging art and graphic design technologies.
+          
+        
+      
+      
+      
+        
+        Education
+      
+        
+        
+          
+            Master of Science
+             : 
+            Electrical Engineering, 
+            2017
+          
+          
+            New Jersey Institute of Technology
+            
+            
+            
+            
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          
+            Bachelor of Science
+             : 
+            Electrical Engineering, 
+            2014
+          
+          
+            New Jersey Institute of Technology
+            
+            
+            
+            
+          
+          
+            GPA: GPA: 3.2/4.00
+          
+          
+            
+          
+        
+      
+      
+      
+        
+        Research Experience
+      
+        
+        Furuta Inverted pendulum using Arduino Microcontroller(Project Lead) Rover Control Using Arduino (Project Lead) Reverse Engineering of Belt Sander (Project Lead) Solar Power Charging Station for Small Electronic Devices (Project Lead) Geothermal HVAC System Concept (Co Project Lead).
+      
+      
+      
+        
+        Accomplishments
+      
+        
+        Ericsson Intern Project Showcase (1st Place) Ericsson Intern of The Week IEEE student branch Class representative at NJIT. Women in Engineering Program Seminar recipient. Deans list NJIT. Karr Scholarship recipient. Allentuch Scholarship recipient. National Student Leadership Conference nominee. Student Governement excellence in leadership award. IBM Discover Engineering student speaker. 
+      
+      
+      
+        
+        Skills
+      
+        
+        Agile,  automation, C, C++, critical thinking, CSS, functional testing , graphic design, graphics, GUI, HTML, JAVA, Javascript, marketing, MATLAB, messaging, requirements, SCCS, scripts, shell scripting, Silk, Software development,  SolidWorks, TCL, technical support, UNIX, Visual Basic, XML,GIT, SVN, Jenkins, Maven, Spring
+      
+      
+    

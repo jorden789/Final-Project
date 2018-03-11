@@ -1,32 +1,133 @@
 
- software engineer of iot cloud
- professional experience
- 06/2014
- to current
- software engineer of iot cloud
- salesforce － san franiciso, ca
- i work on the salesforce iot cloud, a massively scalable event processing engine for realtime engagement and analytics. my main focus is that design and implement clusters provision and management for iot cloud. 1. provision and manage aws and heroku resource, heavily involving cloudformation, ec2, auto-scaling and elb, etc.2. deploy micro-services, manage versioning, upgrading iot platform properly, scale up and scale down micro-services when necessary. micro-services that we support use kafka, storm, spark, cassandra, kubernetes and so on. 3. find the best practice to store sensitive and critical information, for example, auth token, client secret. 4. customize platform when business needs dynamically, involving database migration, kafka migration, cloudformation infrastructure update. we are now co-hosting workloads across 10k customers, batch transforming ~100mm rows of user data daily and real-time ingests 7 tb of events daily, ~80 mb/s sustained.
- 03/2014
- to 06/2014
- software engineer
- locket － san francisco, ca
- locket is lock screen app that will display image, content based your interests. it was selected by google as one of "best apps of 2014".i was mainly focusing on backend development, including intelligent content generation and display. 
- 06/2013
- to 09/2013
- machine learning developer (intern)
- british broadcasting corporation (bbc) － london, uk
- 1. developed a face detection and recognition program in java, implementing machine learning algorithms,e.g., eigenfaces (pca) and fisherfaces (lda);2. applied text mining techniques to subtitles to assist the facial identification of actors in tv programs;3. achieved up to 98% accuracy rate on standard face databases, e.g., orl.
- education
- 2013
- master of science: computational statistics & machine learning
- university college london
- － london
- uk
- jun 2010
- bachelor of science: electronic commerce computing
- university of liverpool
- － liverpool
- uk
- technical skills
- programming: java, python, javascriptbuilding tool: gradle, mavenops related: puppet, ansible, saltstack, docker, kubernetes, jenkins, bashothers: aws, hibernate, postgres
- 
+      
+        
+        
+           SOFTWARE ENGINEER OF IOT CLOUD
+        
+      
+      
+      
+      
+      
+        
+        Professional Experience
+      
+        
+        
+          06/2014
+           to 
+          Current
+        
+        
+          
+            Software Engineer of IoT Cloud
+          
+          
+            Salesforce － 
+            San Franiciso, 
+            CA
+          
+          
+            I work on the Salesforce IoT Cloud, a massively scalable event processing engine for realtime engagement and analytics. My main focus is that design and implement clusters provision and management for IoT cloud. 1. Provision and manage AWS and Heroku resource, heavily involving Cloudformation, EC2, Auto-scaling and ELB, etc.2. Deploy micro-services, manage versioning, upgrading IoT platform properly, scale up and scale down micro-services when necessary. Micro-services that we support use Kafka, Storm, Spark, Cassandra, Kubernetes and so on. 3. Find the best practice to store sensitive and critical information, for example, auth token, client secret. 4. Customize platform when business needs dynamically, involving database migration, kafka migration, Cloudformation infrastructure update. We are now co-hosting workloads across 10K customers, batch transforming ~100MM rows of user data daily and real-time ingests 7 TB of events daily, ~80 MB/s sustained.
+          
+        
+      
+        
+        
+          03/2014
+           to 
+          06/2014
+        
+        
+          
+            Software Engineer
+          
+          
+            Locket － 
+            San Francisco, 
+            CA
+          
+          
+            Locket is lock screen app that will display image, content based your interests. It was selected by Google as one of "Best apps of 2014".I was mainly focusing on backend development, including intelligent content generation and display. 
+          
+        
+      
+        
+        
+          06/2013
+           to 
+          09/2013
+        
+        
+          
+            Machine Learning Developer (Intern)
+          
+          
+            British Broadcasting Corporation (BBC) － 
+            London, 
+            UK
+          
+          
+            1. Developed a face detection and recognition program in Java, implementing machine learning algorithms,e.g., eigenfaces (PCA) and fisherfaces (LDA);2. Applied text mining techniques to subtitles to assist the facial identification of actors in TV programs;3. Achieved up to 98% accuracy rate on standard face databases, e.g., ORL.
+          
+        
+      
+      
+      
+        
+        Education
+      
+        
+        
+          2013
+        
+        
+          
+            Master of Science: 
+            Computational Statistics & Machine Learning
+          
+          
+            University College London
+             － 
+            London
+            
+            UK
+          
+          
+          
+            
+          
+        
+      
+        
+        
+          Jun 2010
+        
+        
+          
+            Bachelor of Science: 
+            Electronic Commerce Computing
+          
+          
+            University of Liverpool
+             － 
+            Liverpool
+            
+            UK
+          
+          
+          
+            
+          
+        
+      
+      
+      
+        
+        Technical Skills
+      
+        
+        Programming: Java, Python, JavascriptBuilding tool: Gradle, MavenOps related: Puppet, Ansible, Saltstack, Docker, Kubernetes, Jenkins, BashOthers: AWS, Hibernate, Postgres
+      
+      
+    
