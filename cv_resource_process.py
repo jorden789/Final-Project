@@ -82,11 +82,11 @@ print(' ')
 # Loop through all CV Files for Key Word Processing
 
 # Open CV File ready for analysis
-for file in os.listdir('/home/jallcock/environments/python_output'):
-    with open('/home/jallcock/environments/python_output/' + file, 'r') as myfile:
+for file in os.listdir('/home/jallcock/environments/Final-Project/stored_cvs'):
+    with open('/home/jallcock/environments/Final-Project/stored_cvs/' + file, 'r') as myfile:
         #print('File being processed: ' + file)
         data=myfile.read()
-        doc1 = nlp(data.decode('utf8'))
+        doc1 = nlp(data)
     
         labels = set([w.label_ for w in doc1.ents])
         
@@ -117,7 +117,7 @@ for file in os.listdir('/home/jallcock/environments/python_output'):
                     #entity_now = entity.decode('utf-8').replace('\n ', ' ').strip()
                     entity_now = entity.replace('\n ', ' ').strip()
 
-		    if tech_skills_required.find(entity_now) > 0:
+                    if tech_skills_required.find(entity_now) > 0:
                         #tech_skills_match[entity_now] =  tech_skills_match.get(entity_now, 0) + 1
                         tech_skills_match.append(entity_now)
                         #print 'Found [' + entity_now + ']'                

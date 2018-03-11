@@ -111,11 +111,11 @@ def main(p_resource_request_loc):
     cv_scores_matrix = {}
 
     for file in os.listdir('/home/jallcock/environments/Final-Project/stored_cvs/'):
-        with open('/home/jallcock/environments/python_output/' + file, 'r') as myfile:
+        with open('/home/jallcock/environments/Final-Project/stored_cvs/' + file, 'r') as myfile:
             #print('File being processed: ' + file)
             data=myfile.read()
             #doc1 = nlp(data.decode('utf8'))
-            doc1 = nlp(data.decode('utf-8'))
+            doc1 = nlp(data)
 
 
 ###################################################################################
@@ -137,7 +137,7 @@ def main(p_resource_request_loc):
 
             print('File being processed: ' + file)
 
-            cv_scores_matrix[file.encode('utf-8')] = cv_resource_score.main(resource_request_tokens, cv_tokens, file)
+            cv_scores_matrix[file] = cv_resource_score.main(resource_request_tokens, cv_tokens, file)
 
     #print(cv_scores_matrix)
 

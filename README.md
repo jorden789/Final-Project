@@ -156,21 +156,27 @@ Flow of Operation for Batch Processing
         | 1. cv_link_pull.py                    | Pulls information from specified live career resume search url
 	|					| Run as 'python3.6 cv_link_pull https://resumes.livecareer.com/search?jt=software%20engineering'
         | 2. cv_process.py                      | Formats the extracted CV information into a Human Readable format
+	|					| Run as 'python3.6 cv_process.py /home/jallcock/environments/Final-Project/stored_cvs'
  
 Flow of Operation for Ad-Hoc Processing:
 
-	cv_resource_process is the master Python script which needs to be called whenever a Resource Request needs to be analysed. To run this script, a full file path needs to be
+	cv_match_word_vectors.py is the master Python script which needs to be called whenever a Resource Request needs to be analysed. To run this script, a full file path needs to be
 	specified.
 
-	| 1. cv_resource_process.py		| Analyses the contents a the resource request submitted by Capgemini Manager using the standardised form
+	To run the adhoc processing, the following command is needed:
+
+		python3.6 cv_match_word_vectors.py /home/jallcock/environments/Final-Project/resource_requests/resource_request_1.xls
+	
+	the parameter relates to the fully qualified path of the chosen Resource Request.
+
+	| 1. cv_match_word_vectors.py		| Analyses the contents a the resource request submitted by Capgemini Manager using the standardised form
 	|					| Calls the Python Scripts below to control processing
 	|					| Parameters - Resource Request Location
-	| 2. cv_match_keyword.py		| Identifies keywords and similar alternatives within the resource request, returns similarity scores of
+	| 					| Identifies keywords and similar alternatives within the resource request, returns similarity scores of
 	|					| keywords and the identified exact/similar match within the resource request and CV pairing
-	| 3. cv_resource_scoring.py		| Assigns a score to the cv/resource request pairing dependent on the level of matching
-	| 4. candidate_assignment.py		| Ranks the candidates and matches the best candidates to the specified resource request
+	| 2. cv_resource_score.py		| Assigns a score to the cv/resource request pairing dependent on the level of matching
+	| 3. cv_resource_rank.py		| Ranks the candidates and matches the best candidates to the specified resource request
 	|					| (scope for multi-request processing)
-	| 5. deliver_results.py			| Outputs the results in a user-friendly format
 
 
 
